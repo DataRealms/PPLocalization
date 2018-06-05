@@ -1,0 +1,13 @@
+{
+	//minimal russian translation file for PP
+	//TODO: get strings to translate from en.json and fill this in!
+
+	"info" : {
+		"id": "ru",
+		"english_name": "Russian",
+		"localised_name": "Русский"
+	},
+	"translations": {
+
+	}
+}

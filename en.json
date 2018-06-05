@@ -1,0 +1,377 @@
+{
+	//english translation file for planetoid pioneers
+	//(internal text is in english, so this is mostly a no-op -
+	// some strings use localisation IDs though, and their content
+	// is specified here.)
+	"info" : {
+		"id": "en",
+		"english_name": "English",
+		"localised_name": "English"
+	},
+	"translations": {
+		//asteroid belt UI
+
+		//planetoid panel
+		//labels/description/etc
+		"Goal":
+			"",
+		"Difficulty: {DIFFICULTY}":
+			"",
+		"Time: {TIME_ESTIMATE}":
+			"",
+
+		//settings
+		"Settings":
+			"",
+		"Adjust Volume":
+			"",
+		"Sound":
+			"",
+		"Music":
+			"",
+		"Voice":
+			"",
+		"Video Settings":
+			"",
+		"Done":
+			"",
+		"Quit The Game":
+			"",
+		"Danger Zone!":
+			"",
+		"Factory Reset":
+			"",
+		"Steam Workshop":
+			"",
+		"Auto-Download Content":
+			"",
+		//buttons
+		"Start!":
+			"",
+		"Continue":
+			"",
+		"Restart":
+			"",
+
+		//video settings
+		"Video Settings":
+			"",
+		"Locale Settings":
+			"",
+		"Back":
+			"",
+		"Display Mode":
+			"",
+		"Fullscreen":
+			"",
+		"Borderless":
+			"",
+		"Windowed":
+			"",
+		"Resolution":
+			"",
+		"Which Display":
+			"",
+		"Apply":
+			"",
+
+		///////////////////////////////////////////////////////////////////////
+		//voiceovers
+
+		//crazy bob on primoid
+		"Can you believe this?!":
+			"",
+		"Let's try this gun!":
+			"",
+		"Oookay, that's ominous":
+			"",
+		"Damned birds!!":
+			"",
+		"Curse these birds!!":
+			"",
+		"It's a lot easier to climb with both my hands free...":
+			"",
+		"EATING MY WORDS!!":
+			"",
+		"EAT THAT!!":
+			"",
+		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
+			"",
+		"What are these structures?":
+			"",
+		"WHOAAAAAAAA!!":
+			"",
+		"BANG!":
+			"",
+		"Maybe they weren't trying to keep things out... but to keep something IN!?":
+			"",
+		"NOOOO - my vessel!!":
+			"",
+		"Rest in Pieces, my beloved vessel...":
+			"",
+		"Now I'm stuck on this rock!":
+			"",
+		"That was my space yacht...":
+			"",
+		"Well, that's not very secure...":
+			"",
+		"I don't like the look, smell, or feel of this place... it's all squishy.":
+			"",
+		"Ohh you UGLY, Cyclops!!":
+			"",
+		"It's all fun and games, until someone loses an eye.":
+			"",
+		"What's that racket??":
+			"",
+		"YIKES - a mobile meat grinder monstrosity!!":
+			"",
+		"TAKE THAT, you overgrown food processor!!":
+			"",
+		"Jumping Jellybeans!!":
+			"",
+		"I bet I'm past the worst monsters by now!":
+			"",
+		"Those jaws were snappin', and it's got me rappin'!":
+			"",
+		"Wish i had something to drive that would protect my noggin a bit...!":
+			"",
+		"I need some mad hops - or a ride with some mad JETS!":
+			"",
+		"I think they're trying to tell me something...":
+			"",
+		"For a moment I thought I would perish... Crazy Bob never perishes.":
+			"",
+		"It's not completely wild out here...":
+			"",
+		"Pinkle... Just like Lily":
+			"",
+		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
+			"",
+		"Keep them snaps away from me!":
+			"",
+		"Let's see what this baby can do!":
+			"",
+		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
+			"",
+		"One freaky bipedal toaster down!":
+			"",
+		"Pink... purple... pinkle?!":
+			"",
+		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
+			"",
+		"DING DING DING - The Ice Man prevails!!":
+			"",
+		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
+			"",
+		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
+			"",
+		"Were those skeletons... screaming?!":
+			"",
+		"What are those buildings...?":
+			"",
+		"What happened to these guys?!":
+			"",
+		"What weird beast has carved out these ice caves??":
+			"",
+		"Big lad, aren't ya!":
+			"",
+		"Yum, eat it up!!":
+			"",
+		"Dang - How am I supposed to jump this ring of fire?!":
+			"",
+		"Curse these feathered pests!!":
+			"",
+		"This would make for a good place to build and take off in a rocket!":
+			"",
+		"Guess I've got a treasure hunt on my hands!":
+			"",
+		"Got to find all those rocket parts to get off this rock!":
+			"",
+		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
+			"",
+		"GOT YA!":
+			"",
+		"I guess they were mining Aurium Alloy here...":
+			"",
+		"Here's a wholesome treat!":
+			"",
+		"Hey, did you get shot?!":
+			"",
+		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
+			"",
+		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
+			"",
+		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
+			"",
+		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
+			"",
+		"The Atomizer can't deal with Aurium Alloy, by its nature.":
+			"",
+		"The Atomizer won't work on anything it deems alive or autonomous...":
+			"",
+		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
+			"",
+		"I got to get off this rock...":
+			"",
+		"A have a bad feeling about what might be guarding the Core...":
+			"",
+		"I'm going to make a BIG omelet!!":
+			"",
+		"Could it be... Aurium Alloy?!":
+			"",
+		"CHEW ON THIS!":
+			"",
+		"I made it!":
+			"",
+		"Now, how do I start this thing...":
+			"",
+		"Let's try this big red button!":
+			"",
+		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
+			"",
+		"We have lift off, baby!":
+			"",
+		"Whoo!":
+			"",
+		"Oh crap, what's that? No fuel?":
+			"",
+		"Oh no! Oh no, no, no!":
+			"",
+
+		//info terminals
+		//(got to collect the strings from each scene)
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+			"",
+		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
+			"",
+		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
+			"",
+
+		//scene descriptions and goals
+
+		//once these are here, it'd probably be better not to change them
+
+		//we may want to replace the in-scene-file string with some kind of STRAIGHTFORWARD_ID_STRING
+		//and "translate" the ID in all locales (ie include the base string here)
+		//that way there's only one point for updating it and they cant get out of sync
+
+		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
+
+		"Primoid":
+			"",
+		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
+			"",
+		"Build and fly away in a spaceworthy craft. ":
+			"",
+
+		"Defendoid":
+			"",
+		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
+			"",
+		"Survive 10 waves":
+			"",
+
+		"Bindleoid":
+			"",
+		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
+			"",
+		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
+			"",
+
+		"Carnageoid":
+			"",
+		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
+			"",
+		"Win a match in any arena. ":
+			"",
+
+		"Coliseumoid":
+			"",
+		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
+			"",
+		"Watch one round of gladiator combat. ":
+			"",
+
+		"Planium":
+			"",
+		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
+			"",
+		"Get off this hunk of rock!":
+			"",
+
+		"Plutas":
+			"",
+		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
+			"",
+		"Construct a suitable escape vessel and leave. ":
+			"",
+
+		"Racetoid":
+			"",
+		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
+			"",
+		"Complete a race in under a minute. ":
+			"",
+
+		//(these share a description and goal)
+		"Wrangloid Easy":
+			"",
+		"Wrangloid":
+			"",
+		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
+			"",
+		"Collect and cook all the Grazers. ":
+			"",
+
+		//modal stuff
+		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+
+		"{QUIT TITLE}":
+			"Quit",
+		"{QUIT YES}":
+			"Yes, Quit",
+		"{QUIT NO}":
+			"No, Don't Quit!",
+		"Are you sure you want to quit to desktop?":
+			"",
+		"Don't worry, your game will be saved.":
+			"",
+
+		"{FACTORY RESET TITLE}":
+			"Factory Reset",
+		"{FACTORY RESET YES}":
+			"Yes, Reset My Data",
+		"{FACTORY RESET NO}":
+			"No, Don't Reset!",
+		"Are you sure you want to totally delete all data?":
+			"",
+		"All saves and your entire user config will be wiped.":
+			"",
+
+		"{RESTART TITLE}":
+			"Restart",
+		"{RESTART YES}":
+			"Yes, Restart",
+		"{RESTART NO}":
+			"No, Don't Restart!",
+		"Are you sure you want to restart? Any saved progress will be deleted!":
+			"",
+
+		"{APPLY LOCALE TITLE}":
+			"Apply Locale",
+		"{APPLY LOCALE YES}":
+			"Yes, Apply",
+		"{APPLY LOCALE NO}":
+			"No, Don't Apply!",
+		"Are you sure you want to apply this locale?":
+			"",
+		"The menu will be need to be reset.":
+			"",
+
+		//steam related buttons
+		"Unsubscribe":
+			"",
+		"Subscribe":
+			"",
+	}
+}
