@@ -1,0 +1,369 @@
+"info" : {
+		"id": "ro",
+		"english_name": "Romanian",
+		"localised_name": "Romana"
+	},
+	"translations": {
+		
+		"Goal":
+			"Obiectiv",
+		"Difficulty: {DIFFICULTY}":
+			"Dificultate",
+		"Time: {TIME_ESTIMATE}":
+			"Timp",
+
+		//settings
+		"Settings":
+			"Optiuni",
+		"Adjust Volume":
+			"Ajustare Volum",
+		"Sound":
+			"Sunet",
+		"Music":
+			"Muzica",
+		"Voice":
+			"Voce",
+		"Video Settings":
+			"Setari Video",
+		"Done":
+			"Gata",
+		"Quit The Game":
+			"Iesi Din Joc",
+		"Danger Zone!":
+			"Zona Periculoasa!",
+		"Factory Reset":
+			"Revenire Setari Fabrica",
+		"Steam Workshop":
+			"Atelier Steam",
+		"Auto-Download Content":
+			"Auto-Descarcare Continut",
+		//buttons
+		"Start!":
+			"Incepe!",
+		"Continue":
+			"Continua!",
+		"Restart":
+			"Reincepe",
+
+		//video settings
+		"Video Settings":
+			"Setari Video",
+		"Locale Settings":
+			"Setari Locale",
+		"Back":
+			"Inapoi",
+		"Display Mode":
+			"Mod Ecran",
+		"Fullscreen":
+			"Mod Fullscreen",
+		"Borderless":
+			"Mod Borderless",
+		"Windowed":
+			"Mod Ecran Mic",
+		"Resolution":
+			"Rezolutie",
+		"Which Display":
+			"Care Ecran",
+		"Apply":
+			"Aplica",
+
+		///////////////////////////////////////////////////////////////////////
+		//voiceovers
+
+		//crazy bob on primoid
+		"Can you believe this?!":
+			"Poti crede asa ceva?!",
+		"Let's try this gun!":
+			"Sa incercam arma asta!",
+		"Oookay, that's ominous":
+			"Oook, asta e de rau",
+		"Damned birds!!":
+			"Pasari nenorocite!!",
+		"Curse these birds!!":
+			"Blestemati sa fiti de pasari!!",
+		"It's a lot easier to climb with both my hands free...":
+			"E mult mai usor sa urci cu amandoua maini libere...",
+		"EATING MY WORDS!!":
+			"IMI MANANC CUVINTELE!!",
+		"EAT THAT!!":
+			"MĂNÂNCĂ ASTA!!",
+		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
+    "Recorder-ul de Zbor arata o usa de Siloz de Racheta, nu prea departe la est de aici. Mai bine mergem sa vedem daca vom castiga o calatorie de pe aceasta piatra!",
+		"What are these structures?":
+			"Ce sunt aceste structuri?",
+		"WHOAAAAAAAA!!":
+			"WOOOOOOOAAAA!!",
+		"BANG!":
+			"BANG!",
+		"Maybe they weren't trying to keep things out... but to keep something IN!?":
+			"Poate ei nu incercau sa țină lucurile afara... dar poate sa țină ceva INAUNTRU?",
+		"NOOOO - my vessel!!":
+			"NUUUU - nava mea!!",
+		"Rest in Pieces, my beloved vessel...":
+			"Dormi in piese, nava mea iubita...",
+		"Now I'm stuck on this rock!":
+			"Acum sunt naufragiat pe piatra asta!",
+		"That was my space yacht...":
+			"Ala a fost yacht-ul meu spatial...",
+		"Well, that's not very secure...":
+			"Ei bine, asta nu e foarte sigur...",
+		"I don't like the look, smell, or feel of this place... it's all squishy.":
+			"Nu-mi place peisajul, mirosul, sau simțul acestui loc... e peste tot pufos.",
+		"Ohh you UGLY, Cyclops!!":
+			"Ohh Ciclopi URÂȚI!",
+		"It's all fun and games, until someone loses an eye.":
+			"E totul distractiv si jocuri, pana cand cineva isi pierde un ochi.",
+		"What's that racket??":
+			"Ce-i racheta aia??",
+		"YIKES - a mobile meat grinder monstrosity!!":
+			"Hopa -  O monstruozitate tocator de carne mobil!!",
+		"TAKE THAT, you overgrown food processor!!":
+			"IA ASTA, procesor de mancare neîngrijit!!",
+		"Jumping Jellybeans!!":
+			"Jeleuri Saritoare!!",
+		"I bet I'm past the worst monsters by now!":
+			"Pariez ca am trecut de cei mai rai monștri pana acum!",
+		"Those jaws were snappin', and it's got me rappin'!":
+			"Fălcile astea se sparg, iar eu vreau sa cânt în larg!",
+		"Wish i had something to drive that would protect my noggin a bit...!":
+			"Mi-as fi dorit sa fi condus ceva ca să-mi protejeze putin căpățâna...!",
+		"I need some mad hops - or a ride with some mad JETS!":
+			"Am nevoie de niste salturi nebune - sau o calatorie cu niste JET-URI nebune!",
+		"I think they're trying to tell me something...":
+			"Cred ca vor să-mi spună ceva...",
+		"For a moment I thought I would perish... Crazy Bob never perishes.":
+			"Pentru un moment am crezut ca ma prăpădesc... Bob Nebunul nu se prăpădeste niciodată.",
+		"It's not completely wild out here...":
+			"Nu e complet sălbatic pe-aici...",
+		"Pinkle... Just like Lily":
+			"Incurcat... Exact ca Lily.",
+		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
+			"Am doar nevoie doar de câteva componente de rachetă, și voi avea o Schiță completă!",
+		"Keep them snaps away from me!":
+			"Ține pocniturile astea departe de mine!",
+		"Let's see what this baby can do!":
+			"Sa vedem ce poate face băiețașul ăsta!",
+		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
+			"Viața mi-a trecut prin fața ochilor! A fost lungă, dar nu m-am plictisit... l-aș vedea din nou.",
+		"One freaky bipedal toaster down!":
+			"Un prăjitor ciudat si biped la pământ!",
+		"Pink... purple... pinkle?!":
+			"Roz... Violet... incurcat?!",
+		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
+			"Uită-te la micuțul ala drăgălas - Pare ca ar fi bun sa care niste resurse pe-aici! ",
+		"DING DING DING - The Ice Man prevails!!":
+			"DING DING DING - Omul Gheții predomină!!",
+		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
+			"Resturile astea de rugină nu sunt de folos pentru mine - puteau fie mult mai rău! Nu e ca și cum au aruncătoare de flăcări sau ceva...",
+		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
+			"Astea sunt componentele Rachetei. Știu, pentru ca arată ca niste componente de Rachetă",
+		"Were those skeletons... screaming?!":
+			"Scheleții ăștia... Țipau?!",
+		"What are those buildings...?":
+			"Ce clădiri sunt și astea...?",
+		"What happened to these guys?!":
+			"Ce s-a intamplat cu acești tipi?!",
+		"What weird beast has carved out these ice caves??":
+			"Creatura aia ciudată a săpat prin peșterile astea de gheață??",
+		"Big lad, aren't ya!":
+			"Om mare, nu-i așa!",
+		"Yum, eat it up!!":
+			"Yum, Mănânc-o!!",
+		"Dang - How am I supposed to jump this ring of fire?!":
+			"Fir-ar - Cum ar trebui să sar peste cercul ăsta de foc?!",
+		"Curse these feathered pests!!":
+			"Blestemați acești paraziți cu pene!!",
+		"This would make for a good place to build and take off in a rocket!":
+			"Locul ăsta ar fi bun pentru construirea si plecarea cu o rachetă!",
+		"Guess I've got a treasure hunt on my hands!":
+			"Presupun că am o vânătoare de comori în mâinile mele!",
+		"Got to find all those rocket parts to get off this rock!":
+			"Trebuie sa gasesc toate piesele de rachetă ca sa pot pleca de pe piatra asta!",
+		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
+			"Trebuie sa iubești acest Montator - Sa nu pleci niciodată de acasă fară el! E singurul lucru pe care trebuie sa-l iei, pe bune.",
+		"GOT YA!":
+			"TE-AM LUAT!",
+		"I guess they were mining Aurium Alloy here...":
+			"Presupun ca ei minau Aliaje de Aurium aici...",
+		"Here's a wholesome treat!":
+			"Uite aici un tratament sănătos!",
+		"Hey, did you get shot?!":
+			"Hei, ai fost impușcat?!",
+		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
+			"Oh, vrei o bătaie corp la corp?! Sa vedem ce poți... Omul Ghețar versus Gândacul de Gheață",
+		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
+			"Wow, chiar am crezut ca aș fi putut face asta - ce ne-Bob din partea mea!",
+		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
+			"Am crezut ca această chestie de pe jos e mușchi... ori poate e excrement de liliac extraterestru? EW! ",
+		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
+			"Mai bine aș verifica unde s-a prăbușit Naveta de Salvare - poate voi găsi ceva util in ea!",
+		"The Atomizer can't deal with Aurium Alloy, by its nature.":
+			"Atomizatorul nu se poate ocupa de aliajul Aurium, chestie de natură.",
+		"The Atomizer won't work on anything it deems alive or autonomous...":
+			"Atomizatorul nu va funcționa pe nimic pe care îl consideră viu sau autonom",
+		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
+			"O caracteristica de securitate, zic ei. O chestie enervantă, zic eu. ",
+		"I got to get off this rock...":
+			"Trebuie sa evadez de pe aceasta piatră...",
+		"A have a bad feeling about what might be guarding the Core...":
+			"Am o presimțire că cineva ar putea apăra Nucleul...",
+		"I'm going to make a BIG omelet!!":
+			"Am de gand sa fac o MARE omletă!!",
+		"Could it be... Aurium Alloy?!":
+			"Ar putea fi... Aliaj de Aurium?!",
+		"CHEW ON THIS!":
+			"MESTECĂ ASTA",
+		"I made it!":
+			"Am reușit!",
+		"Now, how do I start this thing...":
+			"Acum, cum pornesc chestia asta...",
+		"Let's try this big red button!":
+			"să incercăm butonul asta mare si roșu!",
+		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
+			"Asta e! Lansarea in T minus 5, 4, 3, 2, 1...",
+		"We have lift off, baby!":
+			"Trebuie sa decolam, baby!",
+		"Whoo!":
+			"Wuuuuoo",
+		"Oh crap, what's that? No fuel?":
+			"Oh pe naiba, ce-i aia? Fara combustibil?",
+		"Oh no! Oh no, no, no!":
+			"Oh nu! Oh nu, nu nu!",
+
+		//info terminals
+		//(got to collect the strings from each scene)
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+			"",
+		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
+			"",
+		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
+			"",
+
+		//scene descriptions and goals
+
+		//once these are here, it'd probably be better not to change them
+
+		//we may want to replace the in-scene-file string with some kind of STRAIGHTFORWARD_ID_STRING
+		//and "translate" the ID in all locales (ie include the base string here)
+		//that way there's only one point for updating it and they cant get out of sync
+
+		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
+
+		"Primoid":
+			"Primoid",
+		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
+			"Asta e povestea unei ghinioniste croaziere de agrement pe iahtul său de lux a lui Bob Nebunul, care l-a aterizat pe acest Planetoid imens, cunoscut sub numele de Primoid. Bob trebuie să exploreze secretele sale profunde și istoria întunecată, pentru a construi o rachetă și a coborî din această stâncă foarte periculoasă!",
+		"Build and fly away in a spaceworthy craft. ":
+			"Construiește si zboară intr-o ambarcațiune spatială ",
+
+		"Defendoid":
+			"Defendoid",
+		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
+			"Feriți-vă de wave-uri de ciudățenii venind după pielea voastră încrețită! Între fiecare val, colectați resursele din carcasele dușmanilor înfrânți și construiți noi baricade si defensive cu ele!",
+		"Survive 10 waves":
+			"Supravietuieste 10 wave-uri",
+
+		"Bindleoid":
+			"Bindleoid",
+		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
+			"O mică dar ser-ioasă planetă plină de pericole feroce deține destule resurse pentru a construi o navă de evadare. Dar câteva creaturi ostile sunt gata sa te prăjească. Ei nu cred ca jocurile tale de cuvinte sunt foarte amuzante.  ",
+		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
+			"Prăjeste o schiță pentru o navă spațială si prăjeș-- adică zboară spre cer!",
+
+		"Carnageoid":
+			"Carnageoid",
+		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
+			"Arene locale multiplayer - Player vs Player și/sau Player vs AI. \n\nOmoară toti ceilalti Pioneri pentru a deschide urmatoarea armă, si deschide toate armele pentru a câstiga runda! ",
+		"Win a match in any arena. ":
+			"Câstigă o rundă in orice arenă",
+
+		"Coliseumoid":
+			"Coliseumoid",
+		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
+			"Vizionează gladiatori la intamplare din joc si din atelierul steam la nesfârsit. Creează-ti propria ta creatură si semneaz-o \"Gladiator\" pentru a-l lăsa să participe. ",
+		"Watch one round of gladiator combat. ":
+			"Vizionează o rundă de lupte gladiatori",
+
+		"Planium":
+			"Planium",
+		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
+			"Prabușit pe acest planetoid pustiu, tu vei avea de traversat tunelele spirale si suprafețe crestate in căutarea unei căi de evadare. Dar fi precaut - poate nu vei fi singur. Depozitele mici de resurse ar putea fi păzite!",
+		"Get off this hunk of rock!":
+			"Pleacă de pe bucata asta de stâncă",
+
+		"Plutas":
+			"Plutas",
+		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
+			"Un planetoid plin de faună feroce si automate agresive se află în așteptare pentru cei mai puțin norocosi din centura de asteroizi. Se recomandă precauție pentru cei care caută sa reconstruiască o navă functională. Incearcă totuși sa nu fi mâncat.",
+		"Construct a suitable escape vessel and leave. ":
+			"Construiește un vas de evacuare adecvat și pleacă.",
+
+		"Racetoid":
+			"Racetoid",
+		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
+			"Cursă vehiculară cu până la 4 playeri. Alege un automobil(sau creează-ti unul singur) si intrece-te in jurul intregului planetoid ca să ajungi primul la obiectiv, sau intrece-ti scorul personal.\n\nAi grijă la pericolele si obstacolele din drum - incluzănd teren, gloanțe, părți de mașini, si posibil membre. ",
+		"Complete a race in under a minute. ":
+			"Completează o cursă in mai puțin de un minut.",
+
+		//(these share a description and goal)
+		"Wrangloid Easy":
+			"Wrangloid Ușor",
+		"Wrangloid":
+			"Wrangloid",
+		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
+			"Capturează si colectează blândele creaturi Grazer care infectează mai multe planetoide in această centură. Aruncă-le in arzător pentru o recompensă. Ai grijă la Silverback-ul infricoșător care de asemenea se hrăneste cu ele... si cu tine!",
+		"Collect and cook all the Grazers. ":
+			"Colectează si gătește toți Grazerii",
+
+		//modal stuff
+		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+
+		"{QUIT TITLE}":
+			"Ieșire",
+		"{QUIT YES}":
+			"Da, Ies",
+		"{QUIT NO}":
+			"Nu, Nu Ieși!",
+		"Are you sure you want to quit to desktop?":
+			"Ești sigur ca vrei să ieși la Desktop?",
+		"Don't worry, your game will be saved.":
+			"Nici-o grijă, jocul tău va fi salvat.",
+
+		"{FACTORY RESET TITLE}":
+			"Revenire Setări Fabrica",
+		"{FACTORY RESET YES}":
+			"Da, resetează-mi progresul",
+		"{FACTORY RESET NO}":
+			"Nu, nu reseta progresul!",
+		"Are you sure you want to totally delete all data?":
+			"Esti sigur că vrei să-ti sterg in totalitate tot progresul?",
+		"All saves and your entire user config will be wiped.":
+			"Toate salvările si intregul fisier de configurații va fi șters.",
+
+		"{RESTART TITLE}":
+			"Restartează",
+		"{RESTART YES}":
+			"Da, Restartează",
+		"{RESTART NO}":
+			"Nu, nu restarta!",
+		"Are you sure you want to restart? Any saved progress will be deleted!":
+			"Ești sigur ca vrei să restartezi? Orice progres salvat va fi șters!",
+
+		"{APPLY LOCALE TITLE}":
+			"Aplică Local",
+		"{APPLY LOCALE YES}":
+			"Da, Aplică",
+		"{APPLY LOCALE NO}":
+			"Nu, nu aplica!",
+		"Are you sure you want to apply this locale?":
+			"Ești sigur că vrei sa aplici local?",
+		"The menu will be need to be reset.":
+			"Meniul trebuie să fie resetat.",
+
+		//steam related buttons
+		"Unsubscribe":
+			"Dezabonare",
+		"Subscribe":
+			"Abonare",
+	}
+}
