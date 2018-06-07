@@ -5,9 +5,373 @@
 	"info" : {
 		"id": "ru",
 		"english_name": "Russian",
-		"localised_name": "Русский"
+		"localised_name": "РУССКИЙ"
 	},
 	"translations": {
+		//asteroid belt UI
+
+		//planetoid panel
+		//labels/description/etc
+		"Goal":
+			"Цель",
+		"Difficulty: {DIFFICULTY}":
+			"Сложность: {DIFFICULTY}",
+		"Time: {TIME_ESTIMATE}":
+			"Время: {TIME_ESTIMATE}",
+
+		//settings
+		"Settings":
+			"Настройки",
+		"Adjust Volume":
+			"Громкость",
+		"Sound":
+			"Звуки",
+		"Music":
+			"Музыка",
+		"Voice":
+			"Голос",
+		"Video Settings":
+			"Настройки видео",
+		"Done":
+			"Готово",
+		"Quit The Game":
+			"Выйти из игры",
+		"Danger Zone!":
+			"Опасная зона!!",
+		"Factory Reset":
+			"Полный сброс всех данных",
+		"Steam Workshop":
+			"Мастерская Steam",
+		"Auto-Download Content":
+			"Автоматически загружать контент",
+		//buttons
+		"Start!":
+			"Старт!",
+		"Continue":
+			"Продолжить",
+		"Restart":
+			"Перезапустить",
+
+		//video settings
+		"Video Settings":
+			"Настройки видео",
+		"Locale Settings":
+			"Настройки локализации",
+		"Back":
+			"Назад",
+		"Display Mode":
+			"Графический режим",
+		"Fullscreen":
+			"Полноэкранный",
+		"Borderless":
+			"Безрамочный",
+		"Windowed":
+			"Оконный",
+		"Resolution":
+			"Разрешение",
+		"Which Display":
+			"Выбор дисплея",
+		"Apply":
+			"Применить",
+
+		///////////////////////////////////////////////////////////////////////
+		//voiceovers
+
+		//crazy bob on primoid
+		"Can you believe this?!":
+			"Невероятно?!",
+		"Let's try this gun!":
+			"Попробуем эту пушку!",
+		"Oookay, that's ominous":
+			"Так, а вот это уже опасно",
+		"Damned birds!!":
+			"Проклятые птицы!!",
+		"Curse these birds!!":
+			"Да пропадите вы пропадом!!",
+		"It's a lot easier to climb with both my hands free...":
+			"Со свободными руками лазать гораздо легче...",
+		"EATING MY WORDS!!":
+			"БЕРУ СВОИ СЛОВА ОБРАТНО!!",
+		"EAT THAT!!":
+			"НА ЖРИ!!",
+		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
+			"На записи с бортового регистратора видна дверь пусковой установки на востоке недалеко отсюда. Лучше бы нам сходить глянуть не удастся ли раздобыть на чём улететь с этого булыжника!",
+		"What are these structures?":
+			"Что это за здания?",
+		"WHOAAAAAAAA!!":
+			"АААААААААА!!",
+		"BANG!":
+			"Вот так!",
+		"Maybe they weren't trying to keep things out... but to keep something IN!?":
+			"Может всё это не для того чтобы никто забрался... а для того чтобы что-то НЕ ВЫБРАЛОСЬ!?",
+		"NOOOO - my vessel!!":
+			"НЕЕЕТ - мой корабль!!",
+		"Rest in Pieces, my beloved vessel...":
+			"Покойся с миром мой любимый корабль...",
+		"Now I'm stuck on this rock!":
+			"Теперь я застрял на этом булыжнике!",
+		"That was my space yacht...":
+			"Это было моей космической яхтой...",
+		"Well, that's not very secure...":
+			"Ну, это не очень безопасно...",
+		"I don't like the look, smell, or feel of this place... it's all squishy.":
+			"Не нравится мне ни запах, ни вид, ни ощущения от этого места... болото какое-то.",
+		"Ohh you UGLY, Cyclops!!":
+			"Ну, циклопы, вы и уроды!!",
+		"It's all fun and games, until someone loses an eye.":
+			"Это всё весело, пока кому-нибудь не вышибут глаз.",
+		"What's that racket??":
+			"Что это за шум??",
+		"YIKES - a mobile meat grinder monstrosity!!":
+			"Ой-ой, чудовищная передвижная мясорубка!!",
+		"TAKE THAT, you overgrown food processor!!":
+			"ПОЛУЧАЙ, кухонный комбайн переросток!!",
+		"Jumping Jellybeans!!":
+			"С кочки на кочку в ямку бух!!",
+		"I bet I'm past the worst monsters by now!":
+			"Уверен самые ужасные монстры уже позади!",
+		"Those jaws were snappin', and it's got me rappin'!":
+			"Те челюсти жевали, что мы аж зарэповали!",
+		"Wish i had something to drive that would protect my noggin a bit...!":
+			"Хотел бы я такую машину чтоб хотя-бы башка прикрыта была...!",
+		"I need some mad hops - or a ride with some mad JETS!":
+			"Тут надо скакать как сайгак",
+		"I think they're trying to tell me something...":
+			"Кажется они пытаются мне на что-то намекнуть...",
+		"For a moment I thought I would perish... Crazy Bob never perishes.":
+			"На секунду показалось помру... Шальной Боб не помирает.",
+		"It's not completely wild out here...":
+			"А тут не такая уж и глушь...",
+		"Pinkle... Just like Lily":
+			"Розалиновая... прямо как Лили",
+		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
+			"Надо найти еще несколько частей от ракеты и у меня будет полный чертеж!",
+		"Keep them snaps away from me!":
+			"Держите свои хваталки подальше от меня!",
+		"Let's see what this baby can do!":
+			"Посмотрим на что способна эта детка!",
+		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
+			"Вся жизнь пролетела перед глазами! Затянуто, но скучно не было... ещё бы разок посмотрел.",
+		"One freaky bipedal toaster down!":
+			"Одним упоротым двуногим тостером меньше!",
+		"Pink... purple... pinkle?!":
+			"Розовый... малиновый... розалиновый?!",
+		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
+			"Гляньте-ка на этого красавца, похоже он сгодится для перевозки ресурсов!",
+		"DING DING DING - The Ice Man prevails!!":
+			"ДЗЫНЬ ДЗЫНЬ ДЗЫНЬ - Побеждает Ледяной Человек",
+		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
+			"Эти груды хлама не сравнятся со мной - могли бы быть и пострашнее! Не похоже, чтобы у них были огнемёты или что-то такое...",
+		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
+			"Это части ракеты. Я знаю что это они, потому что они выглядят как части ракеты!",
+		"Were those skeletons... screaming?!":
+			"Эти скелеты что... кричали?!",
+		"What are those buildings...?":
+			"Что это за здания...?",
+		"What happened to these guys?!":
+			"Что с ними случилось?",
+		"What weird beast has carved out these ice caves??":
+			"Что за чудовище вырезало эти ледяные пещеры??",
+		"Big lad, aren't ya!":
+			"А ты здоровяк!",
+		"Yum, eat it up!!":
+			"Кушай не обляпайся!!",
+		"Dang - How am I supposed to jump this ring of fire?!":
+			"Чёрт, ну и как я должен перепрыгнуть через этот огонь?!",
+		"Curse these feathered pests!!":
+			"Будьте вы прокляты пернатые паразиты!!",
+		"This would make for a good place to build and take off in a rocket!":
+			"Это могло бы быть подходящим местом для постройки ракеты и взлёта!",
+		"Guess I've got a treasure hunt on my hands!":
+			"Похоже у нас тут охота за сокровищами!",
+		"Got to find all those rocket parts to get off this rock!":
+			"Придётся найти все части ракеты чтобы убраться с этого булыжника!",
+		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
+			"Чтобы я делал без Ассемблера. Без него ни шагу! Пожалуй, единственная вещь которую нужно всегда иметь при себе.",
+		"GOT YA!":
+			"Попался!",
+		"I guess they were mining Aurium Alloy here...":
+			"Похоже они добывали здесь Ауриум...",
+		"Here's a wholesome treat!":
+			"Есть чем поживиться!",
+		"Hey, did you get shot?!":
+			"Эй, тебя подстрелили?!",
+		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
+			"А, хочешь один на один на кулаках?! Ну посмотрим на тебя... Ледяной человек против Ледяного жука!",
+		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
+			"А я уже начал сомневаться смогу ли - как же это не по Бобски!",
+		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
+			"Думал штука на земле это мох... или это помёт инопланетных летучих мышей?! ФУ.",
+		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
+			"Надо бы найти свою спасательную капсулу, может найду там что-нибудь полезное!",
+		"The Atomizer can't deal with Aurium Alloy, by its nature.":
+			"Атомизатор по своей природе не справляется с Ауриумом.",
+		"The Atomizer won't work on anything it deems alive or autonomous...":
+			"Атомизатор не сработает ни чём что кажется живым или двигается...",
+		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
+			"Они говорят это ради безопасности. А я говорю это чтобы слюнтяи не поранились.",
+		"I got to get off this rock...":
+			"Надо убраться с этого булыжника...",
+		"A have a bad feeling about what might be guarding the Core...":
+			"У меня нехорошее предчувствие насчёт того, что может охранять ядро...",
+		"I'm going to make a BIG omelet!!":
+			"Зажарю ОГРОМНЫЙ омлет!!",
+		"Could it be... Aurium Alloy?!":
+			"Это что... Ауриум?",
+		"CHEW ON THIS!":
+			"Жуй не балуй!",
+		"I made it!":
+			"Получилось!",
+		"Now, how do I start this thing...":
+			"Так, ну и как оно запускается...",
+		"Let's try this big red button!":
+			"Попробуем эту большую красную кнопку!",
+		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
+			"Наконец-то! Зажигание через 5, 3, 3, 2, 1...",
+		"We have lift off, baby!":
+			"Пошла родимая!",
+		"Whoo!":
+			"Уууу!",
+		"Oh crap, what's that? No fuel?":
+			"Чёрт, что такое? Топлива нет?",
+		"Oh no! Oh no, no, no!":
+			"О нет! Нет, нет, нет!",
+
+		//info terminals
+		//(got to collect the strings from each scene)
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+			"В любой момент можно \"переместиться\" к __Станции Восстановления__ _отдалив обзор и кликнув на иконку станции._",
+		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
+			"Из этих рабочих-манекенов получаются отличные __Запасные Тела__.\n\n Просто _Соберите_ одного из них и бросьте, в случае смертельного инцидента вас _переместит_ автоматически. ",
+		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
+			"Запись #43457: \"Я уничтожил последний спасательный корабль, и _разбросал его части_ по всему Примоиду, чтобы __Ауриумовая Катастрофа__ не вышла за пределы этого мира...\n\nМеста отмечены на этой карте, но они хорошо охраняются, _Даже НЕ пытайтесь!_\"",
+
+		//scene descriptions and goals
+
+		//once these are here, it'd probably be better not to change them
+
+		//we may want to replace the in-scene-file string with some kind of STRAIGHTFORWARD_ID_STRING
+		//and "translate" the ID in all locales (ie include the base string here)
+		//that way there's only one point for updating it and they cant get out of sync
+
+		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
+
+		"Primoid":
+			"Примоид",
+		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
+			"Это история о неудачном круизе Шального Боба на его роскошной космической яхте, благодаря которому он оказался в западне на этом огромном планетоиде известном как Примоид. Бобу придется раскрыть зарытые в его глубине тайны и погрузиться в его мрачную многослойную историю, чтобы построить ракету и убраться с этого опасного булыжника.",
+		"Build and fly away in a spaceworthy craft.":
+			"Построить космический корабль и улететь на нём.",
+
+		"Defendoid":
+			"Защитоид",
+		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
+			"Отразите волны врагов, наступающих на ваше помятое убежище! Между волнами собирайте ресурсы из поверженных врагов и стройте из них укрепления!",
+		"Survive 10 waves":
+			"Переживите 10 волн",
+
+		"Bindleoid":
+			"",
+		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
+			"",
+		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
+			"",
+
+		"Carnageoid":
+			"Битвоид",
+		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
+			"Боевая арена для локального мультиплеера - Игрок против Игрока и/или Игрок против ИИ. \n\nПеребейте всех остальных пионеров чтобы открыть следующее оружие и откройте всё оружие чтобы выиграть раунд!",
+		"Win a match in any arena. ":
+			"Выиграйте матч на любой арене.",
+
+		"Coliseumoid":
+			"Колизеоид",
+		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
+			"Бесконечно смотрите бои гладиаторов случайно выбранных из игры и Мастерской Steam. Для участия создайте собственное существо и проставьте тэг \"Gladiator\"",
+		"Watch one round of gladiator combat. ":
+			"Посмотреть один раунд боя гладиаторов",
+
+		"Planium":
+			"Равниноид",
+		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
+			"После аварийной посадки на этом безлюдном планетоиды вам придётся пройти по извилистым туннелям и непроходимой поверхности чтобы спастись. Будьте внимательны, возможно вы не одни. Небольшие скопления жизненно важных ресурсов могут быть под охраной!",
+		"Get off this hunk of rock!":
+			"Убраться с этого булыжника!",
+
+		"Plutas":
+			"Плутоид",
+		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
+			"Планетоид кишащей прожорливой фауной и агрессивными автоматами ждёт в гости не самых удачливых пилотов пояса астероидов. Соблюдайте осторожность пытаясь собрать рабочий космолёт. Постарайтесь чтобы вас не съели.",
+		"Construct a suitable escape vessel and leave. ":
+			"Постройте подходящий для спасения корабль и покиньте планетоид.",
+
+		"Racetoid":
+			"Гонкоид",
+		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
+			"Гонка на транспорте до 4 игроков. Выберите транспорт (или создайте собственный) и гоняйтесь вокруг всего планетоида чтобы первым добраться до финиша или обновить собственный рекорд за круг.\n\nОстерегайтесь препятствий на пути: кочек, пуль, обломков машин и иногда конечностей.",
+		"Complete a race in under a minute. ":
+			"Завершите гонку менее чем за минуту.",
+
+		//(these share a description and goal)
+		"Wrangloid Easy":
+			"Ковбоид Лёгкий",
+		"Wrangloid":
+			"Ковбоид",
+		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
+			"Ловите существ заполонивших несколько планетоидов в этом поясе. Кладите их в жаровню за награду. Опасайтесь Серебристого, который тоже кормится ими... и вами!",
+		"Collect and cook all the Grazers. ":
+			"Поймать и приготовить всех существ.",
+
+		//modal stuff
+		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+
+		"{QUIT TITLE}":
+			"Выход",
+		"{QUIT YES}":
+			"Да, выйти",
+		"{QUIT NO}":
+			"Нет, не выходить!",
+		"Are you sure you want to quit to desktop?":
+			"Вы уверены что хотите выйти на рабочий стол?",
+		"Don't worry, your game will be saved.":
+			"Но волнуйтесь игра будет сохранена.",
+
+		"{FACTORY RESET TITLE}":
+			"Полный сброс всех данных",
+		"{FACTORY RESET YES}":
+			"Да, сбросить все мои данные",
+		"{FACTORY RESET NO}":
+			"Нет, не сбрасывать!",
+		"Are you sure you want to totally delete all data?":
+			"Вы уверены что хотите полностью удалить все данные?",
+		"All saves and your entire user config will be wiped.":
+			"Все сохранения и все настройки будут удалены.",
+
+		"{RESTART TITLE}":
+			"Перезапуск",
+		"{RESTART YES}":
+			"Да, перезапустить",
+		"{RESTART NO}":
+			"Нет, не перезапускать!",
+		"Are you sure you want to restart? Any saved progress will be deleted!":
+			"Вы уверены что хотите перезапустить? Весь сохранённый прогресс будет потерян!",
+
+		"{APPLY LOCALE TITLE}":
+			"Применить настройки локализации",
+		"{APPLY LOCALE YES}":
+			"Да, применить",
+		"{APPLY LOCALE NO}":
+			"Нет, не применять!",
+		"Are you sure you want to apply this locale?":
+			"Вы уверены что хотите применить эти настройки локализации?",
+		"The menu will be need to be reset.":
+			"Будет произведён выход из меню.",
+
+		//steam related buttons
+		"Unsubscribe":
+			"Отписаться",
+		"Subscribe":
+			"Подписаться",
 
 	}
 }
