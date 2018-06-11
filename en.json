@@ -373,5 +373,496 @@
 			"",
 		"Subscribe":
 			"",
-	}
+
+		//asteroid belt
+		"Press Button To Start":
+			"",
+		"AB Scene Completed":
+			"Scene Completed",
+		"Featured ({MONTH}) by {AUTHOR}":
+			"",
+		"Planetoid Deleted":
+			"",
+		"New Planetoid!":
+			"",
+		"Planetoid Updated!":
+			"",
+		"You Are Here":
+			"",
+		"Locked":
+			"",
+		"AB Completed":
+			"Completed",
+		"Rating {RATING}% Positive":
+			"",
+		"Click to Resubscribe":
+			"",
+		"Downloading...":
+			"",
+		"{NAME} (Featured)": //this appears behind a scene name i.e 'Primoid (Featured)'
+			"",
+		"???": //undiscovered planetoid
+			"",
+		"AB Failed":
+			"Failed",
+		"AB Asteroid Belt {AB NUMBER}":
+			"Asteroid Belt {AB NUMBER}",
+		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
+			"",
+
+		//months
+		"January":
+			"",
+		"Febuary":
+			"",
+		"March":
+			"",
+		"April":
+			"",
+		"May":
+			"",
+		"June":
+			"",
+		"July":
+			"",
+		"August":
+			"",
+		"September":
+			"",
+		"October":
+			"",
+		"November":
+			"",
+		"December":
+			"",
+
+		//resource bars
+		"METALS":
+			"",
+		"CARBON":
+			"",
+		"WATER":
+			"",
+		"SILICON":
+			"",
+		"AURIUM":
+			"",
+		"CHARGE":
+			"",
+		"FULL!":
+			"",
+		"EMPTY!":
+			"",
+
+		//respawn player join info text
+		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
+			"",
+		"PLAYER {PLAYER NUMBER}: Press Keyboard Button to Join":
+			"",
+		"PLAYER {PLAYER NUMBER}: Press Controller Button to Join":
+			"",
+		"PLAYER {PLAYER NUMBER}: Plug in Controller to Join":
+			"",
+
+		//tips appearing over pioneer
+		"Press again to Abandon Body":
+			"",
+		"No Backup, Restart?":
+			"",
+		"No Arm":
+			"",
+		"Abandon Body":
+			"",
+		"Restart Scene":
+			"",
+		"Take Over {BUTTON}":
+			"",
+		"Throw Gun!":
+			"",
+		"Scene Completed":
+			"",
+		"Scene Completed (No Goal)":
+			"",
+
+		//buttons
+		"[X]": //this is the X button on keyboard
+			"",
+		"[E]":
+			"",
+		"Left Click":
+			"",
+		"(Back)": //this is the back button on the controller
+			"",
+		"Right Trigger":
+			"",
+
+		//appearing on screen on game over
+		"Press {BUTTON} to Restart":
+			"",
+
+		//when selecting body on minimap
+		"Take Over Body":
+			"",
+
+		//respawn station
+		"Game Saved":
+			"",
+		"Respawn Here":
+			"",
+
+		//game quit
+		"GAME SAVED":
+			"",
+		"SEE YOU LATER SPACE COWBOY":
+			"",
+		"CLOSING ALL THE PIXELS":
+			"",
+
+		//engine messages
+		"Restarting":
+			"",
+		"Loading {SCENE NAME}":
+			"",
+
+		//loading screen
+		"WORK IN PROGRESS":
+			"",
+		"ALT + ENTER TOGGLES FULLSCREEN":
+			"",
+		"LOADING":
+			"",
+		"LOADING PLANETOID":
+			"",
+		"Loading Sound manager":
+			"",
+		"Loading PS library":
+			"",
+		"Loading Material PS library":
+			"",
+		"Loading Blueprint library":
+			"",
+		"Loading Workshop Blueprint library":
+			"",
+		"Loading Downloaded Blueprint library":
+			"",
+		"Loading Scene library":
+			"",
+		"Loading Workshop Scene library":
+			"",
+		"Checking Scenes":
+			"",
+		"Loading Downloaded Scene library":
+			"",
+		"Loading Scene Fragments library":
+			"",
+		"Loading Steam Workshop":
+			"",
+		"Extracting all Blueprints and PSs":
+			"",
+		"Extracting Scene: Asteroid Belt":
+			"",
+		"Extracting Scene: Primoid":
+			"",
+		"Starting files change detectors":
+			"",
+		"Loading Crush2D Editor":
+			"",
+		"Initializing Crush2D Editor":
+			"",
+		"Refreshing C2D Editor":
+			"",
+		"Loading Physics Materials":
+			"",
+		"Loading Menu Scene":
+			"",
+		"Loading Scene: {SCENE NAME}":
+			"",
+		"Loading Blueprint to editor: {NAME}":
+			"",
+		"Preparing Game Scene":
+			"",
+		"Loading additional data":
+			"",
+		"Reloading changed files":
+			"",
+		"Preloading Textures":
+			"",
+		"Loading Controller Layout":
+			"",
+		"This is the first time the game is loaded, so it will take a bit longer to extract all the data - future starts will be quicker!":
+			"",
+		"The game might be running slower because your device has 8 GB of memory or less.":
+			"",
+		"Updating libraries":
+			"",
+		"Preloading pictures":
+			"",
+		"Scene Reset - Activity and C2DUpdate Build":
+			"",
+		"Scene Reset - Preloading Pictures":
+			"",
+		"Scene Reset - Preloading Sounds":
+			"",
+		"Resetting Scene":
+			"",
+		"Preloading textures... {PERCENT}%":
+			"",
+		"Loading data":
+			"",
+		"Loading terrain":
+			"",
+		"Updating textures and sounds":
+			"",
+		"Clean up":
+			"",
+		"Extracting textures and sounds":
+			"",
+		"Load objects start":
+			"",
+		"Updating Edit-IDs":
+			"",
+		"Creating Terrain Objects":
+			"",
+		"Computing Zones":
+			"",
+		"Computing Terrain":
+			"",
+		"Computing Gravity and Heating":
+			"",
+		"Updating Layers":
+			"",
+		"Updating WorldGrid wire meshes":
+			"",
+		"Scene Reset - Create Assemblies {NUMBER}":
+			"",
+		"Scene Reset - Create Assemblies Done":
+			"",
+		"Scene Reset - Clean Up":
+			"",
+		"Scene Reset - Compute Layers":
+			"",
+		"Scene Reset - Create Assemblies":
+			"",
+		"Loading file tree":
+			"",
+		"Checking files":
+			"",
+		"Checking files ({NUMBER})":
+			"",
+		"Getting files info":
+			"",
+
+		//pause
+		"UNPAUSING...":
+			"",
+		"- PAUSED -":
+			"",
+		"Press P to resume":
+			"",
+		"or O to step one frame":
+			"",
+
+		//debug print
+		"SHIFT + L to disable / enable this output":
+			"",
+
+		//primoid
+		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
+			"",
+		"New Area":
+			"",
+
+		//primoid areas
+		"Primoid Plains":
+			"",
+		"Maw Cavern":
+			"",
+		"Crash Cauldron":
+			"",
+		"North Hub":
+			"",
+		"Cave Tunnels":
+			"",
+		"Jungle Temple":
+			"",
+		"West Metal Mine":
+			"",
+		"East Metal Mine":
+			"",
+		"Surface Gauntlet":
+			"",
+		"Mu-Ilaak Temple":
+			"",
+		"Mu-Ilaak Tomb":
+			"",
+		"Prime Grottos":
+			"",
+		"Mount Prime":
+			"",
+		"Flush Chute":
+			"",
+		"Silicon Maze":
+			"",
+		"Aurium Core":
+			"",
+
+		//last man standing (Carnageoid)
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"UP TO 4 PLAYER PVP":
+			"",
+		"Change Arena with Triggers or Mouse":
+			"",
+		"Go!":
+			"",
+		"Sudden Death In {SECONDS}":
+			"",
+		"Winner!":
+			"",
+		"{CHALLENGE INSTRUCTION}!":
+			"",
+		"Dance":
+			"",
+		"Dont Move":
+			"",
+		"Dive":
+			"",
+		"Press All Buttons":
+			"",
+		"{SCORE}/10":
+			"",
+
+		//racetoid
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
+			"",
+		"Go":
+			"",
+		"Best Time: {TIME}":
+			"",
+		"Best Time: {TIME} (Gold: {GOLD TIME})":
+			"",
+		"New Highscore!":
+			"",
+		"Highscore: {TIME}":
+			"",
+
+		//wrangle
+		"Take to Burner!":
+			"",
+		"Catch It!":
+			"",
+		"Grab the Grazer!":
+			"",
+		"Good work!":
+			"",
+		"You win! Time to head off!":
+			"",
+
+		//coliseum
+		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
+			"",
+		"Rate them in the Workshop - it affects how often they appear":
+			"",
+		"New Blueprint Uploaded: {NAME}!":
+			"",
+		"Next Up:":
+			"",
+		"Coliseum {NAME} by {AUTHOR}":
+			"{NAME} by {AUTHOR}",
+		"{NAME} wins!":
+			"",
+		"Using {NAME}":
+			"",
+		"Streak: {STREAK COUNT}!":
+			"",
+		"Ended Streak of {NAME}":
+			"",
+		"A Community Creation":
+			"",
+		"A Community Creation By: {NAME}":
+			"",
+		"Rating: {RATING}%":
+			"",
+		"Rematch":
+			"",
+		"Draw":
+			"",
+
+		//steam workshop info
+		"Loading Name":
+			"",
+		"WS By {AUTHOR}":
+			"By {AUTHOR}",
+		"Workshop Blueprint By {AUTHOR}":
+			"",
+		"Rating: {RATING}%":
+			"",
+
+		//structure steam altar
+		"Subscribe to Blueprints to receive them here {BUTTON}":
+			"",
+		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
+			"",
+		"Steam Altar Do you recommend this?":
+			"Do you recommend this?",
+		"Steam Altar No":
+			"No",
+		"Steam Altar Yes":
+			"Yes",
+
+		//structure shop manager (steam shop)
+		"Free Sample":
+			"",
+		"{PRICE} (50% off)":
+			"",
+		"Buy":
+			"",
+		"Steam Shop By {AUTHOR}":
+			"By {AUTHOR}",
+		"Steam Shop Do you recommend this?":
+			"Do you recommend this?",
+		"Up/Down Vote":
+			"",
+		"Not enough Aurium":
+			"",
+		"Voted Up":
+			"",
+		"Voted Down":
+			"",
+		"- Shop {SHOP TAG} -":
+			"",
+
+		//tags (plural)
+		"Weapons":
+			"",
+		"Tools":
+			"",
+		"Vehicles":
+			"",
+		"Pioneers":
+			"",
+		"Robots":
+			"",
+		"Golems":
+			"",
+		"Faunas":
+			"Fauna",
+
+		//structure shop pioneers
+		"Pio Shop Not enough Aurium":
+			"Not enough Aurium",
+
+		//machine space teleporter
+		"Space Teleporter Scene Completed":
+			"Scene Completed",
+		"Confirm to leave":
+			"",
+
+		}
 }
