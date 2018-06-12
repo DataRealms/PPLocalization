@@ -1,0 +1,869 @@
+{
+	//english translation file for planetoid pioneers
+	//(internal text is in english, so this is mostly a no-op -
+	// some strings use localisation IDs though, and their content
+	// is specified here.)
+	"info" : {
+		"id": "de",
+		"english_name": "German",
+		"localised_name": "Deutsch"
+	},
+	"translations": {
+		//asteroid belt UI
+
+		//planetoid panel
+		//labels/description/etc
+		"Goal":
+			"Ziel",
+		"Difficulty: {DIFFICULTY}":
+			"Schwierigkeit: {DIFFICULTY}",
+		"Time: {TIME_ESTIMATE}":
+			"Dauer: {TIME_ESTIMATE}",
+
+		//settings
+		"Settings":
+			"Einstellungen",
+		"Adjust Volume":
+			"Lautstärke",
+		"Sound":
+			"Ton",
+		"Music":
+			"Musik",
+		"Voice":
+			"Sprache",
+		"Video Settings":
+			"Video Einstellungen",
+		"Done":
+			"Fertig",
+		"Quit The Game":
+			"Spiel Beenden",
+		"Danger Zone!":
+			"Achtung!",
+		"Factory Reset":
+			"Spiel Zurücksetzten",
+		"Steam Workshop":
+			"",
+		"Auto-Download Content":
+			"Auto-Downloads",
+		//buttons
+		"Start!":
+			"Start!",
+		"Continue":
+			"Fortsetzen",
+		"Restart":
+			"Neu Starten",
+
+		//video settings
+		"Video Settings":
+			"Grafik Einstellungen",
+		"Locale Settings":
+			"Sprache",
+		"Back":
+			"Zurück",
+		"Display Mode":
+			"Anzeige",
+		"Fullscreen":
+			"Vollbild",
+		"Borderless":
+			"Randlos",
+		"Windowed":
+			"Fenstermodus",
+		"Resolution":
+			"Auflösung",
+		"Which Display":
+			"Bildschirm",
+		"Apply":
+			"Bestätigen",
+
+		///////////////////////////////////////////////////////////////////////
+		//voiceovers
+
+		//crazy bob on primoid
+		"Can you believe this?!":
+			"Ich kanns nicht glauben!",
+		"Let's try this gun!":
+			"Lass mich diese Waffe probieren!",
+		"Oookay, that's ominous":
+			"Oookay. Sehr Ominös",
+		"Damned birds!!":
+			"Blöde Vögel!!",
+		"Curse these birds!!":
+			"Verfluchte Vögel!!",
+		"It's a lot easier to climb with both my hands free...":
+			"Mit beiden Händen frei wäre es einfacher zu klettern...",
+		"EATING MY WORDS!!":
+			"",
+		"EAT THAT!!":
+			"FRESS DAS!!",
+		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
+			"",
+		"What are these structures?":
+			"",
+		"WHOAAAAAAAA!!":
+			"WOOAAAAAAAA!!",
+		"BANG!":
+			"BÄNG!",
+		"Maybe they weren't trying to keep things out... but to keep something IN!?":
+			"",
+		"NOOOO - my vessel!!":
+			"OH NEEEEIN - mein Schiff",
+		"Rest in Pieces, my beloved vessel...":
+			"Ruhe in Frieden mein geliebtes Schiff",
+		"Now I'm stuck on this rock!":
+			"",
+		"That was my space yacht...":
+			"",
+		"Well, that's not very secure...":
+			"",
+		"I don't like the look, smell, or feel of this place... it's all squishy.":
+			"",
+		"Ohh you UGLY, Cyclops!!":
+			"",
+		"It's all fun and games, until someone loses an eye.":
+			"",
+		"What's that racket??":
+			"",
+		"YIKES - a mobile meat grinder monstrosity!!":
+			"",
+		"TAKE THAT, you overgrown food processor!!":
+			"",
+		"Jumping Jellybeans!!":
+			"",
+		"I bet I'm past the worst monsters by now!":
+			"",
+		"Those jaws were snappin', and it's got me rappin'!":
+			"",
+		"Wish i had something to drive that would protect my noggin a bit...!":
+			"",
+		"I need some mad hops - or a ride with some mad JETS!":
+			"",
+		"I think they're trying to tell me something...":
+			"",
+		"For a moment I thought I would perish... Crazy Bob never perishes.":
+			"",
+		"It's not completely wild out here...":
+			"",
+		"Pinkle... Just like Lily":
+			"",
+		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
+			"",
+		"Keep them snaps away from me!":
+			"",
+		"Let's see what this baby can do!":
+			"",
+		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
+			"",
+		"One freaky bipedal toaster down!":
+			"",
+		"Pink... purple... pinkle?!":
+			"",
+		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
+			"",
+		"DING DING DING - The Ice Man prevails!!":
+			"",
+		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
+			"",
+		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
+			"",
+		"Were those skeletons... screaming?!":
+			"",
+		"What are those buildings...?":
+			"",
+		"What happened to these guys?!":
+			"",
+		"What weird beast has carved out these ice caves??":
+			"",
+		"Big lad, aren't ya!":
+			"",
+		"Yum, eat it up!!":
+			"",
+		"Dang - How am I supposed to jump this ring of fire?!":
+			"",
+		"Curse these feathered pests!!":
+			"",
+		"This would make for a good place to build and take off in a rocket!":
+			"",
+		"Guess I've got a treasure hunt on my hands!":
+			"",
+		"Got to find all those rocket parts to get off this rock!":
+			"",
+		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
+			"",
+		"GOT YA!":
+			"",
+		"I guess they were mining Aurium Alloy here...":
+			"",
+		"Here's a wholesome treat!":
+			"",
+		"Hey, did you get shot?!":
+			"",
+		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
+			"",
+		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
+			"",
+		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
+			"",
+		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
+			"",
+		"The Atomizer can't deal with Aurium Alloy, by its nature.":
+			"",
+		"The Atomizer won't work on anything it deems alive or autonomous...":
+			"",
+		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
+			"",
+		"I got to get off this rock...":
+			"",
+		"A have a bad feeling about what might be guarding the Core...":
+			"",
+		"I'm going to make a BIG omelet!!":
+			"",
+		"Could it be... Aurium Alloy?!":
+			"",
+		"CHEW ON THIS!":
+			"",
+		"I made it!":
+			"",
+		"Now, how do I start this thing...":
+			"",
+		"Let's try this big red button!":
+			"",
+		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
+			"",
+		"We have lift off, baby!":
+			"",
+		"Whoo!":
+			"",
+		"Oh crap, what's that? No fuel?":
+			"",
+		"Oh no! Oh no, no, no!":
+			"",
+
+		//info terminals
+		//(got to collect the strings from each scene)
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+			"",
+		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
+			"",
+		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
+			"",
+
+		//scene descriptions and goals
+
+		//once these are here, it'd probably be better not to change them
+
+		//we may want to replace the in-scene-file string with some kind of STRAIGHTFORWARD_ID_STRING
+		//and "translate" the ID in all locales (ie include the base string here)
+		//that way there's only one point for updating it and they cant get out of sync
+
+		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
+
+		"Primoid":
+			"",
+		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
+			"",
+		"Build and fly away in a spaceworthy craft. ":
+			"",
+
+		"Defendoid":
+			"",
+		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
+			"",
+		"Survive 10 waves":
+			"",
+
+		"Bindleoid":
+			"",
+		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
+			"",
+		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
+			"",
+
+		"Carnageoid":
+			"",
+		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
+			"",
+		"Win a match in any arena. ":
+			"",
+
+		"Coliseumoid":
+			"",
+		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
+			"",
+		"Watch one round of gladiator combat. ":
+			"",
+
+		"Planium":
+			"",
+		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
+			"",
+		"Get off this hunk of rock!":
+			"",
+
+		"Plutas":
+			"",
+		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
+			"",
+		"Construct a suitable escape vessel and leave. ":
+			"",
+
+		"Racetoid":
+			"",
+		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
+			"",
+		"Complete a race in under a minute. ":
+			"Beende ein Rennen in unter einer Minute",
+
+		//(these share a description and goal)
+		"Wrangloid Easy":
+			"Wrangloid Einfach",
+		"Wrangloid":
+			"Wrangloid",
+		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
+			"",
+			//"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner für eine	Prämie. Vorsicht for dem Silverback, welcher sich von Grazern ernährt... und auch dir!",
+		"Collect and cook all the Grazers. ":
+			"Sammle und koche alle Grazer.",
+
+		//modal stuff
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
+
+		"{QUIT TITLE}":
+			"Beenden",
+		"{QUIT YES}":
+			"Ja, Beenden",
+		"{QUIT NO}":
+			"Nicht Beenden!",
+		"Are you sure you want to quit to desktop?":
+			"Bist du sicher das du beenden willst?",
+		"Don't worry, your game will be saved.":
+			"Keine Sorge, das Spiel wird gespeichert.",
+
+		"{FACTORY RESET TITLE}":
+			"Spiel Zurücksetzten",
+		"{FACTORY RESET YES}":
+			"Ja, alles zurücksetzten",
+		"{FACTORY RESET NO}":
+			"Nein",
+		"Are you sure you want to totally delete all data?":
+			"Bist du sicher das du alle Daten löschen willst?",
+		"All saves and your entire user config will be wiped.":
+			"All Spielstände und Einstellungen werden zurückgesetzt.",
+
+		"{RESTART TITLE}":
+			"Neu Starten",
+		"{RESTART YES}":
+			"Ja, neu starten",
+		"{RESTART NO}":
+			"Nein",
+		"Are you sure you want to restart? Any saved progress will be deleted!":
+			"Bist du sicher das du diesen Planetoid neu starten möchtest? \nDein Spielstand wird zurückgesetzt.",
+
+		"{APPLY LOCALE TITLE}":
+			"Sprache Ändern",
+		"{APPLY LOCALE YES}":
+			"Ja",
+		"{APPLY LOCALE NO}":
+			"Nein!",
+		"Are you sure you want to apply this locale?":
+			"Bist du sicher das du die Sprache ändern möchtest?",
+		"The menu will be need to be reset.":
+			"Das Menü wird neu gestartet",
+
+		//steam related buttons
+		"Unsubscribe":
+			"Abo Kündigen",
+		"Subscribe":
+			"Abonnieren",
+
+		//asteroid belt
+		"Press Button To Start":
+			"Zum Starten Taste drücken",
+		"AB Scene Completed":
+			"Szene Abgeschlossen",
+		"Featured ({MONTH}) by {AUTHOR}":
+			"Planetoid des Monats ({MONTH}) von {AUTHOR}",
+		"Planetoid Deleted":
+			"Gelöscht",
+		"New Planetoid!":
+			"Neu!",
+		"Planetoid Updated!":
+			"Aktualisiert!",
+		"You Are Here":
+			"Du bist hier",
+		"Locked":
+			"Gesperrt",
+		"AB Completed":
+			"Completed",
+		"Rating {RATING}% Positive":
+			"Bewertung {RATING}% Positiv",
+		"Click to Resubscribe":
+			"Zum Abonnieren klicken",
+		"Downloading...":
+			"Wird Heruntergeladen...",
+		"{NAME} (Featured)": //this appears behind a scene name i.e 'Primoid (Featured)'
+			"{NAME} (Planetoid des Monats)",
+		"???": //undiscovered planetoid
+			"???",
+		"AB Failed":
+			"Gescheitert",
+		"AB Asteroid Belt {AB NUMBER}":
+			"Asteroidengürtel {AB NUMBER}",
+		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
+			"{COUNT COMPLETED} von {COUNT TOTAL} abgeschlossen",
+
+		//months
+		"January":
+			"Januar",
+		"Febuary":
+			"Februar",
+		"March":
+			"März",
+		"April":
+			"April",
+		"May":
+			"Mai",
+		"June":
+			"Juni",
+		"July":
+			"July",
+		"August":
+			"August",
+		"September":
+			"September",
+		"October":
+			"Oktober",
+		"November":
+			"November",
+		"December":
+			"Dezember",
+
+		//resource bars
+		"METALS":
+			"METALL",
+		"CARBON":
+			"KOHLENSTOFF",
+		"WATER":
+			"WASSER",
+		"SILICON":
+			"SILIZIUM",
+		"AURIUM":
+			"AURIUM",
+		"CHARGE":
+			"LADUNG",
+		"FULL!":
+			"VOLL!",
+		"EMPTY!":
+			"LEER!",
+
+		//respawn player join info text
+		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
+			"SPIELER {PLAYER NUMBER}: Drücke Tastatur/Controller Knopf zum Beitreten",
+		"PLAYER {PLAYER NUMBER}: Press Keyboard Button to Join":
+			"SPIELER {PLAYER NUMBER}: Drücke Tastatur Knopf zum Beitreten",
+		"PLAYER {PLAYER NUMBER}: Press Controller Button to Join":
+			"SPIELER {PLAYER NUMBER}: Drücke Controller Knopf zum Beitreten",
+		"PLAYER {PLAYER NUMBER}: Plug in Controller to Join":
+			"SPIELER {PLAYER NUMBER}: Verbinde Controller zum Beitreten",
+
+		//tips appearing over pioneer
+		"Press again to Abandon Body":
+			"Erneut drücken zum Körper Verlassen",
+		"No Backup, Restart?":
+			"Kein Körper, Neustart?",
+		"No Arm":
+			"Kein Arm",
+		"Abandon Body":
+			"Körper Verlassen",
+		"Restart Scene":
+			"Szene Neustarten",
+		"Take Over {BUTTON}":
+			"Übernehmen {BUTTON}",
+		"Throw Gun!":
+			"Werfe Waffe!",
+		"Scene Completed":
+			"Szene Abgeschlossen",
+		"Scene Completed (No Goal)":
+			"Szene Abgeschlossen (Kein Ziel)",
+
+		//buttons
+		"[X]": //this is the X button on keyboard
+			"[X]",
+		"[E]":
+			"[E]",
+		"Left Click":
+			"Links Click",
+		"(Back)": //this is the back button on the controller
+			"(Back)",
+		"Right Trigger":
+			"Rechter Trigger",
+
+		//appearing on screen on game over
+		"Press {BUTTON} to Restart":
+			"Zum Neustart drücke {BUTTON}",
+
+		//when selecting body on minimap
+		"Take Over Body":
+			"Körper übernehmen",
+
+		//respawn station
+		"Game Saved":
+			"Spiel gespeichert",
+		"Respawn Here":
+			"Hier Körper übernehmen",
+
+		//game quit
+		"GAME SAVED":
+			"SPIEL GESPEICHERT",
+		"SEE YOU LATER SPACE COWBOY":
+			"BIS SPÄTER SPACE COWBOY",
+		"CLOSING ALL THE PIXELS":
+			"Schließe alle Pixel",
+
+		//engine messages
+		"Restarting":
+			"Neustart",
+		"Loading {SCENE NAME}":
+			"Lade {SCENE NAME}",
+
+		//loading screen
+		"WORK IN PROGRESS":
+			"SPIEL IN STÄTIGER ENTWICKLUNG",
+		"ALT + ENTER TOGGLES FULLSCREEN":
+			"VOLLBILD: ALT + ENTER",
+		"LOADING":
+			"LADE",
+		"LOADING PLANETOID":
+			"LADE PLANETOID",
+		"Loading Sound manager":
+			"Lade Sound Manager",
+		"Loading PS library":
+			"Lade Partikelsysteme",
+		"Loading Material PS library":
+			"Lade Material Partikelsysteme",
+		"Loading Blueprint library":
+			"Lade Blueprints",
+		"Loading Workshop Blueprint library":
+			"Lade Steam Workshop Blueprints",
+		"Loading Downloaded Blueprint library":
+			"Lade Heruntergeladene Blueprints",
+		"Loading Scene library":
+			"Lade Szenen",
+		"Loading Workshop Scene library":
+			"Lade Steam Workshop Szenen",
+		"Checking Scenes":
+			"Überprüfe Szenen",
+		"Loading Downloaded Scene library":
+			"Lade Heruntergeladene Szenen",
+		"Loading Scene Fragments library":
+			"Lade Szenenfragmente",
+		"Loading Steam Workshop":
+			"Lade Steam Workshop",
+		"Extracting all Blueprints and PSs":
+			"Extrahiere alle Blueprints and Partikelsysteme",
+		"Extracting Scene: Asteroid Belt":
+			"Extrahiere Szene: Asteroidengürtel",
+		"Extracting Scene: Primoid":
+			"Extrahiere Szene: Primoid",
+		"Starting files change detectors":
+			"Starte Dateiänderungsdetektor",
+		"Loading Crush2D Editor":
+			"Lade Crush2D Entwicklerumgebung",
+		"Initializing Crush2D Editor":
+			"Initialisiere Crush2D Entwicklerumgebung",
+		"Refreshing C2D Editor":
+			"Aktualisiere Crush2D Entwicklerumgebung",
+		"Loading Physics Materials":
+			"Lade Materialien",
+		"Loading Menu Scene":
+			"Lade Menü Szene",
+		"Loading Scene: {SCENE NAME}":
+			"Loading Szene: {SCENE NAME}",
+		"Loading Blueprint to editor: {NAME}":
+			"Lade Editor Blueprint: {NAME}",
+		"Preparing Game Scene":
+			"Bereite Spiel vor",
+		"Loading additional data":
+			"Lade zusätzliche Daten",
+		"Reloading changed files":
+			"Lade geänderte Daten",
+		"Preloading Textures":
+			"Lade Texturen",
+		"Loading Controller Layout":
+			"Lade Controller Belegung",
+		"This is the first time the game is loaded, so it will take a bit longer to extract all the data - future starts will be quicker!":
+			"Das Spiel wird zum ersten mal gestartet, deshalb dauert es länger alle Daten zu entpacken. Zukünftige Starts sind schneller",
+		"The game might be running slower because your device has 8 GB of memory or less.":
+			"Das Spiel läuft möglicherweise langsamer, weil dein Computer 8GB Arbeitsspeicher oder weniger hat.",
+		"Updating libraries":
+			"Aktualisiere Bibliotheken",
+		"Preloading pictures":
+			"Lade Bilddateien",
+		"Scene Reset - Activity and C2DUpdate Build":
+			"Starte Szene - Initialisiere Spielmodus",
+		"Scene Reset - Preloading Pictures":
+			"Starte Szene - Lade Bilddateien",
+		"Scene Reset - Preloading Sounds":
+			"Starte Szene - Lade Sounds",
+		"Resetting Scene":
+			"Szenenreset",
+		"Preloading textures... {PERCENT}%":
+			"Lade Texturen... {PERCENT}%",
+		"Loading data":
+			"Lade Daten",
+		"Loading terrain":
+			"Lade Terrain",
+		"Updating textures and sounds":
+			"Aktualisiere Texturen und Sounds",
+		"Clean up":
+			"Aufräumen",
+		"Extracting textures and sounds":
+			"Extrahiere Texturen und Sounds",
+		"Load objects start":
+			"Lade Objekte",
+		"Updating Edit-IDs":
+			"Aktualisiere IDs",
+		"Creating Terrain Objects":
+			"Erstelle Terrain",
+		"Computing Zones":
+			"Berechne Zonen",
+		"Computing Terrain":
+			"Berechne Terrain",
+		"Computing Gravity and Heating":
+			"Berechne Schwerkraft und Hitze",
+		"Updating Layers":
+			"Aktualisiere Layers",
+		"Updating WorldGrid wire meshes":
+			"Aktualisiere Szenen Gitternetz",
+		"Scene Reset - Create Assemblies {NUMBER}":
+			"Starte Szene - Erschaffe Objekte {NUMBER}",
+		"Scene Reset - Create Assemblies Done":
+			"Starte Szene - Erschaffe Objekte, Fertig",
+		"Scene Reset - Clean Up":
+			"Starte Szene - Aufräumen",
+		"Scene Reset - Compute Layers":
+			"Starte Szene - Berechne Layers",
+		"Scene Reset - Create Assemblies":
+			"Starte Szene - Erschaffe Objekte",
+		"Loading file tree":
+			"Lade Dateibaum",
+		"Checking files":
+			"Überprüfe Dateien",
+		"Checking files ({NUMBER})":
+			"Überprüfe Dateien ({NUMBER})",
+		"Getting files info":
+			"Lade Dateiinformation",
+
+		//pause
+		"UNPAUSING...":
+			"FORTSETZEN...",
+		"- PAUSED -":
+			"- PAUSE -",
+		"Press P to resume":
+			"Drücke P zum Fortfahren",
+		"or O to step one frame":
+			"oder O für einen Schritt",
+
+		//debug print
+		"SHIFT + L to disable / enable this output":
+			"SHIFT + L zum Zeigen / Verstecken der Textausgabe",
+
+		//primoid
+		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
+			"",
+		"New Area":
+			"Neues Gebiet",
+
+		//primoid areas
+		"Primoid Plains":
+			"",
+		"Maw Cavern":
+			"",
+		"Crash Cauldron":
+			"",
+		"North Hub":
+			"",
+		"Cave Tunnels":
+			"",
+		"Jungle Temple":
+			"",
+		"West Metal Mine":
+			"",
+		"East Metal Mine":
+			"",
+		"Surface Gauntlet":
+			"",
+		"Mu-Ilaak Temple":
+			"",
+		"Mu-Ilaak Tomb":
+			"",
+		"Prime Grottos":
+			"",
+		"Mount Prime":
+			"",
+		"Flush Chute":
+			"",
+		"Silicon Maze":
+			"",
+		"Aurium Core":
+			"",
+
+		//last man standing (Carnageoid)
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"UP TO 4 PLAYER PVP":
+			"",
+		"Change Arena with Triggers or Mouse":
+			"",
+		"Go!":
+			"",
+		"Sudden Death In {SECONDS}":
+			"",
+		"Winner!":
+			"",
+		"{CHALLENGE INSTRUCTION}!":
+			"",
+		"Dance":
+			"",
+		"Dont Move":
+			"",
+		"Dive":
+			"",
+		"Press All Buttons":
+			"",
+		"{SCORE}/10":
+			"",
+
+		//racetoid
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
+			"",
+		"Go":
+			"",
+		"Best Time: {TIME}":
+			"",
+		"Best Time: {TIME} (Gold: {GOLD TIME})":
+			"",
+		"New Highscore!":
+			"",
+		"Highscore: {TIME}":
+			"",
+
+		//wrangle
+		"Take to Burner!":
+			"",
+		"Catch It!":
+			"",
+		"Grab the Grazer!":
+			"",
+		"Good work!":
+			"",
+		"You win! Time to head off!":
+			"",
+
+		//coliseum
+		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
+			"",
+		"Rate them in the Workshop - it affects how often they appear":
+			"",
+		"New Blueprint Uploaded: {NAME}!":
+			"",
+		"Next Up:":
+			"",
+		"Coliseum {NAME} by {AUTHOR}":
+			"{NAME} von {AUTHOR}",
+		"{NAME} wins!":
+			"",
+		"Using {NAME}":
+			"",
+		"Streak: {STREAK COUNT}!":
+			"",
+		"Ended Streak of {NAME}":
+			"",
+		"A Community Creation":
+			"",
+		"A Community Creation By: {NAME}":
+			"",
+		"Rating: {RATING}%":
+			"",
+		"Rematch":
+			"",
+		"Draw":
+			"",
+
+		//steam workshop info
+		"Loading Name":
+			"Lade Name",
+		"WS By {AUTHOR}":
+			"Von {AUTHOR}",
+		"Workshop Blueprint By {AUTHOR}":
+			"Workshop Blueprint Von {AUTHOR}",
+		"Rating: {RATING}%":
+			"Bewertung: {RATING}%",
+
+		//structure steam altar
+		"Subscribe to Blueprints to receive them here {BUTTON}":
+			"Abboniere Blueprints und erhalte sie hier {BUTTON}",
+		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
+			"Aktiviere abbonierte Blueprints. Drücke {BUTTON} um workshop zu öffnen",
+		"Steam Altar Do you recommend this?":
+			"Empfiehlst du diesen Blueprint?",
+		"Steam Altar No":
+			"Nein",
+		"Steam Altar Yes":
+			"Ja",
+
+		//structure shop manager (steam shop)
+		"Free Sample":
+			"Kostenlose Probe",
+		"{PRICE} (50% off)":
+			"{PRICE} (50% reduziert)",
+		"Buy":
+			"Kaufen",
+		"Steam Shop By {AUTHOR}":
+			"Von {AUTHOR}",
+		"Steam Shop Do you recommend this?":
+			"Empfiehlst du diesen Blueprint?",
+		"Up/Down Vote":
+			"Bewerten",
+		"Not enough Aurium":
+			"Nicht genug Aurium",
+		"Voted Up":
+			"Gefällt mir",
+		"Voted Down":
+			"Gefällt mir nicht",
+		"- Shop {SHOP TAG} -":
+			"- {SHOP TAG} Laden -",
+
+		//tags (plural)
+		"Weapons":
+			"Waffen",
+		"Tools":
+			"Ausrüstungs",
+		"Vehicles":
+			"Fahrzeug",
+		"Pioneers":
+			"Pionier",
+		"Robots":
+			"Roboter",
+		"Golems":
+			"Golem",
+		"Faunas":
+			"Tier",
+
+		//structure shop pioneers
+		"Pio Shop Not enough Aurium":
+			"Nicht genug Aurium",
+
+		//machine space teleporter
+		"Space Teleporter Scene Completed":
+			"Szene Abgeschlossen",
+		"Confirm to leave":
+			"Bestätigen zum Verlassen",
+
+		}
+}
