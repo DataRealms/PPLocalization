@@ -43,7 +43,7 @@
 		"Steam Workshop":
 			"Мастерская Steam",
 		"Auto-Download Content":
-			"Автоматически загружать контент",
+			"Авто-загрузка контента",
 		//buttons
 		"Start!":
 			"Старт!",
@@ -81,7 +81,7 @@
 		"Can you believe this?!":
 			"Невероятно?!",
 		"Let's try this gun!":
-			"Попробуем эту пушку!",
+			"Попробуем c этой пушкой!",
 		"Oookay, that's ominous":
 			"Так, а вот это уже опасно",
 		"Damned birds!!":
@@ -89,7 +89,7 @@
 		"Curse these birds!!":
 			"Да пропадите вы пропадом!!",
 		"It's a lot easier to climb with both my hands free...":
-			"Со свободными руками лазать гораздо легче...",
+			"Со свободными руками лезть полегче...",
 		"EATING MY WORDS!!":
 			"БЕРУ СВОИ СЛОВА ОБРАТНО!!",
 		"EAT THAT!!":
@@ -318,7 +318,7 @@
 		"Wrangloid":
 			"Ковбоид",
 		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
-			"Ловите существ заполонивших несколько планетоидов в этом поясе. Кладите их в жаровню за награду. Опасайтесь Серебристого, который тоже кормится ими... и вами!",
+			"Ловите существ заполонивших несколько планетоидов в этом поясе. Кладите их в сжигатель за награду. Опасайтесь Серебристого, который тоже кормится ими... и вами!",
 		"Collect and cook all the Grazers. ":
 			"Поймать и приготовить всех существ.",
 
@@ -372,6 +372,312 @@
 			"Отписаться",
 		"Subscribe":
 			"Подписаться",
+
+		//asteroid belt
+		"Press Button To Start":
+			"Нажмите кнопку чтобы начать",
+		"AB Scene Completed":
+			"Уровень завершён",
+		"Featured ({MONTH}) by {AUTHOR}":
+			"Выбор ({MONTH}) от {AUTHOR}",
+		"Planetoid Deleted":
+			"Планетоид удалён",
+		"New Planetoid!":
+			"Новый планетоид!",
+		"Planetoid Updated!":
+			"Планетоид обновлён!",
+		"You Are Here":
+			"Вы здесь",
+		"Locked":
+			"Заблокирован",
+		"AB Completed":
+			"Завершён",
+		"Rating {RATING}% Positive":
+			"Рейтинг положительный на {RATING}%",
+		"Click to Resubscribe":
+			"Нажмите чтобы переподписаться",
+		"Downloading...":
+			"Загрузка...",
+		"{NAME} (Featured)": //this appears behind a scene name i.e 'Primoid (Featured)'
+			"{NAME} (выбор месяца)",
+		"???": //undiscovered planetoid
+			"???",
+		"AB Failed":
+			"Неудача",
+		"AB Asteroid Belt {AB NUMBER}":
+			"Пояс астероидов {AB NUMBER}",
+		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
+			"Завершено {COUNT COMPLETED} из {COUNT TOTAL}",
+
+		//months
+		"January":
+			"января",
+		"Febuary":
+			"февраля",
+		"March":
+			"марта",
+		"April":
+			"апреля",
+		"May":
+			"мая",
+		"June":
+			"июня",
+		"July":
+			"июля",
+		"August":
+			"августа",
+		"September":
+			"сентября",
+		"October":
+			"октября",
+		"November":
+			"ноября",
+		"December":
+			"декабря",
+
+		//respawn player join info text
+		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
+			"ИГРОК {PLAYER NUMBER}: Нажмите кнопку на клавиатуре/контроллере чтобы начать",
+		"PLAYER {PLAYER NUMBER}: Press Keyboard Button to Join":
+			"ИГРОК {PLAYER NUMBER}: Нажмите кнопку на клавиатуре чтобы начать",
+		"PLAYER {PLAYER NUMBER}: Press Controller Button to Join":
+			"ИГРОК {PLAYER NUMBER}: Нажмите кнопку на контроллере чтобы начать",
+		"PLAYER {PLAYER NUMBER}: Plug in Controller to Join":
+			"ИГРОК {PLAYER NUMBER}: Подключите контроллер чтобы начать",
+
+		//tips appearing over pioneer
+		"Press again to Abandon Body":
+			"Нажмите ещё раз чтобы покинуть тело",
+		"No Backup, Restart?":
+			"Нет запасных тел, перезапустить?",
+		"No Arm":
+			"Нет руки",
+		"Abandon Body":
+			"Покинуть тело",
+		"Restart Scene":
+			"Перезапустить уровень",
+		"Take Over {BUTTON}":
+			"Вселиться {BUTTON}",
+		"Throw Gun!":
+			"Бросить оружие!",
+		"Scene Completed":
+			"Уровень завершён",
+		"Scene Completed (No Goal)":
+			"Уровень завершён (Нет цели)",
+
+		//buttons
+		"[X]": //this is the X button on keyboard
+			"[X]",
+		"[E]":
+			"[E]",
+		"Left Click":
+			"Левый клик",
+		"(Back)": //this is the back button on the controller
+			"(Назад)",
+		"Right Trigger":
+			"Правый курок",
+
+		//appearing on screen on game over
+		"Press {BUTTON} to Restart":
+			"Нажмите {BUTTON} для перезапуска",
+
+		//when selecting body on minimap
+		"Take Over Body":
+			"Вселиться в тело",
+
+		//game quit
+		"GAME SAVED":
+			"Игра сохранена",
+		"SEE YOU LATER SPACE COWBOY":
+			"Увидимся позже космический ковбой",
+
+		//primoid
+		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
+			"Нажмите F1 чтобы ответить на несколько вопросов об области в которой вы только что играли (Подождите пару секунд чтобы загрузилось)",
+		"New Area":
+			"Новая область",
+
+		//primoid areas
+		"Primoid Plains":
+			"Равнины Примоида",
+		"Maw Cavern":
+			"Пещера-пасть",
+		"Crash Cauldron":
+			"Место крушения",
+		"North Hub":
+			"Северный узел",
+		"Cave Tunnels":
+			"Пещерные туннели",
+		"Jungle Temple":
+			"Храм в джунглях",
+		"West Metal Mine":
+			"Западная шахта",
+		"East Metal Mine":
+			"Восточная шахта",
+		"Surface Gauntlet":
+			"Рукавица",
+		"Mu-Ilaak Temple":
+			"Храм Мю-Илаак",
+		"Mu-Ilaak Tomb":
+			"Гробница Мю-Илаак",
+		"Prime Grottos":
+			"Гроты",
+		"Mount Prime":
+			"Гора",
+		"Flush Chute":
+			"Сливной жёлоб",
+		"Silicon Maze":
+			"Кремневый лабиринт",
+		"Aurium Core":
+			"Ядро из Ауриума",
+
+		//last man standing (Carnageoid)
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"- НАЖМИТЕ ESC/SELECT ЧТОБЫ ВЕРНУТЬСЯ В ПОЯС АСТЕРОИДОВ -",
+		"- PRESS BUTTON TO JOIN -":
+			"- НАЖМИТЕ КНОПКУ ЧТОБЫ НАЧАТЬ -",
+		"UP TO 4 PLAYER PVP":
+			"PVP ДО 4 ИГРОКОВ",
+		"Change Arena with Triggers or Mouse":
+			"Смените арену используя курки или мышь",
+		"Go!":
+			"Начали!",
+		"Sudden Death In {SECONDS}":
+			"Верная смерть через {SECONDS}",
+		"Winner!":
+			"Победитель!",
+		"{CHALLENGE INSTRUCTION}!":
+			"{CHALLENGE INSTRUCTION}!",
+		"Dance":
+			"Танцуй",
+		"Dont Move":
+			"Не двигайся",
+		"Dive":
+			"Нырок",
+		"Press All Buttons":
+			"Нажми все кнопки!",
+		"{SCORE}/10":
+			"{SCORE}/10",
+
+		//racetoid
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"- НАЖМИТЕ ESC/SELECT ЧТОБЫ ВЕРНУТЬСЯ В ПОЯС АСТЕРОИДОВ -",
+		"- PRESS BUTTON TO JOIN -":
+			"- НАЖМИТЕ НА КНОПКУ ЧТОБЫ НАЧАТЬ -",
+		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
+			"Готовность игроков {PLAYERS READY}/{TOTAL PLAYERS}",
+		"Go":
+			"Начало!",
+		"Best Time: {TIME}":
+			"Лучшее время : {TIME}",
+		"Best Time: {TIME} (Gold: {GOLD TIME})":
+			"Лучшее время: {TIME} (Золото: {GOLD TIME})",
+		"New Highscore!":
+			"Новый рекорд!",
+		"Highscore: {TIME}":
+			"Рекорд: {TIME}",
+
+		//wrangle
+		"Take to Burner!":
+			"Отнеси в сжигатель!",
+		"Catch It!":
+			"Поймай его!",
+		"Grab the Grazer!":
+			"Хватай зверя!",
+		"Good work!":
+			"Отлично!",
+		"You win! Time to head off!":
+			"Победа! Время защищаться!",
+
+		//coliseum
+		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
+			"- Чтобы добавить свой чертёж из Мастерской поставьте на него тэг \"Gladiator\" -",
+		"Rate them in the Workshop - it affects how often they appear":
+			"Ставьте оценки в Мастерской - это влияет на частоту их появления",
+		"New Blueprint Uploaded: {NAME}!":
+			"Загружен новый чертёж {NAME}!",
+		"Next Up:":
+			"Следующий",
+		"Coliseum {NAME} by {AUTHOR}":
+			"Колизей {NAME} от {AUTHOR}",
+		"{NAME} wins!":
+			"{NAME} победил!",
+		"Using {NAME}":
+			"Используется {NAME}",
+		"Streak: {STREAK COUNT}!":
+			"Побед подряд: {STREAK COUNT}!",
+		"Ended Streak of {NAME}":
+			"",
+		"A Community Creation":
+			"Создано сообществом",
+		"A Community Creation By: {NAME}":
+			"Создано сообществом, Автор: {NAME}",
+		"Rating: {RATING}%":
+			"Рейтинг {RATING}%",
+		"Rematch":
+			"Реванш",
+		"Draw":
+			"Ничья",
+
+		//respawn station
+		"Game Saved":
+			"Игра сохранена",
+		"Respawn Here":
+			"Возродиться здесь",
+
+		//steam workshop info
+		"Loading Name":
+			"",
+		"WS By {AUTHOR}":
+			"От {AUTHOR}",
+		"Workshop Blueprint By {AUTHOR}":
+			"Чертёж из Мастерской от {AUTHOR}",
+		"Rating: {RATING}%":
+			"Рейтинг: {RATING}%",
+
+		//structure steam altar
+		"Subscribe to Blueprints to receive them here {BUTTON}":
+			"Подписывайтесь на чертежи в Мастерской чтобы получать из здесь {BUTTON}",
+		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
+			"Активация подписок. Нажмите {BUTTON} чтобы открыть Мастерскую",
+		"Steam Altar Do you recommend this?":
+			"Вы бы порекомендовали это?",
+		"Steam Altar No":
+			"Нет",
+		"Steam Altar Yes":
+			"Да",
+
+		//structure shop manager (steam shop)
+		"Free Sample":
+			"Бесплатный образец",
+		"{PRICE} (50% off)":
+			"{PRICE} (скидка 50%)",
+		"Buy":
+			"Купить",
+		"Steam Shop By {AUTHOR}":
+			"От {AUTHOR}",
+		"Steam Shop Do you recommend this?":
+			"Вы бы порекомендовали это?",
+		"Up/Down Vote":
+			"Голос за/против",
+		"Not enough Aurium":
+			"Недостаточно Ауриума",
+		"Voted Up":
+			"Голос за",
+		"Voted Down":
+			"Голос против",
+
+		//structure shop pioneers
+		"Pio Shop Not enough Aurium":
+			"Недостаточно Ауриума",
+
+		//machine space teleporter
+		"Space Teleporter Scene Completed":
+			"Уровень завршён",
+		"Confirm to leave":
+			"Подтвердите выход",
+		"tap":
+			"клик",
 
 	}
 }
