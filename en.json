@@ -13,11 +13,15 @@
 
 		//planetoid panel
 		//labels/description/etc
+		"Planetoid":
+			"",
 		"Goal":
 			"",
 		"Difficulty: {DIFFICULTY}":
 			"",
 		"Time: {TIME_ESTIMATE}":
+			"",
+		"ABUI By {AUTHOR}":
 			"",
 
 		//settings
@@ -323,8 +327,22 @@
 		"Collect and cook all the Grazers. ":
 			"",
 
+		"Trigger Tutorial":
+			"",
+		"Learn how to use triggers and reactors to create your own scenes.":
+			"",
+		"Reach the teleporter to get back into space.":
+			"",
+
+		"Blank Planetoid":
+			"",
+		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
+			"",
+		"Reach the teleporter to get back into space.":
+			"",
+
 		//modal stuff
-		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
 
 		"{QUIT TITLE}":
 			"Quit",
@@ -510,6 +528,113 @@
 		"Respawn Here":
 			"",
 
+		//weapon names
+		"Assault Rifle":
+			"",
+		"Aurium Staff":
+			"",
+		"Blue Rifle":
+			"",
+		"Bounding Mine Grenade":
+			"",
+		"Cold Grenade Launcher":
+			"",
+		"Cold Grenade":
+			"",
+		"Cold Shotgun":
+			"",
+		"Flamethrower":
+			"",
+		"Grandpas Rifle":
+			"",
+		"Grenade Launcher":
+			"",
+		"Hand Grenade":
+			"",
+		"Heavy Machine Gun":
+			"",
+		"Laser Assault Rifle":
+			"",
+		"Machine Pistol":
+			"",
+		"Mine Launcher":
+			"",
+		"Minigun":
+			"",
+		"Nail Gun":
+			"",
+		"Pistol":
+			"",
+		"Plasma Rifle":
+			"",
+		"Rifle Bolt Action":
+			"",
+		"Scrap Launcher":
+			"",
+		"Shockwave Gun":
+			"",
+		"Shotgun":
+			"",
+		"Sticky Bomb Launcher":
+			"",
+
+		//tools
+		"Balloon Gun":
+			"",
+		"Bomb Crab":
+			"",
+		"Grappling Hook Basic":
+			"",
+		"Hack Gun":
+			"",
+		"Jet Rocket":
+			"",
+		"Propeller":
+			"",
+		"Quantum Field Device":
+			"",
+		"Rope Launcher":
+			"",
+		"Rope":
+			"",
+		"Shield Metal":
+			"",
+		"Welder":
+			"",
+
+		//vehciles flying
+		"Ship Mini":
+			"",
+		"Ship Rocket":
+			"",
+
+		//vehicles land
+		"Rover Carbon":
+			"",
+		"Rover Carrier Hover":
+			"",
+		"Rover Carrier":
+			"",
+		"Rover Climber":
+			"",
+		"Rover Coalition Spider Climber":
+			"",
+		"Rover Minimal":
+			"",
+		"Rover Quad":
+			"",
+		"Rover Scissor":
+			"",
+		"Rover Shocks":
+			"",
+
+		//components
+		"Seat":
+			"",
+		"Seat Boosted":
+			"",
+
+
 		//game quit
 		"GAME SAVED":
 			"",
@@ -665,6 +790,14 @@
 		//debug print
 		"SHIFT + L to disable / enable this output":
 			"",
+		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
+			"",
+		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
+			"",
+
+		//editor
+		"GAME MODE / EDIT MODE":
+			"",
 
 		//primoid
 		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
@@ -764,6 +897,24 @@
 		"You win! Time to head off!":
 			"",
 
+		//wrangloid UI
+		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
+			"",
+
+		//defendoid
+		"Use Terminal to Skip Wait!":
+			"",
+		"Wave {WAVE_NUMBER}":
+			"",
+		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
+			"",
+		"Clear up attackers!":
+			"",
+		"Search for loot and upgrades!":
+			"",
+		"Get ready for attackers!":
+			"",
+
 		//coliseum
 		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
 			"",
@@ -838,7 +989,7 @@
 		"- Shop {SHOP TAG} -":
 			"",
 
-		//tags (plural)
+		//tags (plural) used for SHOP TAG
 		"Weapons":
 			"",
 		"Tools":
@@ -864,5 +1015,5 @@
 		"Confirm to leave":
 			"",
 
-		}
+	}
 }
