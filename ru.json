@@ -291,7 +291,7 @@
 		"Coliseumoid":
 			"Колизеоид",
 		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
-			"Бесконечно смотрите бои гладиаторов случайно выбранных из игры и Мастерской Steam. Для участия создайте собственное существо и проставьте тэг \"Gladiator\"",
+			"Смотрите бои гладиаторов случайно выбранных из игры и Мастерской Steam. Для участия создайте собственное существо и проставьте тэг \"Gladiator\"",
 		"Watch one round of gladiator combat. ":
 			"Посмотреть один раунд боя гладиаторов",
 
@@ -305,7 +305,7 @@
 		"Plutas":
 			"Плутоид",
 		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
-			"Планетоид кишащей прожорливой фауной и агрессивными автоматами ждёт в гости не самых удачливых пилотов пояса астероидов. Соблюдайте осторожность пытаясь собрать рабочий космолёт. Постарайтесь чтобы вас не съели.",
+			"Планетоид кишащий прожорливой фауной и агрессивными автоматами ждёт в гости не самых удачливых пилотов пояса астероидов. Соблюдайте осторожность пытаясь собрать рабочий космолёт. Постарайтесь чтобы вас не съели.",
 		"Construct a suitable escape vessel and leave. ":
 			"Постройте подходящий для спасения корабль и покиньте планетоид.",
 
@@ -605,7 +605,7 @@
 
 		//vehciles flying
 		"Ship Mini":
-			"Мини корабль",
+			"Мини-корабль",
 		"Ship Rocket":
 			"Ракета",
 
@@ -638,9 +638,9 @@
 			"Улучшенное сиденье",
 		//game quit
 		"GAME SAVED":
-			"Игра сохранена",
+			"ИГРА СОХРАНЕНА",
 		"SEE YOU LATER SPACE COWBOY":
-			"Увидимся позже космический ковбой",
+			"УВИДИМСЯ ПОЗЖЕ КОСМИЧЕСКИЙ КОВБОЙ",
 		"CLOSING ALL THE PIXELS":
 			"ЗАКРЫВАЕМ ПИКСЕЛИ",
 
@@ -780,7 +780,7 @@
 
 		//pause
 		"UNPAUSING...":
-			"ПРОДОЛЖЕНИЕ",
+			"ПРОДОЛЖЕНИЕ...",
 		"- PAUSED -":
 			"- ПАУЗА -",
 		"Press P to resume":
@@ -852,19 +852,21 @@
 		"Go!":
 			"Начали!",
 		"Sudden Death In {SECONDS}":
-			"Верная смерть через {SECONDS}",
+			"Cмерть через {SECONDS}",
+		"SUDDEN DEATH IN {SECONDS}":
+			"Cмерть через {SECONDS}",
 		"Winner!":
 			"Победитель!",
 		"{CHALLENGE INSTRUCTION}!":
 			"{CHALLENGE INSTRUCTION}!",
 		"Dance":
-			"Танцуй",
+			"Пляши!",
 		"Dont Move":
-			"Не двигайся",
+			"Замри!",
 		"Dive":
-			"Нырок",
+			"Валяйся!",
 		"Press All Buttons":
-			"Нажми все кнопки!",
+			"Жми все кнопки!",
 		"{SCORE}/10":
 			"{SCORE}/10",
 
@@ -888,7 +890,7 @@
 
 		//wrangle
 		"Take to Burner!":
-			"Отнеси в жаровню!",
+			"Отнеси к жаровне!",
 		"Catch It!":
 			"Поймай его!",
 		"Grab the Grazer!":
@@ -896,7 +898,7 @@
 		"Good work!":
 			"Отлично!",
 		"You win! Time to head off!":
-			"Победа! Время защищаться!",
+			"Победа!",
 
 		//wrangloid UI
 		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
@@ -928,6 +930,8 @@
 			"Колизей {NAME} от {AUTHOR}",
 		"{NAME} wins!":
 			"{NAME} победил!",
+		"{NAME} WINS!":
+			"{NAME} ПОБЕДИЛ!",
 		"Using {NAME}":
 			"Используется {NAME}",
 		"Streak: {STREAK COUNT}!":
@@ -981,7 +985,7 @@
 		"Buy":
 			"Купить",
 		"Steam Shop By {AUTHOR}":
-			"От {AUTHOR}",
+			"Автор {AUTHOR}",
 		"Steam Shop Do you recommend this?":
 			"Вы бы порекомендовали это?",
 		"Up/Down Vote":
