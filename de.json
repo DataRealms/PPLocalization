@@ -13,12 +13,16 @@
 
 		//planetoid panel
 		//labels/description/etc
+		"Planetoid":
+			"Planetoid",
 		"Goal":
-			"Ziel",
+			"Mission",
 		"Difficulty: {DIFFICULTY}":
 			"Schwierigkeit: {DIFFICULTY}",
 		"Time: {TIME_ESTIMATE}":
 			"Dauer: {TIME_ESTIMATE}",
+		"ABUI By {AUTHOR}":
+			"Von {AUTHOR}",
 
 		//settings
 		"Settings":
@@ -42,12 +46,12 @@
 		"Factory Reset":
 			"Spiel Zurücksetzten",
 		"Steam Workshop":
-			"",
+			"Steam Workshop",
 		"Auto-Download Content":
 			"Auto-Downloads",
 		//buttons
 		"Start!":
-			"Start!",
+			"Los!",
 		"Continue":
 			"Fortsetzen",
 		"Restart":
@@ -100,7 +104,7 @@
 		"What are these structures?":
 			"",
 		"WHOAAAAAAAA!!":
-			"WOOAAAAAAAA!!",
+			"WOOOOAAAAAA!!",
 		"BANG!":
 			"BÄNG!",
 		"Maybe they weren't trying to keep things out... but to keep something IN!?":
@@ -114,7 +118,7 @@
 		"That was my space yacht...":
 			"",
 		"Well, that's not very secure...":
-			"",
+			"Wow das ist nicht gerade besonders sicher...",
 		"I don't like the look, smell, or feel of this place... it's all squishy.":
 			"",
 		"Ohh you UGLY, Cyclops!!":
@@ -166,15 +170,15 @@
 		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
 			"",
 		"Were those skeletons... screaming?!":
-			"",
+			"Haben diese Skelette... geschrien?!",
 		"What are those buildings...?":
 			"",
 		"What happened to these guys?!":
-			"",
+			"Was ist den mit denen passiert?!",
 		"What weird beast has carved out these ice caves??":
 			"",
 		"Big lad, aren't ya!":
-			"",
+			"Bist nen ganz grosser!", //TODO '
 		"Yum, eat it up!!":
 			"",
 		"Dang - How am I supposed to jump this ring of fire?!":
@@ -222,7 +226,7 @@
 		"CHEW ON THIS!":
 			"",
 		"I made it!":
-			"",
+			"Geschafft!",
 		"Now, how do I start this thing...":
 			"",
 		"Let's try this big red button!":
@@ -232,9 +236,9 @@
 		"We have lift off, baby!":
 			"",
 		"Whoo!":
-			"",
+			"Wooo",
 		"Oh crap, what's that? No fuel?":
-			"",
+			"Oh verdammt, was ist los? Kein Treibstoff?",
 		"Oh no! Oh no, no, no!":
 			"",
 
@@ -269,7 +273,7 @@
 		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
 			"",
 		"Survive 10 waves":
-			"",
+			"Überlebe 10 Wellen",
 
 		"Bindleoid":
 			"",
@@ -319,10 +323,24 @@
 		"Wrangloid":
 			"Wrangloid",
 		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
-			"",
+			"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner", //TODO looks like it cant deal with strings longer then 128?
 			//"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner für eine	Prämie. Vorsicht for dem Silverback, welcher sich von Grazern ernährt... und auch dir!",
 		"Collect and cook all the Grazers. ":
-			"Sammle und koche alle Grazer.",
+			"Sammle und koche alle Grazer für eine leckere Mahlzeit.",
+
+		"Trigger Tutorial":
+			"Trigger Tutorial",
+		"Learn how to use triggers and reactors to create your own scenes.":
+			"Lerne wie du Trigger und Reaktoren in deinen eigenen Szenen verwenden kannst.",
+		"Reach the teleporter to get back into space.":
+			"Erreiche den Teleporter um zurück in den Asteroidengürtel zu gelangen",
+
+		"Blank Planetoid":
+			"Leerer Planetoid",
+		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
+			"Dieser Planetoid ist ein Beispiel. Nutze ihn als Basis um deine eigene Szene zu erstellen. Er hat den Tag \"Mappable\" damit Er im Asteroidengürtel erscheint.",
+		"Reach the teleporter to get back into space.":
+			"Erreiche den Teleporter um zurück in den Asteroidengürtel zu gelangen",
 
 		//modal stuff
 		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
@@ -347,7 +365,7 @@
 		"Are you sure you want to totally delete all data?":
 			"Bist du sicher das du alle Daten löschen willst?",
 		"All saves and your entire user config will be wiped.":
-			"All Spielstände und Einstellungen werden zurückgesetzt.",
+			"Alle Spielstände und Einstellungen werden zurückgesetzt.",
 
 		"{RESTART TITLE}":
 			"Neu Starten",
@@ -393,7 +411,7 @@
 		"Locked":
 			"Gesperrt",
 		"AB Completed":
-			"Completed",
+			"Abgeschlossen",
 		"Rating {RATING}% Positive":
 			"Bewertung {RATING}% Positiv",
 		"Click to Resubscribe":
@@ -511,13 +529,120 @@
 		"Respawn Here":
 			"Hier Körper übernehmen",
 
+		//weapon names
+		"Assault Rifle":
+			"Sturmgewehr",
+		"Aurium Staff":
+			"Aurium Stab",
+		"Blue Rifle":
+			"",
+		"Bounding Mine Grenade":
+			"",
+		"Cold Grenade Launcher":
+			"",
+		"Cold Grenade":
+			"Frost Granate",
+		"Cold Shotgun":
+			"Frostflinte",
+		"Flamethrower":
+			"Flammenwerfer",
+		"Grandpas Rifle":
+			"",
+		"Grenade Launcher":
+			"",
+		"Hand Grenade":
+			"Handgranate",
+		"Heavy Machine Gun":
+			"",
+		"Laser Assault Rifle":
+			"Laser Sturmgewehr",
+		"Machine Pistol":
+			"",
+		"Mine Launcher":
+			"",
+		"Minigun":
+			"",
+		"Nail Gun":
+			"Nagelpistole",
+		"Pistol":
+			"Pistole",
+		"Plasma Rifle":
+			"Plasma Gewehr",
+		"Rifle Bolt Action":
+			"",
+		"Scrap Launcher":
+			"",
+		"Shockwave Gun":
+			"",
+		"Shotgun":
+			"Schrotflinte",
+		"Sticky Bomb Launcher":
+			"",
+
+		//tools
+		"Balloon Gun":
+			"Ballon Pistole",
+		"Bomb Crab":
+			"Bomben Krabbe",
+		"Grappling Hook Basic":
+			"Enterhaken",
+		"Hack Gun":
+			"Hacking Gewehr",
+		"Jet Rocket":
+			"",
+		"Propeller":
+			"Propeller",
+		"Quantum Field Device":
+			"",
+		"Rope Launcher":
+			"Seilwerfer",
+		"Rope":
+			"Seil",
+		"Shield Metal":
+			"Metall Schild",
+		"Welder":
+			"",
+
+		//vehciles flying
+		"Ship Mini":
+			"Mini Schiff",
+		"Ship Rocket":
+			"Rakete",
+
+		//vehicles land
+		"Rover Carbon":
+			"",
+		"Rover Carrier Hover":
+			"Flug-Transporter",
+		"Rover Carrier":
+			"Transporter",
+		"Rover Climber":
+			"Kletter Rover",
+		"Rover Coalition Spider Climber":
+			"Spinnen Rover",
+		"Rover Minimal":
+			"Einfacher Rover",
+		"Rover Quad":
+			"Quad",
+		"Rover Scissor":
+			"",
+		"Rover Shocks":
+			"Jet-Rover",
+
+		//components
+		"Seat":
+			"Sitz",
+		"Seat Boosted":
+			"Raketen Sitz",
+
+
 		//game quit
 		"GAME SAVED":
 			"SPIEL GESPEICHERT",
 		"SEE YOU LATER SPACE COWBOY":
 			"BIS SPÄTER SPACE COWBOY",
 		"CLOSING ALL THE PIXELS":
-			"Schließe alle Pixel",
+			"SCHLIESSE ALLE PIXEL",
 
 		//engine messages
 		"Restarting":
@@ -527,7 +652,7 @@
 
 		//loading screen
 		"WORK IN PROGRESS":
-			"SPIEL IN STÄTIGER ENTWICKLUNG",
+			"SPIEL IN STETIGER ENTWICKLUNG",
 		"ALT + ENTER TOGGLES FULLSCREEN":
 			"VOLLBILD: ALT + ENTER",
 		"LOADING":
@@ -663,21 +788,29 @@
 		"or O to step one frame":
 			"oder O für einen Schritt",
 
-		//debug print
+		//debug
 		"SHIFT + L to disable / enable this output":
 			"SHIFT + L zum Zeigen / Verstecken der Textausgabe",
+		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
+			"LUA ERROR (Ctrl + F8 zum Anzeigen)",
+		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
+			"LUA ERROR IN {FILE NAME}  (Ctrl + F8 zum Anzeigen)",
+
+		//editor
+		"GAME MODE / EDIT MODE":
+			"SPIEL MODUS / ENTWICKLER MODUS",
 
 		//primoid
 		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
-			"",
+			"Drücke F1 um ein paar Fragen zum letzten Gebiet zu beantworten.",
 		"New Area":
 			"Neues Gebiet",
 
 		//primoid areas
 		"Primoid Plains":
-			"",
+			"Primoid Tal",
 		"Maw Cavern":
-			"",
+			"Schlundhöhle",
 		"Crash Cauldron":
 			"",
 		"North Hub":
@@ -685,7 +818,7 @@
 		"Cave Tunnels":
 			"",
 		"Jungle Temple":
-			"",
+			"Dschungel Tempel",
 		"West Metal Mine":
 			"",
 		"East Metal Mine":
@@ -709,91 +842,109 @@
 
 		//last man standing (Carnageoid)
 		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
-			"",
+			"- DRÜCKE ESC/SELECT UM ZUM ASTEROIDENGÜRTEL ZURÜCKZUFAHREN -",
 		"- PRESS BUTTON TO JOIN -":
-			"",
+			"- DRÜCKE KNOPF ZUM BEITRETEN -",
 		"UP TO 4 PLAYER PVP":
-			"",
+			"BIS ZU 4 SPIELER KAMPF UM LEBEN UND TOD",
 		"Change Arena with Triggers or Mouse":
-			"",
+			"Arena ändern mit Trigger oder Mausklick",
 		"Go!":
-			"",
+			"Los!",
 		"Sudden Death In {SECONDS}":
-			"",
+			"K.O. in {SECONDS}",
 		"Winner!":
-			"",
+			"Gewinner!",
 		"{CHALLENGE INSTRUCTION}!":
-			"",
+			"{CHALLENGE INSTRUCTION}!",
 		"Dance":
-			"",
+			"Tanzen",
 		"Dont Move":
-			"",
+			"Nicht bewegen",
 		"Dive":
-			"",
+			"Kopfsprung",
 		"Press All Buttons":
-			"",
+			"Drücke alle Knöpfe",
 		"{SCORE}/10":
-			"",
+			"{SCORE}/10",
 
 		//racetoid
 		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
-			"",
+			"- DRÜCKE ESC/SELECT UM ZUM ASTEROIDENGÜRTEL ZURÜCKZUFAHREN -",
 		"- PRESS BUTTON TO JOIN -":
-			"",
+			"- DRÜCKE KNOPF ZUM BEITRETEN -",
 		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
-			"",
+			"{PLAYERS READY}/{TOTAL PLAYERS} Spieler Bereit",
 		"Go":
-			"",
+			"Los",
 		"Best Time: {TIME}":
-			"",
+			"Bestzeit: {TIME}",
 		"Best Time: {TIME} (Gold: {GOLD TIME})":
-			"",
+			"Bestzeit: {TIME} (Gold: {GOLD TIME})",
 		"New Highscore!":
-			"",
+			"Neuer Record",
 		"Highscore: {TIME}":
-			"",
+			"Bestzeit: {TIME}",
 
 		//wrangle
 		"Take to Burner!":
-			"",
+			"Koche ihn!",
 		"Catch It!":
-			"",
+			"Schnapp ihn!",
 		"Grab the Grazer!":
-			"",
+			"Hol ihn dir!",
 		"Good work!":
-			"",
+			"Gute Arbeit!",
 		"You win! Time to head off!":
+			"Szene Abgeschlossen! Verlasse den Planetoid.",
+
+		//wrangloid UI
+		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
+			"",
+
+		//defendoid
+		"Use Terminal to Skip Wait!":
+			"",
+		"Wave {WAVE_NUMBER}":
+			"",
+		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
+			"",
+		"Clear up attackers!":
+			"",
+		"Search for loot and upgrades!":
+			"",
+		"Get ready for attackers!":
 			"",
 
 		//coliseum
 		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
-			"",
+			"- Tag deinen eigenen Workshop Blueprint \"Gladiator\", damit er hier erscheint -",
 		"Rate them in the Workshop - it affects how often they appear":
-			"",
+			"Bewerte Gladiatoren im Workshop, um zu steuern wie häufig sie erscheinen",
 		"New Blueprint Uploaded: {NAME}!":
-			"",
+			"Neuer Blueprint hochgeladen: {NAME}!",
 		"Next Up:":
-			"",
+			"Nächste Gladiatoren:",
 		"Coliseum {NAME} by {AUTHOR}":
 			"{NAME} von {AUTHOR}",
 		"{NAME} wins!":
-			"",
+			"{NAME} gewinnt!",
 		"Using {NAME}":
-			"",
+			"Mit {NAME}",
 		"Streak: {STREAK COUNT}!":
 			"",
 		"Ended Streak of {NAME}":
 			"",
 		"A Community Creation":
-			"",
+			"Ein Community Blueprint",
 		"A Community Creation By: {NAME}":
-			"",
+			"Ein Community Blueprint von: {NAME}",
 		"Rating: {RATING}%":
-			"",
+			"Bewertung: {RATING}%",
 		"Rematch":
 			"",
 		"Draw":
-			"",
+			"Unentschieden",
 
 		//steam workshop info
 		"Loading Name":
@@ -839,7 +990,7 @@
 		"- Shop {SHOP TAG} -":
 			"- {SHOP TAG} Laden -",
 
-		//tags (plural)
+		//tags (plural) used for SHOP TAG
 		"Weapons":
 			"Waffen",
 		"Tools":
