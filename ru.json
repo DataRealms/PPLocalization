@@ -12,12 +12,16 @@
 
 		//planetoid panel
 		//labels/description/etc
+		"Planetoid":
+			"Планетоид",		
 		"Goal":
 			"Цель",
 		"Difficulty: {DIFFICULTY}":
 			"Сложность: {DIFFICULTY}",
 		"Time: {TIME_ESTIMATE}":
 			"Время: {TIME_ESTIMATE}",
+		"ABUI By {AUTHOR}":
+			"Автор {AUTHOR}",			
 
 		//settings
 		"Settings":
@@ -43,7 +47,7 @@
 		"Steam Workshop":
 			"Мастерская Steam",
 		"Auto-Download Content":
-			"Авто-загрузка контента",
+			"Автозагрузка контента",
 		//buttons
 		"Start!":
 			"Старт!",
@@ -145,7 +149,7 @@
 		"Pinkle... Just like Lily":
 			"Розалиновая... прямо как Лили",
 		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
-			"Надо найти еще несколько частей от ракеты и у меня будет полный чертеж!",
+			"Надо найти еще несколько частей от ракеты и у меня будет полный чертёж!",
 		"Keep them snaps away from me!":
 			"Держите свои хваталки подальше от меня!",
 		"Let's see what this baby can do!":
@@ -260,7 +264,7 @@
 			"Примоид",
 		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
 			"Это история о неудачном круизе Шального Боба на его роскошной космической яхте, благодаря которому он оказался в западне на этом огромном планетоиде известном как Примоид. Бобу придется раскрыть зарытые в его глубине тайны и погрузиться в его мрачную многослойную историю, чтобы построить ракету и убраться с этого опасного булыжника.",
-		"Build and fly away in a spaceworthy craft.":
+		"Build and fly away in a spaceworthy craft. ":
 			"Построить космический корабль и улететь на нём.",
 
 		"Defendoid":
@@ -280,7 +284,7 @@
 		"Carnageoid":
 			"Битвоид",
 		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
-			"Боевая арена для локального мультиплеера - Игрок против Игрока и/или Игрок против ИИ. \n\nПеребейте всех остальных пионеров чтобы открыть следующее оружие и откройте всё оружие чтобы выиграть раунд!",
+			"Боевая арена для локального мультиплеера - Игрок против Игрока и/или Игрок против ИИ. \n\nПеребейте всех остальных пионеров чтобы разблокировать следующее оружие и разблокируйте всё оружие чтобы выиграть раунд!",
 		"Win a match in any arena. ":
 			"Выиграйте матч на любой арене.",
 
@@ -318,9 +322,22 @@
 		"Wrangloid":
 			"Ковбоид",
 		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
-			"Ловите существ заполонивших несколько планетоидов в этом поясе. Кладите их в сжигатель за награду. Опасайтесь Серебристого, который тоже кормится ими... и вами!",
+			"Ловите существ заполонивших несколько планетоидов в этом поясе. Кладите их в жаровню за награду. Опасайтесь Серебристого, который тоже кормится ими... и вами!",
 		"Collect and cook all the Grazers. ":
 			"Поймать и приготовить всех существ.",
+		"Trigger Tutorial":
+			"Обучение Триггерам",
+		"Learn how to use triggers and reactors to create your own scenes.":
+			"Узнайте как использовать триггеры и реакторы для создания собственных уровней.",
+		"Reach the teleporter to get back into space.":
+			"Доберитесь до телепорта чтобы вернуться в космос.",
+
+		"Blank Planetoid":
+			"Пустой планетоид",
+		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
+			"Это пример планетоида. Он может использоваться как шаблон для создания уровня. У него проставлен тэг \"Mappable\" чтобы он был виден в Поясе астероидов",
+		"Reach the teleporter to get back into space.":
+			"Доберитесь до телепорта чтобы вернуться в космос.",			
 
 		//modal stuff
 		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
@@ -435,6 +452,25 @@
 		"December":
 			"декабря",
 
+		//resource bars
+		// TODO Translate once the engine supports non-standart chars in HUD UI
+		"METALS":
+			"",
+		"CARBON":
+			"",
+		"WATER":
+			"",
+		"SILICON":
+			"",
+		"AURIUM":
+			"",
+		"CHARGE":
+			"",
+		"FULL!":
+			"",
+		"EMPTY!":
+			"",
+
 		//respawn player join info text
 		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
 			"ИГРОК {PLAYER NUMBER}: Нажмите кнопку на клавиатуре/контроллере чтобы начать",
@@ -458,8 +494,10 @@
 			"Перезапустить уровень",
 		"Take Over {BUTTON}":
 			"Вселиться {BUTTON}",
+		"TAKE OVER {BUTTON}":
+			"Вселиться {BUTTON}",
 		"Throw Gun!":
-			"Бросить оружие!",
+			"Бросайте оружие!",
 		"Scene Completed":
 			"Уровень завершён",
 		"Scene Completed (No Goal)":
@@ -485,11 +523,282 @@
 		"Take Over Body":
 			"Вселиться в тело",
 
+		//respawn station
+		"Game Saved":
+			"Игра сохранена",
+		"Respawn Here":
+			"Возродиться здесь",
+
+		//weapon names
+		"Assault Rifle":
+			"Штурмовая винтовка",
+		"Aurium Staff":
+			"Посох из Ауриума",
+		"Blue Rifle":
+			"Синяя винтовка",
+		"Bounding Mine Grenade":
+			"Мина-граната",
+		"Cold Grenade Launcher":
+			"Замораживающий гранатомёт",
+		"Cold Grenade":
+			"Замораживающая граната",
+		"Cold Shotgun":
+			"Замораживающее ружье",
+		"Flamethrower":
+			"Огнемёт",
+		"Grandpas Rifle":
+			"Дедулино ружьё",
+		"Grenade Launcher":
+			"Гранатомет",
+		"Hand Grenade":
+			"Ручная граната",
+		"Heavy Machine Gun":
+			"Пулемёт",
+		"Laser Assault Rifle":
+			"Лазерная винтовка",
+		"Machine Pistol":
+			"Автоматический пистолет",
+		"Mine Launcher":
+			"Миномет",
+		"Minigun":
+			"Пулемёт Гатлинга",
+		"Nail Gun":
+			"Гвоздомёт",
+		"Pistol":
+			"Пистолет",
+		"Plasma Rifle":
+			"Плазменная винтовка",
+		"Rifle Bolt Action":
+			"Однозарядная винтовка",
+		"Scrap Launcher":
+			"Мусоромёт",
+		"Shockwave Gun":
+			"Шоковая пушка",
+		"Shotgun":
+			"Дробовик",
+		"Sticky Bomb Launcher":
+			"Метатель бомб-липучек",
+
+		//tools
+		"Balloon Gun":
+			"Шаромёт",
+		"Bomb Crab":
+			"Крабовая бомба",
+		"Grappling Hook Basic":
+			"Простая кошка",
+		"Hack Gun":
+			"Взламыватель",
+		"Jet Rocket":
+			"Ракета",
+		"Propeller":
+			"Пропеллер",
+		"Quantum Field Device":
+			"Проектор квантового поля",
+		"Rope Launcher":
+			"Верёвкомёт",
+		"Rope":
+			"Верёвка",
+		"Shield Metal":
+			"Металлический щит",
+		"Welder":
+			"Сварка",
+
+		//vehciles flying
+		"Ship Mini":
+			"Мини корабль",
+		"Ship Rocket":
+			"Ракета",
+
+		//vehicles land
+		"Rover Carbon":
+			"Углеволоконный ровер",
+		"Rover Carrier Hover":
+			"Грузовой ровер на воздушной подушке",
+		"Rover Carrier":
+			"Грузовой ровер",
+		"Rover Climber":
+			"Горный ровер",
+		"Rover Coalition Spider Climber":
+			"Горный ровер Коалиции - Паук",
+		"Rover Minimal":
+			"Простой ровер",
+		"Rover Quad":
+			"Четырёхосный ровер",
+		"Rover Scissor":
+			"Ровер-подъёмник",
+		"Rover Shocks":
+			"Шок-ровер",
+		"ROVER MINIMAL JETS":
+			"Простой прыгающий ровер",
+
+		//components
+		"Seat":
+			"Сиденье",
+		"Seat Boosted":
+			"Улучшенное сиденье",
 		//game quit
 		"GAME SAVED":
 			"Игра сохранена",
 		"SEE YOU LATER SPACE COWBOY":
 			"Увидимся позже космический ковбой",
+		"CLOSING ALL THE PIXELS":
+			"ЗАКРЫВАЕМ ПИКСЕЛИ",
+
+		//engine messages
+		"Restarting":
+			"Перезапуск",
+		"Loading {SCENE NAME}":
+			"Загрузка: {SCENE NAME}",
+
+		//loading screen
+		"WORK IN PROGRESS":
+			"В РАЗРАБОТКЕ",
+		"ALT + ENTER TOGGLES FULLSCREEN":
+			"ПОЛНОЭКРАННЫЙ РЕЖИМ ALT + ENTER",
+		"LOADING":
+			"ЗАГРУЗКА",
+		"LOADING PLANETOID":
+			"ЗАГРУЗКА ПЛАНЕТОИДА",
+		"Loading Sound manager":
+			"Зазгрузка менеджера звуков",
+		"Loading PS library":
+			"Загрузка библиотеки частиц",
+		"Loading Material PS library":
+			"Загрузка библиотеки частиц материалов",
+		"Loading Blueprint library":
+			"Загрузка библиотеки чертежей",
+		"Loading Workshop Blueprint library":
+			"Загрузка библиотеки чертежей из Мастерской",
+		"Loading Downloaded Blueprint library":
+			"Загрузка библиотеки сохранённых чертежей",
+		"Loading Scene library":
+			"Загрузка библиотеки уровней",
+		"Loading Workshop Scene library":
+			"Загрузка библиотеки уровней из Мастерской",
+		"Checking Scenes":
+			"Проверка уровней",
+		"Loading Downloaded Scene library":
+			"Загрузка библиотеки сохранённых уровней",
+		"Loading Scene Fragments library":
+			"Загрузка библиотеки элементов уровней",
+		"Loading Steam Workshop":
+			"Загрузка Мастерской Steam",
+		"Extracting all Blueprints and PSs":
+			"Извлечение всех чертежей и частиц",
+		"Extracting Scene: Asteroid Belt":
+			"Распаковка уровня: Пояс астероидов",
+		"Extracting Scene: Primoid":
+			"Распаковка уровня: Примоид",
+		"Starting files change detectors":
+			"Загрузка обработчика изменённых файлов",
+		"Loading Crush2D Editor":
+			"Загрузка редактора Crush2D",
+		"Initializing Crush2D Editor":
+			"Инициализация редактора Crush2D",
+		"Refreshing C2D Editor":
+			"Обновление редактора C2D",
+		"Loading Physics Materials":
+			"Загрузка материалов",
+		"Loading Menu Scene":
+			"Загрузка меню",
+		"Loading Scene: {SCENE NAME}":
+			"Загрузка уровня: {SCENE NAME}",
+		"Loading Blueprint to editor: {NAME}":
+			"Загрузка чертежа в редактор: {NAME}",
+		"Preparing Game Scene":
+			"Подготовка уровня",
+		"Loading additional data":
+			"Загрузка дополнительных данных",
+		"Reloading changed files":
+			"Перезагрузка изменённых файлов",
+		"Preloading Textures":
+			"Предзагрузка текстур",
+		"Loading Controller Layout":
+			"Загрузка схемы управления",
+		"This is the first time the game is loaded, so it will take a bit longer to extract all the data - future starts will be quicker!":
+			"Игра запущена впервые поэтому ей потребуется чуть больше времени чтобы извлечь все данные, в дальнейшем она будет загружаться быстрее!",
+		"The game might be running slower because your device has 8 GB of memory or less.":
+			"Игра может работать медленнее если у вас 8 ГБ памяти или меньше.",
+		"Updating libraries":
+			"Обновление библиотек",
+		"Preloading pictures":
+			"Предзагрузка изображений",
+		"Scene Reset - Activity and C2DUpdate Build":
+			"Сброс уровня - Активность",
+		"Scene Reset - Preloading Pictures":
+			"Сброс уровня - Предзагрузка изображений",
+		"Scene Reset - Preloading Sounds":
+			"Сброс уровня - Предзагрузка звуков",
+		"Resetting Scene":
+			"Сброс сцены",
+		"Preloading textures... {PERCENT}%":
+			"Предзагрузка текстур... {PERCENT}%",
+		"Loading data":
+			"Загрузка данных",
+		"Loading terrain":
+			"Загрузка ландшафта",
+		"Updating textures and sounds":
+			"Обновление текстур и звуков",
+		"Clean up":
+			"Чистка",
+		"Extracting textures and sounds":
+			"Извлечение текстур и звуков",
+		"Load objects start":
+			"Начало загрузки объектов",
+		"Updating Edit-IDs":
+			"Обновление идентификаторов",
+		"Creating Terrain Objects":
+			"Создание ландшафтов",
+		"Computing Zones":
+			"Вычисление зон",
+		"Computing Terrain":
+			"Вычисление ландшафтов",
+		"Computing Gravity and Heating":
+			"Вычисление гравитации и нагрева",
+		"Updating Layers":
+			"Обновление слоёв",
+		"Updating WorldGrid wire meshes":
+			"Обновление мировых мешей",
+		"Scene Reset - Create Assemblies {NUMBER}":
+			"Сброс уровня - Создание сборок {NUMBER}",
+		"Scene Reset - Create Assemblies Done":
+			"Сброс уровня - Создание сборок завершено",
+		"Scene Reset - Clean Up":
+			"Сброс уровня - Чистка",
+		"Scene Reset - Compute Layers":
+			"Сброс уровня - Вычисление слоёв",
+		"Scene Reset - Create Assemblies":
+			"Сброс уровня - Создание сборок",
+		"Loading file tree":
+			"Загрузка файлового дерева",
+		"Checking files":
+			"Проверка файлов",
+		"Checking files ({NUMBER})":
+			"Проверка файлов ({NUMBER})",
+		"Getting files info":
+			"Получение информации о файлах",
+
+		//pause
+		"UNPAUSING...":
+			"ПРОДОЛЖЕНИЕ",
+		"- PAUSED -":
+			"- ПАУЗА -",
+		"Press P to resume":
+			"Нажмите P чтобы продолжить",
+		"or O to step one frame":
+			"или O чтобы перейти на один кадр вперёд",
+
+		//debug print
+		"SHIFT + L to disable / enable this output":
+			"SHIFT + L - отключение / включение этого окна",
+		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
+			"ОБНАРУЖЕНЫ ОШИБКИ LUA (Ctrl + F8 для просмотра)",
+		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
+			"ОБНАРУЖЕНЫ ОШИБКИ LUA В ФАЙЛЕ {FILE NAME}  (Ctrl + F8 для просмотра)",
+
+		//editor
+		"GAME MODE / EDIT MODE":
+			"РЕЖИМ ИГРЫ / РЕЖИМ РЕДАКТОРА",
 
 		//primoid
 		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
@@ -517,9 +826,9 @@
 		"Surface Gauntlet":
 			"Рукавица",
 		"Mu-Ilaak Temple":
-			"Храм Мю-Илаак",
+			"Храм Мю-Илак",
 		"Mu-Ilaak Tomb":
-			"Гробница Мю-Илаак",
+			"Гробница Мю-Илак",
 		"Prime Grottos":
 			"Гроты",
 		"Mount Prime":
@@ -567,7 +876,7 @@
 		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
 			"Готовность игроков {PLAYERS READY}/{TOTAL PLAYERS}",
 		"Go":
-			"Начало!",
+			"Старт!",
 		"Best Time: {TIME}":
 			"Лучшее время : {TIME}",
 		"Best Time: {TIME} (Gold: {GOLD TIME})":
@@ -579,7 +888,7 @@
 
 		//wrangle
 		"Take to Burner!":
-			"Отнеси в сжигатель!",
+			"Отнеси в жаровню!",
 		"Catch It!":
 			"Поймай его!",
 		"Grab the Grazer!":
@@ -589,6 +898,23 @@
 		"You win! Time to head off!":
 			"Победа! Время защищаться!",
 
+		//wrangloid UI
+		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
+			"Зажарено: {WRANGLED_COUNT} Осталось: {REMAINING_COUNT}",
+
+		//defendoid
+		"Use Terminal to Skip Wait!":
+			"Используйте терминал чтобы запустить следующую волну",
+		"Wave {WAVE_NUMBER}":
+			"Волна {WAVE_NUMBER}",
+		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
+			"Волна {WAVE_NUMBER} через {TIME} сек.",
+		"Clear up attackers!":
+			"Уничтожьте атакующих",
+		"Search for loot and upgrades!":
+			"Ищите предметы и апгрейды!",
+		"Get ready for attackers!":
+			"Приготовьтесь к атаке!",
 		//coliseum
 		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
 			"- Чтобы добавить свой чертёж из Мастерской поставьте на него тэг \"Gladiator\" -",
@@ -607,7 +933,7 @@
 		"Streak: {STREAK COUNT}!":
 			"Побед подряд: {STREAK COUNT}!",
 		"Ended Streak of {NAME}":
-			"",
+			"Прервана череда побед {NAME}",
 		"A Community Creation":
 			"Создано сообществом",
 		"A Community Creation By: {NAME}":
@@ -627,7 +953,7 @@
 
 		//steam workshop info
 		"Loading Name":
-			"",
+			"Загрузка",
 		"WS By {AUTHOR}":
 			"От {AUTHOR}",
 		"Workshop Blueprint By {AUTHOR}":
@@ -666,6 +992,24 @@
 			"Голос за",
 		"Voted Down":
 			"Голос против",
+		"- Shop {SHOP TAG} -":
+			"- Магазин: {SHOP TAG} -",
+
+		//tags (plural) used for SHOP TAG
+		"Weapons":
+			"Оружие",
+		"Tools":
+			"Инструменты",
+		"Vehicles":
+			"Транспорт",
+		"Pioneers":
+			"Пионеры",
+		"Robots":
+			"Роботы",
+		"Golems":
+			"Големы",
+		"Faunas":
+			"Фауна",
 
 		//structure shop pioneers
 		"Pio Shop Not enough Aurium":
@@ -673,11 +1017,8 @@
 
 		//machine space teleporter
 		"Space Teleporter Scene Completed":
-			"Уровень завршён",
+			"Уровень завершён",
 		"Confirm to leave":
-			"Подтвердите выход",
-		"tap":
-			"клик",
-
+			"Подтвердите выход"
 	}
 }
