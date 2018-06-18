@@ -100,35 +100,35 @@
 		"EAT THAT!!":
 			"FRESS DAS!!",
 		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
-			"",
+			"Der Flugschreiber zeigt einen eingang in ein Raketensilo, nicht weit von hier entfernt. Lass mich dorthin gehen, um zu sehen, ob ich dort einen Ritt machen kann!",
 		"What are these structures?":
-			"",
+			"Was sind das für Gebilde?",
 		"WHOAAAAAAAA!!":
 			"WOOOOAAAAAA!!",
 		"BANG!":
 			"BÄNG!",
 		"Maybe they weren't trying to keep things out... but to keep something IN!?":
-			"",
+			"Vielleicht haben sie nicht versucht, etwas draußen zu halten... sondern DRINN!",
 		"NOOOO - my vessel!!":
 			"OH NEEEEIN - mein Schiff",
 		"Rest in Pieces, my beloved vessel...":
 			"Ruhe in Frieden mein geliebtes Schiff",
 		"Now I'm stuck on this rock!":
-			"",
+			"Jetzt stecke ich hier fest!",
 		"That was my space yacht...":
-			"",
+			"Das war meine Raumyacht...",
 		"Well, that's not very secure...":
 			"Wow das ist nicht gerade besonders sicher...",
 		"I don't like the look, smell, or feel of this place... it's all squishy.":
-			"",
+			"Mir gefällt das Aussehen, der Geruch und das Gefühl dieses Ortes nicht... alles ist matschig.",
 		"Ohh you UGLY, Cyclops!!":
-			"",
+			"Ohh du HÄSSLICHER, Zyklop!!",
 		"It's all fun and games, until someone loses an eye.":
-			"",
+			"Alles Spaß und Spiel, bis jemand ein Auge verliert.",
 		"What's that racket??":
-			"",
+			"Was ist das für ein Schläger??", //TODO when does he say that? does it make sesne
 		"YIKES - a mobile meat grinder monstrosity!!":
-			"",
+			"HUCH - ein mobiler monster Fleischwolf!!",
 		"TAKE THAT, you overgrown food processor!!":
 			"",
 		"Jumping Jellybeans!!":
@@ -240,16 +240,16 @@
 		"Oh crap, what's that? No fuel?":
 			"Oh verdammt, was ist los? Kein Treibstoff?",
 		"Oh no! Oh no, no, no!":
-			"",
+			"Oh nein! Oh nein, nein, nein!",
 
 		//info terminals
 		//(got to collect the strings from each scene)
 		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
-			"",
+			"__Seelen Stationen__ können jederzeit angesteuert werden indem du _herauszoomst und sie anklickst._",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
-			"",
+			"Log #43547: \"Ich habe die letzte Fluchtrakete zerstört und ihre Teile über den Primoid verstreut, um zu verhindern, dass __Aurium__ sich über diese Welt hinaus ausbreitet...\n\nDie Orte sind auf dieser Karte markiert, aber sie sind gut bewacht - _Versuche es erst gar nicht!_\"",
 
 		//scene descriptions and goals
 
@@ -262,58 +262,58 @@
 		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
 
 		"Primoid":
-			"",
+			"Primoid",
 		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
-			"",
+			"Dies ist die Geschichte von Crazy Bobs unglückseliger Freizeitkreuzfahrt auf seiner Luxus-Raumyacht, die ihn auf diesem riesigen Planetoid, bekannt als Primoid, landete. Bob muss seine tiefsten Geheimnisse und seine dunkle, vielschichtige Geschichte erforschen, um eine Rakete zu bauen und von diesem sehr gefährlichen Felsen zu entkommen!",
 		"Build and fly away in a spaceworthy craft. ":
-			"",
+			"Baue und fliege in einem Raumschiff weg.",
 
 		"Defendoid":
-			"",
+			"Defendoid",
 		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
-			"",
+			"Wehre Wellen von Gegnern ab, die deiner faltigen Haut folgen! Sammle Ressourcen aus den Kadavern der besiegten Gegner zwischen jeder Welle und baue mit ihnen neue Verteidigungsanlagen!",
 		"Survive 10 waves":
-			"Überlebe 10 Wellen",
+			"Überlebe 10 Wellen.",
 
 		"Bindleoid":
-			"",
+			"Bindleoid",
 		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
-			"",
+			"Ein kleiner Planetoid voller Gefahren hält genügend Ressourcen bereit, um ein Fluchtschiff zu bauen. Aber mehrere feindliche Kreaturen sind bereit, dich zu grillen.",
 		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
-			"",
+			"Baue ein Raumschiff und fliege davon.",
 
 		"Carnageoid":
-			"",
+			"Carnageoid",
 		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
-			"",
+			"Local-Multiplayer Arena - Spieler gegen Spieler und/oder Spieler gegen KI. \n\nTöte alle anderen Pioniere, um die nächste Waffe freizuschalten, und schalte alle Waffen frei, um die Runde zu gewinnen!",
 		"Win a match in any arena. ":
-			"",
+			"Gewinne eine Runde.",
 
 		"Coliseumoid":
-			"",
+			"Coliseumoid",
 		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
-			"",
+			"Beobachte Duelle zufälliger Gladiatoren aus dem Spiel und Steam Workshop. Erstelle deine eigene Kreatur und gebe ihr den Tag \"Gladiator\", damit sie teilnehmen kann.",
 		"Watch one round of gladiator combat. ":
-			"",
+			"Schaue dir einen Gladiatorenkampf an",
 
 		"Planium":
-			"",
+			"Planium",
 		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
-			"",
+			"Gestranded auf diesem trostlosen Planetoiden, musst du die gewundenen Tunnel und die zerklüftete Oberfläche auf der Suche nach einem Fluchtweg durchqueren. Aber sei vorsichtig - du bist vielleicht nicht alleine. In der nähe wichtigen Ressourcen befinden sich häufig Feinde!",
 		"Get off this hunk of rock!":
-			"",
+			"Verlasse den Brocken!",
 
 		"Plutas":
-			"",
+			"Plutas",
 		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
-			"",
+			"Ein Planetoid voller wilder Tiere und aggressiver Roboter wartet auf die weniger glücklichen Pioniere im Asteroidengürtel. Suche nach Mitteln, um ein funktionsfähiges Raumschiff zu bauen. Versuche, nicht gefressen zu werden.",
 		"Construct a suitable escape vessel and leave. ":
-			"",
+			"Konstruiere ein geeignetes Fluchtschiff und verlasse den Planetoiden.",
 
 		"Racetoid":
-			"",
+			"Racetoid",
 		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
-			"",
+			"Bis zu 4 Spieler Wettrennen. Wähle eine Fahrzeug aus (oder gestalte dein eigenes) und rase um den ganzen Planetoiden, um das Ziel zuerst zu erreichen, oder verbessere deine persönlichen Rundenrekorde.\n\nNehme dich in Acht vor Hindernisse auf dem Weg - einschließlich Gelände, Schüssen, Teile von Autos und möglicherweise gelegentlich Gliedmaßen.",
 		"Complete a race in under a minute. ":
 			"Beende ein Rennen in unter einer Minute",
 
@@ -535,33 +535,33 @@
 		"Aurium Staff":
 			"Aurium Stab",
 		"Blue Rifle":
-			"",
+			"Blaues Gewehr",
 		"Bounding Mine Grenade":
-			"",
+			"Mine",
 		"Cold Grenade Launcher":
-			"",
+			"Frostgratenwerfer",
 		"Cold Grenade":
-			"Frost Granate",
+			"Frostgranate",
 		"Cold Shotgun":
 			"Frostflinte",
 		"Flamethrower":
 			"Flammenwerfer",
 		"Grandpas Rifle":
-			"",
+			"Opas Gewehr",
 		"Grenade Launcher":
-			"",
+			"Granatenwerfer",
 		"Hand Grenade":
 			"Handgranate",
 		"Heavy Machine Gun":
-			"",
+			"Schweres Maschinengewehr",
 		"Laser Assault Rifle":
 			"Laser Sturmgewehr",
 		"Machine Pistol":
-			"",
+			"Maschinenpistole",
 		"Mine Launcher":
-			"",
+			"Minenwerfer",
 		"Minigun":
-			"",
+			"Minigun",
 		"Nail Gun":
 			"Nagelpistole",
 		"Pistol":
@@ -569,15 +569,15 @@
 		"Plasma Rifle":
 			"Plasma Gewehr",
 		"Rifle Bolt Action":
-			"",
+			"Gewehr",
 		"Scrap Launcher":
-			"",
+			"Raketenwerfer",
 		"Shockwave Gun":
 			"",
 		"Shotgun":
 			"Schrotflinte",
 		"Sticky Bomb Launcher":
-			"",
+			"Klebebombenwerfer",
 
 		//tools
 		"Balloon Gun":
@@ -589,11 +589,11 @@
 		"Hack Gun":
 			"Hacking Gewehr",
 		"Jet Rocket":
-			"",
+			"Düsenrakete",
 		"Propeller":
 			"Propeller",
 		"Quantum Field Device":
-			"",
+			"Quantenfeld Gerät",
 		"Rope Launcher":
 			"Seilwerfer",
 		"Rope":
@@ -601,7 +601,7 @@
 		"Shield Metal":
 			"Metall Schild",
 		"Welder":
-			"",
+			"Schweißgerät",
 
 		//vehciles flying
 		"Ship Mini":
@@ -611,7 +611,7 @@
 
 		//vehicles land
 		"Rover Carbon":
-			"",
+			"Carbon-Rover",
 		"Rover Carrier Hover":
 			"Flug-Transporter",
 		"Rover Carrier":
@@ -620,21 +620,22 @@
 			"Kletter Rover",
 		"Rover Coalition Spider Climber":
 			"Spinnen Rover",
-		"Rover Minimal":
+		"Rover Minimal Jets":
 			"Einfacher Rover",
 		"Rover Quad":
 			"Quad",
 		"Rover Scissor":
-			"",
+			"Hebe-Rover",
 		"Rover Shocks":
 			"Jet-Rover",
+		"Tank Coalition":
+			"Koalitions Panzer",
 
 		//components
 		"Seat":
 			"Sitz",
 		"Seat Boosted":
 			"Raketen Sitz",
-
 
 		//game quit
 		"GAME SAVED":
@@ -649,6 +650,10 @@
 			"Neustart",
 		"Loading {SCENE NAME}":
 			"Lade {SCENE NAME}",
+
+		//version
+		"RELEASE BUILD {NUMBER}":
+			"RELEASE VERSION {NUMBER}",
 
 		//loading screen
 		"WORK IN PROGRESS":
@@ -812,33 +817,33 @@
 		"Maw Cavern":
 			"Schlundhöhle",
 		"Crash Cauldron":
-			"",
+			"Crashkessel",
 		"North Hub":
-			"",
+			"Nord Basis",
 		"Cave Tunnels":
 			"",
 		"Jungle Temple":
 			"Dschungel Tempel",
 		"West Metal Mine":
-			"",
+			"Metallmine West",
 		"East Metal Mine":
-			"",
+			"Metallmine Ost",
 		"Surface Gauntlet":
 			"",
 		"Mu-Ilaak Temple":
-			"",
+			"Mu-Ilaak Tempel",
 		"Mu-Ilaak Tomb":
-			"",
+			"Mu-Ilaak Gräber",
 		"Prime Grottos":
-			"",
+			"Prime Grotten",
 		"Mount Prime":
-			"",
+			"Primespitze",
 		"Flush Chute":
-			"",
+			"Spülrinne",
 		"Silicon Maze":
-			"",
+			"Silizium-Labyrinth",
 		"Aurium Core":
-			"",
+			"Aurium Kern",
 
 		//last man standing (Carnageoid)
 		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
@@ -900,21 +905,21 @@
 
 		//wrangloid UI
 		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
-			"",
+			"Gefangen: {WRANGLED_COUNT} Verbleibend: {REMAINING_COUNT}",
 
 		//defendoid
 		"Use Terminal to Skip Wait!":
-			"",
+			"Starte nächste Welle mit Terminal",
 		"Wave {WAVE_NUMBER}":
-			"",
+			"Welle {WAVE_NUMBER}",
 		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
-			"",
+			"Welle {WAVE_NUMBER} in {TIME} sekunden",
 		"Clear up attackers!":
-			"",
+			"Vernichte Angreifer",
 		"Search for loot and upgrades!":
-			"",
+			"Suche nach Beute und Upgrades",
 		"Get ready for attackers!":
-			"",
+			"Bereite dich auf Angreifer vor!",
 
 		//coliseum
 		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
@@ -932,9 +937,9 @@
 		"Using {NAME}":
 			"Mit {NAME}",
 		"Streak: {STREAK COUNT}!":
-			"",
+			"Siegesserie: {STREAK COUNT}!",
 		"Ended Streak of {NAME}":
-			"",
+			"Beendet Siegesserie von {NAME}",
 		"A Community Creation":
 			"Ein Community Blueprint",
 		"A Community Creation By: {NAME}":
@@ -942,7 +947,7 @@
 		"Rating: {RATING}%":
 			"Bewertung: {RATING}%",
 		"Rematch":
-			"",
+			"Revanche",
 		"Draw":
 			"Unentschieden",
 
