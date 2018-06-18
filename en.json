@@ -22,7 +22,7 @@
 		"Time: {TIME_ESTIMATE}":
 			"",
 		"ABUI By {AUTHOR}":
-			"",
+			"By {AUTHOR}",
 
 		//settings
 		"Settings":
@@ -619,7 +619,7 @@
 			"",
 		"Rover Coalition Spider Climber":
 			"",
-		"Rover Minimal":
+		"Rover Minimal Jets":
 			"",
 		"Rover Quad":
 			"",
@@ -627,13 +627,14 @@
 			"",
 		"Rover Shocks":
 			"",
+		"Tank Coalition":
+			"",
 
 		//components
 		"Seat":
 			"",
 		"Seat Boosted":
 			"",
-
 
 		//game quit
 		"GAME SAVED":
@@ -647,6 +648,10 @@
 		"Restarting":
 			"",
 		"Loading {SCENE NAME}":
+			"",
+
+		//version
+		"RELEASE BUILD {NUMBER}":
 			"",
 
 		//loading screen
