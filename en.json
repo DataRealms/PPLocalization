@@ -608,11 +608,12 @@
 		"Claw":
 			"",
 
-
 		//vehciles flying
 		"Ship Mini":
 			"",
 		"Ship Rocket":
+			"",
+		"Ship Big":
 			"",
 
 		//vehicles land
@@ -1005,6 +1006,8 @@
 		"Voted Down":
 			"",
 		"- Shop {SHOP TAG} -":
+			"",
+		"-{PRICE} Aurium":
 			"",
 
 		//tags (plural) used for SHOP TAG
