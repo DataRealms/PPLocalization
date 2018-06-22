@@ -119,27 +119,27 @@
 		"Well, that's not very secure...":
 			"Ну, это не очень безопасно...",
 		"I don't like the look, smell, or feel of this place... it's all squishy.":
-			"Не нравится мне ни запах, ни вид, ни ощущения от этого места... болото какое-то.",
+			"Не нравится мне ни запах, ни вид, ни дух этого места... пакость какая-то.",
 		"Ohh you UGLY, Cyclops!!":
 			"Ну, циклопы, вы и уроды!!",
 		"It's all fun and games, until someone loses an eye.":
-			"Это всё весело, пока кому-нибудь не вышибут глаз.",
+			"Это всё весело, пока кое кому не вышибут глаз.",
 		"What's that racket??":
 			"Что это за шум??",
 		"YIKES - a mobile meat grinder monstrosity!!":
 			"Ой-ой, чудовищная передвижная мясорубка!!",
 		"TAKE THAT, you overgrown food processor!!":
-			"ПОЛУЧАЙ, кухонный комбайн переросток!!",
+			"ПОЛУЧАЙ, кухонный комбайн-переросток!!",
 		"Jumping Jellybeans!!":
 			"С кочки на кочку в ямку бух!!",
 		"I bet I'm past the worst monsters by now!":
 			"Уверен самые ужасные монстры уже позади!",
 		"Those jaws were snappin', and it's got me rappin'!":
-			"Те челюсти жевали, что мы аж зарэповали!",
+			"Те челюсти так жевали, что мы аж зарэповали!",
 		"Wish i had something to drive that would protect my noggin a bit...!":
-			"Хотел бы я такую машину чтоб хотя-бы башка прикрыта была...!",
+			"Хотел бы я такую машину, чтоб хотя-бы башка прикрыта была...!",
 		"I need some mad hops - or a ride with some mad JETS!":
-			"Тут надо скакать как сайгак",
+			"Тут надо скакать как сайгак или на машине с реактивными движками!",
 		"I think they're trying to tell me something...":
 			"Кажется они пытаются мне на что-то намекнуть...",
 		"For a moment I thought I would perish... Crazy Bob never perishes.":
@@ -167,7 +167,7 @@
 		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
 			"Эти груды хлама не сравнятся со мной - могли бы быть и пострашнее! Не похоже, чтобы у них были огнемёты или что-то такое...",
 		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
-			"Это части ракеты. Я знаю что это они, потому что они выглядят как части ракеты!",
+			"Это части ракеты. Я в этом уверен, потому что они выглядят как части ракеты!",
 		"Were those skeletons... screaming?!":
 			"Эти скелеты что... кричали?!",
 		"What are those buildings...?":
@@ -229,7 +229,7 @@
 		"Now, how do I start this thing...":
 			"Так, ну и как оно запускается...",
 		"Let's try this big red button!":
-			"Попробуем эту большую красную кнопку!",
+			"Попробуем нажать эту большую красную кнопку!",
 		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
 			"Наконец-то! Зажигание через 5, 3, 3, 2, 1...",
 		"We have lift off, baby!":
@@ -298,7 +298,7 @@
 		"Planium":
 			"Равниноид",
 		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
-			"После аварийной посадки на этом безлюдном планетоиды вам придётся пройти по извилистым туннелям и непроходимой поверхности чтобы спастись. Будьте внимательны, возможно вы не одни. Небольшие скопления жизненно важных ресурсов могут быть под охраной!",
+			"После аварийной посадки на этом безлюдном планетоиде вам придётся пройти по извилистым туннелям и непроходимой поверхности чтобы спастись. Будьте внимательны, возможно вы не один. Небольшие скопления жизненно важных ресурсов могут быть под охраной!",
 		"Get off this hunk of rock!":
 			"Убраться с этого булыжника!",
 
@@ -454,22 +454,22 @@
 
 		//resource bars
 		// TODO Translate once the engine supports non-standart chars in HUD UI
-		"METALS":
-			"",
-		"CARBON":
-			"",
-		"WATER":
-			"",
-		"SILICON":
-			"",
-		"AURIUM":
-			"",
-		"CHARGE":
-			"",
-		"FULL!":
-			"",
-		"EMPTY!":
-			"",
+		//"METALS":
+		//	"МЕТАЛЛ",
+		//"CARBON":
+		//	"УГЛЕРОД",
+		//"WATER":
+		//	"ВОДА",
+		//"SILICON":
+		//	"КРЕМНИЙ",
+		//"AURIUM":
+		//	"АУРИУМ",
+		//"CHARGE":
+		//	"ЗАРЯД",
+		//"FULL!":
+		//	"ПОЛНЫЙ!",
+		//"EMPTY!":
+		//	"ПУСТОЙ!",
 
 		//respawn player join info text
 		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
@@ -549,7 +549,7 @@
 		"Grandpas Rifle":
 			"Дедулино ружьё",
 		"Grenade Launcher":
-			"Гранатомет",
+			"Бомбомёт",
 		"Hand Grenade":
 			"Ручная граната",
 		"Heavy Machine Gun":
@@ -559,7 +559,7 @@
 		"Machine Pistol":
 			"Автоматический пистолет",
 		"Mine Launcher":
-			"Миномет",
+			"Миномёт",
 		"Minigun":
 			"Пулемёт Гатлинга",
 		"Nail Gun":
@@ -585,7 +585,7 @@
 		"Bomb Crab":
 			"Крабовая бомба",
 		"Grappling Hook Basic":
-			"Простая кошка",
+			"Кошка",
 		"Hack Gun":
 			"Взламыватель",
 		"Jet Rocket":
@@ -602,13 +602,20 @@
 			"Металлический щит",
 		"Welder":
 			"Сварка",
-
+		"Flight Recorder":
+			"Бортовой регистратор",
+		"Spring Mine":
+			"Прыгающая мина",
+		"Claw":
+			"Капкан",
 		//vehciles flying
 		"Ship Mini":
 			"Мини-корабль",
 		"Ship Rocket":
 			"Ракета",
-
+		"Ship Big":
+			"Большой корабль",
+			
 		//vehicles land
 		"Rover Carbon":
 			"Углеволоконный ровер",
@@ -619,7 +626,7 @@
 		"Rover Climber":
 			"Горный ровер",
 		"Rover Coalition Spider Climber":
-			"Горный ровер Коалиции - Паук",
+			"Ровер-паук Коалиции",
 		"Rover Minimal":
 			"Простой ровер",
 		"Rover Quad":
@@ -627,15 +634,18 @@
 		"Rover Scissor":
 			"Ровер-подъёмник",
 		"Rover Shocks":
-			"Шок-ровер",
+			"Защищённый ровер",
+		"Rover Minimal Jets":
+			"Простой прыгающий ровер",
 		"ROVER MINIMAL JETS":
 			"Простой прыгающий ровер",
-
+		"Tank Coalition":
+			"Танк Коалиции",
 		//components
 		"Seat":
-			"Сиденье",
+			"Кабина",
 		"Seat Boosted":
-			"Улучшенное сиденье",
+			"Улучшенная кабина",
 		//game quit
 		"GAME SAVED":
 			"ИГРА СОХРАНЕНА",
@@ -650,7 +660,9 @@
 		"Loading {SCENE NAME}":
 			"Загрузка: {SCENE NAME}",
 
-		//loading screen
+		//version
+		"RELEASE BUILD {NUMBER}":
+			"БИЛД {NUMBER}",		//loading screen
 		"WORK IN PROGRESS":
 			"В РАЗРАБОТКЕ",
 		"ALT + ENTER TOGGLES FULLSCREEN":
@@ -750,15 +762,15 @@
 		"Creating Terrain Objects":
 			"Создание ландшафтов",
 		"Computing Zones":
-			"Вычисление зон",
+			"Рассчёт зон",
 		"Computing Terrain":
-			"Вычисление ландшафтов",
+			"Рассчёт ландшафтов",
 		"Computing Gravity and Heating":
-			"Вычисление гравитации и нагрева",
+			"Рассчёт гравитации и нагрева",
 		"Updating Layers":
 			"Обновление слоёв",
 		"Updating WorldGrid wire meshes":
-			"Обновление мировых мешей",
+			"Обновление WorldGrid сеток",
 		"Scene Reset - Create Assemblies {NUMBER}":
 			"Сброс уровня - Создание сборок {NUMBER}",
 		"Scene Reset - Create Assemblies Done":
@@ -805,7 +817,12 @@
 			"Нажмите F1 чтобы ответить на несколько вопросов об области в которой вы только что играли (Подождите пару секунд чтобы загрузилось)",
 		"New Area":
 			"Новая область",
-
+		"Escape pod crash site":
+			"Место крушения спасательной капсулы",
+		"Rocket Silo Location":
+			"Ракетная шахта",
+		"Rocket Parts":
+			"Части ракеты",
 		//primoid areas
 		"Primoid Plains":
 			"Равнины Примоида",
@@ -892,9 +909,9 @@
 		"Take to Burner!":
 			"Отнеси к жаровне!",
 		"Catch It!":
-			"Поймай его!",
+			"Лови его!",
 		"Grab the Grazer!":
-			"Хватай зверя!",
+			"Хватай!",
 		"Good work!":
 			"Отлично!",
 		"You win! Time to head off!":
@@ -933,9 +950,9 @@
 		"{NAME} WINS!":
 			"{NAME} ПОБЕДИЛ!",
 		"Using {NAME}":
-			"Используется {NAME}",
+			"При помощи {NAME}",
 		"Streak: {STREAK COUNT}!":
-			"Побед подряд: {STREAK COUNT}!",
+			"Череда побед: {STREAK COUNT}!",
 		"Ended Streak of {NAME}":
 			"Прервана череда побед {NAME}",
 		"A Community Creation":
@@ -948,12 +965,6 @@
 			"Реванш",
 		"Draw":
 			"Ничья",
-
-		//respawn station
-		"Game Saved":
-			"Игра сохранена",
-		"Respawn Here":
-			"Возродиться здесь",
 
 		//steam workshop info
 		"Loading Name":
@@ -998,7 +1009,8 @@
 			"Голос против",
 		"- Shop {SHOP TAG} -":
 			"- Магазин: {SHOP TAG} -",
-
+		"-{PRICE} Aurium":
+			"- {PRICE} Ауриума -",
 		//tags (plural) used for SHOP TAG
 		"Weapons":
 			"Оружие",
