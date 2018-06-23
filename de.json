@@ -13,8 +13,8 @@
 
 		//planetoid panel
 		//labels/description/etc
-		"Planetoid":
-			"Planetoid",
+		"FLAG Planetoid": //little planetoid flag in top right
+			" ",
 		"Goal":
 			"Mission",
 		"Difficulty: {DIFFICULTY}":
@@ -25,6 +25,8 @@
 			"Von {AUTHOR}",
 
 		//settings
+		"FLAG Settings": //the little flag in the top left
+			" ",
 		"Settings":
 			"Einstellungen",
 		"Adjust Volume":
@@ -118,7 +120,7 @@
 		"That was my space yacht...":
 			"Das war meine Raumyacht...",
 		"Well, that's not very secure...":
-			"Wow das ist nicht gerade besonders sicher...",
+			"Nun das ist nicht gerade besonders sicher...",
 		"I don't like the look, smell, or feel of this place... it's all squishy.":
 			"Mir gefällt das Aussehen, der Geruch und das Gefühl dieses Ortes nicht... alles ist matschig.",
 		"Ohh you UGLY, Cyclops!!":
@@ -170,7 +172,7 @@
 		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
 			"",
 		"Were those skeletons... screaming?!":
-			"Haben diese Skelette... geschrien?!",
+			"Haben diese Skelette gerade... geschrien?!",
 		"What are those buildings...?":
 			"",
 		"What happened to these guys?!":
@@ -323,8 +325,7 @@
 		"Wrangloid":
 			"Wrangloid",
 		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
-			"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner", //TODO looks like it cant deal with strings longer then 128?
-			//"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner für eine	Prämie. Vorsicht for dem Silverback, welcher sich von Grazern ernährt... und auch dir!",
+			"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner für eine Prämie. Vorsicht for dem Silverback, welcher sich von Grazern ernährt... und auch dir!",
 		"Collect and cook all the Grazers. ":
 			"Sammle und koche alle Grazer für eine leckere Mahlzeit.",
 
@@ -573,7 +574,7 @@
 		"Scrap Launcher":
 			"Raketenwerfer",
 		"Shockwave Gun":
-			"",
+			"Schockwellengewehr",
 		"Shotgun":
 			"Schrotflinte",
 		"Sticky Bomb Launcher":
@@ -602,12 +603,20 @@
 			"Metall Schild",
 		"Welder":
 			"Schweißgerät",
+		"Flight Recorder":
+			"Flugschreiber",
+		"Spring Mine":
+			"Sprung Mine",
+		"Claw":
+			"Klaue",
 
 		//vehciles flying
 		"Ship Mini":
 			"Mini Schiff",
 		"Ship Rocket":
 			"Rakete",
+		"Ship Big":
+			"Frachtschiff",
 
 		//vehicles land
 		"Rover Carbon":
@@ -797,9 +806,9 @@
 		"SHIFT + L to disable / enable this output":
 			"SHIFT + L zum Zeigen / Verstecken der Textausgabe",
 		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
-			"LUA ERROR (Ctrl + F8 zum Anzeigen)",
+			"LUA ERROR (Strg + F8 zum Anzeigen)",
 		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
-			"LUA ERROR IN {FILE NAME}  (Ctrl + F8 zum Anzeigen)",
+			"LUA ERROR IN {FILE NAME}  (Strg + F8 zum Anzeigen)",
 
 		//editor
 		"GAME MODE / EDIT MODE":
@@ -810,6 +819,12 @@
 			"Drücke F1 um ein paar Fragen zum letzten Gebiet zu beantworten.",
 		"New Area":
 			"Neues Gebiet",
+		"Escape pod crash site":
+			"Rettugskapsel Absturtzstelle",
+		"Rocket Silo Location":
+			"Raketensilo",
+		"Rocket Parts":
+			"Raketen Teil",
 
 		//primoid areas
 		"Primoid Plains":
@@ -994,6 +1009,8 @@
 			"Gefällt mir nicht",
 		"- Shop {SHOP TAG} -":
 			"- {SHOP TAG} Laden -",
+		"-{PRICE} Aurium":
+			"-{PRICE} Aurium",
 
 		//tags (plural) used for SHOP TAG
 		"Weapons":
