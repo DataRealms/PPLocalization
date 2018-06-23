@@ -13,8 +13,8 @@
 
 		//planetoid panel
 		//labels/description/etc
-		"Planetoid":
-			"",
+		"FLAG Planetoid": //little planetoid flag in top right
+			"Planetoid",
 		"Goal":
 			"",
 		"Difficulty: {DIFFICULTY}":
@@ -25,6 +25,8 @@
 			"By {AUTHOR}",
 
 		//settings
+		"FLAG Settings": //the little flag in the top left
+			"Settings",
 		"Settings":
 			"",
 		"Adjust Volume":
