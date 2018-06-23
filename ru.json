@@ -7,7 +7,27 @@
 		"english_name": "Russian",
 		"localised_name": "РУССКИЙ"
 	},
-	"translations": {
+	"store page": {
+		//game description
+		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
+			"Добро пожаловать в Planetoid Pioneers, кооперативную фантастическую физикванию в которой матёрые престарелые космонавты исследуют пояс астероидов за пределами Марса без конца попадая в QWOP-подобные переделки. Игра создана с использованием уникального физического движка Crush2D и в неё можно играть на одном экране с друзьями совместно или против друг друга с возможностью присоединиться к игре в любой момент.",
+		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
+			"Вы будете спотыкаться о камни, терять конечности, убегать от зловещих чудищ, бросая своё добро, лишь для того, чтобы попасться в очередную ловушку. Изобретайте изящные способы решения возникающих проблем или засучите рукава и сделайте собственный планетоид при помощи редакторов, которые включены и в стандартную версию, тех же самых, что используются самими разработчиками. Хохочите, глядя как другие игроки пытаются пройти ваш тщательно отстроенный пыточный лабиринт.",
+		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
+			"Если вы купите версию Contributor Edition сегодня вы получите доступ к официальному серверу сообщества в Discord, где вы сможете делиться своими творениями напрямую с разработчиками и такими же увлеченными игроками как вы.",
+		//game title description
+		"Now Includes All Editors":
+			"Теперь включает все редакторы",
+		//workshop description
+		"Built for user creation and sharing from the ground up, Planetoid Pioneers supports a Contributor Community whose work can be enjoyed here: Blueprints and entire self-contained Planetoids galore!":
+			"С самого начала разрабатываемая для совместного творчества Planetoid Pioneers поддерживает мод-сообщество. Получить доступ к разнообразнейшим чертежам и целым планетоидам созданным сообществом можно здесь!",
+		//contributor dlc (just translate 'Upgrade to')
+		"{PLANETOID PIONEERS} Upgrade to {CONTRIBUTOR EDITON}":
+			"{PLANETOID PIONEERS} улучшить до {CONTRIBUTOR EDITON}",
+		//contributor dlc description
+		"Upgrade from the regular Planetoid Pioneers Game-Only Edition to the full Contributor Edition with ALL the commercial-grade editors that the official development team and the vibrant Contributor Community used to build everything you've seen in the game!":
+			"Улучшите версию Planetoid Pioneers с обычной игровой Game-Only до полной Contributor Edition, включающей ВСЕ профессиональные редакторы на базе движка, используемые командой разработчиков и открывающей доступ в дружелюбное сообщество талантов, сделавших всё что вы видите в игре!"
+	},	"translations": {
 		//asteroid belt UI
 
 		//planetoid panel
