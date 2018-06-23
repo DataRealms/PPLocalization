@@ -12,7 +12,7 @@
 
 		//planetoid panel
 		//labels/description/etc
-		"Planetoid":
+		"FLAG Planetoid":
 			"Планетоид",		
 		"Goal":
 			"Цель",
@@ -24,6 +24,8 @@
 			"Автор {AUTHOR}",			
 
 		//settings
+		"FLAG Settings": //the little flag in the top left
+			"Настройки",		
 		"Settings":
 			"Настройки",
 		"Adjust Volume":
