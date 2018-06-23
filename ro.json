@@ -366,5 +366,651 @@
 			"Dezabonare",
 		"Subscribe":
 			"Abonare",
+
+
+		//asteroid belt
+		"Press Button To Start":
+			"Apasa un Buton pentru Start",
+		"AB Scene Completed":
+			"Scena Completa",
+		"Featured ({MONTH}) by {AUTHOR}":
+			"Recomandata ({MONTH}) de {AUTHOR}",
+		"Planetoid Deleted":
+			"Planetoid Sters",
+		"New Planetoid!":
+			"Planetoid Nou!",
+		"Planetoid Updated!":
+			"Planetoid Actualizat!",
+		"You Are Here":
+			"Esti Aici",
+		"Locked":
+			"Incuiat",
+		"AB Completed":
+			"Complet",
+		"Rating {RATING}% Positive":
+			"Rating {RATING}% Pozitiv",
+		"Click to Resubscribe":
+			"Click pentru Reabonare",
+		"Downloading...":
+			"Descarcare...",
+		"{NAME} (Featured)": //this appears behind a scene name i.e 'Primoid (Featured)'
+			"{NAME} (Recomandat)",
+		"???": //undiscovered planetoid
+			"???",
+		"AB Failed":
+			"Esuat",
+		"AB Asteroid Belt {AB NUMBER}":
+			"AB Centura de Asteroizi {AB NUMBER}",
+		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
+			"Complet {COUNT COMPLETED} din {COUNT TOTAL}",
+
+		//months
+		"January":
+			"Ianuarie",
+		"Febuary":
+			"Februarie",
+		"March":
+			"Martie",
+		"April":
+			"Aprilie",
+		"May":
+			"Mai",
+		"June":
+			"Iunie",
+		"July":
+			"Iulie",
+		"August":
+			"August",
+		"September":
+			"Septembrie",
+		"October":
+			"Octombrie",
+		"November":
+			"Noiembrie",
+		"December":
+			"Decembrie",
+
+		//resource bars
+		"METALS":
+			"METALE",
+		"CARBON":
+			"CARBON",
+		"WATER":
+			"APA",
+		"SILICON":
+			"SILICON",
+		"AURIUM":
+			"AURIUM",
+		"CHARGE":
+			"INCARCA",
+		"FULL!":
+			"PLIN!",
+		"EMPTY!":
+			"GOL!",
+
+		//respawn player join info text
+		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
+			"JUCATORUL {PLAYER NUMBER}: Apasa un Buton de pe Tastatura/Controller pentru a te alatura",
+		"PLAYER {PLAYER NUMBER}: Press Keyboard Button to Join":
+			" JUCATORUL {PLAYER NUMBER}: Apasa un Buton de pe Tastatura pentru a te alatura",
+		"PLAYER {PLAYER NUMBER}: Press Controller Button to Join":
+			" JUCATORUL {PLAYER NUMBER}:  Apasa un Buton de pe Controller pentru a te alatura",
+		"PLAYER {PLAYER NUMBER}: Plug in Controller to Join":
+			" JUCATORUL {PLAYER NUMBER}: Conecteaza Controller pentru a te alatura",
+
+		//tips appearing over pioneer
+		"Press again to Abandon Body":
+			"Apasa iar pentru a abandona Corpul",
+		"No Backup, Restart?":
+			"Nicio Copie, Reluare?",
+		"No Arm":
+			"Fara Braț",
+		"Abandon Body":
+			"Abandoneaza Corp",
+		"Restart Scene":
+			"Reluare Scena",
+		"Take Over {BUTTON}":
+			"Preia Controlul {BUTTON}",
+		"Throw Gun!":
+			"Arunca Arma!",
+		"Scene Completed":
+			"Scena Completa",
+		"Scene Completed (No Goal)":
+			"Scena Completa (Niciun Obiectiv)",
+
+		//buttons
+		"[X]": //this is the X button on keyboard
+			"[X]",
+		"[E]":
+			"[E]",
+		"Left Click":
+			"click",
+		"(Back)": //this is the back button on the controller
+			"(Inapoi)",
+		"Right Trigger":
+			"Trigger Drept",
+
+		//appearing on screen on game over
+		"Press {BUTTON} to Restart":
+			"Apasa {BUTTON} pentru Reluare",
+
+		//when selecting body on minimap
+		"Take Over Body":
+			"Preia Controlul Corpului",
+
+		//respawn station
+		"Game Saved":
+			"Joc Salvat",
+		"Respawn Here":
+			"Respawn Aici",
+
+		//weapon names
+		"Assault Rifle":
+			"Pusca Assault",
+		"Aurium Staff":
+			"Baston Aurium",
+		"Blue Rifle":
+			"Pusca Albastra",
+		"Bounding Mine Grenade":
+			"Grenada Bounding Mine",
+		"Cold Grenade Launcher":
+			"Aruncator de Grenade Reci",
+		"Cold Grenade":
+			"Grenada Rece",
+		"Cold Shotgun":
+			"Shotgun Rece",
+		"Flamethrower":
+			"Aruncator de Flacari",
+		"Grandpas Rifle":
+			"Pusca Bunicului",
+		"Grenade Launcher":
+			"Aruncator de Grenade",
+		"Hand Grenade":
+			"Grenada de Mana",
+		"Heavy Machine Gun":
+			"Mitraliera Grea",
+		"Laser Assault Rifle":
+			"Pusca cu Lasere",
+		"Machine Pistol":
+			"Pistol Automat",
+		"Mine Launcher":
+			"Aruncator de Mine",
+		"Minigun":
+			"Minigun",
+		"Nail Gun":
+			"Aruncator de Cuie",
+		"Pistol":
+			"Pistol",
+		"Plasma Rifle":
+			"Pusca cu Plasma",
+		"Rifle Bolt Action":
+			"Pusca Bolt Action",
+		"Scrap Launcher":
+			"Aruncator de Resturi",
+		"Shockwave Gun":
+			"Arma cu Electroșocuri",
+		"Shotgun":
+			"Shotgun",
+		"Sticky Bomb Launcher":
+			"Aruncator de Bombe Lipicioase",
+
+		//tools
+		"Balloon Gun":
+			"Arma cu Baloane",
+		"Bomb Crab":
+			"Crab cu Bomba",
+		"Grappling Hook Basic":
+			"Carlig de Prindere Basic",
+		"Hack Gun":
+			"Arma pentru Hack",
+		"Jet Rocket":
+			"Racketa Jet",
+		"Propeller":
+			"Elice",
+		"Quantum Field Device":
+			" Dispozitiv cu câmp cuantic",
+		"Rope Launcher":
+			"Aruncator de Franghie",
+		"Rope":
+			"Franghie",
+		"Shield Metal":
+			"Scut din Metal",
+		"Welder":
+			"Sudor",
+		"Flight Recorder":
+			"Registrator de zbor",
+		"Spring Mine":
+			"Mina cu Arc",
+		"Claw":
+			"Ghiara",
+
+		//vehciles flying
+		"Ship Mini":
+			"Nava Mini",
+		"Ship Rocket":
+			"Nava Racheta",
+		"Ship Big":
+			"Nava Mare",
+
+		//vehicles land
+		"Rover Carbon":
+			"Rover Carbon",
+		"Rover Carrier Hover":
+			"Rover Carrier Hover",
+		"Rover Carrier":
+			"Rover Carrier",
+		"Rover Climber":
+			"Rover Climber",
+		"Rover Coalition Spider Climber":
+			"Paianjen Rover Catarator de Coalitie",
+		"Rover Minimal Jets":
+			"Jet-uri Minimale Rover",
+		"Rover Quad":
+			"Rover Quad",
+		"Rover Scissor":
+			"Foarfeca Rover",
+		"Rover Shocks":
+			"Socuri Rover",
+		"Tank Coalition":
+			"Tank de Coalitie",
+
+		//components
+		"Seat":
+			"Scaun",
+		"Seat Boosted":
+			"Scaun Amplificat",
+
+		//game quit
+		"GAME SAVED":
+			"JOC SALVAT",
+		"SEE YOU LATER SPACE COWBOY":
+			"NE VEDEM MAI TARZIU COWBOY SPATIAL",
+		"CLOSING ALL THE PIXELS":
+			"SE INCHID TOTI PIXELII",
+
+		//engine messages
+		"Restarting":
+			"Se Restarteaza",
+		"Loading {SCENE NAME}":
+			"Incarcare {SCENE NAME}",
+
+		//version
+		"RELEASE BUILD {NUMBER}":
+			"Versiune {NUMBER}",
+
+		//loading screen
+		"WORK IN PROGRESS":
+			"IN CONSTRUIRE",
+		"ALT + ENTER TOGGLES FULLSCREEN":
+			"ALT + ENTER REZULTA FULLSCREEN",
+		"LOADING":
+			"INCARCARE",
+		"LOADING PLANETOID":
+			"SE INCARCA PLANETOID",
+		"Loading Sound manager":
+			"Se incarca manager de sunet",
+		"Loading PS library":
+			"Se incarca libarie PS",
+		"Loading Material PS library":
+			"Se incarca Materiale librarie PS",
+		"Loading Blueprint library":
+			"Se incarca librarie de Schite",
+		"Loading Workshop Blueprint library":
+			"Se incarca Atelier librarie de Schite",
+		"Loading Downloaded Blueprint library":
+			"Se incarca librarie de Schite descarcate",
+		"Loading Scene library":
+			"Se incarca librarie de Scene",
+		"Loading Workshop Scene library":
+			"Se incarca Atelier librarie de Scene",
+		"Checking Scenes":
+			"Se verifica Scene",
+		"Loading Downloaded Scene library":
+			"Se incarca librarie de Scene descarcate",
+		"Loading Scene Fragments library":
+			"Se incarca librarie de Fragmente",
+		"Loading Steam Workshop":
+			"Se incarca Atelier Steam",
+		"Extracting all Blueprints and PSs":
+			"Se extrag toate Schitele si PS-urile",
+		"Extracting Scene: Asteroid Belt":
+			"Se extrage Scena: Centura de Asteroizi",
+		"Extracting Scene: Primoid":
+			"Se extrage Scena: Primoid",
+		"Starting files change detectors":
+			"Se pornesc detectoarele de file schimbate",
+		"Loading Crush2D Editor":
+			"Se incarca Editor Crush2D",
+		"Initializing Crush2D Editor":
+			"Se initializeaza Editor Crush2D",
+		"Refreshing C2D Editor":
+			"Se reimprospateaza Editor C2D",
+		"Loading Physics Materials":
+			"Se incarca Materiale Fizice",
+		"Loading Menu Scene":
+			" Se incarca Scena Meniu",
+		"Loading Scene: {SCENE NAME}":
+			" Se incarca Scema: {SCENE NAME}",
+		"Loading Blueprint to editor: {NAME}":
+			" Se incarca Schita in editor: {NAME}",
+		"Preparing Game Scene":
+			"Se prepara Scena Joc",
+		"Loading additional data":
+			"Se incarca date aditionale",
+		"Reloading changed files":
+			"Se Reincarca file schimbate",
+		"Preloading Textures":
+			"Se Preincarca Texturi",
+		"Loading Controller Layout":
+			"Se incarca Schema Controller ",
+		"This is the first time the game is loaded, so it will take a bit longer to extract all the data - future starts will be quicker!":
+			"Acesta este prima data cand jocul este incarcat, deci ii va lua putin mai mult sa extraga toate datele – in deschiderile viitoare va fi mai rapid!",
+		"The game might be running slower because your device has 8 GB of memory or less.":
+			"Jocul poate va merge lent deoarece system-ul tau are 8 GB de memories au mai putin.",
+		"Updating libraries":
+			"Se Actualizeaza librariile",
+		"Preloading pictures":
+			"Se Preincarca Imagini",
+		"Scene Reset - Activity and C2DUpdate Build":
+			"Resetare Scena –Activitate si Versiune UpdateC2D",
+		"Scene Reset - Preloading Pictures":
+			"Resetare Scena – Se preincarca Imaginile",
+		"Scene Reset - Preloading Sounds":
+			"Resetare Scena – Se Preincarca Sunetele",
+		"Resetting Scene":
+			"",
+		"Preloading textures... {PERCENT}%":
+			"",
+		"Loading data":
+			"Resetare Scena",
+		"Loading terrain":
+			"Se incarca terenul",
+		"Updating textures and sounds":
+			"Se Actualizeaza texturile si sunetele",
+		"Clean up":
+			"Curatare",
+		"Extracting textures and sounds":
+			"Se extracta texturile si sunetele",
+		"Load objects start":
+			"Incarca obiecte de start",
+		"Updating Edit-IDs":
+			"Se actualizeaza Edituri-ID",
+		"Creating Terrain Objects":
+			"Se creeaza Obiecte de Teren",
+		"Computing Zones":
+			"Se Calculeaza Zone",
+		"Computing Terrain":
+			"Se Calculeaza Teren",
+		"Computing Gravity and Heating":
+			"Se Calculeaza Gravitate si Caldura",
+		"Updating Layers":
+			"Se actualizeaza Straturi",
+		"Updating WorldGrid wire meshes":
+			"Se actualizeaza wire mesh-uri WorldGrid",
+		"Scene Reset - Create Assemblies {NUMBER}":
+			"Resetare Scena – Creare Asamblari {NUMBER}",
+		"Scene Reset - Create Assemblies Done":
+			"Resetare Scena – Creare Asamblari Terminat",
+		"Scene Reset - Clean Up":
+			"Resetare Scena - Curatare",
+		"Scene Reset - Compute Layers":
+			"Resetare Scena – Calculare Straturi",
+		"Scene Reset - Create Assemblies":
+			"Resetare Scena – Creare Asamblari",
+		"Loading file tree":
+			"Incarcare arbore file",
+		"Checking files":
+			"Verificare file",
+		"Checking files ({NUMBER})":
+			"Verificare file ({NUMBER})",
+		"Getting files info":
+			"Obtinere informatii file",
+
+		//pause
+		"UNPAUSING...":
+			"UNPAUSING...",
+		"- PAUSED -":
+			"- PAUZA -",
+		"Press P to resume":
+			"Apasa P pentru a te intoarce",
+		"or O to step one frame":
+			"sau O pentru a avansa un frame",
+
+		//debug print
+		"SHIFT + L to disable / enable this output":
+			"SHIFT + L pentru dezactivarea / activarea acestei productii",
+		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
+			"EROARE(I) DETECTATA (Ctrl + F8 pentru a arata raport)",
+		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
+			"EROARE(I) DETECTATA IN {FILE NAME}  (Ctrl + F8 pentru a arata raport)",
+
+		//editor
+		"GAME MODE / EDIT MODE":
+			"MOD DE JOC / MOD DE EDITARE",
+
+		//primoid
+		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
+			"Apasa F1 pentru a raspunde unor intrebari rapide despre locul in care tu ai jucat.",
+		"New Area":
+			"Loc Nou",
+		"Escape pod crash site":
+			"Evadeaza din locul accidentului",
+		"Rocket Silo Location":
+			"Locatia Rachetei Silo",
+		"Rocket Parts":
+			"Parti de Racheta",
+
+		//primoid areas
+		"Primoid Plains":
+			"Campiile Primoid",
+		"Maw Cavern":
+			"Caverna Mav",
+		"Crash Cauldron":
+			"Cazanul Accidentului",
+		"North Hub":
+			"Partea de Nord",
+		"Cave Tunnels":
+			"Tunelurile din Pestera",
+		"Jungle Temple":
+			"Templu din Jungla",
+		"West Metal Mine":
+			"Mina de Metal de Vest",
+		"East Metal Mine":
+			" Mina de Metal de Est ",
+		"Surface Gauntlet":
+			"Manusa Suprafetei",
+		"Mu-Ilaak Temple":
+			"Templul Mu_Ilaak",
+		"Mu-Ilaak Tomb":
+			"Mormantul Mu-Ilaak",
+		"Prime Grottos":
+			"Grote Primare",
+		"Mount Prime":
+			"Munte Primar",
+		"Flush Chute":
+			"Flush Chute",
+		"Silicon Maze":
+			"Labirint de Silicon",
+		"Aurium Core":
+			"Nucleu Aurium",
+
+		//last man standing (Carnageoid)
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"APASA ESC/SELECTEAZA PENTRU A TE INTOARCE LA CENTURA ASTEROIZILOR",
+		"- PRESS BUTTON TO JOIN -":
+			"- APASA BUTON PENTRU A TE ALATURA -",
+		"UP TO 4 PLAYER PVP":
+			"PVP PANA LA 4 PLAYERI",
+		"Change Arena with Triggers or Mouse":
+			"Schimba Arena cu Triggerele sau Mouse-ul",
+		"Go!":
+			"Hai!",
+		"Sudden Death In {SECONDS}":
+			"Moarte Subita In {SECONDS}",
+		"Winner!":
+			"Castigator!",
+		"{CHALLENGE INSTRUCTION}!":
+			"{CHALLENGLE INSTRUCTION}",
+		"Dance":
+			"Danseaza",
+		"Dont Move":
+			"Nu te Misca",
+		"Dive":
+			"Scufunda-te",
+		"Press All Buttons":
+			"Apasa toate Butoanele",
+		"{SCORE}/10":
+			"{SCORE}/10",
+
+		//racetoid
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
+			"",
+		"Go":
+			"Hai!",
+		"Best Time: {TIME}":
+			"Cel mai bun Timp: {TIME}",
+		"Best Time: {TIME} (Gold: {GOLD TIME})":
+			"Cel mai bun Timp: {TIME}  (Aur: {GOLD TIME})",
+		"New Highscore!":
+			"Un Nou Record!",
+		"Highscore: {TIME}":
+			"Record: {TIME}",
+
+		//wrangle
+		"Take to Burner!":
+			"Du-te la Arzator!",
+		"Catch It!":
+			"Prinde-o!",
+		"Grab the Grazer!":
+			"Ia Grazer-ul!",
+		"Good work!":
+			"Buna Treaba!",
+		"You win! Time to head off!":
+			"Ai castigat! E timpul sa decolam!",
+
+		//wrangloid UI
+		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
+			"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}:",
+
+		//defendoid
+		"Use Terminal to Skip Wait!":
+			"Foloseste Terminalul pentru a trece peste Asteptare!",
+		"Wave {WAVE_NUMBER}":
+			"Walul {WAVE_NUMBER}",
+		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
+			"Valul {WAVE_NUMBER} ajunge in {TIME} secunde",
+		"Clear up attackers!":
+			"Curata atacatorii!",
+		"Search for loot and upgrades!":
+			"Cauta loot-uri si upgrade-uri",
+		"Get ready for attackers!":
+			"Pregateste-te pentru atacatori!",
+
+		//coliseum
+		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
+			"- Pentru a adauga propria ta Schita din Atelier, da-I tag \”Gladiator\” -",
+		"Rate them in the Workshop - it affects how often they appear":
+			"Da-le o nota in Atelier – vor fi afectate de cate ori vor aparea",
+		"New Blueprint Uploaded: {NAME}!":
+			"O noua Schita incarcata: {NAME}!",
+		"Next Up:":
+			"Urmatorul",
+		"Coliseum {NAME} by {AUTHOR}":
+			"Coloseum {NAME} de {AUTHOR}",
+		"{NAME} wins!":
+			"{NAME} castiga!",
+		"Using {NAME}":
+			"Folosind {NAME}",
+		"Streak: {STREAK COUNT}!":
+			"Streak: {STREAK COUNT}!",
+		"Ended Streak of {NAME}":
+			"Streak Sfarsit al lui {NAME}",
+		"A Community Creation":
+			"O Creatie a Comunitatii",
+		"A Community Creation By: {NAME}":
+			"O Creatie a Comunitatii De: {NAME}",
+		"Rating: {RATING}%":
+			"Nota: {RATING}%",
+		"Rematch":
+			"Reluare Meci",
+		"Draw":
+			"Egalitate",
+
+		//steam workshop info
+		"Loading Name":
+			"Se incarca Nume",
+		"WS By {AUTHOR}":
+			"De {AUTHOR}",
+		"Workshop Blueprint By {AUTHOR}":
+			"Schita din Ateliar De {AUTHOR}",
+		"Rating: {RATING}%":
+			"Rating: {RATING}%",
+
+		//structure steam altar
+		"Subscribe to Blueprints to receive them here {BUTTON}":
+			"Aboneaza-te la Schite pentru a le primi aici {BUTTON}",
+		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
+			"Se Activeaza Schitele Abonate. Apasa {BUTTON} pentru a deschide Atelier",
+		"Steam Altar Do you recommend this?":
+			"Recomanzi Asta?",
+		"Steam Altar No":
+			"Nu",
+		"Steam Altar Yes":
+			"Da",
+
+		//structure shop manager (steam shop)
+		"Free Sample":
+			"Mostra Gratuita",
+		"{PRICE} (50% off)":
+			"{PRICE} (50% Reducere)",
+		"Buy":
+			"Cumpara",
+		"Steam Shop By {AUTHOR}":
+			"De {AUTHOR}",
+		"Steam Shop Do you recommend this?":
+			"Recomanzi Asta?",
+		"Up/Down Vote":
+			"Voteaza Sus/Jos",
+		"Not enough Aurium":
+			"Aurium Insuficient",
+		"Voted Up":
+			"Votat Sus",
+		"Voted Down":
+			"Votat Jos",
+		"- Shop {SHOP TAG} -":
+			"- Magazin {SHOP TAG} -",
+		"-{PRICE} Aurium":
+			"-{PRICE} Aurium",
+
+		//tags (plural) used for SHOP TAG
+		"Weapons":
+			"Arme",
+		"Tools":
+			"Unelte",
+		"Vehicles":
+			"Vehicule",
+		"Pioneers":
+			"Pioneri",
+		"Robots":
+			"Roboti",
+		"Golems":
+			"Golemi",
+		"Faunas":
+			"Faune",
+
+		//structure shop pioneers
+		"Pio Shop Not enough Aurium":
+			"Not enough Aurium",
+
+		//machine space teleporter
+		"Space Teleporter Scene Completed":
+			"Scena Completa",
+		"Confirm to leave":
+			"Confirma pentru a pleca",
 	}
 }
+
