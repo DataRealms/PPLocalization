@@ -1,29 +1,29 @@
-{
+﻿{
 	"info" : {
 		"id": "ro",
-		"english_name": "Romanian",
-		"localised_name": "Romana"
+		"english_name": "Romanian (WIP)",
+		"localised_name": "Romana (WIP)"
 	},
 	"store page": {
 		//game description
 		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
-			"",
+			"Bun venit la Planetoid Pioneers, un regat al Fizicii cooperativ si sci-fi unde nelinistitii astronauti batrani cad unii peste altii cu actiunie similara cu QWOP pentru a explora Centura de Asteroizi dincolo de Marte. A fost construit in unicul engine pe baza de fizici Crush2D si poate fi jucat pe canapeaua ta sau impotriva prietenilor tai in runde Co-op sau PvP.",
 		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
-			"",
+			"Te vei impiedica de pietre, iti vei pierde cateva member si iti vor fi furate lucrurile atunci cand fugi de terifiantii inamici care te vor face sa uiti ca vei ajunge in urmatoarea capcana. Gandeste-te la alte solutii creative pentru provocarile aruncate spre tine, sau murdareste-ti mainile si construieste-ti proprii tai Planetoizi in editor care sunt toate incluse in editia standard, deasemenea. Rade de ceilalti care incearca sa supravietuiasca in macelul tau construit cu grija. ",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
-			"",
+			"Daca alegi sa cumperi Editia Contribuitorului astazi, vei primi deasemenea acces la oficialul server de Discord al Comunitatii de Contribuitori, unde poti colabora si impartasi continut cu oameni creativi si deschisi, si sa vorbesti direct cu dezvoltatorii jocului.",
 		//game title description
 		"Now Includes All Editors":
-			"",
+			"Acum include toate Editiile",
 		//workshop description
 		"Built for user creation and sharing from the ground up, Planetoid Pioneers supports a Contributor Community whose work can be enjoyed here: Blueprints and entire self-contained Planetoids galore!":
-			"",
+			"Construit pentru creatiile userilor si pentru impartasire de la inceput, Planetoid Pioneers sustine Comunitatea Contribuitorulor a caror lucrari pot fi savurate aici: Schitele si Planetoizi intregi de sine-statatoare!",
 		//contributor dlc (just translate 'Upgrade to')
 		"{PLANETOID PIONEERS} Upgrade to {CONTRIBUTOR EDITON}":
-			"",
+			"{PLANETOID PIONEERS} Actualizat la {CONTRIBUITOR EDITION}",
 		//contributor dlc description
 		"Upgrade from the regular Planetoid Pioneers Game-Only Edition to the full Contributor Edition with ALL the commercial-grade editors that the official development team and the vibrant Contributor Community used to build everything you've seen in the game!":
-			""
+			"Actualizeaza Planetoid Pioneers de la Editia Game-Only la Edtitia full a Contribuitorului cu TOTI editorii de clasa comerciala din care echipa oficiala de dezvoltare si Comunitatea vibrant de Contribuitori au folosit sa construiasca tot ce ai vazut in joc! "
 	},
 	"translations": {
 
@@ -36,7 +36,7 @@
 		"Time: {TIME_ESTIMATE}":
 			"Timp",
 		"ABUI By {AUTHOR}":
-			"",
+			"ABUI de {AUTHOR}",
 
 		//settings
 		"FLAG Settings": //the little flag in the top left
@@ -261,11 +261,11 @@
 		//info terminals
 		//(got to collect the strings from each scene)
 		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
-			"",
+			"__Statiile de Scanteiere__ pot fi mereu \"scanteiate\" prin micsorarea ecranului si apasand iconita lui.",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
-			"",
+			"Aceste unitati de marionete lucratoare fac niste _Corpuri de Rezerva_ excelente. \n\nDoar _Asambleaza_ una si las-o in urma; O vei _Scanteia_ automat in cazul unor accidente de lucru.",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
-			"",
+			"Jurnalul #43547: \"Am distrus ultima racheta de evadare, si _i-am risipit piesele_ de-a lungul Primoid-ului, pentru a preveni _Nenorocirea de Aurium_ sa se raspandeasca dincolo de aceasta lume...\n\nLocatiile sunt marcate pe mapa, dar sunt bine-pazite - _Nici macar sa NU incerci!_\"",
 
 		//scene descriptions and goals
 
@@ -344,21 +344,20 @@
 			"Colectează si gătește toți Grazerii",
 
 		"Trigger Tutorial":
-			"",
+			"Tutorial de Triggere",
 		"Learn how to use triggers and reactors to create your own scenes.":
-			"",
+			"Invata cum sa folosesti triggerele si reactoarele pentru creearea propriilor tale scene.",
 		"Reach the teleporter to get back into space.":
-			"",
+			"Ajungeti la teleportor pentru a va intoarce in spatiu.",
 
 		"Blank Planetoid":
-			"",
+			"Planetoid Gol",
 		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
-			"",
+			"Acesta este un planetoid exemplu. Poate fi folosit ca un punct de incepere pentru creearea unei scene. Are tagul de scena \"Mappable\" deci va aparea in Centura Asteroizilor",
 		"Reach the teleporter to get back into space.":
-			"",
-
+			"Ajungeti la teleportor pentru a va intoarce in spatiu.",
 		//modal stuff
-		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
+		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
 
 		"{QUIT TITLE}":
 			"Ieșire",
@@ -759,9 +758,9 @@
 		"Scene Reset - Preloading Sounds":
 			"Resetare Scena – Se Preincarca Sunetele",
 		"Resetting Scene":
-			"",
+			"Resetare Scena",
 		"Preloading textures... {PERCENT}%":
-			"",
+			"Preincarcare texturi... {PERCENT}%",
 		"Loading data":
 			"Resetare Scena",
 		"Loading terrain":
@@ -905,11 +904,11 @@
 
 		//racetoid
 		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
-			"",
+			"- APASA ESC/SELECT PENTRU A TE INTOARCE LA CENTURA DE ASTEROIZI -",
 		"- PRESS BUTTON TO JOIN -":
-			"",
+			"- APASA BUTON PENTRU A TE ALATURA -",
 		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
-			"",
+			"{PLAYERS READY}/{TOTAL PLAYERS} Jucatori Pregatiti",
 		"Go":
 			"Hai!",
 		"Best Time: {TIME}":
@@ -953,7 +952,7 @@
 
 		//coliseum
 		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
-			"- Pentru a adauga propria ta Schita din Atelier, da-I tag \”Gladiator\” -",
+			"- Pentru a adauga propria ta Schita din Atelier, da-I tag \"Gladiator\" -",
 		"Rate them in the Workshop - it affects how often they appear":
 			"Da-le o nota in Atelier – vor fi afectate de cate ori vor aparea",
 		"New Blueprint Uploaded: {NAME}!":
