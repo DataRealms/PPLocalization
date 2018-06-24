@@ -4,16 +4,43 @@
 		"english_name": "Romanian",
 		"localised_name": "Romana"
 	},
+	"store page": {
+		//game description
+		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
+			"",
+		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
+			"",
+		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
+			"",
+		//game title description
+		"Now Includes All Editors":
+			"",
+		//workshop description
+		"Built for user creation and sharing from the ground up, Planetoid Pioneers supports a Contributor Community whose work can be enjoyed here: Blueprints and entire self-contained Planetoids galore!":
+			"",
+		//contributor dlc (just translate 'Upgrade to')
+		"{PLANETOID PIONEERS} Upgrade to {CONTRIBUTOR EDITON}":
+			"",
+		//contributor dlc description
+		"Upgrade from the regular Planetoid Pioneers Game-Only Edition to the full Contributor Edition with ALL the commercial-grade editors that the official development team and the vibrant Contributor Community used to build everything you've seen in the game!":
+			""
+	},
 	"translations": {
-		
+
+		"FLAG Planetoid": //little planetoid flag in top right
+			"Planetoid",
 		"Goal":
 			"Obiectiv",
 		"Difficulty: {DIFFICULTY}":
 			"Dificultate",
 		"Time: {TIME_ESTIMATE}":
 			"Timp",
+		"ABUI By {AUTHOR}":
+			"",
 
 		//settings
+		"FLAG Settings": //the little flag in the top left
+			"Optiuni",
 		"Settings":
 			"Optiuni",
 		"Adjust Volume":
@@ -316,8 +343,22 @@
 		"Collect and cook all the Grazers. ":
 			"Colectează si gătește toți Grazerii",
 
+		"Trigger Tutorial":
+			"",
+		"Learn how to use triggers and reactors to create your own scenes.":
+			"",
+		"Reach the teleporter to get back into space.":
+			"",
+
+		"Blank Planetoid":
+			"",
+		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
+			"",
+		"Reach the teleporter to get back into space.":
+			"",
+
 		//modal stuff
-		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
 
 		"{QUIT TITLE}":
 			"Ieșire",
@@ -400,7 +441,7 @@
 		"AB Failed":
 			"Esuat",
 		"AB Asteroid Belt {AB NUMBER}":
-			"AB Centura de Asteroizi {AB NUMBER}",
+			"Centura de Asteroizi {AB NUMBER}",
 		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
 			"Complet {COUNT COMPLETED} din {COUNT TOTAL}",
 
@@ -1013,4 +1054,3 @@
 			"Confirma pentru a pleca",
 	}
 }
-
