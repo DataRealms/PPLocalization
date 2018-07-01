@@ -952,6 +952,12 @@
 			"",
 		"Not enough resources":
 			"",
+		// label above effect when player is scanning a blueprint
+    "Scanning":
+			"",
+		// label above effect when player finished scanning a blueprint
+		"Completed!":
+			"",
 		"Metals: {NUMBER}kg":
 			"",
 		"Carbon: {NUMBER}kg":

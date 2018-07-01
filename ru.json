@@ -475,22 +475,23 @@
 			"декабря",
 
 		//resource bars
-		"METALS":
-			"МЕТАЛЛ",
-		"CARBON":
-			"УГЛЕРОД",
-		"WATER":
-			"ВОДА",
-		"SILICON":
-			"КРЕМНИЙ",
-		"AURIUM":
-			"АУРИУМ",
-		"CHARGE":
-			"ЗАРЯД",
-		"FULL!":
-			"ПОЛНЫЙ!",
-		"EMPTY!":
-			"ПУСТОЙ!",
+		// TODO Translate once the engine supports non-standart chars in HUD UI
+		//"METALS":
+		//	"МЕТАЛЛ",
+		//"CARBON":
+		//	"УГЛЕРОД",
+		//"WATER":
+		//	"ВОДА",
+		//"SILICON":
+		//	"КРЕМНИЙ",
+		//"AURIUM":
+		//	"АУРИУМ",
+		//"CHARGE":
+		//	"ЗАРЯД",
+		//"FULL!":
+		//	"ПОЛНЫЙ!",
+		//"EMPTY!":
+		//	"ПУСТОЙ!",
 
 		//respawn player join info text
 		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
