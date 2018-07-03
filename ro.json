@@ -357,7 +357,7 @@
 		"Reach the teleporter to get back into space.":
 			"Ajungeti la teleportor pentru a va intoarce in spatiu.",
 		//modal stuff
-		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
 
 		"{QUIT TITLE}":
 			"Ieșire",
@@ -1051,5 +1051,803 @@
 			"Scena Completa",
 		"Confirm to leave":
 			"Confirma pentru a pleca",
+
+		//blueprint popup
+		"Completed":
+			"Completă",
+		"Scanning":
+			"Scanare",
+
+			//blueprint menu
+		"Blueprint Ready":
+			"Schita Pregatita",
+		"Incomplete Blueprint":
+			"Schita Incompleta",
+		"New Blueprint!":
+			"Schita Noua!",
+		"Not enough resources":
+			"Resurse insuficiente",
+		"Metals: {NUMBER}kg":
+			"Metale: {NUMBER}kg",
+		"Carbon: {NUMBER}kg":
+			"Carbon: {NUMBER}kg",
+		"Silicon: {NUMBER}kg":
+			"Silicon: {NUMBER}kg",
+		"Water: {NUMBER}kg":
+			"Apa” {NUMBER}kg",
+
+		//blueprint menu categories (translate these to plural)
+		"Partial":
+			"Partiale",
+		"Workshop":
+			"Atelier",
+		"1T":
+			"1T",
+		"Aurium":
+			"Aurium",
+		"Bomb":
+			"Bombe",
+		"Bot":
+			"Roboti",
+		"Cloud":
+			"Nori",
+		"Coalition":
+			"Coalitie",
+		"Component":
+			"Componente",
+		"Construction":
+			"Constructie",
+		"Fauna":
+			"Fauna",
+		"Flora":
+			"Flora",
+		"Gear":
+			"Aparatura",
+		"Golem":
+			"Golemi",
+		"Grenade":
+			"Grenade",
+		"Junk":
+			"Deseuri",
+		"Lamp":
+			"Lampi",
+		"Loot":
+			"Loot",
+		"Lump":
+			"Gramada",
+		"Machine":
+			"Masinarii",
+		"Pioneer":
+			"Pioneri",
+		"Prototype":
+			"Prototipi",
+		"Reactor":
+			"Reactoare",
+		"Rover":
+			"Rovere",
+		"Ship":
+			"Nave",
+		"Sign":
+			"Semne",
+		"Strucure":
+			"Strucuri",
+		"Tank":
+			"Tanc-uri",
+		"Tool":
+			"Unelte",
+		"Trap":
+			"Capcane",
+		"Trigger":
+			"Triggere",
+		"Weapon":
+			"Arme",
+
+		//blueprint names for blueprint menu and appearing over vehicles and tools
+		//category words should not stay in the translation, instead keep the names simple and readable
+		"1T Graphite":
+			"1T Grafit",
+		"1T Ice":
+			"1T Gheata",
+		"1T Metals":
+			"1T Metale",
+		"1T Sandstone":
+			"1T Piatra de Nisip",
+		"Aurium Crystal":
+			"Cristal Aurium",
+		"Aurium Vase Brown":
+			"Aurium Vaza Maro",
+		"Aurium Vase Large 1":
+			"Aurium Vaza Larga 1",
+		"Aurium Vase Large 2":
+			"Aurium Vaza Larga 2",
+		"Aurium Vase Large 3":
+			"Aurium Vaza Larga 3",
+		"Aurium Vase Small":
+			"Aurium Vaza Mica",
+		"Bomb Classic":
+			"Bomba Clasica",
+		"Bomb Large":
+			"Bomba Larga",
+		"Bomb":
+			"Bomba",
+		"Bot Acid":
+			"Bot Acid",
+		"Bot Drone Defense":
+			"Bot Drona de Aparare",
+		"Bot Flip":
+			"Bot Rasucitor",
+		"Bot Flying Worm":
+			"Bot Vierme Zburator",
+		"Bot Frosty":
+			"Bot Geros",
+		"Bot Guard Box":
+			"Bot Cutie de Aparare",
+		"Bot Imperatus":
+			"Bot Imperatus",
+		"Bot Jumper Box":
+			"Bot Cutie Saltareata",
+		"Bot Mecha":
+			"Bot Mecha",
+		"Bot Phoenix":
+			"Bot Phoenix",
+		"Bot Sentry":
+			"Bot Sentry",
+		"Bot Spot":
+			"Bot Spot",
+		"Bot Tank":
+			"Bot Tanc",
+		"Bot Temperature Drone":
+			"Bot Drona de Temperatura",
+		"Bot Titan Golem":
+			"Bot Golem de Titan",
+		"Bot Vendor":
+			"Bot Furnizor",
+		"Bot Wandering":
+			"Bot Umblator",
+		"Bot Worm":
+			"Vierme Bot",
+		"Cloud Acid":
+			"Nor Acid",
+		"Coalition Ship":
+			"Coalitie Nava",
+		"Coalition Turret":
+			"Coalitie Turret",
+		"Component Balancer":
+			"Componenta Echilibrator",
+		"Component Balloon":
+			"Componenta Balon",
+		"Component Battery 100A":
+			"Componenta Baterie 100A",
+		"Component Battery 10A":
+			"Componenta Baterie 10A",
+		"Component Capacitor":
+			"Componenta Capacitor",
+		"Component Explosive Charge":
+			"Componenta Charge Explozibil",
+		"Component Minigun":
+			"Componenta Minigun",
+		"Component Seat Boosted":
+			"Componenta Scaunt Amplificat",
+		"Component Seat":
+			"Componenta Scaun",
+		"Component Thruster":
+			"Componenta Propulsor",
+		"Component Wheel":
+			"Componenta Roata",
+		"Construction Concrete Support":
+			"Constructie Suport Ciment",
+		"Construction Concrete Wall":
+			"Constructie Perete de Ciment",
+		"Construction Concrete Window":
+			"Constructie Fereastra de Ciment",
+		"Construction Elevator":
+			"Constructie Lift",
+		"Construction Plank Big":
+			"Constructie Scandura Mare",
+		"Construction Plank Slim":
+			"Constructie Scandura Subtire",
+		"Construction Plank":
+			"Constructie Scandura",
+		"Construction Trunk":
+			"Constructie Portbagaj",
+		"Construction Wooden Triangle":
+			"Constructie Triunghi de Lemn",
+		"Fauna Animal Nest":
+			"Fauna Cuib de Animale",
+		"Fauna Bird Hostile":
+			"Fauna Pasare Ostila",
+		"Fauna Bird Neutral":
+			"Fauna Pasare Neutra",
+		"Fauna Bomb Bug":
+			"Fauna Insecta cu Bomba",
+		"Fauna Crab Acid":
+			"Fauna Crab Acid",
+		"Fauna Crab Aurium":
+			"Fauna Crab Aurium",
+		"Fauna Crab Balloon":
+			"Fauna Crab Balon",
+		"Fauna Crab Fire":
+			"Fauna Crab Foc",
+		"Fauna Crab":
+			"Fauna Crab",
+		"Fauna Egg Bird":
+			"Fauna Ou Pasare",
+		"Fauna Egg":
+			"Fauna Ou",
+		"Fauna Grazer":
+			"Fauna Grazer",
+		"Fauna Ice Bird":
+			"Fauna Pasare de Gheata",
+		"Fauna Ice Bug":
+			"Fauna Insecta de Gheata",
+		"Fauna Knuckles Boss":
+			"Fauna Knuckles Boss",
+		"Fauna Knuckles":
+			"Fauna Knuckles",
+		"Fauna Mega Worm Long":
+			"Fauna Mega Vierme Lung",
+		"Fauna Mega Worm":
+			"Fauna Mega Vierme",
+		"Fauna Roly Poly":
+			"Fauna Roly Poly",
+		"Fauna Silverback":
+			"Fauna Silverback",
+		"Fauna Skeleton Armored":
+			"Fauna Schelet Cu Armura",
+		"Fauna Snapjaw":
+			"Fauna Spargator-de-Falci",
+		"Fauna Tentacle Eye":
+			"Fauna Ochi Tentacul",
+		"Fauna Tentacle Launcher":
+			"Fauna Aruncator Tentacule",
+		"Fauna Tentacle Old":
+			"Fauna Tentacul Vechi",
+		"Fauna Tentacle":
+			"Fauna Tentacul",
+		"Fauna Zombie":
+			"Fauna Zombie",
+		"Flora Aloe Plant":
+			"Flora Planta Aloe",
+		"Flora Broccoli Plant":
+			"Flora Planta Brocoli",
+		"Flora Clone Plant":
+			"Flora Planta Clona",
+		"Flora Glow Plant":
+			"Flora Planta Stralucitoare",
+		"Flora Liana End":
+			"Flora Liana Sfarsit",
+		"Flora Liana":
+			"Flora Liana",
+		"Flora Pop Plant":
+			"Flora Planta Pop",
+		"Flora Vines":
+			"Flora Viță",
+		"Gear Chest Plate":
+			"Echipament Placa Piept",
+		"Gear Crown":
+			"Echipament Coroana",
+		"Gear Helmet":
+			"Echipament Casca",
+		"Gear Leg BG Armor":
+			"Echipament Armura Picior BG",
+		"Gear Leg FG Armor":
+			"Echipament Armura Picior FG",
+		"Gear Small Aurium Obj":
+			"Echipament Obiect Aurium Mic",
+		"Gear Small Aurium":
+			"Echipament Aurium Mic",
+		"Gear Space Helmet":
+			"Echipament Casca Spatiu",
+		"Golem Carbon":
+			"Golem Carbon",
+		"Golem Ice":
+			"Golem Gheata",
+		"Golem Metal":
+			"Golem Metal",
+		"Golem Silicon":
+			"Golem Silicon",
+		"Grenade Bounce":
+			"Grenada Saritoare",
+		"Grenade Cold":
+			"Grenada Rece",
+		"Grenade Impact":
+			"Grenada Impact",
+		"Grenade Mine":
+			"Grenada Mina",
+		"Grenade Rope":
+			"Grenada Franghie",
+		"Grenade Simple":
+			"Grenada Simpla",
+		"Grenade Spikes":
+			"Grenada Țepi",
+		"Junk Aurium Boulder 1":
+			"Resturi Bulgar de Aurium 1",
+		"Junk Aurium Boulder 2":
+			"Resturi Bulgar de Aurium 2",
+		"Junk Block Sandstone Long":
+			"Resturi Bloc Piatra de Nisip Lung",
+		"Junk Block Sandstone":
+			"Resturi Bloc Piatra de Nisip",
+		"Junk Bones":
+			"Resturi Oase",
+		"Junk Boulder Big":
+			"Resturi Bulgar Mare",
+		"Junk Boulder Huge":
+			"Resturi Bulgar Imens",
+		"Junk Boulder Sandstone Huge":
+			"Resturi Bulgar Piatra de Nisip Imensa",
+		"Junk Boulder Sandstone":
+			"Resturi Bulgar Piatra de Nisip",
+		"Junk Boulder Small":
+			"Resturi Bulgar Mic",
+		"Junk Boulder":
+			"Resturi Bulgar",
+		"Junk Brick":
+			"Resturi Caramida",
+		"Junk Cage":
+			"Resturi Cușcă",
+		"Junk Chain":
+			"Resturi Lanț",
+		"Junk Cutie A":
+			"Resturi Lada A",
+		"Junk Crate Aurium Alloy Big":
+			"Resturi Cutie Aliaj de Aurium Mare",
+		"Junk Crate Aurium Alloy Small":
+			"Resturi Cutie Aliaj de Aurium Mica",
+		"Junk Crate Aurium Alloy":
+			"Resturi Cutie Aliaj de Aurium",
+		"Junk Crate B":
+			"Resturi Cutie B",
+		"Junk Crate Cardboard":
+			"Resturi Cutie de Carton",
+		"Junk Crate Ice 1":
+			"Resturi Cutie Rece 1",
+		"Junk Crate Wooden 1":
+			"Resturi Cutie de Lemn 1",
+		"Junk Crate Wooden 2":
+			"Resturi Cutie de Lemn 2",
+		"Junk Crate Wooden Small 2":
+			"Resturi Cutie de Lemn Mica 2",
+		"Junk Crate Wooden Small":
+			"Resturi Cutie de Lemn Mica",
+		"Junk Drill":
+			"Resturi Burghiu",
+		"Junk Flight Recorder":
+			"Resturi Inregistrator Zbor",
+		"Junk Fuel Tank Light":
+			"Resturi Rezervor Combustibil Usor ",
+		"Junk Fuel Tank":
+			"Resturi Rezervor Combustibil",
+		"Junk Girder":
+			"Resturi Grinda",
+		"Junk Ice Block":
+			"Resturi Bloc de Gheata",
+		"Junk Ice Rock":
+			"Resturi Stanca de Gheata",
+		"Junk Ice Stalactite":
+			"Resturi Stalactita de Gheata",
+		"Junk Ice Wall Small":
+			"Resturi Perete de Gheata Mic",
+		"Junk Ice Wall":
+			"Resturi Perete de Gheata",
+		"Junk Logo 2":
+			"Resturi Logo 2",
+		"Junk Logo C":
+			"Resturi Logo C",
+		"Junk Logo D":
+			"Resturi Logo D",
+		"Junk Logo PP":
+			"Resturi Logo PP",
+		"Junk Metal Plate":
+			"Resturi Placa de Metal",
+		"Junk Rock":
+			"Resturi Stanca",
+		"Junk Rod 2":
+			"Resturi Tija 2",
+		"Junk Rod Metal":
+			"Resturi Tija Metal",
+		"Junk Rod":
+			"Resturi Tija 2",
+		"Junk Roly Poly Dung":
+			"Resturi Gunoi Roly Poly",
+		"Junk Ship Part A":
+			"Resturi Parte Nava A",
+		"Junk Ship Part B":
+			"Resturi Parte Nava B",
+		"Junk Ship Pieces":
+			"Resturi Piese Nava",
+		"Junk Skeleton":
+			"Resturi Schelet",
+		"Junk Snow Ball Big":
+			"Resturi Bulgare de Zapada Mare",
+		"Junk Snow Ball Small":
+			"Resturi Bulgare de Zapada Mare",
+		"Junk Snow Ball":
+			"Resturi Bulgare de Zapada",
+		"Junk Tank Wreck Imperatus":
+			"Resturi Resturi Tanc Imperatus",
+		"Junk Vase Big":
+			"Resturi Vaza Mare",
+		"Junk Vase Oil":
+			"Resturi Vaza Ulei",
+		"Junk Vase":
+			"Resturi Vaza",
+		"Lamp Chunky":
+			"Lampa Indesată",
+		"Lamp Hanging Alien":
+			"Lampa Extrateretru Agatat",
+		"Lamp Hanging":
+			"Lampa Agatata",
+		"Lamp Mounted":
+			"Lampa Prinsa",
+		"Lamp Wall A":
+			"Lampa Perete A",
+		"Loot Blueprint Chest":
+			"Loot Schita Piept",
+		"Loot Blueprint":
+			"Loot Schita",
+		"Loot Chest":
+			"Loot Chest",
+		"Loot Dispenser":
+			"Loot Distribuitor",
+		"Loot Orb Golden":
+			"Loot Glob Auriu",
+		"Loot Orb":
+			"Loot Glob",
+		"Loot Weapon Container Tier 1":
+			"Loot Container de Arme Nivel 1",
+		"Loot Weapon Container Tier 2":
+			"Loot Container de Arme Nivel 2",
+		"Loot Weapon Container Tier 3":
+			"Loot Container de Arme Nivel 3",
+		"Loot Workshop Box":
+			"Loot Cutie Atelier",
+		"Lump Aurium A":
+			"Gramada Aurium A",
+		"Lump Aurium B":
+			"Gramada Aurium B",
+		"Lump Aurium C":
+			"Gramada Aurium C",
+		"Lump Carbon A":
+			"Gramada Carbon A",
+		"Lump Carbon B":
+			"Gramada Carbon B",
+		"Lump Carbon C":
+			"Gramada Carbon C",
+		"Lump Metals A":
+			"Gramada Metale A",
+		"Lump Metals B":
+			"Gramada Metale B",
+		"Lump Metals C":
+			"Gramada Metale C",
+		"Lump Metals D":
+			"Gramada Metale D",
+		"Lump Silicon A":
+			"Gramada Silicon A",
+		"Lump Silicon B":
+			"Gramada Silicon B",
+		"Lump Silicon C":
+			"Gramada Silicon C",
+		"Lump Silicon D":
+			"Gramada Silicon D",
+		"Lump Water A":
+			"Gramada Apa A",
+		"Lump Water B":
+			"Gramada Apa B",
+		"Machine Camera Aurium":
+			"Mecanism Camera Aurium",
+		"Machine Catapult":
+			"Mecanism Catapulta",
+		"Machine Dropper":
+			"Mecanism Dropper",
+		"Machine Laser Emitter":
+			"Mecanism Emițător Laser",
+		"Machine Proximity Sensor":
+			"Mecanism Senzor de Proximitate",
+		"Machine Sentry Camera":
+			"Mecanism Camera Sentry",
+		"Machine Sentry Gun":
+			"Mecanism Santinelă",
+		"Machine Space Teleporter":
+			"Mecanism Teleportor Spatiu",
+		"Machine Switch":
+			"Mecanism Intrerupator",
+		"Machine Terminal Info":
+			"Mecanism Info Terminal",
+		"Machine Terminal Sensor":
+			"Mecanism Senzor Terminal",
+		"Pioneer Crazy Bob":
+			"Pionier Bob Nebunul",
+		"Pioneer Imperatus":
+			"Pionier Imperatus",
+		"Pioneer Lily Crusher":
+			"Pionier Lily Sdrobitoarea",
+		"Pioneer Pink Horror":
+			"Pionier Roz Horror",
+		"Pioneer Red Devil":
+			"Pionier Rosu Malefic",
+		"Pioneer Starman":
+			"Pionier Omul Stea",
+		"Pioneer Test Dummy":
+			"Pionier Manechin de Test",
+		"Pioneer Wyatt":
+			"Pionier Wyatt",
+		"Prototype Bot Mr Tentacles":
+			"Prototip Bot Dl. Tentacule",
+		"Prototype Bot Walker Big":
+			"Prototip Bot Umblator Mare",
+		"Prototype Bot Walker":
+			"Prototip Bot Umblator",
+		"Prototype Drone Defense":
+			"Prototip Drona de Aparare",
+		"Prototype Elevator":
+			"Prototip Lift",
+		"Prototype Fauna Bomb Bug":
+			"Prototip Fauna Insecta Explosiva",
+		"Prototype Homing Missile":
+			"Prototip Racheta Urmaritoare",
+		"Prototype Mecha Flamer":
+			"Prototip Mecha Flamer",
+		"Prototype Mecha MG":
+			"Prototip Mecha MG",
+		"Prototype Mecha Rifle":
+			"Prototip Pusca Mecha",
+		"Prototype Nest Bees":
+			"Prototip Cuib de Albine",
+		"Prototype Nest Bird Hostile":
+			"Prototip Cuib de Pasari Ostile",
+		"Prototype Nest Bird":
+			"Prototip Cuib de Pasari",
+		"Prototype Rifle Blast":
+			"Prototip Blast Pusca",
+		"Prototype Rock Trap Rock":
+			"Prototip Stanca de Capcana",
+		"Prototype Rover Car":
+			"Prototip Vehicul Rover",
+		"Prototype SAM Site":
+			"Prototip Teren SAM",
+		"Prototype Satellite Discovery":
+			"Prototip Descoperire Satelit",
+		"Prototype Snowboard Mk2":
+			"Prototip Snowboard Mk2",
+		"Prototype Structure Door Trap Sm":
+			"Prototip Structura Usa Capcana Sm",
+		"Prototype Structure Door Trap":
+			"Prototip Structura Usa Capcana",
+		"Prototype Tool Crossbow":
+			"Prototip Unealta Arbaleta",
+		"Prototype Tool Gravity Gun":
+			"Prototip Unealta Arma de Gravitate",
+		"Prototype Tool Teleport Device":
+			"Prototip Unealta Dispozitiv de Teleportare",
+		"Rover Carbon":
+			"Carbon Rover",
+		"Rover Carrier Hover":
+			"Rover Purtator Hover",
+		"Rover Carrier":
+			"Purtator Rover",
+		"Rover Climber":
+			"Rover Cățărător",
+		"Rover Coalition Spider Climber":
+			"Rover Paianjen Cățărător de Coalitie",
+		"Rover Minimal Aurium Example":
+			"Rover Exemplu de Aurium Minim",
+		"Rover Minimal Jets":
+			"Rover Jet-uri Minime",
+		"Rover Mining Cart":
+			"Rover Cart de Mina",
+		"Rover Quad":
+			"Rover Quad",
+		"Rover Scissor":
+			"Rover Foarfeca",
+		"Rover Shocks":
+			"Rover Șocuri",
+		"Ship Big":
+			"Nava Mare",
+		"Ship Drop Rocket":
+			"Nava Racheta de Transport",
+		"Ship Landing Seat":
+			"Nava Scaun de Aterizare",
+		"Ship Landing":
+			"Nava Aterizare",
+		"Ship Mini":
+			"Nava Mini",
+		"Ship Rocket":
+			"Nava Recheta",
+		"Sign Not Throw":
+			"Semn Nu Arunca",
+		"Sign Shopping":
+			"Semn Cumparaturi",
+		"Sign Steam":
+			"Semn Steam",
+		"Sign Wooden Compound Logo":
+			"Semn Logo de Lemn",
+		"Snowboard":
+			"Snowboard",
+		"Structure Assembly Lock":
+			"Structura Asamblare Incuietoare",
+		"Structure Bridge Draw Long":
+			"Structura Desen Pod Lung",
+		"Structure Bridge Draw":
+			"Structura Desen Pod",
+		"Structure Bridge Hanging Huge":
+			"Structura Pod Agatat Imens",
+		"Structure Bridge Hanging Long":
+			"Structura Pod Agatat Lung",
+		"Structure Bridge Hanging":
+			"Structura Pod Agatat",
+		"Structure Bridge Metal":
+			"Structura Pod Metal",
+		"Structure Covered Door":
+			"Structura Ușă Acoperită",
+		"Structure Door Covered":
+			"Structura Ușă Acoperită",
+		"Structure Door Curved":
+			"Structura Ușă Curbată",
+		"Structure Door Dungeon":
+			"Structura Ușă Temniță",
+		"Structure Door Huge":
+			"Structura Ușă Imensă",
+		"Structure Door Sandstone Huge":
+			"Structura Ușă Sandstone Imensă",
+		"Structure Door Sandstone":
+			"Structura Ușă Sandstone",
+		"Structure Door Silo":
+			"Structura Ușă Silo",
+		"Structure Door":
+			"Structura Ușă",
+		"Structure Elevator Fast":
+			"Structura Lift Rapid",
+		"Structure Elevator Sandstone":
+			"Structura Lift Sandstone",
+		"Structure Elevator Small":
+			"Structura Lift Mic",
+		"Structure Eye Large":
+			"Structura Ochi Larg",
+		"Structure Eye Statue":
+			"Structura Statuie Ochi",
+		"Structure Garage":
+			"Structura Garaj",
+		"Structure Gear Lock":
+			"Structura Incuietoare Echipament",
+		"Structure Grazer Vacuum":
+			"Structura Asiprator Grazer",
+		"Structure Latch":
+			"Structura Clanță",
+		"Structure LCD Countdown Timer":
+			"Structura Cronometru Numaratoare-Inversă LCD",
+		"Structure LCD Panel":
+			"Structura Panou LCD",
+		"Structure Moving Platform MAZE":
+			"Structura Platforma Miscatoare MAZE",
+		"Structure Moving Platform":
+			"Structura Platforma Miscatoare",
+		"Structure Pin World":
+			"Structura Lume Pin",
+		"Structure Power Core":
+			"Structura Nucleu de Energie",
+		"Structure Resource Filler":
+			"Structura Umplutor de Resurse",
+		"Structure Respawn Station":
+			"Structura Statie de Respawnare",
+		"Structure Rope":
+			"Structura Frânghie",
+		"Structure Shop Manager":
+			"Structura Manager Magazin",
+		"Structure Shop Pioneers":
+			"Structura Pionieri Magazin",
+		"Structure Steam Altar":
+			"Structura Altar Steam",
+		"Structure Switch Sandstone":
+			"Structura Intrerupator Sandstone",
+		"Structure Teleporter":
+			"Structura Teleportor",
+		"Structure Trap Door 10m":
+			"Structura Ușă Capcană 10m",
+		"Structure Trap Door Long":
+			"Structura Ușă Capcană Lungă",
+		"Structure Trap Door Metal":
+			"Structura Ușă Capcană Metal",
+		"Structure Trap Door Sandstone":
+			"Structura Ușă Capcană Sandstone",
+		"Tank Coalition":
+			"Tanc Coalitie",
+		"Tool Balloon Gun":
+			"Unealta Arma Cu Baloane",
+		"Tool Bomb Crab":
+			"Unealta Crab Explozibil",
+		"Tool Glow Stick":
+			"Unealta Tub Fluorescent",
+		"Tool Grappling Hook Basic":
+			"Unealta Carlig de Agățare de Bază ",
+		"Tool Hack Gun":
+			"Unealta Arma Hackuire",
+		"Tool Jet Rocket":
+			"Unealta Rachetă Jet",
+		"Tool Key":
+			"Unealta Cheie",
+		"Tool Magnet":
+			"Unealta Magnet",
+		"Tool Propeller":
+			"Unealta Propulsor",
+		"Tool Quantum Field Device":
+			"Unealta Dispozitiv de Camp Cuantic",
+		"Tool Rope Launcher":
+			"Unealta Aruncator de Frânghie",
+		"Tool Rope":
+			"Unealta Frânghie",
+		"Tool Shield Metal":
+			"Unealta Scut de Metal",
+		"Tool Spelunker Rope":
+			"Unealta Frânghie Speolog",
+		"Tool Tether":
+			"Unealta Pripon",
+		"Tool Welder":
+			"Unealta Sudor",
+		"Trap Claw":
+			"Capcană Gheară",
+		"Trap Dart":
+			"Capcană Lance",
+		"Trap Flamethrower Aurium":
+			"Capcană Aruncator de Flacari Aurium",
+		"Trap Flamethrower":
+			"Capcană Aruncator de Flacari",
+		"Trap Grinder Small":
+			"Capcană Polizor Mic",
+		"Trap Grinder":
+			"Capcană Polizor",
+		"Trap Ice":
+			"Capcană Gheață",
+		"Trap Spring Mine":
+			"Capcană Mină Săritoare",
+		"Weapon Assault Rifle":
+			"Armă Pusca de Asalt",
+		"Weapon Aurium Staff":
+			"Armă Baston Aurium",
+		"Weapon Blue Rifle":
+			"Armă Pusca Albastra",
+		"Weapon Bounding Mine Grenade":
+			"Armă Grenadă Bounding Mine",
+		"Weapon Cold Grenade Launcher":
+			"Armă Aruncator de Grenade Reci",
+		"Weapon Cold Grenade":
+			"Armă Grenadă Rece",
+		"Weapon Cold Shotgun":
+			"Armă Shotgun Rece",
+		"Weapon Flamethrower":
+			"Armă Aruncator de Flacari",
+		"Weapon Grandpas Rifle":
+			"Armă Puscas Bunicului",
+		"Weapon Grenade Launcher":
+			"Armă Aruncator de Grenade",
+		"Weapon Hand Grenade":
+			"Armă Grenade de Mână",
+		"Weapon Heavy Machine Gun":
+			"Armă Mitralieră Mare",
+		"Weapon Laser Assault Rifle":
+			"Armă Puscă de Asalt Cu Laser",
+		"Weapon Machine Pistol":
+			"Armă Pistol Automat",
+		"Weapon Mine Launcher":
+			"Armă Aruncator de Mine",
+		"Weapon Minigun":
+			"Armă Minigun",
+		"Weapon Nail Gun":
+			"Armă Pistol de Cuie",
+		"Weapon Pistol":
+			"Armă Pistol",
+		"Weapon Plasma Rifle":
+			"Armă Pusca cu Plasma",
+		"Weapon Rifle Bolt Action":
+			"Armă Pusca Bolt Action",
+		"Weapon Scrap Launcher":
+			"Armă Aruncator de Vechituri",
+		"Weapon Shockwave Gun":
+			"Armă Armă cu Electroșocuri",
+		"Weapon Shotgun":
+			"Armă Shotgun",
+		"Weapon Sticky Bomb Launcher":
+			"Armă Aruncator de Bombe Lipicioase"
+
 	}
 }
