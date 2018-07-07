@@ -33,7 +33,7 @@
 		//planetoid panel
 		//labels/description/etc
 		"FLAG Planetoid":
-			"Планетоид",		
+			"Планетоид",
 		"Goal":
 			"Цель",
 		"Difficulty: {DIFFICULTY}":
@@ -41,11 +41,11 @@
 		"Time: {TIME_ESTIMATE}":
 			"Время: {TIME_ESTIMATE}",
 		"ABUI By {AUTHOR}":
-			"Автор {AUTHOR}",			
+			"Автор {AUTHOR}",
 
 		//settings
 		"FLAG Settings": //the little flag in the top left
-			"Настройки",		
+			"Настройки",
 		"Settings":
 			"Настройки",
 		"Adjust Volume":
@@ -359,10 +359,10 @@
 		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
 			"Это пример планетоида. Он может использоваться как шаблон для создания уровня. У него проставлен тэг \"Mappable\" чтобы он был виден в Поясе астероидов",
 		"Reach the teleporter to get back into space.":
-			"Доберитесь до телепорта чтобы вернуться в космос.",			
+			"Доберитесь до телепорта чтобы вернуться в космос.",
 
 		//modal stuff
-		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
 
 		"{QUIT TITLE}":
 			"Выход",
@@ -550,123 +550,6 @@
 		"Respawn Here":
 			"Возродиться здесь",
 
-		//weapon names
-		"Assault Rifle":
-			"Штурмовая винтовка",
-		"Aurium Staff":
-			"Посох из Ауриума",
-		"Blue Rifle":
-			"Синяя винтовка",
-		"Bounding Mine Grenade":
-			"Мина-граната",
-		"Cold Grenade Launcher":
-			"Замораживающий гранатомёт",
-		"Cold Grenade":
-			"Замораживающая граната",
-		"Cold Shotgun":
-			"Замораживающее ружье",
-		"Flamethrower":
-			"Огнемёт",
-		"Grandpas Rifle":
-			"Дедулино ружьё",
-		"Grenade Launcher":
-			"Бомбомёт",
-		"Hand Grenade":
-			"Ручная граната",
-		"Heavy Machine Gun":
-			"Пулемёт",
-		"Laser Assault Rifle":
-			"Лазерная винтовка",
-		"Machine Pistol":
-			"Автоматический пистолет",
-		"Mine Launcher":
-			"Миномёт",
-		"Minigun":
-			"Пулемёт Гатлинга",
-		"Nail Gun":
-			"Гвоздомёт",
-		"Pistol":
-			"Пистолет",
-		"Plasma Rifle":
-			"Плазменная винтовка",
-		"Rifle Bolt Action":
-			"Однозарядная винтовка",
-		"Scrap Launcher":
-			"Мусоромёт",
-		"Shockwave Gun":
-			"Шоковая пушка",
-		"Shotgun":
-			"Дробовик",
-		"Sticky Bomb Launcher":
-			"Метатель бомб-липучек",
-
-		//tools
-		"Balloon Gun":
-			"Шаромёт",
-		"Bomb Crab":
-			"Крабовая бомба",
-		"Grappling Hook Basic":
-			"Кошка",
-		"Hack Gun":
-			"Взламыватель",
-		"Jet Rocket":
-			"Ракета",
-		"Propeller":
-			"Пропеллер",
-		"Quantum Field Device":
-			"Проектор квантового поля",
-		"Rope Launcher":
-			"Верёвкомёт",
-		"Rope":
-			"Верёвка",
-		"Shield Metal":
-			"Металлический щит",
-		"Welder":
-			"Сварка",
-		"Flight Recorder":
-			"Бортовой регистратор",
-		"Spring Mine":
-			"Прыгающая мина",
-		"Claw":
-			"Капкан",
-		//vehciles flying
-		"Ship Mini":
-			"Мини-корабль",
-		"Ship Rocket":
-			"Ракета",
-		"Ship Big":
-			"Большой корабль",
-			
-		//vehicles land
-		"Rover Carbon":
-			"Углеволоконный ровер",
-		"Rover Carrier Hover":
-			"Грузовой ровер на воздушной подушке",
-		"Rover Carrier":
-			"Грузовой ровер",
-		"Rover Climber":
-			"Горный ровер",
-		"Rover Coalition Spider Climber":
-			"Ровер-паук Коалиции",
-		"Rover Minimal":
-			"Простой ровер",
-		"Rover Quad":
-			"Четырёхосный ровер",
-		"Rover Scissor":
-			"Ровер-подъёмник",
-		"Rover Shocks":
-			"Защищённый ровер",
-		"Rover Minimal Jets":
-			"Простой прыгающий ровер",
-		"ROVER MINIMAL JETS":
-			"Простой прыгающий ровер",
-		"Tank Coalition":
-			"Танк Коалиции",
-		//components
-		"Seat":
-			"Кабина",
-		"Seat Boosted":
-			"Улучшенная кабина",
 		//game quit
 		"GAME SAVED":
 			"ИГРА СОХРАНЕНА",
@@ -1056,6 +939,802 @@
 		"Space Teleporter Scene Completed":
 			"Уровень завершён",
 		"Confirm to leave":
-			"Подтвердите выход"
+			"Подтвердите выход",
+
+		//blueprint menu
+		"Blueprint Ready":
+			"",
+		"Incomplete Blueprint":
+			"",
+		"New Blueprint!":
+			"",
+		"Not enough resources":
+			"",
+		// label above effect when player is scanning a blueprint
+    "Scanning":
+			"",
+		// label above effect when player finished scanning a blueprint
+		"Completed!":
+			"",
+		"Metals: {NUMBER}kg":
+			"",
+		"Carbon: {NUMBER}kg":
+			"",
+		"Silicon: {NUMBER}kg":
+			"",
+		"Water: {NUMBER}kg":
+			"",
+
+		//blueprint menu categories (translate these to plural)
+		"CATEGORY Partial":
+			"",
+		"CATEGORY Workshop":
+			"",
+		"CATEGORY 1T":
+			"",
+		"CATEGORY Aurium":
+			"",
+		"CATEGORY Bomb":
+			"Bombs",
+		"CATEGORY Bot":
+			"Robots",
+		"CATEGORY Cloud":
+			"Clouds",
+		"CATEGORY Coalition":
+			"",
+		"CATEGORY Component":
+			"Components",
+		"CATEGORY Construction":
+			"",
+		"CATEGORY Fauna":
+			"",
+		"CATEGORY Flora":
+			"",
+		"CATEGORY Gear":
+			"",
+		"CATEGORY Golem":
+			"Golems",
+		"CATEGORY Grenade":
+			"Grenades",
+		"CATEGORY Junk":
+			"",
+		"CATEGORY Lamp":
+			"Lamps",
+		"CATEGORY Loot":
+			"",
+		"CATEGORY Lump":
+			"Lumps",
+		"CATEGORY Machine":
+			"Machines",
+		"CATEGORY Pioneer":
+			"Pioneers",
+		"CATEGORY Prototype":
+			"Prototypes",
+		"CATEGORY Reactor":
+			"Reactors",
+		"CATEGORY Rover":
+			"Rovers",
+		"CATEGORY Ship":
+			"Ships",
+		"CATEGORY Sign":
+			"Signs",
+		"CATEGORY Strucure":
+			"Strucures",
+		"CATEGORY Tank":
+			"Tanks",
+		"CATEGORY Tool":
+			"Tools",
+		"CATEGORY Trap":
+			"Traps",
+		"CATEGORY Trigger":
+			"Triggers",
+		"CATEGORY Weapon":
+			"Weapons",
+
+		//blueprint names for blueprint menu and appearing over vehicles and tools
+		//category words should not stay in the translation, instead keep the names natural like you would call this thing
+		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
+		"1T Graphite":
+			"",
+		"1T Ice":
+			"",
+		"1T Metals":
+			"",
+		"1T Sandstone":
+			"",
+		"Aurium Crystal":
+			"",
+		"Aurium Vase Brown":
+			"",
+		"Aurium Vase Large 1":
+			"",
+		"Aurium Vase Large 2":
+			"",
+		"Aurium Vase Large 3":
+			"",
+		"Aurium Vase Small":
+			"",
+		"Bomb Classic":
+			"",
+		"Bomb Large":
+			"",
+		"Bomb":
+			"",
+		"Bot Acid":
+			"",
+		"Bot Drone Defense":
+			"",
+		"Bot Flip":
+			"",
+		"Bot Flying Worm":
+			"",
+		"Bot Frosty":
+			"",
+		"Bot Guard Box":
+			"",
+		"Bot Imperatus":
+			"",
+		"Bot Jumper Box":
+			"",
+		"Bot Mecha":
+			"",
+		"Bot Phoenix":
+			"",
+		"Bot Sentry":
+			"",
+		"Bot Spot":
+			"",
+		"Bot Tank":
+			"",
+		"Bot Temperature Drone":
+			"",
+		"Bot Titan Golem":
+			"",
+		"Bot Vendor":
+			"",
+		"Bot Wandering":
+			"",
+		"Bot Worm":
+			"",
+		"Cloud Acid":
+			"",
+		"Coalition Ship":
+			"",
+		"Coalition Turret":
+			"",
+		"Component Balancer":
+			"",
+		"Component Balloon":
+			"",
+		"Component Battery 100A":
+			"",
+		"Component Battery 10A":
+			"",
+		"Component Capacitor":
+			"",
+		"Component Explosive Charge":
+			"",
+		"Component Minigun":
+			"",
+		"Component Seat Boosted":
+			"Улучшенная кабина",
+		"Component Seat":
+			"Кабина",
+		"Component Thruster":
+			"",
+		"Component Wheel":
+			"",
+		"Construction Concrete Support":
+			"",
+		"Construction Concrete Wall":
+			"",
+		"Construction Concrete Window":
+			"",
+		"Construction Elevator":
+			"",
+		"Construction Plank Big":
+			"",
+		"Construction Plank Slim":
+			"",
+		"Construction Plank":
+			"",
+		"Construction Trunk":
+			"",
+		"Construction Wooden Triangle":
+			"",
+		"Fauna Animal Nest":
+			"",
+		"Fauna Bird Hostile":
+			"",
+		"Fauna Bird Neutral":
+			"",
+		"Fauna Bomb Bug":
+			"",
+		"Fauna Crab Acid":
+			"",
+		"Fauna Crab Aurium":
+			"",
+		"Fauna Crab Balloon":
+			"",
+		"Fauna Crab Fire":
+			"",
+		"Fauna Crab":
+			"",
+		"Fauna Egg Bird":
+			"",
+		"Fauna Egg":
+			"",
+		"Fauna Grazer":
+			"",
+		"Fauna Ice Bird":
+			"",
+		"Fauna Ice Bug":
+			"",
+		"Fauna Knuckles Boss":
+			"",
+		"Fauna Knuckles":
+			"",
+		"Fauna Mega Worm Long":
+			"",
+		"Fauna Mega Worm":
+			"",
+		"Fauna Roly Poly":
+			"",
+		"Fauna Silverback":
+			"",
+		"Fauna Skeleton Armored":
+			"",
+		"Fauna Snapjaw":
+			"",
+		"Fauna Tentacle Eye":
+			"",
+		"Fauna Tentacle Launcher":
+			"",
+		"Fauna Tentacle Old":
+			"",
+		"Fauna Tentacle":
+			"",
+		"Fauna Zombie":
+			"",
+		"Flora Aloe Plant":
+			"",
+		"Flora Broccoli Plant":
+			"",
+		"Flora Clone Plant":
+			"",
+		"Flora Glow Plant":
+			"",
+		"Flora Liana End":
+			"",
+		"Flora Liana":
+			"",
+		"Flora Pop Plant":
+			"",
+		"Flora Vines":
+			"",
+		"Gear Chest Plate":
+			"",
+		"Gear Crown":
+			"",
+		"Gear Helmet":
+			"",
+		"Gear Leg BG Armor":
+			"",
+		"Gear Leg FG Armor":
+			"",
+		"Gear Small Aurium Obj":
+			"",
+		"Gear Small Aurium":
+			"",
+		"Gear Space Helmet":
+			"",
+		"Golem Carbon":
+			"",
+		"Golem Ice":
+			"",
+		"Golem Metal":
+			"",
+		"Golem Silicon":
+			"",
+		"Grenade Bounce":
+			"",
+		"Grenade Cold":
+			"",
+		"Grenade Impact":
+			"",
+		"Grenade Mine":
+			"",
+		"Grenade Rope":
+			"",
+		"Grenade Simple":
+			"",
+		"Grenade Spikes":
+			"",
+		"Junk Aurium Boulder 1":
+			"",
+		"Junk Aurium Boulder 2":
+			"",
+		"Junk Block Sandstone Long":
+			"",
+		"Junk Block Sandstone":
+			"",
+		"Junk Bones":
+			"",
+		"Junk Boulder Big":
+			"",
+		"Junk Boulder Huge":
+			"",
+		"Junk Boulder Sandstone Huge":
+			"",
+		"Junk Boulder Sandstone":
+			"",
+		"Junk Boulder Small":
+			"",
+		"Junk Boulder":
+			"",
+		"Junk Brick":
+			"",
+		"Junk Cage":
+			"",
+		"Junk Chain":
+			"",
+		"Junk Crate A":
+			"",
+		"Junk Crate Aurium Alloy Big":
+			"",
+		"Junk Crate Aurium Alloy Small":
+			"",
+		"Junk Crate Aurium Alloy":
+			"",
+		"Junk Crate B":
+			"",
+		"Junk Crate Cardboard":
+			"",
+		"Junk Crate Ice 1":
+			"",
+		"Junk Crate Wooden 1":
+			"",
+		"Junk Crate Wooden 2":
+			"",
+		"Junk Crate Wooden Small 2":
+			"",
+		"Junk Crate Wooden Small":
+			"",
+		"Junk Drill":
+			"",
+		"Junk Flight Recorder":
+			"Бортовой регистратор",
+		"Junk Fuel Tank Light":
+			"",
+		"Junk Fuel Tank":
+			"",
+		"Junk Girder":
+			"",
+		"Junk Ice Block":
+			"",
+		"Junk Ice Rock":
+			"",
+		"Junk Ice Stalactite":
+			"",
+		"Junk Ice Wall Small":
+			"",
+		"Junk Ice Wall":
+			"",
+		"Junk Logo 2":
+			"",
+		"Junk Logo C":
+			"",
+		"Junk Logo D":
+			"",
+		"Junk Logo PP":
+			"",
+		"Junk Metal Plate":
+			"",
+		"Junk Rock":
+			"",
+		"Junk Rod 2":
+			"",
+		"Junk Rod Metal":
+			"",
+		"Junk Rod":
+			"",
+		"Junk Roly Poly Dung":
+			"",
+		"Junk Ship Part A":
+			"",
+		"Junk Ship Part B":
+			"",
+		"Junk Ship Pieces":
+			"",
+		"Junk Skeleton":
+			"",
+		"Junk Snow Ball Big":
+			"",
+		"Junk Snow Ball Small":
+			"",
+		"Junk Snow Ball":
+			"",
+		"Junk Tank Wreck Imperatus":
+			"",
+		"Junk Vase Big":
+			"",
+		"Junk Vase Oil":
+			"",
+		"Junk Vase":
+			"",
+		"Lamp Chunky":
+			"",
+		"Lamp Hanging Alien":
+			"",
+		"Lamp Hanging":
+			"",
+		"Lamp Mounted":
+			"",
+		"Lamp Wall A":
+			"",
+		"Loot Blueprint Chest":
+			"",
+		"Loot Blueprint":
+			"",
+		"Loot Chest":
+			"",
+		"Loot Dispenser":
+			"",
+		"Loot Orb Golden":
+			"",
+		"Loot Orb":
+			"",
+		"Loot Weapon Container Tier 1":
+			"",
+		"Loot Weapon Container Tier 2":
+			"",
+		"Loot Weapon Container Tier 3":
+			"",
+		"Loot Workshop Box":
+			"",
+		"Lump Aurium A":
+			"",
+		"Lump Aurium B":
+			"",
+		"Lump Aurium C":
+			"",
+		"Lump Carbon A":
+			"",
+		"Lump Carbon B":
+			"",
+		"Lump Carbon C":
+			"",
+		"Lump Metals A":
+			"",
+		"Lump Metals B":
+			"",
+		"Lump Metals C":
+			"",
+		"Lump Metals D":
+			"",
+		"Lump Silicon A":
+			"",
+		"Lump Silicon B":
+			"",
+		"Lump Silicon C":
+			"",
+		"Lump Silicon D":
+			"",
+		"Lump Water A":
+			"",
+		"Lump Water B":
+			"",
+		"Machine Camera Aurium":
+			"",
+		"Machine Catapult":
+			"",
+		"Machine Dropper":
+			"",
+		"Machine Laser Emitter":
+			"",
+		"Machine Proximity Sensor":
+			"",
+		"Machine Sentry Camera":
+			"",
+		"Machine Sentry Gun":
+			"",
+		"Machine Space Teleporter":
+			"",
+		"Machine Switch":
+			"",
+		"Machine Terminal Info":
+			"",
+		"Machine Terminal Sensor":
+			"",
+		"Pioneer Crazy Bob":
+			"",
+		"Pioneer Imperatus":
+			"",
+		"Pioneer Lily Crusher":
+			"",
+		"Pioneer Pink Horror":
+			"",
+		"Pioneer Red Devil":
+			"",
+		"Pioneer Starman":
+			"",
+		"Pioneer Test Dummy":
+			"",
+		"Pioneer Wyatt":
+			"",
+		"Prototype Bot Mr Tentacles":
+			"",
+		"Prototype Bot Walker Big":
+			"",
+		"Prototype Bot Walker":
+			"",
+		"Prototype Drone Defense":
+			"",
+		"Prototype Elevator":
+			"",
+		"Prototype Homing Missile":
+			"",
+		"Prototype Mecha Flamer":
+			"",
+		"Prototype Mecha MG":
+			"",
+		"Prototype Mecha Rifle":
+			"",
+		"Prototype Nest Bees":
+			"",
+		"Prototype Nest Bird Hostile":
+			"",
+		"Prototype Nest Bird":
+			"",
+		"Prototype Rifle Blast":
+			"",
+		"Prototype Rock Trap Rock":
+			"",
+		"Prototype Rover Car":
+			"",
+		"Prototype SAM Site":
+			"",
+		"Prototype Satellite Discovery":
+			"",
+		"Prototype Snowboard Mk2":
+			"",
+		"Prototype Structure Door Trap Sm":
+			"",
+		"Prototype Structure Door Trap":
+			"",
+		"Prototype Tool Crossbow":
+			"Crossbow",
+		"Prototype Tool Gravity Gun":
+			"Gravity Gun",
+		"Prototype Tool Teleport Device":
+			"Teleport Device",
+		"Rover Carbon":
+			"Углеволоконный ровер",
+		"Rover Carrier Hover":
+			"Грузовой ровер на воздушной подушке",
+		"Rover Carrier":
+			"Грузовой ровер",
+		"Rover Climber":
+			"Горный ровер",
+		"Rover Coalition Spider Climber":
+			"Ровер-паук Коалиции",
+		"Rover Minimal Aurium Example":
+			"",
+		"Rover Minimal Jets":
+			"Простой прыгающий ровер",
+		"Rover Mining Cart":
+			"",
+		"Rover Quad":
+			"Четырёхосный ровер",
+		"Rover Scissor":
+			"Ровер-подъёмник",
+		"Rover Shocks":
+			"Защищённый ровер",
+		"Ship Big":
+			"Большой корабль",
+		"Ship Drop Rocket":
+			"Drop Rocket",
+		"Ship Landing Seat":
+			"Landing Seat",
+		"Ship Landing":
+			"Landing Ship",
+		"Ship Mini":
+			"Мини-корабль",
+		"Ship Rocket":
+			"Ракета",
+		"Sign Not Throw":
+			"Do Not Throw Sign",
+		"Sign Shopping":
+			"Shopping Sign",
+		"Sign Steam":
+			"Steam Sign",
+		"Sign Wooden Compound Logo":
+			"",
+		"Snowboard":
+			"",
+		"Structure Assembly Lock":
+			"",
+		"Structure Bridge Draw Long":
+			"",
+		"Structure Bridge Draw":
+			"",
+		"Structure Bridge Hanging Huge":
+			"",
+		"Structure Bridge Hanging Long":
+			"",
+		"Structure Bridge Hanging":
+			"",
+		"Structure Bridge Metal":
+			"",
+		"Structure Covered Door":
+			"",
+		"Structure Door Covered":
+			"",
+		"Structure Door Curved":
+			"",
+		"Structure Door Dungeon":
+			"",
+		"Structure Door Huge":
+			"",
+		"Structure Door Sandstone Huge":
+			"",
+		"Structure Door Sandstone":
+			"",
+		"Structure Door Silo":
+			"",
+		"Structure Door":
+			"",
+		"Structure Elevator Fast":
+			"",
+		"Structure Elevator Sandstone":
+			"",
+		"Structure Elevator Small":
+			"",
+		"Structure Eye Large":
+			"",
+		"Structure Eye Statue":
+			"",
+		"Structure Garage":
+			"",
+		"Structure Gear Lock":
+			"",
+		"Structure Grazer Vacuum":
+			"",
+		"Structure Latch":
+			"",
+		"Structure LCD Countdown Timer":
+			"",
+		"Structure LCD Panel":
+			"",
+		"Structure Moving Platform MAZE":
+			"",
+		"Structure Moving Platform":
+			"",
+		"Structure Pin World":
+			"",
+		"Structure Power Core":
+			"",
+		"Structure Resource Filler":
+			"",
+		"Structure Respawn Station":
+			"",
+		"Structure Rope":
+			"",
+		"Structure Shop Manager":
+			"",
+		"Structure Shop Pioneers":
+			"",
+		"Structure Steam Altar":
+			"",
+		"Structure Switch Sandstone":
+			"",
+		"Structure Teleporter":
+			"",
+		"Structure Trap Door 10m":
+			"",
+		"Structure Trap Door Long":
+			"",
+		"Structure Trap Door Metal":
+			"",
+		"Structure Trap Door Sandstone":
+			"",
+		"Tank Coalition":
+			"Танк Коалиции",
+		"Tool Balloon Gun":
+			"Шаромёт",
+		"Tool Bomb Crab":
+			"Крабовая бомба",
+		"Tool Glow Stick":
+			"",
+		"Tool Grappling Hook Basic":
+			"Кошка",
+		"Tool Hack Gun":
+			"Взламыватель",
+		"Tool Jet Rocket":
+			"Ракета",
+		"Tool Key":
+			"",
+		"Tool Magnet":
+			"",
+		"Tool Propeller":
+			"Пропеллер",
+		"Tool Quantum Field Device":
+			"Проектор квантового поля",
+		"Tool Rope Launcher":
+			"Верёвкомёт",
+		"Tool Rope":
+			"Верёвка",
+		"Tool Shield Metal":
+			"Металлический щит",
+		"Tool Spelunker Rope":
+			"",
+		"Tool Tether":
+			"",
+		"Tool Welder":
+			"Сварка",
+		"Trap Claw":
+			"Claw Trap",
+		"Trap Dart":
+			"Dart Trap",
+		"Trap Flamethrower Aurium":
+			"Flamethrower Trap Aurium",
+		"Trap Flamethrower":
+			"Flamethrower Trap",
+		"Trap Grinder Small":
+			"Small Grinder Trap",
+		"Trap Grinder":
+			"Grinder Trap",
+		"Trap Ice":
+			"Ice Trap",
+		"Trap Spring Mine":
+			"Прыгающая мина",
+		"Weapon Assault Rifle":
+			"Штурмовая винтовка",
+		"Weapon Aurium Staff":
+			"Посох из Ауриума",
+		"Weapon Blue Rifle":
+			"Синяя винтовка",
+		"Weapon Bounding Mine Grenade":
+			"Мина-граната",
+		"Weapon Cold Grenade Launcher":
+			"Замораживающий гранатомёт",
+		"Weapon Cold Grenade":
+			"Замораживающая граната",
+		"Weapon Cold Shotgun":
+			"Замораживающее ружье",
+		"Weapon Flamethrower":
+			"Огнемёт",
+		"Weapon Grandpas Rifle":
+			"Дедулино ружьё",
+		"Weapon Grenade Launcher":
+			"Бомбомёт",
+		"Weapon Hand Grenade":
+			"Ручная граната",
+		"Weapon Heavy Machine Gun":
+			"Пулемёт",
+		"Weapon Laser Assault Rifle":
+			"Лазерная винтовка",
+		"Weapon Machine Pistol":
+			"Автоматический пистолет",
+		"Weapon Mine Launcher":
+			"Миномёт",
+		"Weapon Minigun":
+			"Пулемёт Гатлинга",
+		"Weapon Nail Gun":
+			"Гвоздомёт",
+		"Weapon Pistol":
+			"Пистолет",
+		"Weapon Plasma Rifle":
+			"Плазменная винтовка",
+		"Weapon Rifle Bolt Action":
+			"Однозарядная винтовка",
+		"Weapon Scrap Launcher":
+			"Мусоромёт",
+		"Weapon Shockwave Gun":
+			"Шоковая пушка",
+		"Weapon Shotgun":
+			"Дробовик",
+		"Weapon Sticky Bomb Launcher":
+			"Метатель бомб-липучек",
 	}
 }
