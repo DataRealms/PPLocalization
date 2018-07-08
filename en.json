@@ -241,7 +241,7 @@
 		"I got to get off this rock...":
 			"",
 		"A have a bad feeling about what might be guarding the Core...":
-			"",
+			"I have a bad feeling about what might be guarding the Core...",
 		"I'm going to make a BIG omelet!!":
 			"",
 		"Could it be... Aurium Alloy?!":
@@ -454,7 +454,7 @@
 		//months
 		"January":
 			"",
-		"Febuary":
+		"February":
 			"",
 		"March":
 			"",
@@ -535,6 +535,60 @@
 		"(Back)": //this is the back button on the controller
 			"",
 		"Right Trigger":
+			"",
+
+		//actions
+		"Move":
+			"",
+		"Aim":
+			"",
+		"Left":
+			"",
+		"Right":
+			"",
+		"Go Prone":
+			"",
+		"Jump":
+			"",
+		"Atomize":
+			"",
+		"Assemble":
+			"",
+		"Fire":
+			"",
+		"Enter Vehicle":
+			"",
+		"Leave Vehicle":
+			"",
+		"Pick up":
+			"",
+		"Drop":
+			"",
+		"Put on back":
+			"",
+		"Take from back":
+			"",
+		"Swap":
+			"",
+		"Respawn":
+			"",
+		"Restart":
+			"",
+		"Pause":
+			"",
+		"Menu":
+			"",
+		"Select":
+			"",
+		"Zoom":
+			"",
+		"Zoom in":
+			"",
+		"Zoom out":
+			"",
+		"Hold":
+			"",
+		"Press":
 			"",
 
 		//appearing on screen on game over
@@ -785,7 +839,7 @@
 		"Dance":
 			"",
 		"Dont Move":
-			"",
+			"Don't Move",
 		"Dive":
 			"",
 		"Press All Buttons":
@@ -968,73 +1022,74 @@
 			"",
 
 		//blueprint menu categories (translate these to plural)
-		"Partial":
+		"CATEGORY Partial":
 			"",
-		"Workshop":
+		"CATEGORY Workshop":
 			"",
-		"1T":
+		"CATEGORY 1T":
 			"",
-		"Aurium":
+		"CATEGORY Aurium":
 			"",
-		"Bomb":
+		"CATEGORY Bomb":
 			"Bombs",
-		"Bot":
+		"CATEGORY Bot":
 			"Robots",
-		"Cloud":
+		"CATEGORY Cloud":
 			"Clouds",
-		"Coalition":
+		"CATEGORY Coalition":
 			"",
-		"Component":
+		"CATEGORY Component":
 			"Components",
-		"Construction":
+		"CATEGORY Construction":
 			"",
-		"Fauna":
+		"CATEGORY Fauna":
 			"",
-		"Flora":
+		"CATEGORY Flora":
 			"",
-		"Gear":
+		"CATEGORY Gear":
 			"",
-		"Golem":
+		"CATEGORY Golem":
 			"Golems",
-		"Grenade":
+		"CATEGORY Grenade":
 			"Grenades",
-		"Junk":
+		"CATEGORY Junk":
 			"",
-		"Lamp":
+		"CATEGORY Lamp":
 			"Lamps",
-		"Loot":
+		"CATEGORY Loot":
 			"",
-		"Lump":
+		"CATEGORY Lump":
 			"Lumps",
-		"Machine":
+		"CATEGORY Machine":
 			"Machines",
-		"Pioneer":
+		"CATEGORY Pioneer":
 			"Pioneers",
-		"Prototype":
+		"CATEGORY Prototype":
 			"Prototypes",
-		"Reactor":
+		"CATEGORY Reactor":
 			"Reactors",
-		"Rover":
+		"CATEGORY Rover":
 			"Rovers",
-		"Ship":
+		"CATEGORY Ship":
 			"Ships",
-		"Sign":
+		"CATEGORY Sign":
 			"Signs",
-		"Strucure":
+		"CATEGORY Strucure":
 			"Strucures",
-		"Tank":
+		"CATEGORY Tank":
 			"Tanks",
-		"Tool":
+		"CATEGORY Tool":
 			"Tools",
-		"Trap":
+		"CATEGORY Trap":
 			"Traps",
-		"Trigger":
+		"CATEGORY Trigger":
 			"Triggers",
-		"Weapon":
+		"CATEGORY Weapon":
 			"Weapons",
 
 		//blueprint names for blueprint menu and appearing over vehicles and tools
-		//category words should not stay in the translation, instead keep the names simple and readable
+		//category words should not stay in the translation, instead keep the names natural like you would call this thing
+		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
 		"1T Graphite":
 			"",
 		"1T Ice":
@@ -1118,9 +1173,9 @@
 		"Component Minigun":
 			"",
 		"Component Seat Boosted":
-			"",
+			"Boosted Seat",
 		"Component Seat":
-			"",
+			"Seat",
 		"Component Thruster":
 			"",
 		"Component Wheel":
@@ -1304,7 +1359,7 @@
 		"Junk Drill":
 			"",
 		"Junk Flight Recorder":
-			"",
+			"Flight Recorder",
 		"Junk Fuel Tank Light":
 			"",
 		"Junk Fuel Tank":
@@ -1350,11 +1405,11 @@
 		"Junk Skeleton":
 			"",
 		"Junk Snow Ball Big":
-			"",
+			"Big Snowball",
 		"Junk Snow Ball Small":
-			"",
+			"Small Snowball",
 		"Junk Snow Ball":
-			"",
+			"Snowball",
 		"Junk Tank Wreck Imperatus":
 			"",
 		"Junk Vase Big":
@@ -1473,8 +1528,6 @@
 			"",
 		"Prototype Elevator":
 			"",
-		"Prototype Fauna Bomb Bug":
-			"",
 		"Prototype Homing Missile":
 			"",
 		"Prototype Mecha Flamer":
@@ -1506,51 +1559,51 @@
 		"Prototype Structure Door Trap":
 			"",
 		"Prototype Tool Crossbow":
-			"",
+			"Crossbow",
 		"Prototype Tool Gravity Gun":
-			"",
+			"Gravity Gun",
 		"Prototype Tool Teleport Device":
-			"",
+			"Teleport Device",
 		"Rover Carbon":
-			"",
+			"Carbon Rover",
 		"Rover Carrier Hover":
-			"",
+			"Flying Carrier Hover",
 		"Rover Carrier":
-			"",
+			"Carrier Hover",
 		"Rover Climber":
-			"",
+			"Climbing Rover",
 		"Rover Coalition Spider Climber":
-			"",
+			"Coalition Spider Climber",
 		"Rover Minimal Aurium Example":
-			"",
+			"Rover Aurium Example",
 		"Rover Minimal Jets":
-			"",
+			"Jet Rover",
 		"Rover Mining Cart":
-			"",
+			"Mining Cart",
 		"Rover Quad":
-			"",
+			"Quad",
 		"Rover Scissor":
-			"",
+			"Scissors Rover",
 		"Rover Shocks":
-			"",
+			"Shocks Rover",
 		"Ship Big":
-			"",
+			"Big Ship",
 		"Ship Drop Rocket":
-			"",
+			"Drop Rocket",
 		"Ship Landing Seat":
-			"",
+			"Landing Seat",
 		"Ship Landing":
-			"",
+			"Landing Ship",
 		"Ship Mini":
-			"",
+			"Mini Ship",
 		"Ship Rocket":
-			"",
+			"Rocket",
 		"Sign Not Throw":
-			"",
+			"Do Not Throw Sign",
 		"Sign Shopping":
-			"",
+			"Shopping Sign",
 		"Sign Steam":
-			"",
+			"Steam Sign",
 		"Sign Wooden Compound Logo":
 			"",
 		"Snowboard":
@@ -1642,102 +1695,103 @@
 		"Structure Trap Door Sandstone":
 			"",
 		"Tank Coalition":
-			"",
+			"Coalition Tank",
 		"Tool Balloon Gun":
-			"",
+			"Balloon Gun",
 		"Tool Bomb Crab":
-			"",
+			"Bomb Crab",
 		"Tool Glow Stick":
-			"",
+			"Glow Stick",
 		"Tool Grappling Hook Basic":
-			"",
+			"Grappling Hook",
 		"Tool Hack Gun":
-			"",
+			"Hack Gun",
 		"Tool Jet Rocket":
-			"",
+			"Jet Rocket",
 		"Tool Key":
-			"",
+			"Key",
 		"Tool Magnet":
-			"",
+			"Magnet",
 		"Tool Propeller":
-			"",
+			"Propeller",
 		"Tool Quantum Field Device":
-			"",
+			"Quantum Field Device",
 		"Tool Rope Launcher":
-			"",
+			"Rope Launcher",
 		"Tool Rope":
-			"",
+			"Rope",
 		"Tool Shield Metal":
-			"",
+			"Shield Metal",
 		"Tool Spelunker Rope":
-			"",
+			"Spelunker Rope",
 		"Tool Tether":
-			"",
+			"Tether",
 		"Tool Welder":
-			"",
+			"Welder",
 		"Trap Claw":
-			"",
+			"Claw Trap",
 		"Trap Dart":
-			"",
+			"Dart Trap",
 		"Trap Flamethrower Aurium":
-			"",
+			"Flamethrower Trap Aurium",
 		"Trap Flamethrower":
-			"",
+			"Flamethrower Trap",
 		"Trap Grinder Small":
-			"",
+			"Small Grinder Trap",
 		"Trap Grinder":
-			"",
+			"Grinder Trap",
 		"Trap Ice":
-			"",
+			"Ice Trap",
 		"Trap Spring Mine":
-			"",
+			"Spring Mine",
 		"Weapon Assault Rifle":
-			"",
+			"Assault Rifle",
 		"Weapon Aurium Staff":
-			"",
+			"Aurium Staff",
 		"Weapon Blue Rifle":
-			"",
+			"Blue Rifle",
 		"Weapon Bounding Mine Grenade":
-			"",
+			"Bounding Mine Grenade",
 		"Weapon Cold Grenade Launcher":
-			"",
+			"Cold Grenade Launcher",
 		"Weapon Cold Grenade":
-			"",
+			"Cold Grenade",
 		"Weapon Cold Shotgun":
-			"",
+			"Cold Shotgun",
 		"Weapon Flamethrower":
-			"",
+			"Flamethrower",
 		"Weapon Grandpas Rifle":
-			"",
+			"Grandpas Rifle",
 		"Weapon Grenade Launcher":
-			"",
+			"Grenade Launcher",
 		"Weapon Hand Grenade":
-			"",
+			"Hand Grenade",
 		"Weapon Heavy Machine Gun":
-			"",
+			"Heavy Machine Gun",
 		"Weapon Laser Assault Rifle":
-			"",
+			"Laser Assault Rifle",
 		"Weapon Machine Pistol":
-			"",
+			"Machine Pistol",
 		"Weapon Mine Launcher":
-			"",
+			"Mine Launcher",
 		"Weapon Minigun":
-			"",
+			"Minigun",
 		"Weapon Nail Gun":
-			"",
+			"Nail Gun",
 		"Weapon Pistol":
-			"",
+			"Pistol",
 		"Weapon Plasma Rifle":
-			"",
+			"Plasma Rifle",
 		"Weapon Rifle Bolt Action":
-			"",
+			"Bolt Action Rifle",
 		"Weapon Scrap Launcher":
-			"",
+			"Scrap Launcher",
 		"Weapon Shockwave Gun":
-			"",
+			"Shockwave Gun",
 		"Weapon Shotgun":
-			"",
+			"Shotgun",
 		"Weapon Sticky Bomb Launcher":
-			""
+			"Sticky Bomb Launcher"
+
 		}
 }
