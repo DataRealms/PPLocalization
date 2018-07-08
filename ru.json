@@ -10,7 +10,7 @@
 	"store page": {
 		//game description
 		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
-			"Добро пожаловать в Planetoid Pioneers, кооперативную фантастическую физикванию в которой матёрые престарелые космонавты исследуют пояс астероидов за пределами Марса без конца попадая в QWOP-подобные переделки. Игра создана с использованием уникального физического движка Crush2D и в неё можно играть на одном экране с друзьями совместно или против друг друга с возможностью присоединиться к игре в любой момент.",
+			"Добро пожаловать в Planetoid Pioneers, кооперативную фантастическую физикванию в которой матёрые космонавты-пенсионеры исследуют пояс астероидов за орбитой Марса без конца попадая в QWOP-подобные переделки. Игра создана с использованием уникального физического движка Crush2D и в неё можно играть на одном экране с друзьями совместно или против друг друга с возможностью присоединиться к игре в любой момент.",
 		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
 			"Вы будете спотыкаться о камни, терять конечности, убегать от зловещих чудищ, бросая своё добро, лишь для того, чтобы попасться в очередную ловушку. Изобретайте изящные способы решения возникающих проблем или засучите рукава и сделайте собственный планетоид при помощи редакторов, которые включены и в стандартную версию, тех же самых, что используются самими разработчиками. Хохочите, глядя как другие игроки пытаются пройти ваш тщательно отстроенный пыточный лабиринт.",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
@@ -33,7 +33,7 @@
 		//planetoid panel
 		//labels/description/etc
 		"FLAG Planetoid":
-			"Планетоид",
+			"Планетоид",		
 		"Goal":
 			"Цель",
 		"Difficulty: {DIFFICULTY}":
@@ -41,11 +41,11 @@
 		"Time: {TIME_ESTIMATE}":
 			"Время: {TIME_ESTIMATE}",
 		"ABUI By {AUTHOR}":
-			"Автор {AUTHOR}",
+			"Автор {AUTHOR}",			
 
 		//settings
 		"FLAG Settings": //the little flag in the top left
-			"Настройки",
+			"Настройки",		
 		"Settings":
 			"Настройки",
 		"Adjust Volume":
@@ -270,7 +270,7 @@
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"Из этих рабочих-манекенов получаются отличные __Запасные Тела__.\n\n Просто _Соберите_ одного из них и бросьте, в случае смертельного инцидента вас _переместит_ автоматически. ",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
-			"Запись #43457: \"Я уничтожил последний спасательный корабль, и _разбросал его части_ по всему Примоиду, чтобы __Ауриумовая Катастрофа__ не вышла за пределы этого мира...\n\nМеста отмечены на этой карте, но они хорошо охраняются, _Даже НЕ пытайтесь!_\"",
+			"Запись #43457: \"Я уничтожил последний спасательный корабль, и _разбросал его части_ по всему Примоиду, чтобы __Ауриумовая Катастрофа__ не распростанилась за пределы этого мира...\n\nМеста отмечены на этой карте, но они хорошо охраняются, _Даже НЕ пытайтесь!_\"",
 
 		//scene descriptions and goals
 
@@ -359,10 +359,10 @@
 		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
 			"Это пример планетоида. Он может использоваться как шаблон для создания уровня. У него проставлен тэг \"Mappable\" чтобы он был виден в Поясе астероидов",
 		"Reach the teleporter to get back into space.":
-			"Доберитесь до телепорта чтобы вернуться в космос.",
+			"Доберитесь до телепорта чтобы вернуться в космос.",			
 
 		//modal stuff
-		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
+		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
 
 		"{QUIT TITLE}":
 			"Выход",
@@ -536,6 +536,59 @@
 		"Right Trigger":
 			"Правый курок",
 
+		//actions
+		"Move":
+			"Движение",
+		"Aim":
+			"Прицеливание",
+		"Left":
+			"Влево",
+		"Right":
+			"Вправо",
+		"Go Prone":
+			"Пригнуться",
+		"Jump":
+			"Прыжок",
+		"Atomize":
+			"Атомизировать",
+		"Assemble":
+			"Собрать",
+		"Fire":
+			"Огонь",
+		"Enter Vehicle":
+			"Сесть в транспорт",
+		"Leave Vehicle":
+			"Покинуть транспорт",
+		"Pick up":
+			"Подобрать",
+		"Drop":
+			"Бросить",
+		"Put on back":
+			"Забросить на спину",
+		"Take from back":
+			"Снять со спины",
+		"Swap":
+			"Поменять",
+		"Respawn":
+			"Возродиться",
+		"Restart":
+			"Перезапуск",
+		"Pause":
+			"Пауза",
+		"Menu":
+			"Меню",
+		"Select":
+			"Выбор",
+		"Zoom":
+			"Приближение",
+		"Zoom in":
+			"Приблизить",
+		"Zoom out":
+			"Отдалить",
+		"Hold":
+			"Удерживайте",
+		"Press":
+			"Нажмите",
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
 			"Нажмите {BUTTON} для перезапуска",
@@ -549,10 +602,6 @@
 			"Игра сохранена",
 		"Respawn Here":
 			"Возродиться здесь",
-<<<<<<< HEAD
-=======
-
->>>>>>> upstream/master
 		//game quit
 		"GAME SAVED":
 			"ИГРА СОХРАНЕНА",
@@ -579,7 +628,7 @@
 		"LOADING PLANETOID":
 			"ЗАГРУЗКА ПЛАНЕТОИДА",
 		"Loading Sound manager":
-			"Зазгрузка менеджера звуков",
+			"Загрузка менеджера звуков",
 		"Loading PS library":
 			"Загрузка библиотеки частиц",
 		"Loading Material PS library":
@@ -669,11 +718,11 @@
 		"Creating Terrain Objects":
 			"Создание ландшафтов",
 		"Computing Zones":
-			"Рассчёт зон",
+			"Расчёт зон",
 		"Computing Terrain":
-			"Рассчёт ландшафтов",
+			"Расчёт ландшафтов",
 		"Computing Gravity and Heating":
-			"Рассчёт гравитации и нагрева",
+			"Расчёт гравитации и нагрева",
 		"Updating Layers":
 			"Обновление слоёв",
 		"Updating WorldGrid wire meshes":
@@ -776,8 +825,6 @@
 		"Go!":
 			"Начали!",
 		"Sudden Death In {SECONDS}":
-			"Cмерть через {SECONDS}",
-		"SUDDEN DEATH IN {SECONDS}":
 			"Cмерть через {SECONDS}",
 		"Winner!":
 			"Победитель!",
@@ -946,8 +993,7 @@
 
 		//blueprint menu
 		"Blueprint Ready":
-<<<<<<< HEAD
-			"Чертёж завршён",
+			"Чертёж завершён",
 		"Incomplete Blueprint":
 			"Неполный чертёж",
 		"New Blueprint!":
@@ -970,69 +1016,69 @@
 			"Вода: {NUMBER}кг",
 
 		//blueprint menu categories (translate these to plural)
-		"Partial":
+		"CATEGORY Partial":
 			"Неполный",
-		"Workshop":
+		"CATEGORY Workshop":
 			"Мастерская",
-		"1T":
+		"CATEGORY 1T":
 			"1Т",
-		"Aurium":
+		"CATEGORY Aurium":
 			"Ауриум",
-		"Bomb":
+		"CATEGORY Bomb":
 			"Бомбы",
-		"Bot":
+		"CATEGORY Bot":
 			"Роботы",
-		"Cloud":
+		"CATEGORY Cloud":
 			"Облака",
-		"Coalition":
+		"CATEGORY Coalition":
 			"Коалиция",
-		"Component":
+		"CATEGORY Component":
 			"Компоненты",
-		"Construction":
+		"CATEGORY Construction":
 			"Строительство",
-		"Fauna":
+		"CATEGORY Fauna":
 			"Фауна",
-		"Flora":
+		"CATEGORY Flora":
 			"Флора",
-		"Gear":
+		"CATEGORY Gear":
 			"Снаряжение",
-		"Golem":
+		"CATEGORY Golem":
 			"Големы",
-		"Grenade":
+		"CATEGORY Grenade":
 			"Гранаты",
-		"Junk":
+		"CATEGORY Junk":
 			"Барахло",
-		"Lamp":
+		"CATEGORY Lamp":
 			"Лампы",
-		"Loot":
+		"CATEGORY Loot":
 			"Лут",
-		"Lump":
+		"CATEGORY Lump":
 			"Куски",
-		"Machine":
+		"CATEGORY Machine":
 			"Машины",
-		"Pioneer":
+		"CATEGORY Pioneer":
 			"Пионеры",
-		"Prototype":
+		"CATEGORY Prototype":
 			"Прототипы",
-		"Reactor":
+		"CATEGORY Reactor":
 			"Реакторы",
-		"Rover":
+		"CATEGORY Rover":
 			"Роверы",
-		"Ship":
+		"CATEGORY Ship":
 			"Корабли",
-		"Sign":
+		"CATEGORY Sign":
 			"Знаки",
-		"Strucure":
+		"CATEGORY Strucure":
 			"Здания",
-		"Tank":
+		"CATEGORY Tank":
 			"Танки",
-		"Tool":
+		"CATEGORY Tool":
 			"Инструменты",
-		"Trap":
+		"CATEGORY Trap":
 			"Ловушки",
-		"Trigger":
+		"CATEGORY Trigger":
 			"Триггеры",
-		"Weapon":
+		"CATEGORY Weapon":
 			"Оружие",
 
 		//blueprint names for blueprint menu and appearing over vehicles and tools
@@ -1044,61 +1090,61 @@
 		"1T Metals":
 			"1Т металлов",
 		"1T Sandstone":
-			"1Т песчанника",
+			"1Т песчаника",
 		"Aurium Crystal":
-			"Ауриум Кристалл",
+			"Кристалл Ауриума",
 		"Aurium Vase Brown":
-			"Ауриум Коричневая ваза",
+			"Коричневая ваза из Ауриума",
 		"Aurium Vase Large 1":
-			"Ауриум Большая ваза 1",
+			"Большая ваза из Ауриума 1",
 		"Aurium Vase Large 2":
-			"Ауриум Большая ваза 2",
+			"Большая ваза из Ауриума 2",
 		"Aurium Vase Large 3":
-			"Ауриум Большая ваза 3",
+			"Большая ваза из Ауриума 3",
 		"Aurium Vase Small":
-			"Ауриум Маленькая ваза",
+			"Маленькая ваза из Ауриума",
 		"Bomb Classic":
-			"Бомба Классическая",
+			"Классическая бомба",
 		"Bomb Large":
-			"Бомба Большая",
+			"Большая бомба",
 		"Bomb":
 			"Бомба",
 		"Bot Acid":
-			"Бот Кислотный",
+			"Кислотный бот",
 		"Bot Drone Defense":
-			"Бот Защитный дрон",
+			"Защитный дрон",
 		"Bot Flip":
-			"Бот Перевёртыш",
+			"Перевёртыш",
 		"Bot Flying Worm":
-			"Бот Летучий червь",
+			"Летучий червь",
 		"Bot Frosty":
-			"Бот Морозко",
+			"Морозко",
 		"Bot Guard Box":
-			"Бот Сторожевой ящик",
+			"Сторожевой ящик",
 		"Bot Imperatus":
-			"Бот Императус",
+			"Императус",
 		"Bot Jumper Box":
-			"Бот Прыгучий ящик",
+			"Прыгучий ящик",
 		"Bot Mecha":
-			"Бот Мех",
+			"Мех",
 		"Bot Phoenix":
-			"Бот Феникс",
+			"Феникс",
 		"Bot Sentry":
-			"Бот Сторож",
+			"Сторож",
 		"Bot Spot":
-			"Бот Наблюдатель",
+			"Наблюдатель",
 		"Bot Tank":
-			"Бот Танк",
+			"Танк",
 		"Bot Temperature Drone":
-			"Бот Температурный дрон",
+			"Температурный дрон",
 		"Bot Titan Golem":
-			"Бот Титановый голем",
+			"Титан",
 		"Bot Vendor":
-			"Бот Торговец",
+			"Торговец",
 		"Bot Wandering":
-			"Бот Бродяга",
+			"Бродяга",
 		"Bot Worm":
-			"Бот Червь",
+			"Червь",
 		"Cloud Acid":
 			"Облако кислоты",
 		"Coalition Ship":
@@ -1106,980 +1152,413 @@
 		"Coalition Turret":
 			"Турель Коалиции",
 		"Component Balancer":
-			"Компонент Балансир",
+			"Балансир",
 		"Component Balloon":
-			"Компонент Шар",
+			"Шар",
 		"Component Battery 100A":
-			"Компонент Батарея 100А",
+			"Батарея 100А",
 		"Component Battery 10A":
-			"Компонент Батарея 10А",
+			"Батарея 10А",
 		"Component Capacitor":
-			"Компонент Конденсатор",
+			"Конденсатор",
 		"Component Explosive Charge":
-			"Компоненты Взрывной заряд",
+			"Взрывной заряд",
 		"Component Minigun":
-			"Компонент Пулемёт",
-		"Component Seat Boosted":
-			"Компонент Улучшенная кабина",
-		"Component Seat":
-			"Компонент Кабина",
-		"Component Thruster":
-			"Компонент Двигатель",
-		"Component Wheel":
-			"Компонент Колесо",
-		"Construction Concrete Support":
-			"Строительство Бетонная опора",
-		"Construction Concrete Wall":
-			"Строительство Беттонная стена",
-		"Construction Concrete Window":
-			"Строительство Бетонное окно",
-		"Construction Elevator":
-			"Строительство Лифт",
-		"Construction Plank Big":
-			"Строительство Большая планка",
-		"Construction Plank Slim":
-			"Строительство Узкая планка",
-		"Construction Plank":
-			"Строительство Планка",
-		"Construction Trunk":
-			"Строительство Магистраль",
-		"Construction Wooden Triangle":
-			"Стротительство Деревянный треугольник",
-		"Fauna Animal Nest":
-			"Фауна Гнездо животного",
-		"Fauna Bird Hostile":
-			"Фауна Агрессивная птица",
-		"Fauna Bird Neutral":
-			"Фауна Спокойная птица",
-		"Fauna Bomb Bug":
-			"Фауна Жук-бомба",
-		"Fauna Crab Acid":
-			"Фауна Кислотный краб",
-		"Fauna Crab Aurium":
-			"Фауна Ауриумовый краб",
-		"Fauna Crab Balloon":
-			"Фауна Краб-шар",
-		"Fauna Crab Fire":
-			"Фауна Огненный краб",
-		"Fauna Crab":
-			"Фауна Краб",
-		"Fauna Egg Bird":
-			"Фауна Птичье яйцо",
-		"Fauna Egg":
-			"Фауна Яйцо",
-		"Fauna Grazer":
-			"Фауна Животное",
-		"Fauna Ice Bird":
-			"Фауна Ледяная птица",
-		"Fauna Ice Bug":
-			"Фауна Ледяной жук",
-		"Fauna Knuckles Boss":
-			"Фауна Драчун босс",
-		"Fauna Knuckles":
-			"Фауна Драчун",
-		"Fauna Mega Worm Long":
-			"Фауна Длинный мега-червь",
-		"Fauna Mega Worm":
-			"Фауна Мега-червь",
-		"Fauna Roly Poly":
-			"Фауна Перекати поле",
-		"Fauna Silverback":
-			"Фауна ",
-		"Fauna Skeleton Armored":
-			"Фауна Бронированный скелет",
-		"Fauna Snapjaw":
-			"Фауна Зубохват",
-		"Fauna Tentacle Eye":
-			"Фауна Щупоглаз",
-		"Fauna Tentacle Launcher":
-			"Фауна Щупоплюй",
-		"Fauna Tentacle Old":
-			"Фауна Старое щупальце",
-		"Fauna Tentacle":
-			"Фауна Щупальце",
-		"Fauna Zombie":
-			"Фауна Зомби",
-		"Flora Aloe Plant":
-			"Флора Растение Алоэ",
-		"Flora Broccoli Plant":
-			"Флора Растение Брокколи",
-		"Flora Clone Plant":
-			"Флора Растение Клон",
-		"Flora Glow Plant":
-			"Флора Светящееся растение",
-		"Flora Liana End":
-			"Флора Конец лианы",
-		"Flora Liana":
-			"Флора Лиана",
-		"Flora Pop Plant":
-			"Флора Растение Трамплин",
-		"Flora Vines":
-			"Флора Лозы",
-		"Gear Chest Plate":
-			"Снаряжение Грудная пластина",
-		"Gear Crown":
-			"Снаряжение Корона",
-		"Gear Helmet":
-			"Снаряжение Шлем",
-		"Gear Leg BG Armor":
-			"Снаряжение Фоновая броня ноги",
-		"Gear Leg FG Armor":
-			"Снаряжение Передняя броня ноги",
-		"Gear Small Aurium Obj":
-			"Снаряжение Маленький объект из Ауриума",
-		"Gear Small Aurium":
-			"Снаряжение Маленький Ауриум",
-		"Gear Space Helmet":
-			"Снаряжение Космический шлем",
-		"Golem Carbon":
-			"Голем Углеродный",
-		"Golem Ice":
-			"Голем Ледяной",
-		"Golem Metal":
-			"Голем Металлический",
-		"Golem Silicon":
-			"Голем Кремниевый",
-		"Grenade Bounce":
-			"Граната Прыгучая",
-		"Grenade Cold":
-			"Граната Ледяная",
-		"Grenade Impact":
-			"Граната Ударная",
-		"Grenade Mine":
-			"Граната Мина",
-		"Grenade Rope":
-			"Граната Верёвочная",
-		"Grenade Simple":
-			"Граната Простая",
-		"Grenade Spikes":
-			"Граната Шипованная",
-		"Junk Aurium Boulder 1":
-			"Мусор Валун из Ауриума 1",
-		"Junk Aurium Boulder 2":
-			"Мусор Валун из Ауриума 2",
-		"Junk Block Sandstone Long":
-			"Мусор Длинный блок из песчанника",
-		"Junk Block Sandstone":
-			"Мусор Блок из песчанника",
-		"Junk Bones":
-			"Мусор Кости",
-		"Junk Boulder Big":
-			"Мусор Большой валун",
-		"Junk Boulder Huge":
-			"Мусор Огромный валун",
-		"Junk Boulder Sandstone Huge":
-			"Мусор Огромный валун из песчанника",
-		"Junk Boulder Sandstone":
-			"Мусор Валун из песчанника",
-		"Junk Boulder Small":
-			"Мусор Маленький валун",
-		"Junk Boulder":
-			"Мусор Валун",
-		"Junk Brick":
-			"Мусор Кирпич",
-		"Junk Cage":
-			"Мусор Клетка",
-		"Junk Chain":
-			"Мусор Цепь",
-		"Junk Crate A":
-			"Мусор Ящик А",
-		"Junk Crate Aurium Alloy Big":
-			"Мусор Большой ящик из Ауриума",
-		"Junk Crate Aurium Alloy Small":
-			"Мусор Маленький ящик из Ауриума",
-		"Junk Crate Aurium Alloy":
-			"Мусор Ящик из Ауриума",
-		"Junk Crate B":
-			"Мусор Ящик Б",
-		"Junk Crate Cardboard":
-			"Мусор Коробка картонная",
-		"Junk Crate Ice 1":
-			"Мусор Ящик ледяной",
-		"Junk Crate Wooden 1":
-			"Мусор Ящик деревянный 1",
-		"Junk Crate Wooden 2":
-			"Мусор Ящик деревянный 2",
-		"Junk Crate Wooden Small 2":
-			"Мусор Ящик деревянный маленький 2",
-		"Junk Crate Wooden Small":
-			"Мусор Ящик дереянный маленький",
-		"Junk Drill":
-			"Мусор Бур",
-		"Junk Flight Recorder":
-			"Мусор Бортовой регистратор",
-		"Junk Fuel Tank Light":
-			"Мусор Топливный бак лёгкий",
-		"Junk Fuel Tank":
-			"Мусор Топливный бак",
-		"Junk Girder":
-			"Мусор Балка",
-		"Junk Ice Block":
-			"Мусор Ледяной блок",
-		"Junk Ice Rock":
-			"Мусор Ледяной камень",
-		"Junk Ice Stalactite":
-			"Мусор Ледяной сталактит",
-		"Junk Ice Wall Small":
-			"Мусор Ледяная стена маленькая",
-		"Junk Ice Wall":
-			"Мусор Ледяная стена",
-		"Junk Logo 2":
-			"Мусор Лого 2",
-		"Junk Logo C":
-			"Мусор Лого C",
-		"Junk Logo D":
-			"Мусор Лого D",
-		"Junk Logo PP":
-			"Мусор Лого PP",
-		"Junk Metal Plate":
-			"Мусор Металлическая пластина",
-		"Junk Rock":
-			"Мусор Камень",
-		"Junk Rod 2":
-			"Мусор Прут 2",
-		"Junk Rod Metal":
-			"Мусор Прут металлический",
-		"Junk Rod":
-			"Мусор Прут",
-		"Junk Roly Poly Dung":
-			"Мусор Перекати поле помёт",
-		"Junk Ship Part A":
-			"Мусор Корабль часть А",
-		"Junk Ship Part B":
-			"Мусор Корабль часть Б",
-		"Junk Ship Pieces":
-			"Мусор Корабль части",
-		"Junk Skeleton":
-			"Мусор Скелет",
-		"Junk Snow Ball Big":
-			"Мусор Снежный ком большой",
-		"Junk Snow Ball Small":
-			"Мусор Снежный ком маленький",
-		"Junk Snow Ball":
-			"Мусор Снежный ком",
-		"Junk Tank Wreck Imperatus":
-			"Мусор Танк обломки Императус",
-		"Junk Vase Big":
-			"Мусор Ваза большая",
-		"Junk Vase Oil":
-			"Мусор Ваза масляная",
-		"Junk Vase":
-			"Мусор Ваза",
-		"Lamp Chunky":
-			"Лампа Надёжная",
-		"Lamp Hanging Alien":
-			"Лампа Висящая инопланетянская",
-		"Lamp Hanging":
-			"Лампа Висящая",
-		"Lamp Mounted":
-			"Лампа Прикреплённая",
-		"Lamp Wall A":
-			"Лампа Настенная А",
-		"Loot Blueprint Chest":
-			"Лут Чертёж Сундук",
-		"Loot Blueprint":
-			"Лут Чертёж",
-		"Loot Chest":
-			"Лут Сундук",
-		"Loot Dispenser":
-			"Лут Раздаватель",
-		"Loot Orb Golden":
-			"Лут Сфера Золотая",
-		"Loot Orb":
-			"Лут Сфера",
-		"Loot Weapon Container Tier 1":
-			"Лут Оружейный контейнер Уровень 1",
-		"Loot Weapon Container Tier 2":
-			"Лут Оружейный контейнер Уровень 2",
-		"Loot Weapon Container Tier 3":
-			"Лут Оружейный контейнер Уровень 3",
-		"Loot Workshop Box":
-			"Лут Ящик из Мастерской",
-		"Lump Aurium A":
-			"Кусок Ауриум A",
-		"Lump Aurium B":
-			"Кусок Ауриум B",
-		"Lump Aurium C":
-			"Кусок Ауриум C",
-		"Lump Carbon A":
-			"Кусок Углерод A",
-		"Lump Carbon B":
-			"Кусок Углерод B",
-		"Lump Carbon C":
-			"Кусок Углерод C",
-		"Lump Metals A":
-			"Кусок Металлы A",
-		"Lump Metals B":
-			"Кусок Металлы B",
-		"Lump Metals C":
-			"Кусок Металлы C",
-		"Lump Metals D":
-			"Кусок Металлы D",
-		"Lump Silicon A":
-			"Кусок Кремний A",
-		"Lump Silicon B":
-			"Кусок Кремний B",
-		"Lump Silicon C":
-			"Кусок Кремний C",
-		"Lump Silicon D":
-			"Кусок Кремний D",
-		"Lump Water A":
-			"Кусок Вода A",
-		"Lump Water B":
-			"Кусок Вода B",
-		"Machine Camera Aurium":
-			"Машина Ауриумовая камера",
-		"Machine Catapult":
-			"Машина Катапульта",
-		"Machine Dropper":
-			"Машина Бросатель",
-		"Machine Laser Emitter":
-			"Машина Лазерный излучатель",
-		"Machine Proximity Sensor":
-			"Машина Сенсор движения",
-		"Machine Sentry Camera":
-			"Машина Сторожевая камера",
-		"Machine Sentry Gun":
-			"Машина Сторожевая пушка",
-		"Machine Space Teleporter":
-			"Машина Космический телепорт",
-		"Machine Switch":
-			"Машина Переключатель",
-		"Machine Terminal Info":
-			"Машина Терминал информационный",
-		"Machine Terminal Sensor":
-			"Машина Терминал сенсор",
-		"Pioneer Crazy Bob":
-			"Пионер Шальной Боб",
-		"Pioneer Imperatus":
-			"Пионер Императус",
-		"Pioneer Lily Crusher":
-			"Пионер Лили Крашер",
-		"Pioneer Pink Horror":
-			"Пионер Розовый Ужас",
-		"Pioneer Red Devil":
-			"Пионер Красный Дьявол",
-		"Pioneer Starman":
-			"Пионер Звездонавт",
-		"Pioneer Test Dummy":
-			"Пионер Тестовый манекен",
-		"Pioneer Wyatt":
-			"Пионер Уайет",
-		"Prototype Bot Mr Tentacles":
-			"Прототип Бот Мистер Щупальца",
-		"Prototype Bot Walker Big":
-			"Прототип Бот Большой ходун",
-		"Prototype Bot Walker":
-			"Прототип Бот Ходун",
-		"Prototype Drone Defense":
-			"Прототип Дрон защитный",
-		"Prototype Elevator":
-			"Прототип Лифт",
-		"Prototype Fauna Bomb Bug":
-			"Прототип Фауна Жук-бомба",
-		"Prototype Homing Missile":
-			"Прототип Самонаводящаяся ракета",
-		"Prototype Mecha Flamer":
-			"Прототип Мех Огнемёт",
-		"Prototype Mecha MG":
-			"Прототип Мех Пулемёт",
-		"Prototype Mecha Rifle":
-			"Прототип Мех Винтовка",
-		"Prototype Nest Bees":
-			"Прототип Гнездо Пчёлы",
-		"Prototype Nest Bird Hostile":
-			"Прототип Гнездо Агрессивные птицы",
-		"Prototype Nest Bird":
-			"Прототип Гнездо Птицы",
-		"Prototype Rifle Blast":
-			"Прототип Винтовка взрывная",
-		"Prototype Rock Trap Rock":
-			"Прототип Камень Ловушка",
-		"Prototype Rover Car":
-			"Прототип Ровер Машина",
-		"Prototype SAM Site":
-			"Прототип Зенитная установка",
-		"Prototype Satellite Discovery":
-			"Прототип Спутник Исследовательский",
-		"Prototype Snowboard Mk2":
-			"Прототип Сноуборд Mk2",
-		"Prototype Structure Door Trap Sm":
-			"Прототип Строение Дверь Ловушка Маленькая",
-		"Prototype Structure Door Trap":
-			"Прототип Строение Дверь Ловушка",
-		"Prototype Tool Crossbow":
-			"Прототип Инструмент Арбалет",
-		"Prototype Tool Gravity Gun":
-			"Прототип Инструмент Гравитационная пушка",
-		"Prototype Tool Teleport Device":
-			"Прототип Устройство Телепорт",
-=======
-			"",
-		"Incomplete Blueprint":
-			"",
-		"New Blueprint!":
-			"",
-		"Not enough resources":
-			"",
-		// label above effect when player is scanning a blueprint
-    "Scanning":
-			"",
-		// label above effect when player finished scanning a blueprint
-		"Completed!":
-			"",
-		"Metals: {NUMBER}kg":
-			"",
-		"Carbon: {NUMBER}kg":
-			"",
-		"Silicon: {NUMBER}kg":
-			"",
-		"Water: {NUMBER}kg":
-			"",
-
-		//blueprint menu categories (translate these to plural)
-		"CATEGORY Partial":
-			"",
-		"CATEGORY Workshop":
-			"",
-		"CATEGORY 1T":
-			"",
-		"CATEGORY Aurium":
-			"",
-		"CATEGORY Bomb":
-			"Bombs",
-		"CATEGORY Bot":
-			"Robots",
-		"CATEGORY Cloud":
-			"Clouds",
-		"CATEGORY Coalition":
-			"",
-		"CATEGORY Component":
-			"Components",
-		"CATEGORY Construction":
-			"",
-		"CATEGORY Fauna":
-			"",
-		"CATEGORY Flora":
-			"",
-		"CATEGORY Gear":
-			"",
-		"CATEGORY Golem":
-			"Golems",
-		"CATEGORY Grenade":
-			"Grenades",
-		"CATEGORY Junk":
-			"",
-		"CATEGORY Lamp":
-			"Lamps",
-		"CATEGORY Loot":
-			"",
-		"CATEGORY Lump":
-			"Lumps",
-		"CATEGORY Machine":
-			"Machines",
-		"CATEGORY Pioneer":
-			"Pioneers",
-		"CATEGORY Prototype":
-			"Prototypes",
-		"CATEGORY Reactor":
-			"Reactors",
-		"CATEGORY Rover":
-			"Rovers",
-		"CATEGORY Ship":
-			"Ships",
-		"CATEGORY Sign":
-			"Signs",
-		"CATEGORY Strucure":
-			"Strucures",
-		"CATEGORY Tank":
-			"Tanks",
-		"CATEGORY Tool":
-			"Tools",
-		"CATEGORY Trap":
-			"Traps",
-		"CATEGORY Trigger":
-			"Triggers",
-		"CATEGORY Weapon":
-			"Weapons",
-
-		//blueprint names for blueprint menu and appearing over vehicles and tools
-		//category words should not stay in the translation, instead keep the names natural like you would call this thing
-		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
-		"1T Graphite":
-			"",
-		"1T Ice":
-			"",
-		"1T Metals":
-			"",
-		"1T Sandstone":
-			"",
-		"Aurium Crystal":
-			"",
-		"Aurium Vase Brown":
-			"",
-		"Aurium Vase Large 1":
-			"",
-		"Aurium Vase Large 2":
-			"",
-		"Aurium Vase Large 3":
-			"",
-		"Aurium Vase Small":
-			"",
-		"Bomb Classic":
-			"",
-		"Bomb Large":
-			"",
-		"Bomb":
-			"",
-		"Bot Acid":
-			"",
-		"Bot Drone Defense":
-			"",
-		"Bot Flip":
-			"",
-		"Bot Flying Worm":
-			"",
-		"Bot Frosty":
-			"",
-		"Bot Guard Box":
-			"",
-		"Bot Imperatus":
-			"",
-		"Bot Jumper Box":
-			"",
-		"Bot Mecha":
-			"",
-		"Bot Phoenix":
-			"",
-		"Bot Sentry":
-			"",
-		"Bot Spot":
-			"",
-		"Bot Tank":
-			"",
-		"Bot Temperature Drone":
-			"",
-		"Bot Titan Golem":
-			"",
-		"Bot Vendor":
-			"",
-		"Bot Wandering":
-			"",
-		"Bot Worm":
-			"",
-		"Cloud Acid":
-			"",
-		"Coalition Ship":
-			"",
-		"Coalition Turret":
-			"",
-		"Component Balancer":
-			"",
-		"Component Balloon":
-			"",
-		"Component Battery 100A":
-			"",
-		"Component Battery 10A":
-			"",
-		"Component Capacitor":
-			"",
-		"Component Explosive Charge":
-			"",
-		"Component Minigun":
-			"",
+			"Пулемёт",
 		"Component Seat Boosted":
 			"Улучшенная кабина",
 		"Component Seat":
 			"Кабина",
 		"Component Thruster":
-			"",
+			"Двигатель",
 		"Component Wheel":
-			"",
+			"Колесо",
 		"Construction Concrete Support":
-			"",
+			"Бетонная опора",
 		"Construction Concrete Wall":
-			"",
+			"Бетонная стена",
 		"Construction Concrete Window":
-			"",
+			"Бетонное окно",
 		"Construction Elevator":
-			"",
+			"Лифт",
 		"Construction Plank Big":
-			"",
+			"Большая планка",
 		"Construction Plank Slim":
-			"",
+			"Узкая планка",
 		"Construction Plank":
-			"",
+			"Планка",
 		"Construction Trunk":
-			"",
+			"Ствол",
 		"Construction Wooden Triangle":
-			"",
+			"Деревянный треугольник",
 		"Fauna Animal Nest":
-			"",
+			"Гнездо животного",
 		"Fauna Bird Hostile":
-			"",
+			"Агрессивная птица",
 		"Fauna Bird Neutral":
-			"",
+			"Спокойная птица",
 		"Fauna Bomb Bug":
-			"",
+			"Жук-бомба",
 		"Fauna Crab Acid":
-			"",
+			"Кислотный краб",
 		"Fauna Crab Aurium":
-			"",
+			"Ауриумовый краб",
 		"Fauna Crab Balloon":
-			"",
+			"Краб-шар",
 		"Fauna Crab Fire":
-			"",
+			"Огненный краб",
 		"Fauna Crab":
-			"",
+			"Краб",
 		"Fauna Egg Bird":
-			"",
+			"Птичье яйцо",
 		"Fauna Egg":
-			"",
+			"Яйцо",
 		"Fauna Grazer":
-			"",
+			"Животное",
 		"Fauna Ice Bird":
-			"",
+			"Ледяная птица",
 		"Fauna Ice Bug":
-			"",
+			"Ледяной жук",
 		"Fauna Knuckles Boss":
-			"",
+			"Драчун - босс",
 		"Fauna Knuckles":
-			"",
+			"Драчун",
 		"Fauna Mega Worm Long":
-			"",
+			"Длинный мега-червь",
 		"Fauna Mega Worm":
-			"",
+			"Мега-червь",
 		"Fauna Roly Poly":
-			"",
+			"Перекати поле",
 		"Fauna Silverback":
-			"",
+			"Серебристый",
 		"Fauna Skeleton Armored":
-			"",
+			"Бронированный скелет",
 		"Fauna Snapjaw":
-			"",
+			"Зубохват",
 		"Fauna Tentacle Eye":
-			"",
+			"Щупоглаз",
 		"Fauna Tentacle Launcher":
-			"",
+			"Щупоплюй",
 		"Fauna Tentacle Old":
-			"",
+			"Старое щупальце",
 		"Fauna Tentacle":
-			"",
+			"Щупальце",
 		"Fauna Zombie":
-			"",
+			"Зомби",
 		"Flora Aloe Plant":
-			"",
+			"Растение Алоэ",
 		"Flora Broccoli Plant":
-			"",
+			"Растение Брокколи",
 		"Flora Clone Plant":
-			"",
+			"Растение Клон",
 		"Flora Glow Plant":
-			"",
+			"Светящееся растение",
 		"Flora Liana End":
-			"",
+			"Конец лианы",
 		"Flora Liana":
-			"",
+			"Лиана",
 		"Flora Pop Plant":
-			"",
+			"Растение Трамплин",
 		"Flora Vines":
-			"",
+			"Лозы",
 		"Gear Chest Plate":
-			"",
+			"Грудная пластина",
 		"Gear Crown":
-			"",
+			"Корона",
 		"Gear Helmet":
-			"",
+			"Шлем",
 		"Gear Leg BG Armor":
-			"",
+			"Фоновая броня ноги",
 		"Gear Leg FG Armor":
-			"",
+			"Передняя броня ноги",
 		"Gear Small Aurium Obj":
-			"",
+			"Маленький объект из Ауриума",
 		"Gear Small Aurium":
-			"",
+			"Маленький Ауриум",
 		"Gear Space Helmet":
-			"",
+			"Космический шлем",
 		"Golem Carbon":
-			"",
+			"Углеродный голем",
 		"Golem Ice":
-			"",
+			"Ледяной голем",
 		"Golem Metal":
-			"",
+			"Металлический голем",
 		"Golem Silicon":
-			"",
+			"Кремниевый голем",
 		"Grenade Bounce":
-			"",
+			"Прыгучая граната",
 		"Grenade Cold":
-			"",
+			"Ледяная граната",
 		"Grenade Impact":
-			"",
+			"Ударная граната",
 		"Grenade Mine":
-			"",
+			"Граната-мина",
 		"Grenade Rope":
-			"",
+			"Верёвочная граната",
 		"Grenade Simple":
-			"",
+			"Простая граната",
 		"Grenade Spikes":
-			"",
+			"Шипованная граната",
 		"Junk Aurium Boulder 1":
-			"",
+			"Валун из Ауриума 1",
 		"Junk Aurium Boulder 2":
-			"",
+			"Валун из Ауриума 2",
 		"Junk Block Sandstone Long":
-			"",
+			"Длинный блок из песчаника",
 		"Junk Block Sandstone":
-			"",
+			"Блок из песчаника",
 		"Junk Bones":
-			"",
+			"Кости",
 		"Junk Boulder Big":
-			"",
+			"Большой валун",
 		"Junk Boulder Huge":
-			"",
+			"Огромный валун",
 		"Junk Boulder Sandstone Huge":
-			"",
+			"Огромный валун из песчаника",
 		"Junk Boulder Sandstone":
-			"",
+			"Валун из песчаника",
 		"Junk Boulder Small":
-			"",
+			"Маленький валун",
 		"Junk Boulder":
-			"",
+			"Валун",
 		"Junk Brick":
-			"",
+			"Кирпич",
 		"Junk Cage":
-			"",
+			"Клетка",
 		"Junk Chain":
-			"",
+			"Цепь",
 		"Junk Crate A":
-			"",
+			"Ящик А",
 		"Junk Crate Aurium Alloy Big":
-			"",
+			"Большой ящик из Ауриума",
 		"Junk Crate Aurium Alloy Small":
-			"",
+			"Маленький ящик из Ауриума",
 		"Junk Crate Aurium Alloy":
-			"",
+			"Ящик из Ауриума",
 		"Junk Crate B":
-			"",
+			"Ящик Б",
 		"Junk Crate Cardboard":
-			"",
+			"Картонная коробка",
 		"Junk Crate Ice 1":
-			"",
+			"Ледяной ящик",
 		"Junk Crate Wooden 1":
-			"",
+			"Деревянный ящик 1",
 		"Junk Crate Wooden 2":
-			"",
+			"Деревянный ящик 2",
 		"Junk Crate Wooden Small 2":
-			"",
+			"Маленький деревянный ящик 2",
 		"Junk Crate Wooden Small":
-			"",
+			"Маленький деревянный ящик",
 		"Junk Drill":
-			"",
+			"Бур",
 		"Junk Flight Recorder":
 			"Бортовой регистратор",
 		"Junk Fuel Tank Light":
-			"",
+			"Лёгкий топливный бак",
 		"Junk Fuel Tank":
-			"",
+			"Топливный бак",
 		"Junk Girder":
-			"",
+			"Балка",
 		"Junk Ice Block":
-			"",
+			"Ледяной блок",
 		"Junk Ice Rock":
-			"",
+			"Ледяной камень",
 		"Junk Ice Stalactite":
-			"",
+			"Ледяной сталактит",
 		"Junk Ice Wall Small":
-			"",
+			"Маленькая ледяная стена",
 		"Junk Ice Wall":
-			"",
+			"Ледяная стена",
 		"Junk Logo 2":
-			"",
+			"Лого 2",
 		"Junk Logo C":
-			"",
+			"Лого C",
 		"Junk Logo D":
-			"",
+			"Лого D",
 		"Junk Logo PP":
-			"",
+			"Лого PP",
 		"Junk Metal Plate":
-			"",
+			"Металлическая пластина",
 		"Junk Rock":
-			"",
+			"Камень",
 		"Junk Rod 2":
-			"",
+			"Прут 2",
 		"Junk Rod Metal":
-			"",
+			"Прут металлический",
 		"Junk Rod":
-			"",
+			"Прут",
 		"Junk Roly Poly Dung":
-			"",
+			"Помёт перекати поля",
 		"Junk Ship Part A":
-			"",
+			"Часть корабля A",
 		"Junk Ship Part B":
-			"",
+			"Часть корабля B",
 		"Junk Ship Pieces":
-			"",
+			"Части корабля",
 		"Junk Skeleton":
-			"",
+			"Скелет",
 		"Junk Snow Ball Big":
-			"",
+			"Большой снежный ком",
 		"Junk Snow Ball Small":
-			"",
+			"Маленький снежный ком",
 		"Junk Snow Ball":
-			"",
+			"Снежный ком",
 		"Junk Tank Wreck Imperatus":
-			"",
+			"Обломки танка Императусов",
 		"Junk Vase Big":
-			"",
+			"Большая ваза",
 		"Junk Vase Oil":
-			"",
+			"Ваза с маслом",
 		"Junk Vase":
-			"",
+			"Ваза",
 		"Lamp Chunky":
-			"",
+			"Крепкая лампа",
 		"Lamp Hanging Alien":
-			"",
+			"Инопланетянская висящая лампа",
 		"Lamp Hanging":
-			"",
+			"Висящая лампа",
 		"Lamp Mounted":
-			"",
+			"Закрепленная лампа",
 		"Lamp Wall A":
-			"",
+			"Настенная лампа А",
 		"Loot Blueprint Chest":
-			"",
+			"Контейнер с чертежом",
 		"Loot Blueprint":
-			"",
+			"Чертёж",
 		"Loot Chest":
-			"",
+			"Контейнер",
 		"Loot Dispenser":
-			"",
+			"Раздаватель",
 		"Loot Orb Golden":
-			"",
+			"Золотая сфера",
 		"Loot Orb":
-			"",
+			"Сфера",
 		"Loot Weapon Container Tier 1":
-			"",
+			"Оружейный контейнер Уровень 1",
 		"Loot Weapon Container Tier 2":
-			"",
+			"Оружейный контейнер Уровень 2",
 		"Loot Weapon Container Tier 3":
-			"",
+			"Оружейный контейнер Уровень 3",
 		"Loot Workshop Box":
-			"",
+			"Ящик из Мастерской",
 		"Lump Aurium A":
-			"",
+			"Ауриум A",
 		"Lump Aurium B":
-			"",
+			"Ауриум B",
 		"Lump Aurium C":
-			"",
+			"Ауриум C",
 		"Lump Carbon A":
-			"",
+			"Углерод A",
 		"Lump Carbon B":
-			"",
+			"Углерод B",
 		"Lump Carbon C":
-			"",
+			"Углерод C",
 		"Lump Metals A":
-			"",
+			"Металлы A",
 		"Lump Metals B":
-			"",
+			"Металлы B",
 		"Lump Metals C":
-			"",
+			"Металлы C",
 		"Lump Metals D":
-			"",
+			"Металлы D",
 		"Lump Silicon A":
-			"",
+			"Кремний A",
 		"Lump Silicon B":
-			"",
+			"Кремний B",
 		"Lump Silicon C":
-			"",
+			"Кремний C",
 		"Lump Silicon D":
-			"",
+			"Кремний D",
 		"Lump Water A":
-			"",
+			"Вода A",
 		"Lump Water B":
-			"",
+			"Вода B",
 		"Machine Camera Aurium":
-			"",
+			"Ауриумовая камера",
 		"Machine Catapult":
-			"",
+			"Катапульта",
 		"Machine Dropper":
-			"",
+			"Бросатель",
 		"Machine Laser Emitter":
-			"",
+			"Лазерный излучатель",
 		"Machine Proximity Sensor":
-			"",
+			"Сенсор движения",
 		"Machine Sentry Camera":
-			"",
+			"Сторожевая камера",
 		"Machine Sentry Gun":
-			"",
+			"Сторожевая пушка",
 		"Machine Space Teleporter":
-			"",
+			"Космический телепорт",
 		"Machine Switch":
-			"",
+			"Переключатель",
 		"Machine Terminal Info":
-			"",
+			"Информационный терминал",
 		"Machine Terminal Sensor":
-			"",
+			"Терминал-сенсор",
 		"Pioneer Crazy Bob":
-			"",
+			"Шальной Боб",
 		"Pioneer Imperatus":
-			"",
+			"Императус",
 		"Pioneer Lily Crusher":
-			"",
+			"Лили Крашер",
 		"Pioneer Pink Horror":
-			"",
+			"Розовый Ужас",
 		"Pioneer Red Devil":
-			"",
+			"Красный Дьявол",
 		"Pioneer Starman":
-			"",
+			"Звездонавт",
 		"Pioneer Test Dummy":
-			"",
+			"Тестовый манекен",
 		"Pioneer Wyatt":
-			"",
+			"Уайет",
 		"Prototype Bot Mr Tentacles":
-			"",
+			"Бот Мистер Щупальца",
 		"Prototype Bot Walker Big":
-			"",
+			"Бот Большой ходун",
 		"Prototype Bot Walker":
-			"",
+			"Бот Ходун",
 		"Prototype Drone Defense":
-			"",
+			"Защитный дрон",
 		"Prototype Elevator":
-			"",
+			"Лифт",
+		"Prototype Fauna Bomb Bug":
+			"Жук-бомба",
 		"Prototype Homing Missile":
-			"",
+			"Самонаводящаяся ракета",
 		"Prototype Mecha Flamer":
-			"",
+			"Огнемёт меха",
 		"Prototype Mecha MG":
-			"",
+			"Пулемёт меха",
 		"Prototype Mecha Rifle":
-			"",
+			"Винтовка меха",
 		"Prototype Nest Bees":
-			"",
+			"Гнездо пчёл",
 		"Prototype Nest Bird Hostile":
-			"",
+			"Гнездо агрессивной птицы",
 		"Prototype Nest Bird":
-			"",
+			"Гнездо птицы",
 		"Prototype Rifle Blast":
-			"",
+			"Взрывная винтовка",
 		"Prototype Rock Trap Rock":
-			"",
+			"Камень-ловушка",
 		"Prototype Rover Car":
-			"",
+			"Ровер-машина",
 		"Prototype SAM Site":
-			"",
+			"Зенитная установка",
 		"Prototype Satellite Discovery":
-			"",
+			"Исследовательский спутник",
 		"Prototype Snowboard Mk2":
-			"",
+			"Сноуборд Mk2",
 		"Prototype Structure Door Trap Sm":
-			"",
+			"Дверь-ловушка Маленькая",
 		"Prototype Structure Door Trap":
-			"",
+			"Дверь-ловушка",
 		"Prototype Tool Crossbow":
-			"Crossbow",
+			"Арбалет",
 		"Prototype Tool Gravity Gun":
-			"Gravity Gun",
+			"Гравитационная пушка",
 		"Prototype Tool Teleport Device":
-			"Teleport Device",
->>>>>>> upstream/master
+			"Телепорт",
 		"Rover Carbon":
 			"Углеволоконный ровер",
 		"Rover Carrier Hover":
@@ -2090,337 +1569,208 @@
 			"Горный ровер",
 		"Rover Coalition Spider Climber":
 			"Ровер-паук Коалиции",
-<<<<<<< HEAD
 		"Rover Minimal":
 			"Простой ровер",
-=======
-		"Rover Minimal Aurium Example":
-			"",
-		"Rover Minimal Jets":
-			"Простой прыгающий ровер",
-		"Rover Mining Cart":
-			"",
->>>>>>> upstream/master
 		"Rover Quad":
 			"Четырёхосный ровер",
 		"Rover Scissor":
 			"Ровер-подъёмник",
 		"Rover Shocks":
 			"Защищённый ровер",
-<<<<<<< HEAD
 		"Rover Minimal Jets":
 			"Простой прыгающий ровер",
 		"Ship Big":
-			"Корабль Большой",
-		"Ship Drop Rocket":
-			"Корабль Десантная ракета",
-		"Ship Landing Seat":
-			"Корабль Кресло",
-		"Ship Landing":
-			"Корабль Посадка",
-		"Ship Mini":
-			"Корабль Мини",
-		"Ship Rocket":
-			"Корабль Ракета",
-		"Sign Not Throw":
-			"Знак Не бросать",
-		"Sign Shopping":
-			"Знак Магазин",
-		"Sign Steam":
-			"Знак Steam",
-		"Sign Wooden Compound Logo":
-			"Знак Деревянный сборный логотип",
-		"Snowboard":
-			"Сноуборд",
-=======
-		"Ship Big":
 			"Большой корабль",
 		"Ship Drop Rocket":
-			"Drop Rocket",
+			"Десантная ракета",
 		"Ship Landing Seat":
-			"Landing Seat",
+			"Кресло",
 		"Ship Landing":
-			"Landing Ship",
+			"Приземляющийся корабль",
 		"Ship Mini":
-			"Мини-корабль",
+			"Мини корабль",
 		"Ship Rocket":
 			"Ракета",
 		"Sign Not Throw":
-			"Do Not Throw Sign",
+			"Не бросать",
 		"Sign Shopping":
-			"Shopping Sign",
+			"Магазин",
 		"Sign Steam":
-			"Steam Sign",
+			"Steam",
 		"Sign Wooden Compound Logo":
-			"",
+			"Деревянный сборный логотип",
 		"Snowboard":
-			"",
->>>>>>> upstream/master
+			"Сноуборд",
 		"Structure Assembly Lock":
-			"",
+			"Удерживающее поле",
 		"Structure Bridge Draw Long":
-			"",
+			"Длинный мост",
 		"Structure Bridge Draw":
-			"",
+			"Мост",
 		"Structure Bridge Hanging Huge":
-			"",
+			"Огромный висячий мост",
 		"Structure Bridge Hanging Long":
-			"",
+			"Длинный висячий мост",
 		"Structure Bridge Hanging":
-			"",
+			"Висячий мост",
 		"Structure Bridge Metal":
-			"",
+			"Металлический мост",
 		"Structure Covered Door":
-			"",
+			"Дверь закрытого типа",
 		"Structure Door Covered":
-			"",
+			"Дверь закрытого типа",
 		"Structure Door Curved":
-			"",
+			"Округлая дверь",
 		"Structure Door Dungeon":
-			"",
+			"Дверь подземелья",
 		"Structure Door Huge":
-			"",
+			"Огромная дверь",
 		"Structure Door Sandstone Huge":
-			"",
+			"Огромная дверь из песчаника",
 		"Structure Door Sandstone":
-			"",
+			"Дверь из песчаника",
 		"Structure Door Silo":
-			"",
+			"Дверь пусковой шахты",
 		"Structure Door":
-			"",
+			"Дверь",
 		"Structure Elevator Fast":
-			"",
+			"Быстрый лифт",
 		"Structure Elevator Sandstone":
-			"",
+			"Лифт из песчаника",
 		"Structure Elevator Small":
-			"",
+			"Маленький лифт",
 		"Structure Eye Large":
-			"",
+			"Глаз",
 		"Structure Eye Statue":
-			"",
+			"Статуя глаза",
 		"Structure Garage":
-			"",
+			"Гараж",
 		"Structure Gear Lock":
-			"",
+			"Замок с шестернёй",
 		"Structure Grazer Vacuum":
-			"",
+			"Засасыватель животных",
 		"Structure Latch":
-			"",
+			"Заслонка",
 		"Structure LCD Countdown Timer":
-			"",
+			"ЖК-таймер обратного отсчёта",
 		"Structure LCD Panel":
-			"",
+			"ЖК-панель",
 		"Structure Moving Platform MAZE":
-			"",
+			"Движущаяся платформа из лабиринта",
 		"Structure Moving Platform":
-			"",
+			"Движущаяся платформа",
 		"Structure Pin World":
-			"",
+			"Шпилька",
 		"Structure Power Core":
-			"",
+			"Силовое ядро",
 		"Structure Resource Filler":
 			"",
 		"Structure Respawn Station":
-			"",
+			"Станция возрождения",
 		"Structure Rope":
-			"",
+			"Верёвка",
 		"Structure Shop Manager":
-			"",
+			"Панель управления магазином",
 		"Structure Shop Pioneers":
-			"",
+			"Магазин пионеров",
 		"Structure Steam Altar":
-			"",
+			"Алтарь Steam",
 		"Structure Switch Sandstone":
-			"",
+			"Переключатель из песчаника",
 		"Structure Teleporter":
-			"",
+			"Телепортатор",
 		"Structure Trap Door 10m":
-			"",
+			"Дверь-ловушка 10м",
 		"Structure Trap Door Long":
-			"",
+			"Длинная дверь-ловушка",
 		"Structure Trap Door Metal":
-			"",
+			"Металлическая дверь-ловушка",
 		"Structure Trap Door Sandstone":
-			"",
+			"Дверь-ловушка из песчаника",
 		"Tank Coalition":
-<<<<<<< HEAD
-			"",
+			"Танк коалиции",
 		"Tool Balloon Gun":
-			"",
+			"Шаровая пушка",
 		"Tool Bomb Crab":
-			"",
+			"Краб-бомба",
 		"Tool Glow Stick":
-			"",
+			"Светящийся прут",
 		"Tool Grappling Hook Basic":
-			"",
-		"Tool Hack Gun":
-			"",
-		"Tool Jet Rocket":
-			"",
-=======
-			"Танк Коалиции",
-		"Tool Balloon Gun":
-			"Шаромёт",
-		"Tool Bomb Crab":
-			"Крабовая бомба",
-		"Tool Glow Stick":
-			"",
-		"Tool Grappling Hook Basic":
-			"Кошка",
+			"Простая кошка",
 		"Tool Hack Gun":
 			"Взламыватель",
 		"Tool Jet Rocket":
-			"Ракета",
->>>>>>> upstream/master
+			"Реактивная ракета",
 		"Tool Key":
-			"",
+			"Ключ",
 		"Tool Magnet":
-			"",
+			"Магнит",
 		"Tool Propeller":
-<<<<<<< HEAD
-			"",
-		"Tool Quantum Field Device":
-			"",
-		"Tool Rope Launcher":
-			"",
-		"Tool Rope":
-			"",
-		"Tool Shield Metal":
-			"",
-=======
 			"Пропеллер",
 		"Tool Quantum Field Device":
-			"Проектор квантового поля",
+			"Квантово-полевое устройство",
 		"Tool Rope Launcher":
 			"Верёвкомёт",
 		"Tool Rope":
 			"Верёвка",
 		"Tool Shield Metal":
 			"Металлический щит",
->>>>>>> upstream/master
 		"Tool Spelunker Rope":
-			"",
+			"Верёвка спелеолога",
 		"Tool Tether":
-			"",
+			"Лассо",
 		"Tool Welder":
-<<<<<<< HEAD
-			"",
-		"Trap Claw":
-			"",
-		"Trap Dart":
-			"",
-		"Trap Flamethrower Aurium":
-			"",
-		"Trap Flamethrower":
-			"",
-		"Trap Grinder Small":
-			"",
-		"Trap Grinder":
-			"",
-		"Trap Ice":
-			"",
-		"Trap Spring Mine":
-			"",
-		"Weapon Assault Rifle":
-			"",
-		"Weapon Aurium Staff":
-			"",
-		"Weapon Blue Rifle":
-			"",
-		"Weapon Bounding Mine Grenade":
-			"",
-		"Weapon Cold Grenade Launcher":
-			"",
-		"Weapon Cold Grenade":
-			"",
-		"Weapon Cold Shotgun":
-			"",
-		"Weapon Flamethrower":
-			"",
-		"Weapon Grandpas Rifle":
-			"",
-		"Weapon Grenade Launcher":
-			"",
-		"Weapon Hand Grenade":
-			"",
-		"Weapon Heavy Machine Gun":
-			"",
-		"Weapon Laser Assault Rifle":
-			"",
-		"Weapon Machine Pistol":
-			"",
-		"Weapon Mine Launcher":
-			"",
-		"Weapon Minigun":
-			"",
-		"Weapon Nail Gun":
-			"",
-		"Weapon Pistol":
-			"",
-		"Weapon Plasma Rifle":
-			"",
-		"Weapon Rifle Bolt Action":
-			"",
-		"Weapon Scrap Launcher":
-			"",
-		"Weapon Shockwave Gun":
-			"",
-		"Weapon Shotgun":
-			"",
-		"Weapon Sticky Bomb Launcher":
-			""
-=======
 			"Сварка",
 		"Trap Claw":
-			"Claw Trap",
+			"Капкан",
 		"Trap Dart":
-			"Dart Trap",
+			"Дротики",
 		"Trap Flamethrower Aurium":
-			"Flamethrower Trap Aurium",
+			"Ауриумовый огнемёт",
 		"Trap Flamethrower":
-			"Flamethrower Trap",
+			"Огнемёт",
 		"Trap Grinder Small":
-			"Small Grinder Trap",
+			"Маленький жёрнов",
 		"Trap Grinder":
-			"Grinder Trap",
+			"Жёрнов",
 		"Trap Ice":
-			"Ice Trap",
+			"Ледяная ловушка",
 		"Trap Spring Mine":
 			"Прыгающая мина",
 		"Weapon Assault Rifle":
 			"Штурмовая винтовка",
 		"Weapon Aurium Staff":
-			"Посох из Ауриума",
+			"Ауриумовый жезл",
 		"Weapon Blue Rifle":
 			"Синяя винтовка",
 		"Weapon Bounding Mine Grenade":
-			"Мина-граната",
+			"Прыгающая мина",
 		"Weapon Cold Grenade Launcher":
-			"Замораживающий гранатомёт",
+			"Ледяной бомбомет",
 		"Weapon Cold Grenade":
-			"Замораживающая граната",
+			"Ледяная граната",
 		"Weapon Cold Shotgun":
-			"Замораживающее ружье",
+			"Ледяной дробовик",
 		"Weapon Flamethrower":
 			"Огнемёт",
 		"Weapon Grandpas Rifle":
-			"Дедулино ружьё",
+			"Дедово ружьё",
 		"Weapon Grenade Launcher":
 			"Бомбомёт",
 		"Weapon Hand Grenade":
 			"Ручная граната",
 		"Weapon Heavy Machine Gun":
-			"Пулемёт",
+			"Тяжёлый пулемёт",
 		"Weapon Laser Assault Rifle":
 			"Лазерная винтовка",
 		"Weapon Machine Pistol":
-			"Автоматический пистолет",
+			"Пистолет-пулемёт",
 		"Weapon Mine Launcher":
 			"Миномёт",
 		"Weapon Minigun":
 			"Пулемёт Гатлинга",
 		"Weapon Nail Gun":
-			"Гвоздомёт",
+			"Игломёт",
 		"Weapon Pistol":
 			"Пистолет",
 		"Weapon Plasma Rifle":
@@ -2428,13 +1778,12 @@
 		"Weapon Rifle Bolt Action":
 			"Однозарядная винтовка",
 		"Weapon Scrap Launcher":
-			"Мусоромёт",
+			"Осколочный гранатомёт",
 		"Weapon Shockwave Gun":
-			"Шоковая пушка",
+			"Ударная пушка",
 		"Weapon Shotgun":
 			"Дробовик",
 		"Weapon Sticky Bomb Launcher":
-			"Метатель бомб-липучек",
->>>>>>> upstream/master
+			"Липучкомёт"
 	}
 }
