@@ -241,7 +241,7 @@
 		"I got to get off this rock...":
 			"",
 		"A have a bad feeling about what might be guarding the Core...":
-			"",
+			"I have a bad feeling about what might be guarding the Core...",
 		"I'm going to make a BIG omelet!!":
 			"",
 		"Could it be... Aurium Alloy?!":
@@ -454,7 +454,7 @@
 		//months
 		"January":
 			"",
-		"Febuary":
+		"February":
 			"",
 		"March":
 			"",
@@ -535,6 +535,60 @@
 		"(Back)": //this is the back button on the controller
 			"",
 		"Right Trigger":
+			"",
+
+		//actions
+		"Move":
+			"",
+		"Aim":
+			"",
+		"Left":
+			"",
+		"Right":
+			"",
+		"Go Prone":
+			"",
+		"Jump":
+			"",
+		"Atomize":
+			"",
+		"Assemble":
+			"",
+		"Fire":
+			"",
+		"Enter Vehicle":
+			"",
+		"Leave Vehicle":
+			"",
+		"Pick up":
+			"",
+		"Drop":
+			"",
+		"Put on back":
+			"",
+		"Take from back":
+			"",
+		"Swap":
+			"",
+		"Respawn":
+			"",
+		"Restart":
+			"",
+		"Pause":
+			"",
+		"Menu":
+			"",
+		"Select":
+			"",
+		"Zoom":
+			"",
+		"Zoom in":
+			"",
+		"Zoom out":
+			"",
+		"Hold":
+			"",
+		"Press":
 			"",
 
 		//appearing on screen on game over
@@ -785,7 +839,7 @@
 		"Dance":
 			"",
 		"Dont Move":
-			"",
+			"Don't Move",
 		"Dive":
 			"",
 		"Press All Buttons":
@@ -968,69 +1022,69 @@
 			"",
 
 		//blueprint menu categories (translate these to plural)
-		"Partial":
+		"CATEGORY Partial":
 			"",
-		"Workshop":
+		"CATEGORY Workshop":
 			"",
-		"1T":
+		"CATEGORY 1T":
 			"",
-		"Aurium":
+		"CATEGORY Aurium":
 			"",
-		"Bomb":
+		"CATEGORY Bomb":
 			"Bombs",
-		"Bot":
+		"CATEGORY Bot":
 			"Robots",
-		"Cloud":
+		"CATEGORY Cloud":
 			"Clouds",
-		"Coalition":
+		"CATEGORY Coalition":
 			"",
-		"Component":
+		"CATEGORY Component":
 			"Components",
-		"Construction":
+		"CATEGORY Construction":
 			"",
-		"Fauna":
+		"CATEGORY Fauna":
 			"",
-		"Flora":
+		"CATEGORY Flora":
 			"",
-		"Gear":
+		"CATEGORY Gear":
 			"",
-		"Golem":
+		"CATEGORY Golem":
 			"Golems",
-		"Grenade":
+		"CATEGORY Grenade":
 			"Grenades",
-		"Junk":
+		"CATEGORY Junk":
 			"",
-		"Lamp":
+		"CATEGORY Lamp":
 			"Lamps",
-		"Loot":
+		"CATEGORY Loot":
 			"",
-		"Lump":
+		"CATEGORY Lump":
 			"Lumps",
-		"Machine":
+		"CATEGORY Machine":
 			"Machines",
-		"Pioneer":
+		"CATEGORY Pioneer":
 			"Pioneers",
-		"Prototype":
+		"CATEGORY Prototype":
 			"Prototypes",
-		"Reactor":
+		"CATEGORY Reactor":
 			"Reactors",
-		"Rover":
+		"CATEGORY Rover":
 			"Rovers",
-		"Ship":
+		"CATEGORY Ship":
 			"Ships",
-		"Sign":
+		"CATEGORY Sign":
 			"Signs",
-		"Strucure":
+		"CATEGORY Strucure":
 			"Strucures",
-		"Tank":
+		"CATEGORY Tank":
 			"Tanks",
-		"Tool":
+		"CATEGORY Tool":
 			"Tools",
-		"Trap":
+		"CATEGORY Trap":
 			"Traps",
-		"Trigger":
+		"CATEGORY Trigger":
 			"Triggers",
-		"Weapon":
+		"CATEGORY Weapon":
 			"Weapons",
 
 		//blueprint names for blueprint menu and appearing over vehicles and tools
@@ -1351,11 +1405,11 @@
 		"Junk Skeleton":
 			"",
 		"Junk Snow Ball Big":
-			"",
+			"Big Snowball",
 		"Junk Snow Ball Small":
-			"",
+			"Small Snowball",
 		"Junk Snow Ball":
-			"",
+			"Snowball",
 		"Junk Tank Wreck Imperatus":
 			"",
 		"Junk Vase Big":
@@ -1473,8 +1527,6 @@
 		"Prototype Drone Defense":
 			"",
 		"Prototype Elevator":
-			"",
-		"Prototype Fauna Bomb Bug":
 			"",
 		"Prototype Homing Missile":
 			"",
@@ -1740,5 +1792,6 @@
 			"Shotgun",
 		"Weapon Sticky Bomb Launcher":
 			"Sticky Bomb Launcher"
+
 		}
 }
