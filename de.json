@@ -5,15 +5,15 @@
 	// is specified here.)
 	"info" : {
 		"id": "de",
-		"english_name": "German (WIP)",
-		"localised_name": "Deutsch (WIP)"
+		"english_name": "German",
+		"localised_name": "Deutsch"
 	},
 	"store page": {
 		//game description
 		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
 			"Willkommen bei Planetoid Pioneers, einem kooperativen Sci-Fi-Physicsvania, in dem verrückte alte Astronauten sich mit QWOP-ähnlicher Steuerung über den Asteroidengürtel hinter dem Mars hermachen. Es wurde mit der einzigartigen Crush2D Physik-Engine entwickelt und kann auf deiner Couch mit deinen oder gegen deine Freunde in nahtlosen Koop und PvP Partien gespielt werden.",
 		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
-			"",
+			"Du wirst über Felsen stolpern, Gliedmaßen verlieren und deine Ausrüstung gestohlen bekommen, während du vor furchterregenden Feinden fliehst, die dich direkt in die nächste Falle tappen lassen. Erstelle deine eigenen kreative Lösungen für die Herausforderungen, die auf dich zukommen, oder mach dir die Hände schmutzig und baue deine eigenen Planetoiden in den Editoren, die jetzt alle in der Standard Edition enthalten sind. Lache, während andere versuchen, dein sorgfältig konstruiertes Gemetzel zu überleben!",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
 			"Wenn Du dich für den Kauf der Contributor Edition entscheidest, erhältst Du zusätzlich Zugriff auf den offiziellen Contributor Community Discord Server, auf dem Du mit anderen kreativen Spielern zusammenarbeiten und Inhalte austauschen kannst und direkt mit den Entwicklern chatten kannst.",
 		//game title description
@@ -21,13 +21,13 @@
 			"Jetzt mit allen Editoren",
 		//workshop description
 		"Built for user creation and sharing from the ground up, Planetoid Pioneers supports a Contributor Community whose work can be enjoyed here: Blueprints and entire self-contained Planetoids galore!":
-			"",
+			"Planetoid Pioneers wurde von Grund auf zum Erstellen und Teilen entwickelt und unterstützt eine Contributor-Community, deren Arbeit hier gefunden werden kann: Blueprints und ganze in sich abgeschlossene Planetoiden in Hülle und Fülle!",
 		//contributor dlc (just translate 'Upgrade to')
 		"{PLANETOID PIONEERS} Upgrade to {CONTRIBUTOR EDITON}":
 			"{PLANETOID PIONEERS} Upgrade zur {CONTRIBUTOR EDITON}",
 		//contributor dlc description
 		"Upgrade from the regular Planetoid Pioneers Game-Only Edition to the full Contributor Edition with ALL the commercial-grade editors that the official development team and the vibrant Contributor Community used to build everything you've seen in the game!":
-			""
+			"Erweitere von der regulären Planetoid Pioneers Game-Only Edition auf die volle Contributor Edition mit ALLEN Editoren, die das offizielle Entwicklerteam und die Contributor-Community verwendet haben, um alles zu erstellen, was du im Spiel sehen kannst!"
 	},
 	"translations": {
 		//asteroid belt UI
@@ -35,7 +35,7 @@
 		//planetoid panel
 		//labels/description/etc
 		"FLAG Planetoid": //little planetoid flag in top right
-			" ",
+			"Planetoid",
 		"Goal":
 			"Mission",
 		"Difficulty: {DIFFICULTY}":
@@ -47,7 +47,7 @@
 
 		//settings
 		"FLAG Settings": //the little flag in the top left
-			" ",
+			"Einstellgn.",
 		"Settings":
 			"Einstellungen",
 		"Adjust Volume":
@@ -115,15 +115,15 @@
 		"Damned birds!!":
 			"Blöde Vögel!!",
 		"Curse these birds!!":
-			"Verfluchte Vögel!!",
+			"Verfluchte Vögel!!", ///TODO dindnt work
 		"It's a lot easier to climb with both my hands free...":
 			"Mit beiden Händen frei wäre es einfacher zu klettern...",
 		"EATING MY WORDS!!":
-			"",
+			"VERGISS ES!!", //TODO when does he say that?
 		"EAT THAT!!":
 			"FRESS DAS!!",
 		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
-			"Der Flugschreiber zeigt einen eingang in ein Raketensilo, nicht weit von hier entfernt. Lass mich dorthin gehen, um zu sehen, ob ich dort einen Ritt machen kann!",
+			"Der Flugschreiber zeigt einen eingang in ein Raketensilo, nicht weit von hier entfernt. Ich gehe besser dorthin, um zu sehen, ob ich dort einen Ritt machen kann!",
 		"What are these structures?":
 			"Was sind das für Gebilde?",
 		"WHOAAAAAAAA!!":
@@ -141,7 +141,7 @@
 		"That was my space yacht...":
 			"Das war meine Raumyacht...",
 		"Well, that's not very secure...":
-			"Nun das ist nicht gerade besonders sicher...",
+			"Nun, das ist nicht gerade besonders sicher...",
 		"I don't like the look, smell, or feel of this place... it's all squishy.":
 			"Mir gefällt das Aussehen, der Geruch und das Gefühl dieses Ortes nicht... alles ist matschig.",
 		"Ohh you UGLY, Cyclops!!":
@@ -149,117 +149,117 @@
 		"It's all fun and games, until someone loses an eye.":
 			"Alles Spaß und Spiel, bis jemand ein Auge verliert.",
 		"What's that racket??":
-			"Was ist das für ein Schläger??", //TODO when does he say that? does it make sesne
+			"Was ist das für ein Ding??",
 		"YIKES - a mobile meat grinder monstrosity!!":
 			"HUCH - ein mobiler monster Fleischwolf!!",
 		"TAKE THAT, you overgrown food processor!!":
-			"",
+			"NIMM DAS, du überwuchert Küchenmaschine!!",
 		"Jumping Jellybeans!!":
-			"",
+			"Ach Du heilige Makrele!!",
 		"I bet I'm past the worst monsters by now!":
-			"",
+			"Ich wette, ich bin jetzt an den schlimmsten Monstern vorbei!",
 		"Those jaws were snappin', and it's got me rappin'!":
-			"",
+			"Die Kiefer schnappen, und es bringt mich zum rappen!",
 		"Wish i had something to drive that would protect my noggin a bit...!":
-			"",
+			"Ich wünschte, ich hätte ein Fahrzeug, das meinen Kopf besser schützen würde...!",
 		"I need some mad hops - or a ride with some mad JETS!":
-			"",
+			"Entweder springe deutlich höher oder ich brauche JETS!",
 		"I think they're trying to tell me something...":
-			"",
+			"Ich denke, die versuchen mir etwas zu sagen...",
 		"For a moment I thought I would perish... Crazy Bob never perishes.":
-			"",
+			"Für einen Moment dachte ich, das wäre das Ende... Crazy Bob stribt nicht.",
 		"It's not completely wild out here...":
-			"",
+			"Es ist nicht ganz wild hier draußen...", //TODO when does he say that?
 		"Pinkle... Just like Lily":
-			"",
+			"Pinkett... Genau wie Lily",
 		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
-			"",
+			"Es fehlen nur ein paar Raketenteile und ich habe einen kompletten Blueprint!",
 		"Keep them snaps away from me!":
-			"",
+			"Lass deine Klauen von mir!",
 		"Let's see what this baby can do!":
-			"",
+			"Mal sehen, was dieses Baby kann!",
 		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
-			"",
+			"Mein Leben blitzte nur vor meinen Augen auf! Es war lang, aber nicht langweilig... würde ich mir wieder ansehen.",
 		"One freaky bipedal toaster down!":
-			"",
+			"Ein ausgeflippter laufender Toaster weniger!",
 		"Pink... purple... pinkle?!":
-			"",
+			"Pink... violett... pinkett?!",
 		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
-			"",
+			"Sieh dir diesen kleinen süßen Kerl an. Er sieht aus, als könnte er nützlich sein, um Ressourcen zu transportieren!",
 		"DING DING DING - The Ice Man prevails!!":
-			"",
+			"DING DING DING - der Eismann gewinnt!!",
 		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
-			"",
+			"Diese Blechhaufen sind mir nicht gewachsen. Hätte so viel schlimmer kommen können! Es ist ja nicht so, als hätten sie Flammenwerfer oder so...",
 		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
-			"",
+			"Dies sind die Teile der Rakete. Ich weiß das, weil sie aussehen wie Teile der Rakete!",
 		"Were those skeletons... screaming?!":
 			"Haben diese Skelette gerade... geschrien?!",
 		"What are those buildings...?":
-			"",
+			"Was sind das für Gebäude...?",
 		"What happened to these guys?!":
 			"Was ist den mit denen passiert?!",
 		"What weird beast has carved out these ice caves??":
-			"",
+			"Welche seltsame Bestie hat diese Eishöhlen gegraben?",
 		"Big lad, aren't ya!":
-			"Bist nen ganz grosser!",
+			"Bist nen ganz Großer!",
 		"Yum, eat it up!!":
-			"",
+			"Yum, fress das!!",
 		"Dang - How am I supposed to jump this ring of fire?!":
-			"",
+			"Verdammt - Wie soll ich denn über diesen Feuerring springen?!",
 		"Curse these feathered pests!!":
-			"",
+			"Verfluche diese gefiederten Ungeziefer",
 		"This would make for a good place to build and take off in a rocket!":
-			"",
+			"Das könnte ein guter Platz zum Bauen und Starten einer Rakete sein!",
 		"Guess I've got a treasure hunt on my hands!":
-			"",
+			"Ich glaube das wird eine Schnitzeljagd!",
 		"Got to find all those rocket parts to get off this rock!":
-			"",
+			"Ich muss alle Raketenteile finden, um von diesem Felsen zu entkommen!",
 		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
-			"",
+			"Ich liebe diesen Assembler. Verlasse niemals das Haus ohne ihn! Er ist alles was man wirklich brauchst.",
 		"GOT YA!":
-			"",
+			"HAB DICH!",
 		"I guess they were mining Aurium Alloy here...":
-			"",
+			"Ich schätze, sie haben hier die Aurium-Legierung abgebaut...",
 		"Here's a wholesome treat!":
-			"",
+			"Hier ist ein Leckerbissen!",
 		"Hey, did you get shot?!":
-			"",
+			"Hey, hat dich jemand erschossen?!",
 		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
-			"",
+			"Oh, willst du einen Faustkampf?! Mal sehen, was du drauf hast... Eismann gegen Eiswanze",
 		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
-			"",
+			"Wow, ich habe bezweifelt, ob ich das überhaupt könnte - wie nicht-Bob von mir!",
 		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
-			"",
+			"Ich dachte dieses Zeug auf dem Boden war Moos... oder ist das Alien Fledermausguano?! IEHH.",
 		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
-			"",
+			"Am besten suche ich wo meine Rettungskapsel abgestürzt ist. Vielleicht ist da was brauchbares drin",
 		"The Atomizer can't deal with Aurium Alloy, by its nature.":
-			"",
+			"Der Atomisierer kann von Natur aus nicht mit der Aurium-Legierung umgehen.",
 		"The Atomizer won't work on anything it deems alive or autonomous...":
-			"",
+			"Der Atomisierer funktioniert nicht mit Dingen die er für lebendig oder autonom hält",
 		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
-			"",
+			"Die nennen das eine Schutzvorrichtung. Ich nenne das eine nervige Kindersicherung",
 		"I got to get off this rock...":
-			"",
+			"Ich muss von diesen Felsen wegkommen...",
 		"A have a bad feeling about what might be guarding the Core...":
-			"",
+			"Ich habe ein schlechtes Gefühl dabei, was den Kern schützen könnte...",
 		"I'm going to make a BIG omelet!!":
-			"",
+			"Das wird ein großes Omelett!!",
 		"Could it be... Aurium Alloy?!":
-			"",
+			"Ist das eine.. Aurium Legierung?!",
 		"CHEW ON THIS!":
-			"",
+			"FRESS DAS!",
 		"I made it!":
 			"Geschafft!",
 		"Now, how do I start this thing...":
-			"",
+			"Ok, wie starte ich das ding...",
 		"Let's try this big red button!":
-			"",
+			"Lass mich den großen roten Knopf ausprobieren!",
 		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
-			"",
+			"Das ist der Richtige! Start in 5, 4, 3, 2, 1...",
 		"We have lift off, baby!":
-			"",
+			"Wir heben ab, Baby!",
 		"Whoo!":
-			"Wooo",
+			"Wuuuh!",
 		"Oh crap, what's that? No fuel?":
 			"Oh verdammt, was ist los? Kein Treibstoff?",
 		"Oh no! Oh no, no, no!":
@@ -267,12 +267,12 @@
 
 		//info terminals
 		//(got to collect the strings from each scene)
-		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._": //TODO doesnt work?
 			"__Seelen Stationen__ können jederzeit angesteuert werden indem du _herauszoomst und sie anklickst._",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
-			"",
+			"Diese Dummy Arbeiter Einheiten sind eine __ausgezeichnete Absicherung__.\n\nErstelle einfach einen und lasse ihn zurück. Sollte es zu einem Arbeitsunfall kommen wirst du _automatisch seine Kontrolle übernehmen_.",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
-			"Log #43547: \"Ich habe die letzte Fluchtrakete zerstört und ihre Teile über den Primoid verstreut, um zu verhindern, dass __Aurium__ sich über diese Welt hinaus ausbreitet...\n\nDie Orte sind auf dieser Karte markiert, aber sie sind gut bewacht - _Versuche es erst gar nicht!_\"",
+			"Eintrag #43547: \"Ich habe die letzte Fluchtrakete zerstört und ihre Teile über den Primoid verstreut, um zu verhindern, dass __Aurium__ sich über diese Welt hinaus ausbreitet...\n\nDie Orte sind auf dieser Karte markiert, aber sie sind gut bewacht - _Versuche es erst gar nicht!_\"",
 
 		//scene descriptions and goals
 
@@ -322,7 +322,7 @@
 		"Planium":
 			"Planium",
 		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
-			"Gestranded auf diesem trostlosen Planetoiden, musst du die gewundenen Tunnel und die zerklüftete Oberfläche auf der Suche nach einem Fluchtweg durchqueren. Aber sei vorsichtig - du bist vielleicht nicht alleine. In der nähe wichtigen Ressourcen befinden sich häufig Feinde!",
+			"Gestrandet auf diesem trostlosen Planetoiden, musst du die gewundenen Tunnel und die zerklüftete Oberfläche auf der Suche nach einem Fluchtweg durchqueren. Aber sei vorsichtig - du bist vielleicht nicht alleine. In der nähe wichtigen Ressourcen befinden sich häufig Feinde!",
 		"Get off this hunk of rock!":
 			"Verlasse den Brocken!",
 
@@ -346,7 +346,7 @@
 		"Wrangloid":
 			"Wrangloid",
 		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
-			"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner für eine Prämie. Vorsicht for dem Silverback, welcher sich von Grazern ernährt... und auch dir!",
+			"Sammle alle zahmen Grazer, welche einige der Planetoiden im Asteroidengürtel befallen haben. Koche sie im Brenner für eine Prämie. Vorsicht vor dem Silverback, welcher sich von Grazern ernährt... und auch dir!",
 		"Collect and cook all the Grazers. ":
 			"Sammle und koche alle Grazer für eine leckere Mahlzeit.",
 
@@ -454,7 +454,7 @@
 		//months
 		"January":
 			"Januar",
-		"Febuary":
+		"February":
 			"Februar",
 		"March":
 			"März",
@@ -537,6 +537,60 @@
 		"Right Trigger":
 			"Rechter Trigger",
 
+		//actions
+		"Move":
+			"Laufen",
+		"Aim":
+			"Zielen",
+		"Left":
+			"Links",
+		"Right":
+			"Rechts",
+		"Go Prone":
+			"Ducken",
+		"Jump":
+			"Springen",
+		"Atomize":
+			"Atomisieren",
+		"Assemble":
+			"Bauen",
+		"Fire":
+			"Schießen",
+		"Enter Vehicle":
+			"Fahrzeug Fahren",
+		"Leave Vehicle":
+			"Fahrzeug Verlassen",
+		"Pick up":
+			"Aufheben",
+		"Drop":
+			"Fallen Lassen",
+		"Put on back":
+			"Gegenstand Schultern",
+		"Take from back":
+			"Vom Rücken nehmen",
+		"Swap":
+			"Wechseln",
+		"Respawn":
+			"Körper Verlassen",
+		"Restart":
+			"Neustart",
+		"Pause":
+			"Pause",
+		"Menu":
+			"Menü",
+		"Select":
+			"Auswählen",
+		"Zoom":
+			"Zoomen",
+		"Zoom in":
+			"Hineinzoomen",
+		"Zoom out":
+			"Rauszoomen",
+		"Hold":
+			"Halte",
+		"Press":
+			"Drücke",
+
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
 			"Zum Neustart drücke {BUTTON}",
@@ -557,7 +611,7 @@
 		"SEE YOU LATER SPACE COWBOY":
 			"BIS SPÄTER SPACE COWBOY",
 		"CLOSING ALL THE PIXELS":
-			"SCHLIESSE ALLE PIXEL",
+			"SCHLIEßE ALLE PIXEL",
 
 		//engine messages
 		"Restarting":
@@ -649,7 +703,7 @@
 		"Scene Reset - Preloading Sounds":
 			"Starte Szene - Lade Sounds",
 		"Resetting Scene":
-			"Szenenreset",
+			"Szenen Reset",
 		"Preloading textures... {PERCENT}%":
 			"Lade Texturen... {PERCENT}%",
 		"Loading data":
@@ -709,7 +763,7 @@
 
 		//debug
 		"SHIFT + L to disable / enable this output":
-			"SHIFT + L zum Zeigen / Verstecken der Textausgabe",
+			"SHIFT + L zum Anzeigen / Verstecken der Textausgabe",
 		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
 			"LUA ERROR (Strg + F8 zum Anzeigen)",
 		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
@@ -725,7 +779,7 @@
 		"New Area":
 			"Neues Gebiet",
 		"Escape pod crash site":
-			"Rettugskapsel Absturtzstelle",
+			"Absturzstelle",
 		"Rocket Silo Location":
 			"Raketensilo",
 		"Rocket Parts":
@@ -741,7 +795,7 @@
 		"North Hub":
 			"Nord Basis",
 		"Cave Tunnels":
-			"",
+			"Höhlentunnel",
 		"Jungle Temple":
 			"Dschungel Tempel",
 		"West Metal Mine":
@@ -749,7 +803,7 @@
 		"East Metal Mine":
 			"Metallmine Ost",
 		"Surface Gauntlet":
-			"",
+			"Östliche Oberfläche",
 		"Mu-Ilaak Temple":
 			"Mu-Ilaak Tempel",
 		"Mu-Ilaak Tomb":
@@ -885,7 +939,7 @@
 		"Subscribe to Blueprints to receive them here {BUTTON}":
 			"Abboniere Blueprints und erhalte sie hier {BUTTON}",
 		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
-			"Aktiviere abbonierte Blueprints. Drücke {BUTTON} um workshop zu öffnen",
+			"Aktiviere abonnierte Blueprints. Drücke {BUTTON} um workshop zu öffnen",
 		"Steam Altar Do you recommend this?":
 			"Empfiehlst du diesen Blueprint?",
 		"Steam Altar No":
@@ -952,6 +1006,12 @@
 			"Neuer Blueprint!",
 		"Not enough resources":
 			"Night genug Resourcen",
+		// label above effect when player is scanning a blueprint
+    "Scanning":
+			"Analysiere",
+		// label above effect when player finished scanning a blueprint
+		"Completed!":
+			"Vollständig",
 		"Metals: {NUMBER}kg":
 			"Metall: {NUMBER}kg",
 		"Carbon: {NUMBER}kg":
@@ -962,69 +1022,69 @@
 			"Wasser: {NUMBER}kg",
 
 		//blueprint menu categories (translate these to plural or a category of things)
-		"Partial":
+		"CATEGORY Partial":
 			"Unvollständig",
-		"Workshop":
+		"CATEGORY Workshop":
 			"Workshop",
-		"1T":
+		"CATEGORY 1T":
 			"Blöcke",
-		"Aurium":
+		"CATEGORY Aurium":
 			"Aurium",
-		"Bomb":
+		"CATEGORY Bomb":
 			"Bomben",
-		"Bot":
+		"CATEGORY Bot":
 			"Roboter",
-		"Cloud":
+		"CATEGORY Cloud":
 			"Wolken",
-		"Coalition":
+		"CATEGORY Coalition":
 			"Koalition",
-		"Component":
+		"CATEGORY Component":
 			"Bauteile",
-		"Construction":
+		"CATEGORY Construction":
 			"Konstruktion",
-		"Fauna":
+		"CATEGORY Fauna":
 			"Fauna",
-		"Flora":
+		"CATEGORY Flora":
 			"Flora",
-		"Gear":
-			"",
-		"Golem":
-			"Golem",
-		"Grenade":
-			"Granaten",
-		"Junk":
-			"Schrott",
-		"Lamp":
-			"Lampen",
-		"Loot":
-			"Beute",
-		"Lump":
-			"",
-		"Machine":
-			"Machinen",
-		"Pioneer":
-			"Pioneere",
-		"Prototype":
-			"Prototypen",
-		"Reactor":
-			"Reaktoren",
-		"Rover":
-			"Rover",
-		"Ship":
-			"Raumschiffe",
-		"Sign":
-			"Schilder",
-		"Structure":
-			"Gebäude",
-		"Tank":
-			"Panzer",
-		"Tool":
+		"CATEGORY Gear":
 			"Ausrüstung",
-		"Trap":
+		"CATEGORY Golem":
+			"Golem",
+		"CATEGORY Grenade":
+			"Granaten",
+		"CATEGORY Junk":
+			"Schrott",
+		"CATEGORY Lamp":
+			"Lampen",
+		"CATEGORY Loot":
+			"Beute",
+		"CATEGORY Lump":
+			"Klumpen",
+		"CATEGORY Machine":
+			"Machinen",
+		"CATEGORY Pioneer":
+			"Pioneere",
+		"CATEGORY Prototype":
+			"Prototypen",
+		"CATEGORY Reactor":
+			"Reaktoren",
+		"CATEGORY Rover":
+			"Rover",
+		"CATEGORY Ship":
+			"Raumschiffe",
+		"CATEGORY Sign":
+			"Schilder",
+		"CATEGORY Structure":
+			"Gebäude",
+		"CATEGORY Tank":
+			"Panzer",
+		"CATEGORY Tool":
+			"Werkzeuge",
+		"CATEGORY Trap":
 			"Fallen",
-		"Trigger":
+		"CATEGORY Trigger":
 			"Trigger",
-		"Weapon":
+		"CATEGORY Weapon":
 			"Waffen",
 
 		//blueprint names for blueprint menu and appearing over vehicles and tools
@@ -1038,17 +1098,17 @@
 		"1T Sandstone":
 			"Sandstein Block",
 		"Aurium Crystal":
-			"",
+			"Aurium Kristall",
 		"Aurium Vase Brown":
-			"",
+			"Braune Aurium Vase",
 		"Aurium Vase Large 1":
-			"",
+			"Große Aurium Vase",
 		"Aurium Vase Large 2":
-			"",
+			"Große Aurium Vase 2",
 		"Aurium Vase Large 3":
-			"",
+			"Große Aurium Vase 3",
 		"Aurium Vase Small":
-			"",
+			"Kleine Aurium Vase",
 		"Bomb Classic":
 			"Klassiche Bombe",
 		"Bomb Large":
@@ -1056,77 +1116,77 @@
 		"Bomb":
 			"Bombe",
 		"Bot Acid":
-			"",
+			"Säure Roboter",
 		"Bot Drone Defense":
-			"",
+			"Verteidigungsdrohne",
 		"Bot Flip":
-			"",
+			"Flip Bot",
 		"Bot Flying Worm":
-			"",
+			"Flugwurm Roboter",
 		"Bot Frosty":
-			"",
+			"Frosty",
 		"Bot Guard Box":
-			"",
+			"Verteidigungs Box",
 		"Bot Imperatus":
-			"",
+			"Imperatus Roboter",
 		"Bot Jumper Box":
-			"",
+			"Spring Box",
 		"Bot Mecha":
-			"",
+			"Mech",
 		"Bot Phoenix":
-			"",
+			"Phoenix Roboter",
 		"Bot Sentry":
-			"",
+			"Laufroboter",
 		"Bot Spot":
-			"",
+			"Spot",
 		"Bot Tank":
-			"",
+			"Roboter Panzer",
 		"Bot Temperature Drone":
-			"",
+			"Temperatur Drohne",
 		"Bot Titan Golem":
-			"",
+			"Titan Golem",
 		"Bot Vendor":
-			"",
+			"Verkäufer Bot",
 		"Bot Wandering":
-			"",
+			"Bot Wandering",
 		"Bot Worm":
 			"Wurm Roboter",
 		"Cloud Acid":
-			"",
+			"Säurewolke",
 		"Coalition Ship":
-			"",
+			"Coalitions Shiff",
 		"Coalition Turret":
-			"",
+			"Coalitions Geschütz",
 		"Component Balancer":
-			"",
+			"Balance Komponente",
 		"Component Balloon":
-			"",
+			"Ballon",
 		"Component Battery 100A":
-			"",
+			"Batterie 100A",
 		"Component Battery 10A":
-			"",
+			"Batterie 10A",
 		"Component Capacitor":
-			"",
+			"Kondensator",
 		"Component Explosive Charge":
-			"",
+			"Sprengladung",
 		"Component Minigun":
-			"",
+			"Minigun",
 		"Component Seat Boosted":
 			"Raketen Sitz",
 		"Component Seat":
 			"Sitz",
 		"Component Thruster":
-			"",
+			"Triebwerk",
 		"Component Wheel":
 			"Rad",
 		"Construction Concrete Support":
-			"",
+			"Betonpfeiler",
 		"Construction Concrete Wall":
-			"",
+			"Betonwand",
 		"Construction Concrete Window":
-			"",
+			"Betonfenster",
 		"Construction Elevator":
-			"",
+			"Aufzug",
 		"Construction Plank Big":
 			"Großes Brett",
 		"Construction Plank Slim":
@@ -1140,147 +1200,147 @@
 		"Fauna Animal Nest":
 			"Nest",
 		"Fauna Bird Hostile":
-			"Tötlicher Vogel",
+			"Tödlicher Vogel",
 		"Fauna Bird Neutral":
 			"Vogel",
 		"Fauna Bomb Bug":
-			"",
+			"Bomben Käfer",
 		"Fauna Crab Acid":
-			"",
+			"Säure Krabbe",
 		"Fauna Crab Aurium":
-			"",
+			"Aurium Krabbe",
 		"Fauna Crab Balloon":
-			"",
+			"Ballon Krabbe",
 		"Fauna Crab Fire":
-			"",
+			"Feuer Krabbe",
 		"Fauna Crab":
-			"",
+			"Krabbe",
 		"Fauna Egg Bird":
-			"Vogel Ei",
+			"Vogelei",
 		"Fauna Egg":
 			"Ei",
 		"Fauna Grazer":
-			"",
+			"Grazer",
 		"Fauna Ice Bird":
-			"",
+			"Eisvogel",
 		"Fauna Ice Bug":
-			"",
+			"Eis Käfer",
 		"Fauna Knuckles Boss":
-			"",
+			"Knuckles Boss",
 		"Fauna Knuckles":
-			"",
+			"Knuckles",
 		"Fauna Mega Worm Long":
-			"",
+			"Riesenwurm Lang",
 		"Fauna Mega Worm":
-			"",
+			"Riesenwurm",
 		"Fauna Roly Poly":
-			"",
+			"Roly Poly",
 		"Fauna Silverback":
-			"",
+			"Silberrücken",
 		"Fauna Skeleton Armored":
-			"",
+			"Gepanzertes Skelett",
 		"Fauna Snapjaw":
-			"",
+			"Schnapppflanze",
 		"Fauna Tentacle Eye":
-			"",
+			"Tentakel Auge",
 		"Fauna Tentacle Launcher":
-			"",
+			"Tentakel Werfer",
 		"Fauna Tentacle Old":
-			"",
+			"Tentakel Alt",
 		"Fauna Tentacle":
-			"",
+			"Tentakel",
 		"Fauna Zombie":
 			"Zombie",
 		"Flora Aloe Plant":
-			"",
+			"Aloe",
 		"Flora Broccoli Plant":
-			"",
+			"Brokkoli Pflanze",
 		"Flora Clone Plant":
-			"",
+			"Klon Pflanze",
 		"Flora Glow Plant":
-			"",
+			"Leuchtpflanze",
 		"Flora Liana End":
-			"",
+			"Lianenende",
 		"Flora Liana":
-			"",
+			"Liane",
 		"Flora Pop Plant":
-			"",
+			"Pop Pflanze",
 		"Flora Vines":
-			"",
+			"Reben",
 		"Gear Chest Plate":
-			"",
+			"Brustpanzer",
 		"Gear Crown":
-			"",
+			"Krone",
 		"Gear Helmet":
-			"",
+			"Helm",
 		"Gear Leg BG Armor":
-			"",
+			"Beinschutz Hiten",
 		"Gear Leg FG Armor":
-			"",
+			"Beinschutz Vorne",
 		"Gear Small Aurium Obj":
-			"",
+			"Kleines Aurium Zahnrad",
 		"Gear Small Aurium":
-			"",
+			"Kleines Zahnrad",
 		"Gear Space Helmet":
-			"",
+			"Weltraum Helm",
 		"Golem Carbon":
-			"",
+			"Kohlenstoff Golem",
 		"Golem Ice":
-			"",
+			"Eis Golem",
 		"Golem Metal":
-			"",
+			"Metall Golem",
 		"Golem Silicon":
-			"",
+			"Silizium Golem",
 		"Grenade Bounce":
-			"",
+			"Springgranate",
 		"Grenade Cold":
 			"Frostgranate",
 		"Grenade Impact":
-			"",
+			"Granate",
 		"Grenade Mine":
 			"Mine",
 		"Grenade Rope":
-			"",
+			"Seil Bombe",
 		"Grenade Simple":
-			"",
+			"Einfache Granate",
 		"Grenade Spikes":
-			"",
+			"Stachel Granate",
 		"Junk Aurium Boulder 1":
-			"",
+			"Aurium Felsblock 1",
 		"Junk Aurium Boulder 2":
-			"",
+			"Aurium Felsblock 2",
 		"Junk Block Sandstone Long":
-			"",
+			"Langer Sandstein Block",
 		"Junk Block Sandstone":
-			"",
+			"Sandstein Block",
 		"Junk Bones":
-			"",
+			"Knochen",
 		"Junk Boulder Big":
-			"",
+			"Großer Stein",
 		"Junk Boulder Huge":
-			"",
+			"Riesiger Stein",
 		"Junk Boulder Sandstone Huge":
-			"",
+			"Großer Sandstein",
 		"Junk Boulder Sandstone":
-			"",
+			"Sandstein",
 		"Junk Boulder Small":
-			"",
+			"Kleiner Stein",
 		"Junk Boulder":
-			"",
+			"Stein",
 		"Junk Brick":
-			"",
+			"Ziegelstein",
 		"Junk Cage":
-			"",
+			"Metallgitter",
 		"Junk Chain":
 			"Kette",
 		"Junk Crate A":
 			"Kiste A",
 		"Junk Crate Aurium Alloy Big":
-			"",
+			"Große Aurium Kiste",
 		"Junk Crate Aurium Alloy Small":
-			"",
+			"Kleine Aurium Kiste",
 		"Junk Crate Aurium Alloy":
-			"",
+			"Aurium Kiste",
 		"Junk Crate B":
 			"Kiste B",
 		"Junk Crate Cardboard":
@@ -1288,7 +1348,7 @@
 		"Junk Crate Ice 1":
 			"Eis Block",
 		"Junk Crate Wooden 1":
-			"Holzkiste 1",
+			"Holzkiste",
 		"Junk Crate Wooden 2":
 			"Holzkiste 2",
 		"Junk Crate Wooden Small 2":
@@ -1300,17 +1360,17 @@
 		"Junk Flight Recorder":
 			"Flugschreiber",
 		"Junk Fuel Tank Light":
-			"",
+			"Kleiner Treibstofftank",
 		"Junk Fuel Tank":
-			"Gas Tank",
+			"Treibstofftank",
 		"Junk Girder":
-			"",
+			"Stahlträger",
 		"Junk Ice Block":
 			"Eisblock",
 		"Junk Ice Rock":
 			"Eisbrocken",
 		"Junk Ice Stalactite":
-			"",
+			"Stalaktit",
 		"Junk Ice Wall Small":
 			"Kleine Eis Wand",
 		"Junk Ice Wall":
@@ -1328,13 +1388,13 @@
 		"Junk Rock":
 			"Stein",
 		"Junk Rod 2":
-			"",
+			"Lange Stange",
 		"Junk Rod Metal":
-			"",
+			"Metall Stange",
 		"Junk Rod":
-			"",
+			"Stange",
 		"Junk Roly Poly Dung":
-			"",
+			"Roly Poly Mist",
 		"Junk Ship Part A":
 			"Schiffteil A",
 		"Junk Ship Part B":
@@ -1350,7 +1410,7 @@
 		"Junk Snow Ball":
 			"Schneeball",
 		"Junk Tank Wreck Imperatus":
-			"",
+			"Imperatus Panzer Wrack",
 		"Junk Vase Big":
 			"Große Vase",
 		"Junk Vase Oil":
@@ -1358,89 +1418,89 @@
 		"Junk Vase":
 			"Vase",
 		"Lamp Chunky":
-			"",
+			"Große Lampe",
 		"Lamp Hanging Alien":
-			"",
+			"Alien Hängelampe",
 		"Lamp Hanging":
-			"",
+			"Hängelampe",
 		"Lamp Mounted":
-			"",
+			"Wandlampe",
 		"Lamp Wall A":
-			"",
+			"Deckenlampe",
 		"Loot Blueprint Chest":
-			"",
+			"Blueprint Kiste",
 		"Loot Blueprint":
-			"",
+			"Blueprint",
 		"Loot Chest":
-			"",
+			"Kiste",
 		"Loot Dispenser":
-			"",
+			"Beute Spender",
 		"Loot Orb Golden":
-			"",
+			"Goldenes Orb",
 		"Loot Orb":
-			"",
+			"Orb",
 		"Loot Weapon Container Tier 1":
-			"",
+			"Waffenbehälter Level 1",
 		"Loot Weapon Container Tier 2":
-			"",
+			"Waffenbehälter Level 2",
 		"Loot Weapon Container Tier 3":
-			"",
+			"Waffenbehälter Level 3",
 		"Loot Workshop Box":
-			"",
+			"Workshop Kiste",
 		"Lump Aurium A":
-			"",
+			"Aurium Klumpen A",
 		"Lump Aurium B":
-			"",
+			"Aurium Klumpen B",
 		"Lump Aurium C":
-			"",
+			"Aurium Klumpen C",
 		"Lump Carbon A":
-			"",
+			"Kohlenstoff Klumpen A",
 		"Lump Carbon B":
-			"",
+			"Kohlenstoff Klumpen B",
 		"Lump Carbon C":
-			"",
+			"Kohlenstoff Klumpen C",
 		"Lump Metals A":
-			"",
+			"Metall Klumpen A",
 		"Lump Metals B":
-			"",
+			"Metall Klumpen B",
 		"Lump Metals C":
-			"",
+			"Metall Klumpen C",
 		"Lump Metals D":
-			"",
+			"Metall Klumpen D",
 		"Lump Silicon A":
-			"",
+			"Silizium Klumpen A",
 		"Lump Silicon B":
-			"",
+			"Silizium Klumpen B",
 		"Lump Silicon C":
-			"",
+			"Silizium Klumpen C",
 		"Lump Silicon D":
-			"",
+			"Silizium Klumpen D",
 		"Lump Water A":
-			"",
+			"Eiswürfel A",
 		"Lump Water B":
-			"",
+			"Eiswürfel B",
 		"Machine Camera Aurium":
-			"",
+			"Aurium Kamera",
 		"Machine Catapult":
-			"",
+			"Katapult",
 		"Machine Dropper":
-			"",
+			"Werfer",
 		"Machine Laser Emitter":
-			"",
+			"Laser",
 		"Machine Proximity Sensor":
-			"",
+			"Bewegungssensor",
 		"Machine Sentry Camera":
-			"",
+			"Geschütz Kamera",
 		"Machine Sentry Gun":
-			"",
+			"Geschütz",
 		"Machine Space Teleporter":
-			"",
+			"Weltraum Teleporter",
 		"Machine Switch":
-			"",
+			"Schaltterminal",
 		"Machine Terminal Info":
-			"",
+			"Info Terminal",
 		"Machine Terminal Sensor":
-			"",
+			"Terminal",
 		"Pioneer Crazy Bob":
 			"Crazy Bob",
 		"Pioneer Imperatus":
@@ -1454,20 +1514,16 @@
 		"Pioneer Starman":
 			"Starman",
 		"Pioneer Test Dummy":
-			"",
+			"Test Dummy",
 		"Pioneer Wyatt":
-			"",
+			"Wyatt",
 		"Prototype Bot Mr Tentacles":
-			"",
+			"Mr Tentakel",
 		"Prototype Bot Walker Big":
 			"",
 		"Prototype Bot Walker":
 			"",
-		"Prototype Drone Defense":
-			"",
 		"Prototype Elevator":
-			"",
-		"Prototype Fauna Bomb Bug":
 			"",
 		"Prototype Homing Missile":
 			"",
@@ -1478,33 +1534,33 @@
 		"Prototype Mecha Rifle":
 			"",
 		"Prototype Nest Bees":
-			"",
+			"Bienennest",
 		"Prototype Nest Bird Hostile":
-			"",
+			"Vogel Nest Tödlich",
 		"Prototype Nest Bird":
-			"",
+			"Vogel Nest",
 		"Prototype Rifle Blast":
 			"",
 		"Prototype Rock Trap Rock":
-			"",
+			"Steinfalle",
 		"Prototype Rover Car":
-			"",
+			"Auto",
 		"Prototype SAM Site":
-			"",
+			"Boden-Luft-Raketenwerfer",
 		"Prototype Satellite Discovery":
-			"",
+			"Entdeckungs Satellit",
 		"Prototype Snowboard Mk2":
-			"",
+			"Snowboard",
 		"Prototype Structure Door Trap Sm":
 			"",
 		"Prototype Structure Door Trap":
 			"",
 		"Prototype Tool Crossbow":
-			"",
+			"Armbrust",
 		"Prototype Tool Gravity Gun":
-			"",
+			"Gravity Gun",
 		"Prototype Tool Teleport Device":
-			"",
+			"Teleporter",
 		"Rover Carbon":
 			"Carbon-Rover",
 		"Rover Carrier Hover":
@@ -1520,7 +1576,7 @@
 		"Rover Minimal Jets":
 			"Einfacher Rover",
 		"Rover Mining Cart":
-			"",
+			"Bergbau Wagen",
 		"Rover Quad":
 			"Quad",
 		"Rover Scissor":
@@ -1530,11 +1586,11 @@
 		"Ship Big":
 			"Frachtschiff",
 		"Ship Drop Rocket":
-			"",
+			"Frachtrakete",
 		"Ship Landing Seat":
-			"",
+			"Schiff Sitz",
 		"Ship Landing":
-			"",
+			"Rettungskapsel",
 		"Ship Mini":
 			"Mini Schiff",
 		"Ship Rocket":
@@ -1542,13 +1598,13 @@
 		"Sign Not Throw":
 			"Nicht Werfen Schild",
 		"Sign Shopping":
-			"",
+			"Ladenschild",
 		"Sign Steam":
-			"",
+			"Steam Schild",
 		"Sign Wooden Compound Logo":
-			"",
+			"Holzschild",
 		"Snowboard":
-			"",
+			"Snowboard",
 		"Structure Assembly Lock":
 			"",
 		"Structure Bridge Draw Long":
@@ -1608,41 +1664,41 @@
 		"Structure Moving Platform":
 			"",
 		"Structure Pin World":
-			"",
+			"Welt Pin",
 		"Structure Power Core":
-			"",
+			"Leistungskern",
 		"Structure Resource Filler":
-			"",
+			"Ressourcen Füller",
 		"Structure Respawn Station":
-			"",
+			"Seelen Station",
 		"Structure Rope":
-			"",
+			"Seil",
 		"Structure Shop Manager":
-			"",
+			"Laden Manager",
 		"Structure Shop Pioneers":
-			"",
+			"Pioneer Laden",
 		"Structure Steam Altar":
-			"",
+			"Steam Altar",
 		"Structure Switch Sandstone":
-			"",
+			"Sandstein Knopf",
 		"Structure Teleporter":
-			"",
+			"Teleporter",
 		"Structure Trap Door 10m":
-			"",
+			"10m Falltür",
 		"Structure Trap Door Long":
-			"",
+			"Große Falltür",
 		"Structure Trap Door Metal":
-			"",
+			"Metall Falltür",
 		"Structure Trap Door Sandstone":
-			"",
+			"Sandstein Falltür",
 		"Tank Coalition":
 			"Koalitions Panzer",
 		"Tool Balloon Gun":
-			"Ballon Krabbe",
+			"Ballon Pistole",
 		"Tool Bomb Crab":
 			"Bomben Krabbe",
 		"Tool Glow Stick":
-			"",
+			"Leuchtstab",
 		"Tool Grappling Hook Basic":
 			"Enterhaken",
 		"Tool Hack Gun":
@@ -1662,27 +1718,27 @@
 		"Tool Rope":
 			"Seil",
 		"Tool Shield Metal":
-			"Metall Schild",
+			"Metallschild",
 		"Tool Spelunker Rope":
-			"",
+			"Spelunkerseil",
 		"Tool Tether":
-			"",
+			"Halteseil",
 		"Tool Welder":
 			"Schweißgerät",
 		"Trap Claw":
-			"Klaue",
+			"Klauen Falle",
 		"Trap Dart":
-			"",
+			"Dart Falle",
 		"Trap Flamethrower Aurium":
-			"",
+			"Aurium Flammenwerfer Falle",
 		"Trap Flamethrower":
 			"Flammenwerfer Falle",
 		"Trap Grinder Small":
-			"",
+			"Kleine Schleiffalle",
 		"Trap Grinder":
-			"",
+			"Schleiffalle",
 		"Trap Ice":
-			"",
+			"Eisfalle",
 		"Trap Spring Mine":
 			"Sprung Mine",
 		"Weapon Assault Rifle":
