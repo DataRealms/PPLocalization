@@ -267,7 +267,7 @@
 
 		//info terminals
 		//(got to collect the strings from each scene)
-		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._\n\nBeware - you will _lose your current body_ when you do!":
 			"",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"",
@@ -589,6 +589,20 @@
 		"Hold":
 			"",
 		"Press":
+			"",
+		"Press down to use climbing mode":
+			"",
+		"Print backup body":
+			"",
+		"Move and aim":
+			"",
+
+		//blank planetoid
+		"Make your own planetoids and blueprints using the in-game editor.":
+			"",
+		"Press F2 to enter edit mode.":
+			"",
+		"Use the teleporter to get back into the asteroid belt.":
 			"",
 
 		//appearing on screen on game over
@@ -1019,6 +1033,8 @@
 		"Silicon: {NUMBER}kg":
 			"",
 		"Water: {NUMBER}kg":
+			"",
+		"Cancel":
 			"",
 
 		//blueprint menu categories (translate these to plural)

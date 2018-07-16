@@ -267,8 +267,8 @@
 
 		//info terminals
 		//(got to collect the strings from each scene)
-		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._": //TODO doesnt work?
-			"__Seelen Stationen__ können jederzeit angesteuert werden indem du _herauszoomst und sie anklickst._",
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._\n\nBeware - you will _lose your current body_ when you do!":
+			"__Seelen Stationen__ können jederzeit angesteuert werden indem du _herauszoomst und sie anklickst._\n\nVorsicht! Du _verlierst dabei deinen jetzigen Körper_!",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"Diese Dummy Arbeiter Einheiten sind eine __ausgezeichnete Absicherung__.\n\nErstelle einfach einen und lasse ihn zurück. Sollte es zu einem Arbeitsunfall kommen wirst du _automatisch seine Kontrolle übernehmen_.",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
@@ -465,7 +465,7 @@
 		"June":
 			"Juni",
 		"July":
-			"July",
+			"Juli",
 		"August":
 			"August",
 		"September":
@@ -590,6 +590,20 @@
 			"Halte",
 		"Press":
 			"Drücke",
+		"Press down to use climbing mode":
+			"Drücke runter um Klettermodus zu aktivieren",
+		"Print backup body":
+			"Konstruiere Sicherungskopie",
+		"Move and aim":
+			"Laufen und Zielen",
+
+		//blank planetoid
+		"Make your own planetoids and blueprints using the in-game editor.":
+			"Erstelle deine eigen Planetoiden mit dem ingame Editor. Drücke F2 um den Entwickler Modus zu benutzen",
+		"Press F2 to enter edit mode.":
+			"Drücke F2 um den Entwickler Modus zu benutzen",
+		"Use the teleporter to get back into the asteroid belt.":
+			"Benutze den teleport um zurück zum Asteroidengürtel zu gelangen",
 
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
@@ -1020,6 +1034,8 @@
 			"Silizium: {NUMBER}kg",
 		"Water: {NUMBER}kg":
 			"Wasser: {NUMBER}kg",
+		"Cancel":
+			"Schließen",
 
 		//blueprint menu categories (translate these to plural or a category of things)
 		"CATEGORY Partial":
@@ -1154,9 +1170,9 @@
 		"Cloud Acid":
 			"Säurewolke",
 		"Coalition Ship":
-			"Coalitions Shiff",
+			"Koalitions Schiff",
 		"Coalition Turret":
-			"Coalitions Geschütz",
+			"Koalitions Geschütz",
 		"Component Balancer":
 			"Balance Komponente",
 		"Component Balloon":

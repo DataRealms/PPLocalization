@@ -33,7 +33,7 @@
 		//planetoid panel
 		//labels/description/etc
 		"FLAG Planetoid":
-			"Планетоид",		
+			"Планетоид",
 		"Goal":
 			"Цель",
 		"Difficulty: {DIFFICULTY}":
@@ -41,11 +41,11 @@
 		"Time: {TIME_ESTIMATE}":
 			"Время: {TIME_ESTIMATE}",
 		"ABUI By {AUTHOR}":
-			"Автор {AUTHOR}",			
+			"Автор {AUTHOR}",
 
 		//settings
 		"FLAG Settings": //the little flag in the top left
-			"Настройки",		
+			"Настройки",
 		"Settings":
 			"Настройки",
 		"Adjust Volume":
@@ -265,7 +265,7 @@
 
 		//info terminals
 		//(got to collect the strings from each scene)
-		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._\n\nBeware - you will _lose your current body_ when you do!":
 			"В любой момент можно \"переместиться\" к __Станции Восстановления__ _отдалив обзор и кликнув на иконку станции._",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"Из этих рабочих-манекенов получаются отличные __Запасные Тела__.\n\n Просто _Соберите_ одного из них и бросьте, в случае смертельного инцидента вас _переместит_ автоматически. ",
@@ -359,10 +359,10 @@
 		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
 			"Это пример планетоида. Он может использоваться как шаблон для создания уровня. У него проставлен тэг \"Mappable\" чтобы он был виден в Поясе астероидов",
 		"Reach the teleporter to get back into space.":
-			"Доберитесь до телепорта чтобы вернуться в космос.",			
+			"Доберитесь до телепорта чтобы вернуться в космос.",
 
 		//modal stuff
-		//(follows the format for each modal ID: {ID TITLE}, {ID YES}, {ID NO})
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
 
 		"{QUIT TITLE}":
 			"Выход",
@@ -451,7 +451,7 @@
 		//months
 		"January":
 			"января",
-		"Febuary":
+		"February":
 			"февраля",
 		"March":
 			"марта",
@@ -589,6 +589,21 @@
 			"Удерживайте",
 		"Press":
 			"Нажмите",
+		"Press down to use climbing mode":
+			"",
+		"Print backup body":
+			"",
+		"Move and aim":
+			"",
+
+		//blank planetoid
+		"Make your own planetoids and blueprints using the in-game editor.":
+			"",
+		"Press F2 to enter edit mode.":
+			"",
+		"Use the teleporter to get back into the asteroid belt.":
+			"",
+
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
 			"Нажмите {BUTTON} для перезапуска",
@@ -1014,6 +1029,8 @@
 			"Кремний: {NUMBER}кг",
 		"Water: {NUMBER}kg":
 			"Вода: {NUMBER}кг",
+		"Cancel":
+			"",
 
 		//blueprint menu categories (translate these to plural)
 		"CATEGORY Partial":

@@ -260,7 +260,7 @@
 
 		//info terminals
 		//(got to collect the strings from each scene)
-		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._":
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._\n\nBeware - you will _lose your current body_ when you do!":
 			"__Statiile de Scanteiere__ pot fi mereu \"scanteiate\" prin micsorarea ecranului si apasand iconita lui.",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"Aceste unitati de marionete lucratoare fac niste _Corpuri de Rezerva_ excelente. \n\nDoar _Asambleaza_ una si las-o in urma; O vei _Scanteia_ automat in cazul unor accidente de lucru.",
@@ -529,6 +529,74 @@
 			"(Inapoi)",
 		"Right Trigger":
 			"Trigger Drept",
+
+		//actions
+		"Move":
+			"",
+		"Aim":
+			"",
+		"Left":
+			"",
+		"Right":
+			"",
+		"Go Prone":
+			"",
+		"Jump":
+			"",
+		"Atomize":
+			"",
+		"Assemble":
+			"",
+		"Fire":
+			"",
+		"Enter Vehicle":
+			"",
+		"Leave Vehicle":
+			"",
+		"Pick up":
+			"",
+		"Drop":
+			"",
+		"Put on back":
+			"",
+		"Take from back":
+			"",
+		"Swap":
+			"",
+		"Respawn":
+			"",
+		"Restart":
+			"",
+		"Pause":
+			"",
+		"Menu":
+			"",
+		"Select":
+			"",
+		"Zoom":
+			"",
+		"Zoom in":
+			"",
+		"Zoom out":
+			"",
+		"Hold":
+			"",
+		"Press":
+			"",
+		"Press down to use climbing mode":
+			"",
+		"Print backup body":
+			"",
+		"Move and aim":
+			"",
+
+		//blank planetoid
+		"Make your own planetoids and blueprints using the in-game editor.":
+			"",
+		"Press F2 to enter edit mode.":
+			"",
+		"Use the teleporter to get back into the asteroid belt.":
+			"",
 
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
@@ -1075,6 +1143,8 @@
 			"Silicon: {NUMBER}kg",
 		"Water: {NUMBER}kg":
 			"Apa: {NUMBER}kg",
+		"Cancel":
+			"",
 
 		//blueprint menu categories (translate these to plural)
 		"CATEGORY Partial":
