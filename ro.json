@@ -12,6 +12,9 @@
 			"Te vei impiedica de pietre, iti vei pierde cateva member si iti vor fi furate lucrurile atunci cand fugi de terifiantii inamici care te vor face sa uiti ca vei ajunge in urmatoarea capcana. Gandeste-te la alte solutii creative pentru provocarile aruncate spre tine, sau murdareste-ti mainile si construieste-ti proprii tai Planetoizi in editor care sunt toate incluse in editia standard, deasemenea. Rade de ceilalti care incearca sa supravietuiasca in macelul tau construit cu grija. ",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
 			"Daca alegi sa cumperi Editia Contribuitorului astazi, vei primi deasemenea acces la oficialul server de Discord al Comunitatii de Contribuitori, unde poti colabora si impartasi continut cu oameni creativi si deschisi, si sa vorbesti direct cu dezvoltatorii jocului.",
+		//short description, it can not be longer than the english one
+		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
+			"",
 		//game title description
 		"Now Includes All Editors":
 			"Acum include toate Editiile",
@@ -745,6 +748,64 @@
 		//version
 		"RELEASE BUILD {NUMBER}":
 			"Versiune {NUMBER}",
+
+		//drag and drop file types
+		"DRAG FILE":
+			"",
+		"Unsupported file type":
+			"",
+		"Blueprint":
+			"",
+		"Scene":
+			"",
+		"Scene fragment":
+			"",
+		"Particle system":
+			"",
+		"Material particle system":
+			"",
+		"Texture":
+			"",
+		"Audio":
+			"",
+		"Unknown":
+			"",
+
+		//drag and drop
+		"NO TARGET HERE (file(s) will be put in library)":
+			"",
+		"Add to activity":
+			"",
+		"Spawn here":
+			"",
+		"Load scene":
+			"",
+		"Insert scene fragment":
+			"",
+		"Create terrain object":
+			"",
+		"Copy to audio library":
+			"",
+		"Copy to particle system library":
+			"",
+		"Copy to material particle system library":
+			"",
+		"Copy to blueprint library":
+			"",
+		"Copy to blueprint library - current scene":
+			"",
+		"Copy to scene library":
+			"",
+		"Copy to scene fragment library":
+			"",
+		"Copy to texture library":
+			"",
+		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW MO":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW PS":
+			"",
 
 		//loading screen
 		"WORK IN PROGRESS":

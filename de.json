@@ -16,6 +16,9 @@
 			"Du wirst über Felsen stolpern, Gliedmaßen verlieren und deine Ausrüstung gestohlen bekommen, während du vor furchterregenden Feinden fliehst, die dich direkt in die nächste Falle tappen lassen. Erstelle deine eigenen kreative Lösungen für die Herausforderungen, die auf dich zukommen, oder mach dir die Hände schmutzig und baue deine eigenen Planetoiden in den Editoren, die jetzt alle in der Standard Edition enthalten sind. Lache, während andere versuchen, dein sorgfältig konstruiertes Gemetzel zu überleben!",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
 			"Wenn Du dich für den Kauf der Contributor Edition entscheidest, erhältst Du zusätzlich Zugriff auf den offiziellen Contributor Community Discord Server, auf dem Du mit anderen kreativen Spielern zusammenarbeiten und Inhalte austauschen kannst und direkt mit den Entwicklern chatten kannst.",
+		//short description, it can not be longer than the english one
+		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
+			"Erforsche tiefe kreisförmige Welten in diesem Physicsvania mit [b]Couch Co-Op[/b] Kampf, Crafting und verrückten physics fails! Realisiere deine eigenen Spielideen mit der mächtigen Engine und den integrierten Entwicklerumgebung. Jeder Planetoid ist ein eigener Spielmodus, den du bearbeiten und teilen kannst!",
 		//game title description
 		"Now Includes All Editors":
 			"Jetzt mit allen Editoren",
@@ -599,11 +602,11 @@
 
 		//blank planetoid
 		"Make your own planetoids and blueprints using the in-game editor.":
-			"Erstelle deine eigen Planetoiden mit dem ingame Editor. Drücke F2 um den Entwickler Modus zu benutzen",
+			"Erstelle deine eigen Planetoiden mit dem ingame Editor",
 		"Press F2 to enter edit mode.":
 			"Drücke F2 um den Entwickler Modus zu benutzen",
 		"Use the teleporter to get back into the asteroid belt.":
-			"Benutze den teleport um zurück zum Asteroidengürtel zu gelangen",
+			"Benutze den Teleporter um zurück zum Asteroidengürtel zu gelangen",
 
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
@@ -636,6 +639,64 @@
 		//version
 		"RELEASE BUILD {NUMBER}":
 			"RELEASE VERSION {NUMBER}",
+
+		//drag and drop file types
+		"DRAG FILE":
+			"Datei Ziehen",
+		"Unsupported file type":
+			"Nicht unterstütztes Dateiformat",
+		"Blueprint":
+			"Blueprint",
+		"Scene":
+			"Szene",
+		"Scene fragment":
+			"Szenen Fragment",
+		"Particle system":
+			"Partikelsysteme",
+		"Material particle system":
+			"Material Partikelsysteme",
+		"Texture":
+			"Textur",
+		"Audio":
+			"Audio",
+		"Unknown":
+			"Unbekannt",
+
+		//drag and drop
+		"NO TARGET HERE (file(s) will be put in library)":
+			"Kein Ziel hier (Wird zu Dateien hinzugefügt)",
+		"Add to activity":
+			"Zur Aktivität hinzufügen",
+		"Spawn here":
+			"Hier erschaffen",
+		"Load scene":
+			"Lade Szene",
+		"Insert scene fragment":
+			"Szenen Fragment einfügen",
+		"Create terrain object":
+			"Terrain Objekt erschaffen",
+		"Copy to audio library":
+			"Audiodatei zu Dateien hinzufügen",
+		"Copy to particle system library":
+			"Partikelsystem zu Dateien hinzufügen",
+		"Copy to material particle system library":
+			"Material Partikelsystem zu Dateien hinzufügen",
+		"Copy to blueprint library":
+			"Blueprint zu Dateien hinzufügen",
+		"Copy to blueprint library - current scene":
+			"Blueprint zu Dateien hinzufügen - Current scene",
+		"Copy to scene library":
+			"Szene zu Dateien hinzufügen",
+		"Copy to scene fragment library":
+			"Szenenfragment zu Dateien hinzufügen",
+		"Copy to texture library":
+			"Textur zu Dateien hinzufügen",
+		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
+			"Blueprint zu Dateien hinzufügen und in editor laden",
+		"ADD TO BP EDITOR - CREATE NEW MO":
+			"Zu blueprint editor hinzufügen - neues Objekt erschaffen",
+		"ADD TO BP EDITOR - CREATE NEW PS":
+			"Zu blueprint editor hinzufügen - neues Partikelsystem erschaffen",
 
 		//loading screen
 		"WORK IN PROGRESS":
@@ -689,7 +750,7 @@
 		"Loading Menu Scene":
 			"Lade Menü Szene",
 		"Loading Scene: {SCENE NAME}":
-			"Loading Szene: {SCENE NAME}",
+			"Lade Szene: {SCENE NAME}",
 		"Loading Blueprint to editor: {NAME}":
 			"Lade Editor Blueprint: {NAME}",
 		"Preparing Game Scene":
@@ -963,7 +1024,7 @@
 
 		//structure shop manager (steam shop)
 		"Free Sample":
-			"Kostenlose Probe",
+			"Gratisprobe",
 		"{PRICE} (50% off)":
 			"{PRICE} (50% reduziert)",
 		"Buy":
@@ -1578,9 +1639,9 @@
 		"Prototype Tool Teleport Device":
 			"Teleporter",
 		"Rover Carbon":
-			"Carbon-Rover",
+			"Carbon Rover",
 		"Rover Carrier Hover":
-			"Flug-Transporter",
+			"Flug Transporter",
 		"Rover Carrier":
 			"Transporter",
 		"Rover Climber":
@@ -1596,9 +1657,9 @@
 		"Rover Quad":
 			"Quad",
 		"Rover Scissor":
-			"Hebe-Rover",
+			"Hebe Rover",
 		"Rover Shocks":
-			"Jet-Rover",
+			"Jet Rover",
 		"Ship Big":
 			"Frachtschiff",
 		"Ship Drop Rocket":
@@ -1628,11 +1689,11 @@
 		"Structure Bridge Draw":
 			"",
 		"Structure Bridge Hanging Huge":
-			"",
+			"Riesige Hängebrücke",
 		"Structure Bridge Hanging Long":
-			"",
+			"Lange Hängebrücke",
 		"Structure Bridge Hanging":
-			"",
+			"Hängebrücke",
 		"Structure Bridge Metal":
 			"",
 		"Structure Covered Door":

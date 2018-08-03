@@ -16,6 +16,9 @@
 			"",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
 			"",
+		//short description, it can not be longer than the english one
+		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
+			"",
 		//game title description
 		"Now Includes All Editors":
 			"",
@@ -637,6 +640,64 @@
 		"RELEASE BUILD {NUMBER}":
 			"",
 
+		//drag and drop file types
+		"DRAG FILE":
+			"",
+		"Unsupported file type":
+			"",
+		"Blueprint":
+			"",
+		"Scene":
+			"",
+		"Scene fragment":
+			"",
+		"Particle system":
+			"",
+		"Material particle system":
+			"",
+		"Texture":
+			"",
+		"Audio":
+			"",
+		"Unknown":
+			"",
+
+		//drag and drop
+		"NO TARGET HERE (file(s) will be put in library)":
+			"",
+		"Add to activity":
+			"",
+		"Spawn here":
+			"",
+		"Load scene":
+			"",
+		"Insert scene fragment":
+			"",
+		"Create terrain object":
+			"",
+		"Copy to audio library":
+			"",
+		"Copy to particle system library":
+			"",
+		"Copy to material particle system library":
+			"",
+		"Copy to blueprint library":
+			"",
+		"Copy to blueprint library - current scene":
+			"",
+		"Copy to scene library":
+			"",
+		"Copy to scene fragment library":
+			"",
+		"Copy to texture library":
+			"",
+		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW MO":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW PS":
+			"",
+
 		//loading screen
 		"WORK IN PROGRESS":
 			"",
@@ -1043,7 +1104,7 @@
 		"CATEGORY Workshop":
 			"",
 		"CATEGORY 1T":
-			"",
+			"1T Blocks",
 		"CATEGORY Aurium":
 			"",
 		"CATEGORY Bomb":
@@ -1107,319 +1168,319 @@
 		//category words should not stay in the translation, instead keep the names natural like you would call this thing
 		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
 		"1T Graphite":
-			"",
+			"Graphite Block",
 		"1T Ice":
-			"",
+			"Ice Block",
 		"1T Metals":
-			"",
+			"Metal Block",
 		"1T Sandstone":
-			"",
+			"Sandstone Block",
 		"Aurium Crystal":
-			"",
+			"Aurium Crystal",
 		"Aurium Vase Brown":
-			"",
+			"Brown Aurium Vase",
 		"Aurium Vase Large 1":
-			"",
+			"Large Aurium Vase",
 		"Aurium Vase Large 2":
-			"",
+			"Large Aurium Vase 2",
 		"Aurium Vase Large 3":
-			"",
+			"Large Aurium Vase 3",
 		"Aurium Vase Small":
-			"",
+			"Small Aurium Vase",
 		"Bomb Classic":
-			"",
+			"Classic Bomb",
 		"Bomb Large":
-			"",
+			"Large Bomb",
 		"Bomb":
-			"",
+			"Bomb",
 		"Bot Acid":
-			"",
+			"Acid Bot",
 		"Bot Drone Defense":
-			"",
+			"Defense Drone",
 		"Bot Flip":
-			"",
+			"Flip Bot",
 		"Bot Flying Worm":
-			"",
+			"Flying Worm",
 		"Bot Frosty":
-			"",
+			"Frosty",
 		"Bot Guard Box":
-			"",
+			"Guard Box",
 		"Bot Imperatus":
-			"",
+			"Imperatus Bot",
 		"Bot Jumper Box":
-			"",
+			"Jumper Box",
 		"Bot Mecha":
-			"",
+			"Mecha",
 		"Bot Phoenix":
-			"",
+			"Phoenix Bot",
 		"Bot Sentry":
-			"",
+			"Sentry",
 		"Bot Spot":
-			"",
+			"Bot Spot",
 		"Bot Tank":
-			"",
+			"Robot Tank",
 		"Bot Temperature Drone":
-			"",
+			"Temperature Drone",
 		"Bot Titan Golem":
-			"",
+			"Titan Golem",
 		"Bot Vendor":
-			"",
+			"Vendor Bot",
 		"Bot Wandering":
-			"",
+			"Wandering Bot",
 		"Bot Worm":
-			"",
+			"Robot Worm",
 		"Cloud Acid":
-			"",
+			"Acid Cloud",
 		"Coalition Ship":
-			"",
+			"Coalition Ship",
 		"Coalition Turret":
-			"",
+			"Coalition Turret",
 		"Component Balancer":
-			"",
+			"Balancer Component",
 		"Component Balloon":
-			"",
+			"Balloon",
 		"Component Battery 100A":
-			"",
+			"100A Battery",
 		"Component Battery 10A":
-			"",
+			"10A Battery",
 		"Component Capacitor":
-			"",
+			"Capacitor",
 		"Component Explosive Charge":
-			"",
+			"Explosive Charge",
 		"Component Minigun":
-			"",
+			"Mountable Minigun",
 		"Component Seat Boosted":
 			"Boosted Seat",
 		"Component Seat":
 			"Seat",
 		"Component Thruster":
-			"",
+			"Thruster",
 		"Component Wheel":
-			"",
+			"Wheel",
 		"Construction Concrete Support":
-			"",
+			"Concrete Support",
 		"Construction Concrete Wall":
-			"",
+			"Concrete Wall",
 		"Construction Concrete Window":
-			"",
+			"Concrete Window",
 		"Construction Elevator":
-			"",
+			"Elevator",
 		"Construction Plank Big":
-			"",
+			"Big Plank",
 		"Construction Plank Slim":
-			"",
+			"Slim Plank",
 		"Construction Plank":
-			"",
+			"Plank",
 		"Construction Trunk":
-			"",
+			"Trunk",
 		"Construction Wooden Triangle":
-			"",
+			"Wooden Triangle",
 		"Fauna Animal Nest":
-			"",
+			"Animal Nest",
 		"Fauna Bird Hostile":
-			"",
+			"Hostile Bird",
 		"Fauna Bird Neutral":
-			"",
+			"Neutral Bird",
 		"Fauna Bomb Bug":
-			"",
+			"Bomb Bug",
 		"Fauna Crab Acid":
-			"",
+			"Acid Crab",
 		"Fauna Crab Aurium":
-			"",
+			"Aurium Crab",
 		"Fauna Crab Balloon":
-			"",
+			"Balloon Crab",
 		"Fauna Crab Fire":
-			"",
+			"Fire Crab",
 		"Fauna Crab":
-			"",
+			"Crab",
 		"Fauna Egg Bird":
-			"",
+			"Bird Egg",
 		"Fauna Egg":
-			"",
+			"Egg",
 		"Fauna Grazer":
-			"",
+			"Grazer",
 		"Fauna Ice Bird":
-			"",
+			"Ice Bird",
 		"Fauna Ice Bug":
-			"",
+			"Ice Bug",
 		"Fauna Knuckles Boss":
-			"",
+			"Boss Knuckles",
 		"Fauna Knuckles":
-			"",
+			"Knuckles",
 		"Fauna Mega Worm Long":
-			"",
+			"Long Mega Worm",
 		"Fauna Mega Worm":
-			"",
+			"Mega Worm",
 		"Fauna Roly Poly":
-			"",
+			"Roly Poly",
 		"Fauna Silverback":
-			"",
+			"Silverback",
 		"Fauna Skeleton Armored":
-			"",
+			"Armored Skeleton",
 		"Fauna Snapjaw":
-			"",
+			"Snapjaw",
 		"Fauna Tentacle Eye":
-			"",
+			"Tentacle Eye",
 		"Fauna Tentacle Launcher":
-			"",
+			"Tentacle Launcher",
 		"Fauna Tentacle Old":
-			"",
+			"Old Tentacle",
 		"Fauna Tentacle":
-			"",
+			"Tentacle",
 		"Fauna Zombie":
-			"",
+			"Zombie",
 		"Flora Aloe Plant":
-			"",
+			"Aloe Plant",
 		"Flora Broccoli Plant":
-			"",
+			"Broccoli Plant",
 		"Flora Clone Plant":
-			"",
+			"Clone Plant",
 		"Flora Glow Plant":
-			"",
+			"Glow Plant",
 		"Flora Liana End":
-			"",
+			"Liana End",
 		"Flora Liana":
-			"",
+			"Liana",
 		"Flora Pop Plant":
-			"",
+			"Pop Plant",
 		"Flora Vines":
-			"",
+			"Vines",
 		"Gear Chest Plate":
-			"",
+			"Chest Plate",
 		"Gear Crown":
-			"",
+			"Crown",
 		"Gear Helmet":
-			"",
+			"Helmet",
 		"Gear Leg BG Armor":
-			"",
+			"Back Leg Armor",
 		"Gear Leg FG Armor":
-			"",
+			"Front Leg Armor",
 		"Gear Small Aurium Obj":
-			"",
+			"Small Aurium Gear Obj",
 		"Gear Small Aurium":
-			"",
+			"Small Aurium Gear",
 		"Gear Space Helmet":
-			"",
+			"Space Helmet",
 		"Golem Carbon":
-			"",
+			"Carbon Golem",
 		"Golem Ice":
-			"",
+			"Ice Golem",
 		"Golem Metal":
-			"",
+			"Metal Golem",
 		"Golem Silicon":
-			"",
+			"Silicon Golem,",
 		"Grenade Bounce":
-			"",
+			"Bounce Grenade",
 		"Grenade Cold":
-			"",
+			"Cold Grenade",
 		"Grenade Impact":
-			"",
+			"Impact Grenade",
 		"Grenade Mine":
-			"",
+			"Mine",
 		"Grenade Rope":
-			"",
+			"Rope Grenade",
 		"Grenade Simple":
-			"",
+			"Simple Grenade",
 		"Grenade Spikes":
-			"",
+			"Spikes Grenade",
 		"Junk Aurium Boulder 1":
-			"",
+			"Aurium Boulder",
 		"Junk Aurium Boulder 2":
-			"",
+			"Aurium Boulder 2",
 		"Junk Block Sandstone Long":
-			"",
+			"Long Sandstone Block",
 		"Junk Block Sandstone":
-			"",
+			"Sandstone Block",
 		"Junk Bones":
-			"",
+			"Bones",
 		"Junk Boulder Big":
-			"",
+			"Big Boulder",
 		"Junk Boulder Huge":
-			"",
+			"Huge Boulder",
 		"Junk Boulder Sandstone Huge":
-			"",
+			"Huge Sandstone Boulder",
 		"Junk Boulder Sandstone":
-			"",
+			"Sandstone Boulder",
 		"Junk Boulder Small":
-			"",
+			"Small Boulder",
 		"Junk Boulder":
-			"",
+			"Boulder",
 		"Junk Brick":
-			"",
+			"Brick",
 		"Junk Cage":
-			"",
+			"Cage",
 		"Junk Chain":
-			"",
+			"Chain",
 		"Junk Crate A":
-			"",
+			"Crate A",
 		"Junk Crate Aurium Alloy Big":
-			"",
+			"Big Crate Aurium Alloy",
 		"Junk Crate Aurium Alloy Small":
-			"",
+			"Small Crate Aurium Alloy",
 		"Junk Crate Aurium Alloy":
-			"",
+			"Crate Aurium Alloy",
 		"Junk Crate B":
-			"",
+			"Crate B",
 		"Junk Crate Cardboard":
-			"",
+			"Cardboard Box",
 		"Junk Crate Ice 1":
-			"",
+			"Ice Crate",
 		"Junk Crate Wooden 1":
-			"",
+			"Wooden Crate",
 		"Junk Crate Wooden 2":
-			"",
+			"Wooden Crate 2",
 		"Junk Crate Wooden Small 2":
-			"",
+			"Small Wooden Crate 2",
 		"Junk Crate Wooden Small":
-			"",
+			"Small Wooden Crate",
 		"Junk Drill":
-			"",
+			"Drill",
 		"Junk Flight Recorder":
 			"Flight Recorder",
 		"Junk Fuel Tank Light":
-			"",
+			"Light Fuel Tank",
 		"Junk Fuel Tank":
-			"",
+			"Fuel Tank",
 		"Junk Girder":
-			"",
+			"Girder",
 		"Junk Ice Block":
-			"",
+			"Ice Block",
 		"Junk Ice Rock":
-			"",
+			"Ice Rock",
 		"Junk Ice Stalactite":
-			"",
+			"Ice Stalactite",
 		"Junk Ice Wall Small":
-			"",
+			"Small Ice Wall",
 		"Junk Ice Wall":
-			"",
+			"Ice Wall",
 		"Junk Logo 2":
-			"",
+			"Logo 2",
 		"Junk Logo C":
-			"",
+			"Logo C",
 		"Junk Logo D":
-			"",
+			"Logo D",
 		"Junk Logo PP":
-			"",
+			"Logo PP",
 		"Junk Metal Plate":
-			"",
+			"Metal Plate",
 		"Junk Rock":
-			"",
+			"Rock",
 		"Junk Rod 2":
-			"",
+			"Rod 2",
 		"Junk Rod Metal":
-			"",
+			"Metal Rod",
 		"Junk Rod":
-			"",
+			"Rod",
 		"Junk Roly Poly Dung":
-			"",
+			"Roly Poly Dung",
 		"Junk Ship Part A":
-			"",
+			"Ship Part A",
 		"Junk Ship Part B":
-			"",
+			"Ship Part B",
 		"Junk Ship Pieces":
-			"",
+			"Ship Pieces",
 		"Junk Skeleton":
-			"",
+			"Skeleton",
 		"Junk Snow Ball Big":
 			"Big Snowball",
 		"Junk Snow Ball Small":
@@ -1427,43 +1488,43 @@
 		"Junk Snow Ball":
 			"Snowball",
 		"Junk Tank Wreck Imperatus":
-			"",
+			"Imperatus Tank Wreck",
 		"Junk Vase Big":
-			"",
+			"Big Vase",
 		"Junk Vase Oil":
-			"",
+			"Oil Vase",
 		"Junk Vase":
-			"",
+			"Vase",
 		"Lamp Chunky":
-			"",
+			"Chunky Lamp",
 		"Lamp Hanging Alien":
-			"",
+			"Alien Hanging Lamp",
 		"Lamp Hanging":
-			"",
+			"Hanging Lamp",
 		"Lamp Mounted":
-			"",
+			"Mounted Lamp",
 		"Lamp Wall A":
-			"",
+			"Wall Lamp A",
 		"Loot Blueprint Chest":
-			"",
+			"Blueprint Chest",
 		"Loot Blueprint":
-			"",
+			"Blueprint",
 		"Loot Chest":
-			"",
+			"Chest",
 		"Loot Dispenser":
-			"",
+			"Loot Dispenser",
 		"Loot Orb Golden":
-			"",
+			"Golden Orb",
 		"Loot Orb":
-			"",
+			"Orb",
 		"Loot Weapon Container Tier 1":
-			"",
+			"Tier 1 Weapon Container",
 		"Loot Weapon Container Tier 2":
-			"",
+			"Tier 2 Weapon Container",
 		"Loot Weapon Container Tier 3":
-			"",
+			"Tier 3 Weapon Container",
 		"Loot Workshop Box":
-			"",
+			"Workshop Box",
 		"Lump Aurium A":
 			"",
 		"Lump Aurium B":
@@ -1519,21 +1580,21 @@
 		"Machine Terminal Sensor":
 			"",
 		"Pioneer Crazy Bob":
-			"",
+			"Crazy Bob",
 		"Pioneer Imperatus":
-			"",
+			"Imperatus Pioneer",
 		"Pioneer Lily Crusher":
-			"",
+			"Lily Crusher",
 		"Pioneer Pink Horror":
-			"",
+			"Pink Horror",
 		"Pioneer Red Devil":
-			"",
+			"Red Devil",
 		"Pioneer Starman":
-			"",
+			"Starman",
 		"Pioneer Test Dummy":
-			"",
+			"Test Dummy",
 		"Pioneer Wyatt":
-			"",
+			"Wyatt",
 		"Prototype Bot Mr Tentacles":
 			"",
 		"Prototype Bot Walker Big":
@@ -1621,7 +1682,7 @@
 		"Sign Steam":
 			"Steam Sign",
 		"Sign Wooden Compound Logo":
-			"",
+			"Wooden Compound Sign",
 		"Snowboard":
 			"",
 		"Structure Assembly Lock":
@@ -1631,13 +1692,13 @@
 		"Structure Bridge Draw":
 			"",
 		"Structure Bridge Hanging Huge":
-			"",
+			"Huge Suspension Bridge",
 		"Structure Bridge Hanging Long":
-			"",
+			"Long Suspension Bridge",
 		"Structure Bridge Hanging":
-			"",
+			"Suspension Bridge",
 		"Structure Bridge Metal":
-			"",
+			"Metal Bridge",
 		"Structure Covered Door":
 			"",
 		"Structure Door Covered":

@@ -15,6 +15,9 @@
 			"Вы будете спотыкаться о камни, терять конечности, убегать от зловещих чудищ, бросая своё добро, лишь для того, чтобы попасться в очередную ловушку. Изобретайте изящные способы решения возникающих проблем или засучите рукава и сделайте собственный планетоид при помощи редакторов, которые включены и в стандартную версию, тех же самых, что используются самими разработчиками. Хохочите, глядя как другие игроки пытаются пройти ваш тщательно отстроенный пыточный лабиринт.",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
 			"Если вы купите версию Contributor Edition сегодня вы получите доступ к официальному серверу сообщества в Discord, где вы сможете делиться своими творениями напрямую с разработчиками и такими же увлеченными игроками как вы.",
+		//short description, it can not be longer than the english one
+		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
+			"",
 		//game title description
 		"Now Includes All Editors":
 			"Теперь включает все редакторы",
@@ -633,7 +636,67 @@
 
 		//version
 		"RELEASE BUILD {NUMBER}":
-			"БИЛД {NUMBER}",		//loading screen
+			"БИЛД {NUMBER}",
+
+		//drag and drop file types
+		"DRAG FILE":
+			"",
+		"Unsupported file type":
+			"",
+		"Blueprint":
+			"",
+		"Scene":
+			"",
+		"Scene fragment":
+			"",
+		"Particle system":
+			"",
+		"Material particle system":
+			"",
+		"Texture":
+			"",
+		"Audio":
+			"",
+		"Unknown":
+			"",
+
+		//drag and drop
+		"NO TARGET HERE (file(s) will be put in library)":
+			"",
+		"Add to activity":
+			"",
+		"Spawn here":
+			"",
+		"Load scene":
+			"",
+		"Insert scene fragment":
+			"",
+		"Create terrain object":
+			"",
+		"Copy to audio library":
+			"",
+		"Copy to particle system library":
+			"",
+		"Copy to material particle system library":
+			"",
+		"Copy to blueprint library":
+			"",
+		"Copy to blueprint library - current scene":
+			"",
+		"Copy to scene library":
+			"",
+		"Copy to scene fragment library":
+			"",
+		"Copy to texture library":
+			"",
+		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW MO":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW PS":
+			"",
+
+		//loading screen
 		"WORK IN PROGRESS":
 			"В РАЗРАБОТКЕ",
 		"ALT + ENTER TOGGLES FULLSCREEN":
