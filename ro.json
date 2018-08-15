@@ -14,7 +14,7 @@
 			"Daca alegi sa cumperi Editia Contribuitorului astazi, vei primi deasemenea acces la oficialul server de Discord al Comunitatii de Contribuitori, unde poti colabora si impartasi continut cu oameni creativi si deschisi, si sa vorbesti direct cu dezvoltatorii jocului.",
 		//short description, it can not be longer than the english one
 		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
-			"",
+			"Explorează lumi adănci si circualre in acest Regat al Fizicii cu [b]Co-op local[/b] combat, crafting, si eșuări ridicule bazate pe fizică! De asemenea adu-ți propriile tale idei de joc la viață cu engine-ul puternic și uneltele pentru dezvoltarea jocurilor integrate. Fiecare Planetoid este un tip de joc separate pe care il poti edita complet și împărtăși cu ușurință!",
 		//game title description
 		"Now Includes All Editors":
 			"Acum include toate Editiile",
@@ -535,71 +535,71 @@
 
 		//actions
 		"Move":
-			"",
+			"Mișcă",
 		"Aim":
-			"",
+			"Țintește",
 		"Left":
-			"",
+			"Stânga",
 		"Right":
-			"",
+			"Dreapta",
 		"Go Prone":
-			"",
+			"Stai Întins",
 		"Jump":
-			"",
+			"Sari",
 		"Atomize":
-			"",
+			"Atomizează",
 		"Assemble":
-			"",
+			"Asamblează",
 		"Fire":
-			"",
+			"Trage",
 		"Enter Vehicle":
-			"",
+			"Intră în Vehicul",
 		"Leave Vehicle":
-			"",
+			"Ieși din Vehicul",
 		"Pick up":
-			"",
+			"Ridică",
 		"Drop":
-			"",
+			"Aruncă",
 		"Put on back":
-			"",
+			"Pune în spate",
 		"Take from back":
-			"",
+			"Ia din spate",
 		"Swap":
-			"",
+			"Schimbă",
 		"Respawn":
-			"",
+			"Respawnează-te",
 		"Restart":
-			"",
+			"Restartare",
 		"Pause":
-			"",
+			"Pauză",
 		"Menu":
-			"",
+			"Meniu",
 		"Select":
-			"",
+			"Selectare",
 		"Zoom":
-			"",
+			"Mărire",
 		"Zoom in":
-			"",
+			"Mărește",
 		"Zoom out":
-			"",
+			"Micșorează",
 		"Hold":
-			"",
+			"Ține Apăsat",
 		"Press":
-			"",
+			"Apasă",
 		"Press down to use climbing mode":
-			"",
+			"Apasă jos pentru a folosi modul de cățărare",
 		"Print backup body":
-			"",
+			"Printează corp de rezervă",
 		"Move and aim":
-			"",
+			"Mișcare și Țintire",
 
 		//blank planetoid
 		"Make your own planetoids and blueprints using the in-game editor.":
-			"",
+			"Crează-ti propriile planetoide si schițe folosind editorul din joc.",
 		"Press F2 to enter edit mode.":
-			"",
+			"Apasă F2 pentru a intra in modul de editare.",
 		"Use the teleporter to get back into the asteroid belt.":
-			"",
+			"Folosește teleportorul pentru a te introace la centura de asteroizi",
 
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
@@ -751,61 +751,61 @@
 
 		//drag and drop file types
 		"DRAG FILE":
-			"",
+			"TRAGE AICI",
 		"Unsupported file type":
-			"",
+			"Tip de fișier neacceptat",
 		"Blueprint":
-			"",
+			"Schiță",
 		"Scene":
-			"",
+			"Scenă",
 		"Scene fragment":
-			"",
+			"Fragment de Scenă",
 		"Particle system":
-			"",
+			"System de Particule",
 		"Material particle system":
-			"",
+			"Sistem de particule materiale",
 		"Texture":
-			"",
+			"Texturi",
 		"Audio":
-			"",
+			"Audio",
 		"Unknown":
-			"",
+			"Necunoscut",
 
 		//drag and drop
 		"NO TARGET HERE (file(s) will be put in library)":
-			"",
+			"NICIO ȚINTIRE AICI (fisierul(le) vor fi puse in librărie)",
 		"Add to activity":
-			"",
+			"Adaugă la activitate",
 		"Spawn here":
-			"",
+			"Spawnează aici",
 		"Load scene":
-			"",
+			"Incarcă scenă",
 		"Insert scene fragment":
-			"",
+			"Introduce fragment de scenă",
 		"Create terrain object":
-			"",
+			"Creaază obiect teren",
 		"Copy to audio library":
-			"",
+			"Copiază la librăria audio",
 		"Copy to particle system library":
-			"",
+			"Copiază la librăria sistem de particule",
 		"Copy to material particle system library":
-			"",
+			"Copiază la librăria sistem de particule materiale",
 		"Copy to blueprint library":
-			"",
+			"Copiază la librăria de schițe",
 		"Copy to blueprint library - current scene":
-			"",
+			"Copiază la librăria de schițe – scena curentă",
 		"Copy to scene library":
-			"",
+			"Copiază la librăria de scene",
 		"Copy to scene fragment library":
-			"",
+			"Copiază la librăria de fragmente scene",
 		"Copy to texture library":
-			"",
+			"Copiază la librăria de texturi",
 		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
-			"",
+			"ADAUGĂ SCHIȚĂ IN LIBRĂRIE SI ÎNCARCĂ IN EDITOR",
 		"ADD TO BP EDITOR - CREATE NEW MO":
-			"",
+			"ADAUGĂ LA EDITOR BP – CREEAZĂ UN NOU MO",
 		"ADD TO BP EDITOR - CREATE NEW PS":
-			"",
+			"ADAUGĂ LA EDITOR BP – CREEAZĂ UN NOU PS",
 
 		//loading screen
 		"WORK IN PROGRESS":
@@ -1205,7 +1205,7 @@
 		"Water: {NUMBER}kg":
 			"Apa: {NUMBER}kg",
 		"Cancel":
-			"",
+			"Anulare",
 
 		//blueprint menu categories (translate these to plural)
 		"CATEGORY Partial":

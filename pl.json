@@ -1077,573 +1077,573 @@
 
 		//blueprint menu
 		"Blueprint Ready":
-			"",
+			"Plan Gotowy",
 		"Incomplete Blueprint":
-			"",
+			"Niedokończony Plan",
 		"New Blueprint!":
-			"",
+			"Nowy Plan!",
 		"Not enough resources":
-			"",
+			"Za mało materiałów",
 		// label above effect when player is scanning a blueprint
 		"Scanning":
-			"",
+			"Skanowanie",
 		// label above effect when player finished scanning a blueprint
 		"Completed!":
-			"",
+			"Ukończony!",
 		"Metals: {NUMBER}kg":
-			"",
+			"Metale: {NUMBER}kg",
 		"Carbon: {NUMBER}kg":
-			"",
+			"Węgiel: {NUMBER}kg",
 		"Silicon: {NUMBER}kg":
-			"",
+			"Krzem: {NUMBER}kg",
 		"Water: {NUMBER}kg":
-			"",
+			"Woda: {NUMBER}kg",
 		"Cancel":
-			"",
+			"Anuluj",
 
 		//blueprint menu categories (translate these to plural)
 		"CATEGORY Partial":
-			"",
+			"Częściowe",
 		"CATEGORY Workshop":
-			"",
+			"Warztat Steam",
 		"CATEGORY 1T":
-			"",
+			"1T",
 		"CATEGORY Aurium":
-			"",
+			"Aurium",
 		"CATEGORY Bomb":
-			"Bombs",
+			"Bomby",
 		"CATEGORY Bot":
-			"Robots",
+			"Roboty",
 		"CATEGORY Cloud":
-			"Clouds",
+			"Chmury",
 		"CATEGORY Coalition":
-			"",
+			"Koalicja",
 		"CATEGORY Component":
-			"Components",
+			"Komponenty",
 		"CATEGORY Construction":
-			"",
+			"Konstrukcje",
 		"CATEGORY Fauna":
-			"",
+			"Fauna",
 		"CATEGORY Flora":
-			"",
+			"Flora",
 		"CATEGORY Gear":
-			"",
+			"Przybory",
 		"CATEGORY Golem":
-			"Golems",
+			"Golemy",
 		"CATEGORY Grenade":
-			"Grenades",
+			"Granaty",
 		"CATEGORY Junk":
-			"",
+			"Śmieci",
 		"CATEGORY Lamp":
-			"Lamps",
+			"Lampy",
 		"CATEGORY Loot":
-			"",
+			"Łupy",
 		"CATEGORY Lump":
-			"Lumps",
+			"Grudki Materiałów",
 		"CATEGORY Machine":
-			"Machines",
+			"Machiny",
 		"CATEGORY Pioneer":
-			"Pioneers",
+			"Pionierzy",
 		"CATEGORY Prototype":
-			"Prototypes",
+			"Prototype",
 		"CATEGORY Reactor":
-			"Reactors",
+			"Reaktory",
 		"CATEGORY Rover":
-			"Rovers",
+			"Rovery",
 		"CATEGORY Ship":
-			"Ships",
+			"Statki",
 		"CATEGORY Sign":
-			"Signs",
+			"Znaki",
 		"CATEGORY Strucure":
-			"Strucures",
+			"Struktury",
 		"CATEGORY Tank":
-			"Tanks",
+			"Czołgi",
 		"CATEGORY Tool":
-			"Tools",
+			"Narzędia",
 		"CATEGORY Trap":
-			"Traps",
+			"Pułapki",
 		"CATEGORY Trigger":
-			"Triggers",
+			"Przełączniki",
 		"CATEGORY Weapon":
-			"Weapons",
+			"Bronie",
 
 		//blueprint names for blueprint menu and appearing over vehicles and tools
 		//category words should not stay in the translation, instead keep the names natural like you would call this thing
 		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
 		"1T Graphite":
-			"",
+			"1T Granit",
 		"1T Ice":
-			"",
+			"1T Lód",
 		"1T Metals":
-			"",
+			"1T Metale",
 		"1T Sandstone":
-			"",
+			"1T Piaskowiec",
 		"Aurium Crystal":
-			"",
+			"Aurium Kryształ",
 		"Aurium Vase Brown":
-			"",
+			"Aurium Wasa Brązowa ",
 		"Aurium Vase Large 1":
-			"",
+			"Aurium Wasa Duża 1",
 		"Aurium Vase Large 2":
-			"",
+			"Aurium Wasa Duża 2",
 		"Aurium Vase Large 3":
-			"",
+			"Aurium Wasa Duża 3",
 		"Aurium Vase Small":
-			"",
+			"Aurium Wasa Mała",
 		"Bomb Classic":
-			"",
+			"Bomba Klasyczna",
 		"Bomb Large":
-			"",
+			"Bomba Duża",
 		"Bomb":
-			"",
+			"Bomba",
 		"Bot Acid":
-			"",
+			"Bot",
 		"Bot Drone Defense":
-			"",
+			"Bot Dron Obronny",
 		"Bot Flip":
-			"",
+			"Bot",
 		"Bot Flying Worm":
-			"",
+			"Bot",
 		"Bot Frosty":
-			"",
+			"Bot",
 		"Bot Guard Box":
-			"",
+			"Bot",
 		"Bot Imperatus":
-			"",
+			"Bot",
 		"Bot Jumper Box":
-			"",
+			"Bot",
 		"Bot Mecha":
-			"",
+			"Bot",
 		"Bot Phoenix":
-			"",
+			"Bot",
 		"Bot Sentry":
-			"",
+			"Bot",
 		"Bot Spot":
-			"",
+			"Bot",
 		"Bot Tank":
-			"",
+			"Bot",
 		"Bot Temperature Drone":
-			"",
+			"Bot",
 		"Bot Titan Golem":
-			"",
+			"Bot",
 		"Bot Vendor":
-			"",
+			"Bot",
 		"Bot Wandering":
-			"",
+			"Bot",
 		"Bot Worm":
-			"",
+			"Bot",
 		"Cloud Acid":
-			"",
+			"Chmura Kwasu",
 		"Coalition Ship":
-			"",
+			"Koalicja Statek",
 		"Coalition Turret":
-			"",
+			"Koalicja Wierzyczka",
 		"Component Balancer":
-			"",
+			"Komponent",
 		"Component Balloon":
-			"",
+			"Komponent",
 		"Component Battery 100A":
-			"",
+			"Komponent",
 		"Component Battery 10A":
-			"",
+			"Komponent",
 		"Component Capacitor":
-			"",
+			"Komponent",
 		"Component Explosive Charge":
-			"",
+			"Komponent",
 		"Component Minigun":
-			"",
+			"Komponent Minigun",
 		"Component Seat Boosted":
 			"Siedzenie Odrzutowe",
 		"Component Seat":
 			"Siedzenie",
 		"Component Thruster":
-			"",
+			"Komponent Ster Strumieniowy",
 		"Component Wheel":
-			"",
+			"Komponent Koło",
 		"Construction Concrete Support":
-			"",
+			"Konstrukcja",
 		"Construction Concrete Wall":
-			"",
+			"Konstrukcja",
 		"Construction Concrete Window":
-			"",
+			"Konstrukcja",
 		"Construction Elevator":
-			"",
+			"Konstrukcja",
 		"Construction Plank Big":
-			"",
+			"Konstrukcja",
 		"Construction Plank Slim":
-			"",
+			"Konstrukcja",
 		"Construction Plank":
-			"",
+			"Konstrukcja",
 		"Construction Trunk":
-			"",
+			"Konstrukcja",
 		"Construction Wooden Triangle":
-			"",
+			"Konstrukcja",
 		"Fauna Animal Nest":
-			"",
+			"Fauna",
 		"Fauna Bird Hostile":
-			"",
+			"Fauna",
 		"Fauna Bird Neutral":
-			"",
+			"Fauna",
 		"Fauna Bomb Bug":
-			"",
+			"Fauna",
 		"Fauna Crab Acid":
-			"",
+			"Fauna",
 		"Fauna Crab Aurium":
-			"",
+			"Fauna",
 		"Fauna Crab Balloon":
-			"",
+			"Fauna",
 		"Fauna Crab Fire":
-			"",
+			"Fauna",
 		"Fauna Crab":
-			"",
+			"Fauna",
 		"Fauna Egg Bird":
-			"",
+			"Fauna",
 		"Fauna Egg":
-			"",
+			"Fauna",
 		"Fauna Grazer":
-			"",
+			"Fauna",
 		"Fauna Ice Bird":
-			"",
+			"Fauna",
 		"Fauna Ice Bug":
-			"",
+			"Fauna",
 		"Fauna Knuckles Boss":
-			"",
+			"Fauna",
 		"Fauna Knuckles":
-			"",
+			"Fauna",
 		"Fauna Mega Worm Long":
-			"",
+			"Fauna",
 		"Fauna Mega Worm":
-			"",
+			"Fauna",
 		"Fauna Roly Poly":
-			"",
+			"Fauna",
 		"Fauna Silverback":
-			"",
+			"Fauna",
 		"Fauna Skeleton Armored":
-			"",
+			"Fauna",
 		"Fauna Snapjaw":
-			"",
+			"Fauna",
 		"Fauna Tentacle Eye":
-			"",
+			"Fauna",
 		"Fauna Tentacle Launcher":
-			"",
+			"Fauna",
 		"Fauna Tentacle Old":
-			"",
+			"Fauna",
 		"Fauna Tentacle":
-			"",
+			"Fauna",
 		"Fauna Zombie":
-			"",
+			"Fauna",
 		"Flora Aloe Plant":
-			"",
+			"Flora",
 		"Flora Broccoli Plant":
-			"",
+			"Flora",
 		"Flora Clone Plant":
-			"",
+			"Flora",
 		"Flora Glow Plant":
-			"",
+			"Flora",
 		"Flora Liana End":
-			"",
+			"Flora",
 		"Flora Liana":
-			"",
+			"Flora",
 		"Flora Pop Plant":
-			"",
+			"Flora",
 		"Flora Vines":
-			"",
+			"Flora",
 		"Gear Chest Plate":
-			"",
+			"Sprzęt",
 		"Gear Crown":
-			"",
+			"Sprzęt",
 		"Gear Helmet":
-			"",
+			"Sprzęt",
 		"Gear Leg BG Armor":
-			"",
+			"Sprzęt",
 		"Gear Leg FG Armor":
-			"",
+			"Sprzęt",
 		"Gear Small Aurium Obj":
-			"",
+			"Sprzęt",
 		"Gear Small Aurium":
-			"",
+			"Sprzęt",
 		"Gear Space Helmet":
-			"",
+			"Sprzęt",
 		"Golem Carbon":
-			"",
+			"Golem",
 		"Golem Ice":
-			"",
+			"Golem",
 		"Golem Metal":
-			"",
+			"Golem",
 		"Golem Silicon":
-			"",
+			"Golem",
 		"Grenade Bounce":
-			"",
+			"Granat",
 		"Grenade Cold":
-			"",
+			"Granat",
 		"Grenade Impact":
-			"",
+			"Granat",
 		"Grenade Mine":
-			"",
+			"Granat",
 		"Grenade Rope":
-			"",
+			"Granat",
 		"Grenade Simple":
-			"",
+			"Granat",
 		"Grenade Spikes":
-			"",
+			"Granat",
 		"Junk Aurium Boulder 1":
-			"",
+			"Śmieć ",
 		"Junk Aurium Boulder 2":
-			"",
+			"Śmieć ",
 		"Junk Block Sandstone Long":
-			"",
+			"Śmieć ",
 		"Junk Block Sandstone":
-			"",
+			"Śmieć ",
 		"Junk Bones":
-			"",
+			"Śmieć ",
 		"Junk Boulder Big":
-			"",
+			"Śmieć ",
 		"Junk Boulder Huge":
-			"",
+			"Śmieć ",
 		"Junk Boulder Sandstone Huge":
-			"",
+			"Śmieć ",
 		"Junk Boulder Sandstone":
-			"",
+			"Śmieć ",
 		"Junk Boulder Small":
-			"",
+			"Śmieć ",
 		"Junk Boulder":
-			"",
+			"Śmieć ",
 		"Junk Brick":
-			"",
+			"Śmieć ",
 		"Junk Cage":
-			"",
+			"Śmieć ",
 		"Junk Chain":
-			"",
+			"Śmieć ",
 		"Junk Crate A":
-			"",
+			"Śmieć ",
 		"Junk Crate Aurium Alloy Big":
-			"",
+			"Śmieć ",
 		"Junk Crate Aurium Alloy Small":
-			"",
+			"Śmieć ",
 		"Junk Crate Aurium Alloy":
-			"",
+			"Śmieć ",
 		"Junk Crate B":
-			"",
+			"Śmieć ",
 		"Junk Crate Cardboard":
-			"",
+			"Śmieć ",
 		"Junk Crate Ice 1":
-			"",
+			"Śmieć ",
 		"Junk Crate Wooden 1":
-			"",
+			"Śmieć ",
 		"Junk Crate Wooden 2":
-			"",
+			"Śmieć ",
 		"Junk Crate Wooden Small 2":
-			"",
+			"Śmieć ",
 		"Junk Crate Wooden Small":
-			"",
+			"Śmieć ",
 		"Junk Drill":
-			"",
+			"Śmieć ",
 		"Junk Flight Recorder":
 			"Recorder Lotów",
 		"Junk Fuel Tank Light":
-			"",
+			"Śmieć ",
 		"Junk Fuel Tank":
-			"",
+			"Śmieć ",
 		"Junk Girder":
-			"",
+			"Śmieć Dźwigar",
 		"Junk Ice Block":
-			"",
+			"Śmieć Lodowy Blok",
 		"Junk Ice Rock":
-			"",
+			"Śmieć Lodowa Ściana",
 		"Junk Ice Stalactite":
-			"",
+			"Śmieć Lodowy Stalaktyt",
 		"Junk Ice Wall Small":
-			"",
+			"Śmieć Mała Lodowa Ściana",
 		"Junk Ice Wall":
-			"",
+			"Śmieć Lodowa Ściana",
 		"Junk Logo 2":
-			"",
+			"Śmieć Logo 2",
 		"Junk Logo C":
-			"",
+			"Śmieć Logo C",
 		"Junk Logo D":
-			"",
+			"Śmieć Logo D",
 		"Junk Logo PP":
-			"",
+			"Śmieć Logo PP",
 		"Junk Metal Plate":
-			"",
+			"Śmieć Metalowa Płytka",
 		"Junk Rock":
-			"",
+			"Śmieć Kamień",
 		"Junk Rod 2":
-			"",
+			"Śmieć Rąg 2",
 		"Junk Rod Metal":
-			"",
+			"Śmieć Metalowy Rąg",
 		"Junk Rod":
-			"",
+			"Śmieć Drąg",
 		"Junk Roly Poly Dung":
-			"",
+			"Śmieć Łajno Roliego Poliego",
 		"Junk Ship Part A":
-			"",
+			"Śmieć Kawał Statku A",
 		"Junk Ship Part B":
-			"",
+			"Śmieć Kawał Statku B",
 		"Junk Ship Pieces":
-			"",
+			"Śmieć Kawałki Statku",
 		"Junk Skeleton":
-			"",
+			"Śmieć Szkielet",
 		"Junk Snow Ball Big":
-			"",
+			"Śmieć Kula Śnieżna Duża",
 		"Junk Snow Ball Small":
-			"",
+			"Śmieć Kula Śnieżna Mała",
 		"Junk Snow Ball":
-			"",
+			"Śmieć Kula Śnieżna",
 		"Junk Tank Wreck Imperatus":
-			"",
+			"Śmieć Wrek Czałgu Imperatusa",
 		"Junk Vase Big":
-			"",
+			"Śmieć Waza Duża",
 		"Junk Vase Oil":
-			"",
+			"Śmieć Waza z Olejem",
 		"Junk Vase":
-			"",
+			"Śmieć Waza",
 		"Lamp Chunky":
-			"",
+			"Lampa Kańciasta",
 		"Lamp Hanging Alien":
-			"",
+			"Lampa Kosmiczna Zwisająca",
 		"Lamp Hanging":
-			"",
+			"Lampa Zwisająca",
 		"Lamp Mounted":
-			"",
+			"Lampa Montowana",
 		"Lamp Wall A":
-			"",
+			"Lampa Ścienna A",
 		"Loot Blueprint Chest":
-			"",
+			"Łup Skrzynia z Planem",
 		"Loot Blueprint":
-			"",
+			"Łup Plan",
 		"Loot Chest":
-			"",
+			"Łup Skrzynia",
 		"Loot Dispenser":
-			"",
+			"Łup Podajnik",
 		"Loot Orb Golden":
-			"",
+			"Łup Złota Kula",
 		"Loot Orb":
-			"",
+			"Łup Kula",
 		"Loot Weapon Container Tier 1":
-			"",
+			"Łup Pojemnik Broni Poziomu 1",
 		"Loot Weapon Container Tier 2":
-			"",
+			"Łup Pojemnik Broni Poziomu 2",
 		"Loot Weapon Container Tier 3":
-			"",
+			"Łup Pojemnik Broni Poziomu 3",
 		"Loot Workshop Box":
-			"",
+			"Łup Pudełko Workshop",
 		"Lump Aurium A":
-			"",
+			"Kryształ Aurium A",
 		"Lump Aurium B":
-			"",
+			"Kryształ Aurium B",
 		"Lump Aurium C":
-			"",
+			"Kryształ Aurium C",
 		"Lump Carbon A":
-			"",
+			"Bryła Węgla A",
 		"Lump Carbon B":
-			"",
+			"Bryła Węgla B",
 		"Lump Carbon C":
-			"",
+			"Bryła Węgla C",
 		"Lump Metals A":
-			"",
+			"Bryła Metali A",
 		"Lump Metals B":
-			"",
+			"Bryła Metali B",
 		"Lump Metals C":
-			"",
+			"Bryła Metali C",
 		"Lump Metals D":
-			"",
+			"Bryła Metali D",
 		"Lump Silicon A":
-			"",
+			"Bryła Krzemu A",
 		"Lump Silicon B":
-			"",
+			"Bryła Krzemu B",
 		"Lump Silicon C":
-			"",
+			"Bryła Krzemu C",
 		"Lump Silicon D":
-			"",
+			"Bryła Krzemu D",
 		"Lump Water A":
-			"",
+			"Bryła Lodu A",
 		"Lump Water B":
-			"",
+			"Bryła Lodu B",
 		"Machine Camera Aurium":
-			"",
+			"Maszyna Camear Aurium",
 		"Machine Catapult":
-			"",
+			"Maszyna Katapulta",
 		"Machine Dropper":
-			"",
+			"Maszyna Zrzucacz",
 		"Machine Laser Emitter":
-			"",
+			"Maszyna Emiter Lasera",
 		"Machine Proximity Sensor":
-			"",
+			"Maszyna Sensor Bliskości",
 		"Machine Sentry Camera":
-			"",
+			"Maszyna Strarznicza Kamera",
 		"Machine Sentry Gun":
-			"",
+			"Maszyna Strarznicza Wierzyczka",
 		"Machine Space Teleporter":
-			"",
+			"Maszyna Kosmiczny Teleporter",
 		"Machine Switch":
-			"",
+			"Maszyna Przełącznik",
 		"Machine Terminal Info":
-			"",
+			"Maszyna Termial Informacyjny",
 		"Machine Terminal Sensor":
-			"",
+			"Maszyna Terminal Sensor",
 		"Pioneer Crazy Bob":
-			"",
+			"Pioner Szalony Bob",
 		"Pioneer Imperatus":
-			"",
+			"Pioner Imperatus",
 		"Pioneer Lily Crusher":
-			"",
+			"Pioner Lily Crusher",
 		"Pioneer Pink Horror":
-			"",
+			"Pioner Pink Horror",
 		"Pioneer Red Devil":
-			"",
+			"Pioner Red Devil",
 		"Pioneer Starman":
-			"",
+			"Pioner Starman",
 		"Pioneer Test Dummy":
-			"",
+			"Pioner Test Dummy",
 		"Pioneer Wyatt":
-			"",
+			"Pioner Wyatt",
 		"Prototype Bot Mr Tentacles":
-			"",
+			"Prototyp Bot Pan Macek",
 		"Prototype Bot Walker Big":
-			"",
+			"Prototyp Bot Walker Duży",
 		"Prototype Bot Walker":
-			"",
+			"Prototyp Bot Walker",
 		"Prototype Drone Defense":
-			"",
+			"Prototyp Dron Obronny",
 		"Prototype Elevator":
-			"",
+			"Prototyp Winda",
 		"Prototype Homing Missile":
-			"",
+			"Prototyp Namierzająca Rakieta",
 		"Prototype Mecha Flamer":
-			"",
+			"Prototyp Mecha Flamer",
 		"Prototype Mecha MG":
-			"",
+			"Prototyp Mecha MG",
 		"Prototype Mecha Rifle":
-			"",
+			"Prototyp Mecha Karabin",
 		"Prototype Nest Bees":
-			"",
+			"Prototyp Gniazdo Pszczół",
 		"Prototype Nest Bird Hostile":
-			"",
+			"Prototyp Gniazdo Agresywnych Ptaków",
 		"Prototype Nest Bird":
-			"",
+			"Prototyp Gniazdo Ptaków",
 		"Prototype Rifle Blast":
-			"",
+			"Prototyp Strzelba Podmuchowa",
 		"Prototype Rock Trap Rock":
-			"",
+			"Prototyp Spadająca Skała",
 		"Prototype Rover Car":
-			"",
+			"Prototyp Rower Samochód",
 		"Prototype SAM Site":
-			"",
+			"Prototyp Wierzyczka SAM",
 		"Prototype Satellite Discovery":
-			"",
+			"Prototyp Satelita Odkrywcza",
 		"Prototype Snowboard Mk2":
-			"",
+			"Prototyp Snowboard Mk2",
 		"Prototype Structure Door Trap Sm":
-			"",
+			"Prototyp Struktura Pułapka Klapka Mała",
 		"Prototype Structure Door Trap":
-			"",
+			"Prototyp Struktura Pułapka Klapka",
 		"Prototype Tool Crossbow":
-			"Crossbow",
+			"Prototyp Narzędzie Kusza",
 		"Prototype Tool Gravity Gun":
-			"Gravity Gun",
+			"Prototyp Narzędzie Gravity Gun",
 		"Prototype Tool Teleport Device":
-			"Teleport Device",
+			"Prototyp Narzędzie Urządzenie Teleportacyjne",
 		"Rover Carbon":
 			"Rower Węglik",
 		"Rover Carrier Hover":
@@ -1655,11 +1655,11 @@
 		"Rover Coalition Spider Climber":
 			"Rower Pająk Wspinaczkowy Koalicji",
 		"Rover Minimal Aurium Example":
-			"Rover Aurium Example",
+			"Rover Przykład Aurium",
 		"Rover Minimal Jets":
 			"Rower Mini Odrzutowiec",
 		"Rover Mining Cart":
-			"",
+			"Rower Wózek Górniczy",
 		"Rover Quad":
 			"Rower Quad",
 		"Rover Scissor":
@@ -1669,25 +1669,25 @@
 		"Ship Big":
 			"Statek Duży",
 		"Ship Drop Rocket":
-			"Drop Rocket",
+			"Statek Rakieta Zrzucająca",
 		"Ship Landing Seat":
-			"Landing Seat",
+			"Lądowniczy Siedzenie",
 		"Ship Landing":
-			"Landing Ship",
+			"Lądowniczy Statek",
 		"Ship Mini":
 			"Statek Mimi",
 		"Ship Rocket":
 			"Statek Rakieta",
 		"Sign Not Throw":
-			"Do Not Throw Sign",
+			"Znak Do Not Throw Sign",
 		"Sign Shopping":
-			"Shopping Sign",
+			"Znak Shopping",
 		"Sign Steam":
-			"Steam Sign",
+			"Znak Steam",
 		"Sign Wooden Compound Logo":
-			"",
+			"Znak",
 		"Snowboard":
-			"",
+			"Snowboard",
 		"Structure Assembly Lock":
 			"",
 		"Structure Bridge Draw Long":
@@ -1775,102 +1775,102 @@
 		"Structure Trap Door Sandstone":
 			"",
 		"Tank Coalition":
-			"Rower Koalicji",
+			"Narzędzie Rower Koalicji",
 		"Tool Balloon Gun":
-			"Pistolet na Balony",
+			"Narzędzie Pistolet na Balony",
 		"Tool Bomb Crab":
-			"Bombowy Krab",
+			"Narzędzie Bombowy Krab",
 		"Tool Glow Stick":
-			"Glow Stick",
+			"Narzędzie Świecąca Pałeczka",
 		"Tool Grappling Hook Basic":
-			"Hak Wspinaczkowy",
+			"Narzędzie Hak Wspinaczkowy",
 		"Tool Hack Gun":
-			"Hackgun",
+			"Narzędzie Hackgun",
 		"Tool Jet Rocket":
-			"",
+			"Narzędzie Placek Odrzutowy",
 		"Tool Key":
-			"",
+			"Narzędzie Klucz",
 		"Tool Magnet":
-			"",
+			"Narzędzie Magnes",
 		"Tool Propeller":
-			"Śmigiełko",
+			"Narzędzie Śmigiełko",
 		"Tool Quantum Field Device":
-			"Urządzenie Pola Quantum",
+			"Narzędzie Urządzenie Pola Quantum",
 		"Tool Rope Launcher":
-			"Wyrzutnia Lin",
+			"Narzędzie Wyrzutnia Lin",
 		"Tool Rope":
-			"Lina",
+			"Narzędzie Lina",
 		"Tool Shield Metal":
-			"Metalowa Tarcza",
+			"Narzędzie Metalowa Tarcza",
 		"Tool Spelunker Rope":
-			"Spelunker Rope",
+			"Narzędzie Lina Spelunk",
 		"Tool Tether":
-			"Tether",
+			"Narzędzie Uwięź",
 		"Tool Welder":
-			"Spawacz",
+			"Narzędzie Spawacz",
 		"Trap Claw":
-			"Szczęka",
+			"Pułapka Szczęka",
 		"Trap Dart":
-			"Dart Trap",
+			"Pułapka Wyrzutnia Strzałek",
 		"Trap Flamethrower Aurium":
 			"Flamethrower Trap Aurium",
 		"Trap Flamethrower":
 			"Flamethrower Trap",
 		"Trap Grinder Small":
-			"Small Grinder Trap",
+			"Pułapka Młyn Mały",
 		"Trap Grinder":
-			"Grinder Trap",
+			"Pułapka Młyn",
 		"Trap Ice":
-			"Ice Trap",
+			"Lodowa Pułapka",
 		"Trap Spring Mine":
-			"Mina Sprężynowa",
+			"Pułapka Mina Sprężynowa",
 		"Weapon Assault Rifle":
-			"Karabin Szturmowy",
+			"Broń Karabin Szturmowy",
 		"Weapon Aurium Staff":
-			"Laska Aurium",
+			"Broń Laska Aurium",
 		"Weapon Blue Rifle":
-			"Niebieski Blaster",
+			"Broń Niebieski Blaster",
 		"Weapon Bounding Mine Grenade":
-			"Podręczna Minagranat",
+			"Broń Podręczna Minagranat",
 		"Weapon Cold Grenade Launcher":
-			"Wyrzutnia Kriogenicznych Granatów",
+			"Broń Wyrzutnia Kriogenicznych Granatów",
 		"Weapon Cold Grenade":
-			"Kriogeniczny Granat",
+			"Broń Kriogeniczny Granat",
 		"Weapon Cold Shotgun":
-			"Kriogeniczna Strzelba",
+			"Broń Kriogeniczna Strzelba",
 		"Weapon Flamethrower":
-			"Miotacz Płomieni",
+			"Broń Miotacz Płomieni",
 		"Weapon Grandpas Rifle":
-			"Strzelba Dziadunia",
+			"Broń Strzelba Dziadunia",
 		"Weapon Grenade Launcher":
-			"Wyrzutnia Granatów",
+			"Broń Wyrzutnia Granatów",
 		"Weapon Hand Grenade":
-			"Granat Ręczny",
+			"Broń Granat Ręczny",
 		"Weapon Heavy Machine Gun":
-			"Ciężki Karabin Maszynowy",
+			"Broń Ciężki Karabin Maszynowy",
 		"Weapon Laser Assault Rifle":
-			"Laserowy Karabin Szturmowy",
+			"Broń Laserowy Karabin Szturmowy",
 		"Weapon Machine Pistol":
-			"Pistolet Maszynowy",
+			"Broń Pistolet Maszynowy",
 		"Weapon Mine Launcher":
-			"Wyrzutnia Min",
+			"Broń Wyrzutnia Min",
 		"Weapon Minigun":
-			"Minigun",
+			"Broń Minigun",
 		"Weapon Nail Gun":
-			"Pistolet Na Gwoździe",
+			"Broń Pistolet Na Gwoździe",
 		"Weapon Pistol":
-			"Pistolet",
+			"Broń Pistolet",
 		"Weapon Plasma Rifle":
-			"Plasmowy Karabin",
+			"Broń Plasmowy Karabin",
 		"Weapon Rifle Bolt Action":
-			"Stara Strzelba",
+			"Broń Stara Strzelba",
 		"Weapon Scrap Launcher":
-			"Wyrzutnia Bomb Śmieciowych",
+			"Broń Wyrzutnia Bomb Śmieciowych",
 		"Weapon Shockwave Gun":
 			"Broń Falouderzeniowa",
 		"Weapon Shotgun":
-			"Strzelba Śrutowa",
+			"Broń Strzelba Śrutowa",
 		"Weapon Sticky Bomb Launcher":
-			"Wyrzutnia Kolczastych Bomb"
+			"Broń Wyrzutnia Kolczastych Bomb"
 		}
 	}
