@@ -652,7 +652,7 @@
 		"Particle system":
 			"Система частиц",
 		"Material particle system":
-			"Система частиц с материалом",
+			"Система частиц материала",
 		"Texture":
 			"Текстура",
 		"Audio":
@@ -678,7 +678,7 @@
 		"Copy to particle system library":
 			"Скопировать в библиотеку систем частиц",
 		"Copy to material particle system library":
-			"Скопировать в библиотеку частиц с материалом",
+			"Скопировать в библиотеку частиц материалов",
 		"Copy to blueprint library":
 			"Скопировать в библиотеку чертежей",
 		"Copy to blueprint library - current scene":
