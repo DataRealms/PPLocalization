@@ -1368,7 +1368,7 @@
 		"Golem Metal":
 			"Metal Golem",
 		"Golem Silicon":
-			"Silicon Golem,",
+			"Silicon Golem",
 		"Grenade Bounce":
 			"Bounce Grenade",
 		"Grenade Cold":
@@ -1558,27 +1558,27 @@
 		"Lump Water B":
 			"",
 		"Machine Camera Aurium":
-			"",
+			"Aurium Camera",
 		"Machine Catapult":
-			"",
+			"Catapult",
 		"Machine Dropper":
-			"",
+			"Dropper",
 		"Machine Laser Emitter":
-			"",
+			"Laser Emitter",
 		"Machine Proximity Sensor":
-			"",
+			"Proximity Sensor",
 		"Machine Sentry Camera":
-			"",
+			"Sentry Camera",
 		"Machine Sentry Gun":
-			"",
+			"Sentry Gun",
 		"Machine Space Teleporter":
-			"",
+			"Space Teleporter",
 		"Machine Switch":
-			"",
+			"Switch",
 		"Machine Terminal Info":
-			"",
+			"Info Terminal",
 		"Machine Terminal Sensor":
-			"",
+			"Sensor Terminal",
 		"Pioneer Crazy Bob":
 			"Crazy Bob",
 		"Pioneer Imperatus":
@@ -1622,7 +1622,7 @@
 		"Prototype Rifle Blast":
 			"",
 		"Prototype Rock Trap Rock":
-			"",
+			"Rock Trap",
 		"Prototype Rover Car":
 			"",
 		"Prototype SAM Site":
@@ -1744,7 +1744,7 @@
 		"Structure Moving Platform":
 			"",
 		"Structure Pin World":
-			"",
+			"World Pin",
 		"Structure Power Core":
 			"",
 		"Structure Resource Filler":
@@ -1752,7 +1752,7 @@
 		"Structure Respawn Station":
 			"",
 		"Structure Rope":
-			"",
+			"Rope",
 		"Structure Shop Manager":
 			"",
 		"Structure Shop Pioneers":
@@ -1868,7 +1868,41 @@
 		"Weapon Shotgun":
 			"Shotgun",
 		"Weapon Sticky Bomb Launcher":
-			"Sticky Bomb Launcher"
+			"Sticky Bomb Launcher",
+
+		//skeleton names, only translate those if you think its necceassry, feel free to change them to any funny names you can come up with or credit yourself here
+		"Frank":
+			"",
+		"John":
+			"",
+		"Erik":
+			"",
+		"Max":
+			"",
+		"J":
+			"",
+		"Dan":
+			"",
+		"Franz":
+			"",
+		"Anna":
+			"",
+		"Karl":
+			"",
+		"Theodora":
+			"",
+		"Marguerite":
+			"",
+		"Baxter":
+			"",
+		"Pascal":
+			"",
+		"Larson":
+			"",
+		"Griffith":
+			"",
+		"Cleo":
+			""
 
 		}
 }
