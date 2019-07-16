@@ -1,273 +1,273 @@
 { 
-	//english translation file for planetoid pioneers
+	//chinese translation file for planetoid pioneers
 	//(internal text is in english, so this is mostly a no-op -
 	// some strings use localisation IDs though, and their content
 	// is specified here.)
 	"info" : {
-		"id": "en",
-		"english_name": "English",
-		"localised_name": "English"
+		"id": "zh-Hans",
+		"english_name": "Simplified Chinese",
+		"localised_name": "ç®€ä½“ä¸­æ–‡"
 	},
-	"ÉÌµêÒ³Ãæ"£º{ 
-		//ÓÎÏ·ÃèÊö
-		"»¶Ó­À´µ½Ð¡ÐÐÐÇÏÈ·æ£¬¿Æ»ÃÎïÀí³±Á÷ÏÈ·æÓÎÏ·¡£QWOP°ãµÄ²Ù¿ØÓîº½Ô±Ì½Ë÷»ðÐÇÒÔÍâµÄÐ¡ÐÐÐÇ´ø¡£Ëü½¨Á¢ÔÚ¶ÀÌØµÄCrush2DÎïÀíÒýÇæÖ®ÉÏ£¬¿ÉÒÔÔÚÄãµÄÉ³·¢ÉÏÓëÄãµÄÅóÓÑÒ»ÆðÍæ£¬¿ÉÒÔ×ÔÓÉÑ¡ÔñºÏ×÷¼°¶ÔÕ½Ä£Ê½¡£"£º
-			""£¬
-		"ÄãÐèÒª¶ã±ÜÔÉÊ¯£¬Ó¦¶ÔËðÉËÒÔ¼°×°±¸±»Ë³ÊÖÇ£Ñò£¬Í¬Ê±ÌÓÀë¿ÉÅÂµÄµÐÈË£¬ÈÃÄãÍü¼ÇÄãÕýÔÚ²»Öª²»¾õ½øÈëÏÂÒ»¸öÏÝÚå¡£Äã¿ÉÒÔÑ¡Ôñ±à¼­ËùÃæÁÙµÄÌôÕ½·½°¸£¬»òÕßÔÚ±à¼­Æ÷ÖÐ´òÔìÒ»¸ö¸öÐÔ×¨ÊôµÄÐ¡ÐÐÐÇ´ø£¬ÕâÐ©±à¼­Æ÷ÏÖÔÚ¶¼°üº¬ÔÚ±ê×¼°æÖÐ¡£ ×Ô¼º¶¯ÊÖ£¬ÏíÊÜ¶ÔÊÖÔÚÄã¾«ÐÄ¹¹ÔìµÄ´óÌÓÉ±ÏÝÚåÖÐ´ôÃÈµÄÀÖÈ¤"£º
-			""£¬
-		"Èç¹ûÄã½ñÌìÑ¡Ôñ¹ºÂòºËÐÄ¹±Ï×°æ£¬Äú»¹¿ÉÒÔ·ÃÎÊ¹Ù·½µÄºËÐÄ¹±Ï×ÂÛÌ³·þÎñÆ÷£¬ÔÚÄÇÀïÄú¿ÉÒÔÓëÓÐ´´ÔìÁ¦µÄÈËÐ­×÷ºÍ·ÖÏíÄÚÈÝ£¬»¹¿ÉÒÔÖ±½ÓÓë¿ª·¢ÈËÔ±ÁÄÌì¡£"£º
-			""£¬
+	"å•†åº—é¡µé¢":{ 
+		//game description
+		"æ¬¢è¿Žæ¥åˆ°å°è¡Œæ˜Ÿå…ˆé”‹,è¿™æ˜¯ä¸€æ¬¾å¯Œåˆä½œæ€§çš„ç§‘å¹»ç‰©ç†æ¸¸æˆ.æ“çºµæ€ªæ€ªçš„è€å®‡èˆªå‘˜(æœ‰ç‚¹åƒQWOPæ¸¸æˆé‚£æ ·ç§»åŠ¨ç€çš„ä¼šè‡ªå·±æ‘”å€’çš„é‚£ä½ï¼)æ¥æŽ¢ç´¢ç«æ˜Ÿä»¥å¤–çš„å°è¡Œæ˜Ÿå¸¦.æ­¤æ¸¸æˆå»ºç«‹åœ¨ç‹¬ç‰¹çš„Crush2Dç‰©ç†å¼•æ“Žä¹‹ä¸Š,ä½ å¯ä»¥åœ¨æ²™å‘ä¸Šå’Œæœ‹å‹ç•…çŽ©è¿™å…·æœ‰ä¸æ»‘æ“ä½œ,ä½“éªŒä¸€ç§å³æ¡å³ç”¨åž‹åˆºæ¿€æˆ˜æ–—,åŒæ—¶èƒ½è‡ªç”±é€‰æ‹©åˆä½œæˆ–æ˜¯å¯¹æˆ˜æ¨¡å¼çš„ä½³ä½œ.":
+			"",
+		"ä½ éœ€è¦èº²é¿è½çŸ³,åº”å¯¹æŸä¼¤ä»¥åŠè£…å¤‡è¢«é¡ºæ‰‹ç‰µç¾Šçš„æƒ…å†µ,åœ¨é€ƒç¦»å¯æ€•çš„æ•Œäººçš„åŒæ—¶,è®©ä½ å¿˜è®°ä½ å…¶å®žæ­£åœ¨ä¸çŸ¥ä¸è§‰è¿›å…¥ä¸‹ä¸€ä¸ªé™·é˜±ï¼ä½ å¯ä»¥ç”¨åˆ«å…·ä¸€æ ¼çš„æ€è·¯åº”å¯¹å‰è·¯çš„æŒ‘æˆ˜,æˆ–è€…è‡ªå·±åŠ¨æ‰‹åœ¨ç¼–è¾‘å™¨ä¸­æ‰“é€ å±žäºŽä½ çš„å°è¡Œæ˜Ÿå¸¦(è¿™äº›ç¼–è¾‘å™¨çŽ°åœ¨éƒ½åŒ…å«åœ¨æ ‡å‡†ç‰ˆä¸­). ç¬‘çœ‹å¯¹æ‰‹åœ¨ä½ ç²¾å¿ƒæž„å»ºçš„é–æˆ˜ä¹±ä¸–ä¸­è‹Ÿæ´»å§":
+			"",
+		"å¦‚æžœä½ çŽ°åœ¨è´­ä¹°æ ¸å¿ƒè´¡çŒ®è€…ç‰ˆæ¸¸æˆ,æ‚¨è¿˜å¯ä»¥å¾—åˆ°è®¿é—®å®˜æ–¹æ ¸å¿ƒè´¡çŒ®è®ºå›æœåŠ¡å™¨çš„æƒé™,åœ¨é‚£é‡Œæ‚¨å¯ä»¥ä¸Žæœ‰åˆ›é€ åŠ›çš„äººä»¬ä¸€èµ·åä½œå’Œå…±äº«å†…å®¹,è¿˜å¯ä»¥ç›´æŽ¥ä¸Žå¼€å‘äººå‘˜èŠå¤©.":
+			"",
 		//short description, it can not be longer than the english one
-		"Í¨¹ý[b]ºÏ×÷ [/ b]¶ÔÕ½£¬³¬ÏÖÊµ¹¹Öþ£¬Ì½Ë÷Õâ¸ö»·×´ÊÀ½ç£¡ÓÃÇ¿´óµÄÒýÇæºÍ¼¯³ÉµÄÓÎÏ·¿ª·¢¹¤¾ß½«Äã×Ô¼ºµÄÓÎÏ·ÀíÄî±äÎªÏÖÊµ¡£Ã¿¸öÐ¡ÐÐÐÇ¶¼ÊÇÒ»¸öÍêÈ«¶ÀÁ¢µÄÓÎÏ·Ä£Ê½£¬Äã¿ÉÒÔÍêÈ«±à¼­ºÍÇáËÉ·ÖÏí£¡"£º
-			""£¬
+		"é€šè¿‡[b]åˆä½œ [/ b]å¯¹æˆ˜,æ·±å…¥æŽ¢ç´¢,äº¦åˆ¶é€ äº›è®¸æ»‘ç¨½çŽ©ç‰©åœ¨è¿™ä¸ªæ— å¤„ä¸ç‰©ç†çš„çƒå½¢ä¸–ç•Œï¼æ­¤å¤–å¼ºå¤§å¼•æ“Žå’Œé«˜åº¦é›†æˆçš„å¼€å‘ç¼–è¾‘å·¥å…·ä½¿ä½ èƒ½é«˜åº¦å®šåˆ¶æ­¤æ¸¸æˆ.æ¯ä¸ªè¡Œæ˜Ÿéƒ½æ˜¯å„è‡ªå­¤ç«‹,å¹¶ä¸”ä½ èƒ½å®Œå…¨ç¼–è¾‘ä¸Žåˆ†äº«çš„æ¸¸æˆæ¨¡å¼":
+			"",
 		//game title description
-		"ÏÖÔÚ°üÀ¨ËùÓÐ±à¼­"£º
-			""£¬ 
+		"çŽ°åœ¨å†…ç½®å…¨å†…å®¹ç¼–è¾‘å™¨":
+			"", 
 		//workshop description
-		"×¨ÎªÓÃ»§µÄ´´ÔìÁ¦ºÍ·ÖÏí¶øÉè¼Æ£¬Ð¡ÐÐÐÇÏÈ·æÖ§³Ö¹±Ï×ÕßÉçÇø£¬ËûÃÇµÄ»¥¶¯³É¹û¿ÉÒÔÔÚÓÎÏ·Àï±»·ÖÏí£º°üÀ¨À¶Í¼ºÍÕû¸öÐ¡ÐÐÐÇ´ø"£º
-			""£¬
+		"å·¥åŠä¸“ä¸ºç”¨æˆ·çš„åˆ›é€ åŠ›å’Œåˆ†äº«éœ€æ±‚è€Œè®¾è®¡,å°è¡Œæ˜Ÿå…ˆé”‹æ”¯æŒè´¡çŒ®è€…ç¤¾åŒºâ€”â€”â€”â€”ä»–ä»¬çš„æˆæžœåŒ…æ‹¬è“å›¾å’Œæ•´ä¸ªå°è¡Œæ˜Ÿå¸¦":
+			"",
 		//contributor dlc (just translate 'Upgrade to')
-		"{PLANETOID PIONEERS} Éý¼¶ {CONTRIBUTOR EDITON}":
-			""£¬
+		"{PLANETOID PIONEERS} å‡çº§ {CONTRIBUTOR EDITON}":
+			"",
 		//contributor dlc description
-		"´ÓÆÕÍ¨µÄÓÎÏ·°æÉý¼¶µ½ÍêÕûµÄºËÐÄ¹±Ï×°æ£¬ÆäÉÌÒµ¼¶±à¼­Æ÷±»¹Ù·½¿ª·¢ÍÅ¶ÓºÍ³äÂú»îÁ¦µÄ¹±Ï×ÕßÉçÇøÓÃÀ´¹¹½¨ÄãÔÚÓÎÏ·ÖÐ¿´µ½µÄËùÓÐÔªËØ£¡"£º
+		"ä»Žæ™®é€šç‰ˆå‡çº§åˆ°å®Œæ•´çš„æ ¸å¿ƒè´¡çŒ®ç‰ˆ,æ¥èŽ·å¾—å•†ä¸šçº§çš„å¼ºå¤§ç¼–è¾‘å™¨:è¢«å®˜æ–¹å¼€å‘å›¢é˜Ÿå’Œå……æ»¡æ´»åŠ›çš„ç¤¾åŒºè´¡çŒ®è€…ç”¨æ¥æž„å»ºä½ åœ¨æ¸¸æˆä¸­çœ‹åˆ°çš„æ‰€æœ‰å…ƒç´ çš„ç¼–è¾‘å™¨ï¼":
 			"" 
-	} £¬
-	"translations"£º{ 
+	} ,
+	"translations":{ 
 		//asteroid belt UI
 
 		//planetoid panel
 		//labels/description/etc
-		"Ð¡ÐÐÐÇ´øÖ÷ÐÇ": //little planetoid flag in top right
-			"Ð¡ÐÐÐÇ",
-		"Ä¿±ê":
+		"å°è¡Œæ˜Ÿå¸¦ä¸»æ˜Ÿ": //little planetoid flag in top right
+			"å°è¡Œæ˜Ÿ",
+		"ç›®æ ‡":
 			"",
-		"ÄÑ¶È: {DIFFICULTY}":
+		"éš¾åº¦: {DIFFICULTY}":
 			"",
-		"Ê±¼ä: {TIME_ESTIMATE}":
+		"æ—¶é—´: {TIME_ESTIMATE}":
 			"",
-		"ABUI By {AUTHOR}":
+		"æ¥è‡ªäºŽ{AUTHOR}":
 			"By {AUTHOR}",
 
 		//settings
-		"±êÖ¾ÉèÖÃ"£º//the little flag in the top left
+		"æ ‡å¿—è®¾ç½®"://the little flag in the top left
 			"Settings",
-		"ÉèÖÃ"£º
-			""£¬
-		"µ÷ÕûÒôÁ¿"£º
-			""£¬
-		"ÉùÒô"£º
-			""£¬
-		"ÒôÀÖ"£º
-			" "£¬
-		"ÓïÒô"£º
-			""£¬
-		"ÊÓÆµÉèÖÃ"£º
-			""£¬
-		"Íê³É"£º
-			""£¬
-		"ÍË³öÓÎÏ·"£º
-			""£¬
-		"Î£ÏÕÇø£¡"£º
-			""£¬
-		"³ö³§ÖØÖÃ"£º
-			""£¬
-		"Steam Workshop"£º
-			""£¬
-		"×Ô¶¯ÏÂÔØÄÚÈÝ"£º
-			""£¬
+		"è®¾ç½®":
+			"",
+		"è°ƒæ•´éŸ³é‡":
+			"",
+		"å£°éŸ³":
+			"",
+		"èƒŒæ™¯éŸ³ä¹":
+			" ",
+		"è¯­éŸ³éŸ³é‡":
+			"",
+		"ç”»è´¨è®¾ç½®":
+			"",
+		"å®Œæˆ":
+			"",
+		"é€€å‡ºæ¸¸æˆ":
+			"",
+		"è­¦å‘Šï¼":
+			"",
+		"å‡ºåŽ‚é‡ç½®":
+			"",
+		"Steamå·¥ä½œåŠ":
+			"",
+		"è‡ªåŠ¨ä¸‹è½½æ›´æ–°çš„å†…å®¹":
+			"",
 		//buttons
-		"¿ªÊ¼£¡"£º
-			""£¬
-		"¼ÌÐø"£º
-			""£¬
-		"ÖØÐÂÆô¶¯"£º
-			""£¬
+		"å¼€å§‹ï¼":
+			"",
+		"ç»§ç»­":
+			"",
+		"é‡è¯•":
+			"",
 
 		//video settings 
-			""£¬ 
-		"ÊÓÆµÉèÖÃ"£º
-			""£¬
-		"ÇøÓòÉèÖÃ"£º
-			""£¬
-		"ºóÍË"£º
-			""£¬
-		"ÏÔÊ¾Ä£Ê½"£º
-			""£¬
-		"È«ÆÁ"£º
-			""£¬
-		"ÎÞ±ß¿ò"£º
-			""£¬
-		"´°¿Ú"£º
-			""£¬
-		"·Ö±æÂÊ"£º
-			"" £¬
-		"ÄÄ¸öÏÔÊ¾Æ÷"£º
-			""£¬
-		"Ó¦ÓÃ"£º
-			""£¬
+			"", 
+		"ç”»è´¨è®¾ç½®":
+			"",
+		"åŒºåŸŸè®¾ç½®":
+			"",
+		"è¿”å›ž":
+			"",
+		"æ˜¾ç¤ºæ¨¡å¼":
+			"",
+		"å…¨å±":
+			"",
+		"æ— è¾¹çª—å£åŒ–":
+			"",
+		"çª—å£åŒ–":
+			"",
+		"åˆ†è¾¨çŽ‡":
+			"" ,
+		"å“ªä¸ªæ˜¾ç¤ºå™¨":
+			"",
+		"åº”ç”¨":
+			"",
 
 		////////////////////////////////// //////////////////////////////////// / 
 		//voiceovers 
 
 		//crazy bob on primoid
-		"ÄãÄÜÏàÐÅÕâ¸öÂð£¿£¡"£º
-			""£¬
-		"ÈÃÎÒÃÇÊÔÊÔÕâ°ÑÇ¹°É£¡"£º 
-			""£¬
-		"Oookay£¬ÄÇÊÇ²»ÏéµÄ"£º
-                        ""£¬
-		"¸ÃËÀµÄÄñ!!"£º
-			""£¬
-		"×çÖäÕâÐ©Äñ!!"£º 
-			""£¬
-		"ÓÃË«ÊÖ×ÔÓÉÅÊÅÀ¸üÈÝÒ×......"£º
-			""£¬
-		"ÎÒ¿¿!!"£º
-			""£¬
-		"³¢³¢Õâ¸ö!!"£º
-			"" £¬
-		"·ÉÐÐ¼ÇÂ¼ÒÇÏÔÊ¾ÁËÒ»¸ö»ð¼ý²ÖÃÅ£¬ÔÚÀëÕâÀï²»Ô¶µÄ¶«±ß¡£ÎÒÃÇ×îºÃÈ¥¿´¿´ÊÇ·ñÓÃµÃ×Å£¡"£º
-			""£¬
-		"ÕâÐ©ÊÇÉ¶£¿"£º
-			""£¬
-		"WHOAAAAAAAA !!"£º
-			""£¬
-                 "Åé£¡"£º
-			""£¬
-		"Ò²ÐíËûÃÇ²¢Ã»ÓÐÊÔÍ¼°ÑÊÂÇé¸ãÔÒ......¶øÊÇÎªÁË±£ÁôÒ»Ð©¶«Î÷£¡£¿"£º
-			""£¬
-		"²»  - ÎÒµÄ´¬!!"£º
-			""£¬
-		"°²Ï¢°É£¬ÎÒµÄ±¦´¬......"£º
-			""£¬
-		"ÏÖÔÚÎÒ±»À§ÔÚÕâ¿éÑÒÊ¯ÉÏÁË£¡"£º 
-			""£¬ 
-			""£¬
-		"ÄÇÊÇÎÒµÄÌ«¿ÕÓÎÍ§......"£º
-			""£¬
-		"ºÃ°É£¬ÄÇ²»Ì«°²È«......"£º
-			""£¬
-		"ÎÒ²»Ï²»¶Õâ¸öµØ·½µÄÍâ¹Û£¬ÆøÎ¶»ò¸Ð¾õ......Ì«ð¤ºý¡£"£º
-			""£¬
-		"¹Ö¹Ö£¬¶ÀÑÛ¾ÞÈË£¡"£º
-			""£¬
-		"Èë¿ÓÌ«Éî£¬Éí²»ÓÉ¼º¡£"£º
-			""£¬
-		"ÄÇÊÇÊ²Ã´ÉñÆ÷£¿"£º
-			""£¬
-		" ºðºð£¬Ò»¸öÒÆ¶¯µÄ½ÊÈâ»ú¹ÖÎï£¡"£º
-			""£¬
-		"³¢³¢Õâ¸ö£¬²ö×ìµÄ´ó¼Ò»ï!!"£º
-			""£¬
-		"ÈíÅ¿Å¿!!"£º
-			""£¬
-		"ÎÒ¸Ò´ò¶Ä£¬ÎÒÏÖÔÚÒÑ¾­ÊÔ¹ý×îÔã¸âµÄ¹ÖÎïÁË£¡"£º 
-			""£¬
-		"ÏÂ°Í´ò²üÉùÒô·¢²ü £¡"£º
-			""£¬
-		"Ï£ÍûÎÒÓÐÐ©É¶ÄÜ±£»¤ÄÔ´ü......£¡"£º
-			""£¬
-		"¸øÎÒÀ´µã´Ì¼¤µÄ"£º
-			""£¬
-		"ÎÒÈÏÎªËûÃÇÕýÔÚ³¢ÊÔ¸æËßÎÒÊ²Ã´......"£º
-			""£¬
-		"ÓÐÄÇÃ´Ò»¿ÌÎÒÒÔÎªÎÒ»áÍêµ°......ÇÐ£¬ÔõÃ´¿ÉÄÜ¡£"£º
-			""£¬
-		"ÕâÀï²¢²»ÍêÈ«·è¿ñ......"£º
-			""£¬
-		"Å®ºº×Ó"£º
-			""£¬
-		"ÎÒÖ»ÐèÒªÕÒ¼¸¸ö»ð¼ý²¿¼þ£¬ÎÒ¾Í»áÓÐÒ»¸öÍêÕûµÄÀ¶Í¼£¡"£º
-			""£¬
-		"°ÑËüÃÇ¸ÏÅÜ£¡"£º
-			"" £¬
-		"ÈÃÎÒÃÇ¿´¿´Õâ¸öÐÜº¢×ÓÄÜ×öÐ©Ê²Ã´£¡"£º
-		"ÉúÃü²»Ï¢£¬Õ½¶·²»Ö¹¡£"£º
-			""£¬
-		"½â¾öÁËÒ»¸ö´ó¼Ò»ï£¡"£º
-			""£¬
-		"·ÛºìÉ«...×ÏÉ«......·ÛºìÉ«£¿£¡"£º
-			""£¬
-		"¿´¿´ÄÇ¸ö¿É°®µÄÐ¡¼Ò»ï - ¿´ÆðÀ´ºÃÏñÄÜÐ¯´øÒ»Ð©×ÊÔ´£¡"£º
-			""£¬
-		" ¶¡¶¡¶¡ - ±ùÈËÕ¼ÉÏ·ç!!" £º
-			""£¬
-		"ÕâÐ©·ÏÁÏ¶Ñ²»ÊÊºÏÎÒ - ËûÃÇ±¾À´¿ÉÒÔ¸üÔã¸â£¡Õâ²»ÏñËûÃÇÓÐ»ðÑæÅçÉäÆ÷»òÈÎºÎ¶«Î÷......"£º
-			""£¬
-		"ÕâÐ©ÊÇ»ð¼ýµÄËéÆ¬¡£ÎÒÖªµÀ£¬ÒòÎªËü¿´ÆðÀ´ÏñÊÇ»ð¼ýµÄËéÆ¬£¡"£º 
-			""£¬
-		"ÄÇÐ©÷¼÷Ã......¼â½Ð£¿£¡"£º
-			""£¬
-		"ÕâÐ©½¨ÖþÎïÊÇ......£¿"£º
-			""£¬
-		"ÕâÐ©¼Ò»ï·¢ÉúÁËÊ²Ã´ÊÂ£¿£¡"£º
-			""£¬
-		"Ææ¹ÖµÄÒ°ÊÞµñ¿Ì³öÁËÕâÐ©±ù¶´£¿"£º
-			""£¬
-		"¹ûÈ»ÊÇ¸ö´ó¼Ò»ï£¡"£º
-			""£¬
-		"ºÃ³Ô!!"£º
-			""£¬
-		"¿¿£¬ÎÒÔõÃ´ÄÜÌøÕâ¸ö»ðÈ¦£¿£¡"£º
-			""£¬
-		"×çÖäÕâÐ©ÓÐÓðÃ«µÄº¦³æ£¡"£º
-			""£¬
-		"Õâ½«ÊÇÒ»¸ö½¨ÔìºÍÆð·É»ð¼ýµÄºÃµØ·½£¡"£º
-			""£¬
-		"²ÂÎÒµÄÊÖÉÏÓÐ¸öÑ°±¦ÒÇ£¡"£º
-			""£¬
-		"µÃµ½ËùÓÐÄÇÐ©»ð¼ý²¿¼þÀ´Àë¿ªÕâ¿éÑÒÊ¯£¡"£º 
-			""£¬
-		"´ó°®Õâ¸ö×°ÅäÆ÷ - ¾Ó¼ÒÂÃÐÐ³£±¸"£º
-			""£¬
-		"¸ã¶¨£¡"£º
-			""£¬
-		"ÎÒ²ÂËûÃÇÔÚÕâÀïÌÔ½ð ......"£º
-			" "£¬
-		"ÕâÊÇÒ»ÖÖÓÐÒæ½¡¿µµÄÏíÊÜ£¡"£º
-			""£¬
-		"ºÙ£¬ÄãÓÐÃ»ÓÐ±»»÷ÖÐ£¿£¡"£º
-			""£¬
-		"Å¶£¬ÄãÏëÒªÒ»¸öÈ­Í·£¿£¡ÈÃÎÒÃÇ¿´¿´ÄãÄÜµÃµ½Ê²Ã´......±ùÈË¶Ô±ù³æ£¡"£º
-			""£¬
-		"ÍÛ£¬ÎÒÕæµÄ»³ÒÉÎÒÊÇ·ñÄÜ×öµ½ÕâÒ»µã - ÕæÊÇ¸Ü¸ËµÄ£¡"£º
-			""£¬
-		"ÎÒÈÏÎªµØÉÏµÄ¶«Î÷ÊÇÌ¦Þº......»òÕßÊÇÍâÐÇÈËòùòðÄñ·à£¿£¡¶ñ¡£"£º
-			""£¬
-		"ÎÒ×îºÃÈ¥¿´¿´ÎÒµÄÌÓÒÝ²Õ×¹»ÙµÄµØ·½ - Ò²ÐíËü»áÓÐÒ»Ð©ÓÐÓÃµÄ¶«Î÷£¡"£º 
-			""£¬
-		"ÅçÎíÆ÷¸ù±¾²»ÄÜ´¦ÀíÎÙ½ð¡£"£º
-			""£¬
-		"ÅçÎíÆ÷²»»á¶ÔËüÈÏÎª»î×Å»ò×ÔÖ÷µÄÈÎºÎ¶«Î÷Æð×÷ÓÃ......"£º
-			""£¬
-		"Ò»¸ö°²È«ÌØÕ÷£¬ËûÃÇÕâÃ´º°Ëü¡£Ò»¸ö·³ÈËµÄ±£Ä·£¬ÎÒµÄ³Æºô¡£"£º
-			""£¬
-		"ÎÒµÃÀë¿ªÕâ¿éÊ¯Í·..."£º
-			""£¬
-		"ÎÒ¶Ô¿ÉÄÜÊØ»¤ºËÐÄµÄ¶«Î÷ÓÐÒ»ÖÖ²»ºÃµÄ¸Ð¾õ..."£º
-			"ÎÒ¶Ô¿ÉÄÜÊØ»¤ºËÐÄµÄ¶«Î÷¸Ð¾õ²»ºÃ......"£¬
-		"ÎÒÒª×÷Ò»¸ö´ó¼åµ°¾í!!"£º
-			""£¬
-		"Ëü»á²»»áÊÇ...... ÎÙ½ð£¿£¡"£º
-			""£¬
-		"ÎÒàê£¡"£º
-			""£¬
-		"ÎÒ×öµ½ÁË£¡"£º
-			""£¬
-		"ÏÖÔÚ£¬ÎÒÔõÃ´¿ªÊ¼Õâ¸ö......"£º 
-			""£¬
-		"ÈÃÎÒÃÇÊÔÊÔÕâ¸ö´óºìÉ«°´Å¥£¡"£º 
-			""£¬
-		"¾ÍÊÇÕâÑù£¡µ¹Êý5,4,3,2,1 ......"±¬Õ¨£º
-			""£¬
-		"ÎÒÃÇÒÑ¾­Æð·É£¬±¦±´£¡"£º
-			""£¬
-		"ÍÛ£¡"£º
-			""£¬
-		"¿¿£¬ÄÇÊÇÊ²Ã´£¿Ã»ÓÐÈ¼ÁÏ£¿"£º
-			""£¬
-		"Å¶²»£¡Å¶²»£¬²»£¬²»£¡"£º
-			""£¬
+		"è¿™ä½ æ•¢ä¿¡ï¼Ÿï¼(æˆ‘åæ­£ä¿¡äº†)":
+			"",
+		"è®©æˆ‘ä»¬è¯•è¯•è¿™æŠŠæžªå§ï¼": 
+			"",
+		"æˆ‘åŽ»,çœŸæ™¦æ°”":
+                        "",
+		"è¯¥æ­»çš„é¸Ÿ!!":
+			"",
+		"æ„¿è¿™äº›é¸Ÿå…¨ä¸‹åœ°ç‹±è¢«çƒ§æˆæ¸£!!": 
+			"",
+		"ä¸¤æ‰‹ç©ºç©º,çˆ¬å¾—è½»æ¾...":
+			"",
+		"æˆ‘æ”¶å›žå‰è¨€!!":
+			"",
+		"å°å°è¿™ä¸ª!!":
+			"" ,
+		"é£žè¡Œè®°å½•ä»ªæ˜¾ç¤ºäº†ä¸€ä¸ªåœ¨ä¸œè¾¹ç¦»æ­¤ä¸è¿œçš„ç«ç®­ä»“é—¨.æˆ‘ä»¬æœ€å¥½åŽ»çœ‹çœ‹æ˜¯å¦ç”¨å¾—ç€ï¼":
+			"",
+		"è¿™äº›ç»“æž„æ˜¯å•¥ï¼Ÿ":
+			"",
+		"å§æ§½!!":
+			"",
+                 "ç °ï¼":
+			"",
+		"ä¹Ÿè®¸ä»–ä»¬å¹¶æ²¡è¯•å›¾è®©ä¸€äº›ä¸œè¥¿å‡ºåŽ»......è€Œæ˜¯ä¸ºäº†è®©ä¸€äº›ä¸œè¥¿[b]è¿›æ¥[/b]ï¼ï¼Ÿ":
+			"",
+		"åˆ«å•Šï¼ - æˆ‘çš„èˆ¹!!":
+			"",
+		"å®‰æ¯å§,æˆ‘çš„å®èˆ¹......":
+			"",
+		"çŽ°åœ¨æˆ‘è¢«å›°åœ¨è¿™å—å²©çŸ³ä¸Šäº†ï¼": 
+			"", 
+			"",
+		"é‚£æ˜¯æˆ‘çš„å¤ªç©ºæ¸¸è‰‡......":
+			"",
+		"å—¯â€¦é‚£å¯ä¸å¤ªå®‰å…¨......":
+			"",
+		"æˆ‘ä¸å–œæ¬¢è¿™ä¸ªåœ°æ–¹çš„å¤–è§‚,æ°”å‘³æˆ–æ„Ÿè§‰......å¤ªé»ç³Š.":
+			"",
+		"æ€ªæ€ª,ç‹¬çœ¼å·¨äººï¼":
+			"",
+		"å…¥å‘å¤ªæ·±,èº«ä¸ç”±å·±.":
+			"",
+		"é‚£æ˜¯ä»€ä¹ˆç¥žå™¨ï¼Ÿ":
+			"",
+		" å¼å¼,ä¸€ä¸ªç§»åŠ¨çš„ç»žè‚‰æœºæ€ªç‰©ï¼":
+			"",
+		"å°å°è¿™ä¸ª,é¦‹å˜´çš„å¤§å®¶ä¼™!!":
+			"",
+		"å°±åƒè·³åœ¨é‡Œæ ¹ç³–ä¸Šé¢ä¸€æ ·!!":
+			"",
+		"æˆ‘æ•¢æ‰“èµŒ,æˆ‘çŽ°åœ¨å·²ç»è¯•è¿‡æœ€ç³Ÿç³•çš„æ€ªç‰©äº†ï¼": 
+			"",
+		"é‚£äº›åŠ¨ç€ä¸‹å·´çš„ä¸œè¥¿è®©æˆ‘é¢¤æ — ï¼":
+			"",
+		"å¸Œæœ›æˆ‘æœ‰äº›å•¥èƒ½ä¿æŠ¤è„‘è¢‹......ï¼":
+			"",
+		"ç»™æˆ‘æ•´ç‚¹åˆºæ¿€çš„ï¼å°±åƒéª‘æœ€é‡Žçš„ç‹—ï¼":
+			"",
+		"æˆ‘è®¤ä¸ºä»–ä»¬æ­£å°è¯•å‘Šè¯‰æˆ‘ä»€ä¹ˆ......":
+			"",
+		"æœ‰é‚£ä¹ˆä¸€åˆ»æˆ‘ä»¥ä¸ºæˆ‘ä¼šå®Œè›‹......åˆ‡,æ€Žä¹ˆå¯èƒ½.":
+			"",
+		"è¿™é‡Œå¹¶ä¸å®Œå…¨ç–¯ç‹‚......":
+			"",
+		"å¥³æ±‰å­":
+			"",
+		"æˆ‘åªéœ€è¦æ‰¾å‡ ä¸ªç«ç®­éƒ¨ä»¶,æˆ‘å°±ä¼šæœ‰ä¸€ä¸ªå®Œæ•´çš„è“å›¾ï¼":
+			"",
+		"æŠŠå®ƒä»¬èµ¶è·‘ï¼":
+			"" ,
+		"è®©æˆ‘ä»¬çœ‹çœ‹è¿™ä¸ªç†Šå­©å­èƒ½åšäº›ä»€ä¹ˆï¼":
+		"ç”Ÿå‘½ä¸æ¯,æˆ˜æ–—ä¸æ­¢.":
+			"",
+		"è§£å†³äº†ä¸€ä¸ªå¤§å®¶ä¼™ï¼":
+			"",
+		"ç²‰çº¢è‰²...ç´«è‰²......ç²‰çº¢è‰²ï¼Ÿï¼":
+			"",
+		"çœ‹çœ‹é‚£ä¸ªå¯çˆ±çš„å°å®¶ä¼™ - çœ‹èµ·æ¥å¥½åƒèƒ½æºå¸¦ä¸€äº›èµ„æºï¼":
+			"",
+		" ä¸ä¸ä¸ - å†°äººå ä¸Šé£Ž!!" :
+			"",
+		"è¿™äº›åºŸæ–™å †ä¸é€‚åˆæˆ‘ - ä»–ä»¬æœ¬æ¥å¯ä»¥æ›´ç³Ÿç³•ï¼è¿™ä¸åƒä»–ä»¬æœ‰ç«ç„°å–·å°„å™¨æˆ–ä»»ä½•ä¸œè¥¿......":
+			"",
+		"è¿™äº›æ˜¯ç«ç®­çš„ç¢Žç‰‡.æˆ‘çŸ¥é“,å› ä¸ºå®ƒçœ‹èµ·æ¥åƒæ˜¯ç«ç®­çš„ç¢Žç‰‡ï¼": 
+			"",
+		"é‚£äº›éª·é«…......å°–å«ï¼Ÿï¼":
+			"",
+		"è¿™äº›å»ºç­‘ç‰©æ˜¯......ï¼Ÿ":
+			"",
+		"è¿™äº›å®¶ä¼™å‘ç”Ÿäº†ä»€ä¹ˆäº‹ï¼Ÿï¼":
+			"",
+		"å¥‡æ€ªçš„é‡Žå…½é›•åˆ»å‡ºäº†è¿™äº›å†°æ´žï¼Ÿ":
+			"",
+		"æžœç„¶æ˜¯ä¸ªå¤§å®¶ä¼™ï¼":
+			"",
+		"å¥½åƒ!!":
+			"",
+		"é ,æˆ‘æ€Žä¹ˆèƒ½è·³è¿™ä¸ªç«åœˆï¼Ÿï¼":
+			"",
+		"è¯…å’’è¿™äº›æœ‰ç¾½æ¯›çš„å®³è™«ï¼":
+			"",
+		"è¿™å°†æ˜¯ä¸€ä¸ªå»ºé€ å’Œèµ·é£žç«ç®­çš„å¥½åœ°æ–¹ï¼":
+			"",
+		"çŒœæˆ‘çš„æ‰‹ä¸Šæœ‰ä¸ªå¯»å®ä»ªï¼":
+			"",
+		"å¾—åˆ°æ‰€æœ‰é‚£äº›ç«ç®­éƒ¨ä»¶æ¥ç¦»å¼€è¿™å—å²©çŸ³ï¼": 
+			"",
+		"å¤§çˆ±è¿™ä¸ªè£…é…å™¨ - å±…å®¶æ—…è¡Œå¸¸å¤‡":
+			"",
+		"æžå®šï¼":
+			"",
+		"æˆ‘çŒœä»–ä»¬åœ¨è¿™é‡Œæ·˜é‡‘ ......":
+			" ",
+		"è¿™æ˜¯ä¸€ç§æœ‰ç›Šå¥åº·çš„äº«å—ï¼":
+			"",
+		"å˜¿,ä½ æœ‰æ²¡æœ‰è¢«å‡»ä¸­ï¼Ÿï¼":
+			"",
+		"å“¦,ä½ æƒ³è¦ä¸€ä¸ªæ‹³å¤´ï¼Ÿï¼è®©æˆ‘ä»¬çœ‹çœ‹ä½ èƒ½å¾—åˆ°ä»€ä¹ˆ......å†°äººå¯¹å†°è™«ï¼":
+			"",
+		"å“‡,æˆ‘çœŸçš„æ€€ç–‘æˆ‘æ˜¯å¦èƒ½åšåˆ°è¿™ä¸€ç‚¹ - çœŸæ˜¯æ æ†çš„ï¼":
+			"",
+		"æˆ‘è®¤ä¸ºåœ°ä¸Šçš„ä¸œè¥¿æ˜¯è‹”è—“......æˆ–è€…æ˜¯å¤–æ˜Ÿäººè™è é¸Ÿç²ªï¼Ÿï¼æ¶.":
+			"",
+		"æˆ‘æœ€å¥½åŽ»çœ‹çœ‹æˆ‘çš„é€ƒé€¸èˆ±å æ¯çš„åœ°æ–¹ - ä¹Ÿè®¸å®ƒä¼šæœ‰ä¸€äº›æœ‰ç”¨çš„ä¸œè¥¿ï¼": 
+			"",
+		"å–·é›¾å™¨æ ¹æœ¬ä¸èƒ½å¤„ç†é’¨é‡‘.":
+			"",
+		"å–·é›¾å™¨ä¸ä¼šå¯¹å®ƒè®¤ä¸ºæ´»ç€æˆ–è‡ªä¸»çš„ä»»ä½•ä¸œè¥¿èµ·ä½œç”¨......":
+			"",
+		"ä¸€ä¸ªå®‰å…¨ç‰¹å¾,ä»–ä»¬è¿™ä¹ˆå–Šå®ƒ.ä¸€ä¸ªçƒ¦äººçš„ä¿å§†,æˆ‘çš„ç§°å‘¼.":
+			"",
+		"æˆ‘å¾—ç¦»å¼€è¿™å—çŸ³å¤´...":
+			"",
+		"æˆ‘å¯¹å¯èƒ½å®ˆæŠ¤æ ¸å¿ƒçš„ä¸œè¥¿æœ‰ä¸€ç§ä¸å¥½çš„æ„Ÿè§‰...":
+			"æˆ‘å¯¹å¯èƒ½å®ˆæŠ¤æ ¸å¿ƒçš„ä¸œè¥¿æ„Ÿè§‰ä¸å¥½......",
+		"æˆ‘è¦ä½œä¸€ä¸ªå¤§ç…Žè›‹å·!!":
+			"",
+		"å®ƒä¼šä¸ä¼šæ˜¯...... é’¨é‡‘ï¼Ÿï¼":
+			"",
+		"æˆ‘åš“ï¼":
+			"",
+		"æˆ‘åšåˆ°äº†ï¼":
+			"",
+		"çŽ°åœ¨,æˆ‘æ€Žä¹ˆå¼€å§‹è¿™ä¸ª......": 
+			"",
+		"è®©æˆ‘ä»¬è¯•è¯•è¿™ä¸ªå¤§çº¢è‰²æŒ‰é’®ï¼": 
+			"",
+		"å°±æ˜¯è¿™æ ·ï¼å€’æ•°5,4,3,2,1 ......çˆ†ç‚¸ï¼":
+			"",
+		"æˆ‘ä»¬å·²ç»èµ·é£ž,å®è´ï¼":
+			"",
+		"å“‡ï¼":
+			"",
+		"é ,é‚£æ˜¯ä»€ä¹ˆï¼Ÿæ²¡æœ‰ç‡ƒæ–™ï¼Ÿ":
+			"",
+		"å“¦ä¸ï¼å“¦ä¸,ä¸,ä¸ï¼":
+			"",
 
 		//info terminals
 		//(got to collect the strings from each scene)
@@ -275,7 +275,7 @@
 			"",
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"",
-		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __½ð×Ó Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
+		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __é‡‘å­ Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
 			"",
 
 		//scene descriptions and goals
@@ -288,1573 +288,1586 @@
 
 		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
 
-		"Primoid"£º
-			""£¬
-		"ÕâÊÇ·è¿ñµÄ±«²ªÔÚËûµÄºÀ»ªÌ«¿ÕÓÎÍ§ÉÏµÄÃ°ÏÕ¹ÊÊÂ£¬ËüÏÝÈëÁË±»³ÆÎªPrimoidµÄ¾Þ´óµÄÐ¡ÐÐÐÇ .Bob±ØÐëÌ½Ë÷Æä×îÉîµÄÃØÃÜºÍºÚ°µÀúÊ·£¬ÖØÐÂ´òÔìÒ»Ã¶»ð¼ýÍÑÀëÕâ¸ö·Ç³£Î£ÏÕµÄµØ·½£¡"£º
+		"åºç« ":
+			"",
+		"è¿™æ˜¯ç–¯ç‹‚é²å‹ƒåœ¨ä»–çš„è±ªåŽå¤ªç©ºæ¸¸è‰‡ä¸Šçš„å†’é™©æ•…äº‹,å®ƒé™·å…¥äº†è¢«ç§°ä¸ºPrimoid(æ™®èŽ±èŽ«ä¼Šå¾·)çš„å·¨å¤§çš„å°è¡Œæ˜Ÿ .é²å‹ƒå¿…é¡»æŽ¢ç´¢å…¶æœ€æ·±çš„ç§˜å¯†å’Œé»‘æš—åŽ†å²,é‡æ–°æ‰“é€ ä¸€æžšç«ç®­è„±ç¦»è¿™ä¸ªéžå¸¸å±é™©çš„åœ°æ–¹ï¼":
 
-			""£¬
-		"Ì«¿Õ½¨ÔìºÍ·ÉÐÐ¡£"£º
-			""£¬
+			"",
+		"å»ºé€ ä¸Žåœ¨èƒ½è€å—å¤ªç©ºçŽ¯å¢ƒçš„è½½å…·é‡Œé€ƒå§.":
+			"",
 
-		"Defendoid"£º
-			""£¬
-		"ºÚ³±ÉúËÀÃÅ£¡ÔÚÃ¿Ò»²¨ºÚ³±Ö®¼ä£¬´Ó±»»÷°ÜµÄµÐÈËÄÇÀïÊÕ¼¯×ÊÔ´²¢½¨Á¢ÐÂµÄ·ÀÓù£¡"£º
-			""£¬
-		"ÔÚ10²¨ÒÔÉÏµÄºÚ³±ÖÐÉú´æ"£º
-			""£¬ 
+		"ç”Ÿå­˜é˜²å¾¡æ¨¡å¼":
+			"",
+		"ä½ èƒ½åœ¨é€æ¸ä¼¤ç—•ç´¯ç´¯çš„è—èº«å¤„ä¸­æŠµå¾¡é‚ªæ¶éš¾ç¼ çš„æ•Œäººå—ï¼åœ¨æ¯æ³¢å…³å¡é—´,ä»Žè¢«å‡»è´¥çš„æ•Œäººé‚£é‡Œæ”¶é›†èµ„æºå¹¶å»ºç«‹æ–°çš„é˜²å¾¡ï¼":
+			"",
+		"ç”Ÿå­˜10æ³¢ä»¥ä¸Š":
+			"", 
 
-		"Bindleoid"£º 
-			""£¬
-		"Ò»¸ö³äÂú»ðÔÖÎ£ÏÕµÄ×ÆÈÈµÄÐ¡ÐÐÐÇ£¬ÓµÓÐ×ã¹»µÄ×ÊÔ´À´½¨ÔìÒ»¸öÌÓÉú´¬¡£µ«ÊÇÓÐ¹¥»÷ÐÔµÄÉúÎïÒ²ÔÚ´À´ÀÓûµÄ×¼±¸¿¾ÁËÄã¡£ËûÃÇ²»ÈÏÎªÄã·Ç³£¿á¡£"£º
-			""£¬
-		"ÅëÖÆÓîÖæ·É´¬µÄÀ¶Í¼ºÍÊíÌõ - ÎÒµÄÒâË¼ÊÇ£¬·É×ß£¡"£º
-			""£¬
+		"æµæµªå®¢æ¨¡å¼": 
+			"",
+		"åœ¨ä¸€ä¸ªå……æ»¡ç«ç¾å±é™©çš„çƒ­æµªé‡é‡çš„äº”è„ä¿±å…¨å°è¡Œæ˜Ÿä¸Š,è¿˜æ˜¯èƒ½æ”¶é›†è¶³å¤Ÿçš„èµ„æºæ¥å»ºé€ ä¸€ä¸ªé€ƒç”Ÿèˆ¹é€ƒç¦»çš„(æˆ–è¢«çƒ¤ç†Ÿ).ä½†æ˜¯æœ‰é‚£ä¹ˆäº›å¥½æ–—çš„ç”Ÿç‰©ä¹Ÿå‡†å¤‡çƒ¤äº†ä½ .ä»–ä»¬ä¸è®¤ä¸ºä½ éžå¸¸é…·.":
+			"",
+		"çƒ¹åˆ¶ä¸€ä¸ªå®‡å®™é£žèˆ¹è“å›¾å’Œæ²¸â€¦â€¦é”™äº†ï¼æˆ‘çš„æ„æ€æ˜¯,é£žï¼":
+			"",
 
-		"Carnageoid"£º
-			""£¬
-		"±¾µØ¶àÈË¾º¼¼³¡Õ½¶· - Íæ¼ÒÓëÍæ¼ÒºÍ/»òÍæ¼ÒÓëÈË¹¤ÖÇÄÜ¡£\ n \ nÉ±ËÀËùÓÐÆäËûÏÈ·æÒÔ½âËøÏÂÒ»¸öÎäÆ÷£¬²¢½âËøËùÓÐÎäÆ÷ÒÔÓ®µÃ¸ÃÂÖ£¡"£º
-			""£¬
-		"ÔÚÈÎºÎ¾º¼¼³¡ÖÐÓ®µÃÒ»³¡±ÈÈü¡£"£º
-			""£¬
+		"å± æˆ®ç«žæŠ€åœºæ¨¡å¼":
+			"",
+		"æœ¬åœ°å¤šäººç«žæŠ€åœºæˆ˜æ–— - çŽ©å®¶ä¸ŽçŽ©å®¶å’Œ/æˆ–çŽ©å®¶ä¸Žäººå·¥æ™ºèƒ½.\ n \ næ€æ­»æ‰€æœ‰å…¶ä»–å…ˆé”‹åŽä¼šè§£é”ä¸‹ä¸€ä¸ªæ­¦å™¨,è§£é”æ‰€æœ‰æ­¦å™¨ä»¥èµ¢å¾—è¯¥è½®ï¼":
+			"",
+		"åœ¨ä»»ä½•ç«žæŠ€åœºä¸­èµ¢å¾—ä¸€åœºæ¯”èµ›.":
+			"",
 
-		"Coliseumoid"£º
-			""£¬
-		"¹Û²ìËæ»ú½Ç¶·£¬´´½¨×Ô¼ºµÄÉúÎï²¢±ê¼ÇËü"½Ç¶·Ê¿"ÈÃËü²ÎÓë¡£"£º
-			""£¬
-		"¹Û¿´Ò»ÂÖ½Ç¶·Ê¿Õ½¶·¡£"£º
-			""£¬
+		"è§’æ–—åœºæ¨¡å¼":
+			"",
+		"è§‚å¯Ÿéšæœºè§’æ–—,åˆ›å»ºè‡ªå·±çš„ç”Ÿç‰©å¹¶æ ‡è®°å®ƒâ€œè§’æ–—å£«â€è®©å®ƒå‚ä¸Ž.":
+			"",
+		"ç›®ç¹ä¸€è½®è§’æ–—åŽ®æ€.":
+			"",
 
-		"Planium "£º
-			"£¬
-		"ÔÚÕâ»ÄÁ¹µÄÐ¡ÐÐÐÇÉÏ×¹»Ù£¬Äã½«²»µÃ²»´©Ô½òêÑÑµÄËíµÀºÍ¾â³Ý×´µÄ±íÃæÑ°ÕÒÌÓÉúµÄ·½·¨¡£µ«ÒªÐ¡ÐÄ - Äã¿ÉÄÜ²»»á¹Âµ¥¡£¹Ø¼ü×ÊÔ´µÄÐ¡¹æÄ£¿ÉÄÜ»áÊÜµ½±£»¤£¡"£º
-			""£¬
-		"Àë¿ªÕâ¿éÑÒÊ¯£¡"£º
-			""£¬
+		"æ˜Ÿçƒé€ƒç”Ÿæ¨¡å¼":
+			",
+		"åœ¨è¿™è’å‡‰çš„å°è¡Œæ˜Ÿä¸Šå é™çš„ä½ ,å°†ä¸å¾—ä¸ç©¿è¿‡èœ¿èœ’çš„éš§é“å’Œé”¯é½¿çŠ¶çš„æ˜Ÿçƒè¡¨é¢å¯»æ‰¾é€ƒç”Ÿçš„æ–¹æ³•.ä½†è¦å°å¿ƒ - ä½ ä¸æ˜¯ä¸€ä¸ªäºº.å…³é”®èµ„æºé™„è¿‘å¯èƒ½ä¼šæœ‰å®ˆæŠ¤è€…ï¼":
+			"",
+		"ç¦»å¼€è¿™å—å²©çŸ³ï¼":
+			"",
 
-		"Plutas"£º
-			""£¬ÔÚÒ»·ÖÖÓÄÚÍê³É±ÈÈü¡£
-			"£º ""£¬
+			"Plutas(å¯Œä¹‹ç¥ž)æ¨¡å¼":
+			"",
+		"åœ¨ä¸€ä¸ªå°è¡Œæ˜Ÿä¸­ï¼Œå……æ»¡å‡¶çŒ›çš„å…½ç¾¤å’Œä¾µç•¥æ€§è‡ªèµ°æœºå™¨åç­‰ç€å°è¡Œæ˜Ÿå¸¦ä¸­ä¸å¤ªå¹¸è¿çš„é£žè¡Œå‘˜ã€‚åœ¨è®¾æ³•é‡å»ºå¯ç”¨çš„å¤šåŠŸèƒ½é£žè¡Œå™¨æ—¶ï¼Œå»ºè®®è°¨æ…Žè¡Œäº‹æ¥é¿å…è¢«[b]åƒæŽ‰[/b]. ":
+			"",
+		"å»ºé€ åˆé€‚çš„é£žèˆ¹å¹¶é€ƒç”Ÿ. ":
+			"",
 
+		"èµ›è½¦æ¨¡å¼":
+			"",
+		"æœ€å¤šå››åçŽ©å®¶. é€‰æ‹©è½½å…·æˆ–è®¾è®¡å¥½è½½å…·æ¥é©°éª‹æ˜Ÿçƒå¤ºå† ,æˆ–äº‰åˆ†å¤ºç§’åˆ·æ–°ä½ çš„ä¸ªäººè®°å½•.\n\nè¯·æ³¨æ„è·¯é€”ä¸­çš„é˜»ç¢ï¼åŒ…æ‹¬åœ°å½¢ä¸Žå­å¼¹å¤´â€¦â€¦å¶å°”ä¼šæœ‰å››è‚¢. ":
+			"",
+		"åœ¨ä¸€åˆ†é’Ÿå†…å®Œæˆæ¯”èµ›. ":
+			"",
 
-		//£¨ÕâÐ©·ÖÏíÃèÊöºÍÄ¿±ê£©
-		"Wrangloid Easy"£º
-			""£¬
-		"Wrangloid"£º
-			""£¬
-		"²¶»ñ²¢ÊÕ¼¯ÔÚ´ËÐ¡ÐÐÐÇ´øÖÐµÄÎÂºÍÉüÐó¡£½«ËüÃÇ·ÅÈëÈ¼ÉÕÆ÷ÖÐÒÔ»ñµÃÉÍ½ð£¬½÷·À¿ÉÅÂµÄÒø±³´óÐÉÐÉ£¬ËüÃÇÒ²ÒÀÀµÓÚËüÃÇ......¶øÄã£¡"£º
-			""£¬
-		"ÊÕ¼¯²¢´¦ÀíËùÓÐµÄÉüÐó¡£"£º
-			""£¬
+		//ï¼ˆæ­¤å¤„åˆ†äº«æè¿°å’Œç›®æ ‡ï¼‰
+		"è¶Šé‡Žæ¨¡å¼ ç®€å•":
+			"",
+		"è¶Šé‡Žæ¨¡å¼":
+			"",
+		"æ•èŽ·å¹¶æ”¶é›†åœ¨æ­¤å°è¡Œæ˜Ÿå¸¦ä¸­çš„æ¸©å’Œç‰²ç•œ.å°†å®ƒä»¬æ”¾å…¥ç‡ƒçƒ§å™¨ä¸­ä»¥èŽ·å¾—èµé‡‘,è°¨é˜²å¯æ€•çš„é“¶èƒŒå¤§çŒ©çŒ©,å®ƒä»¬ä¹Ÿä¾èµ–äºŽå®ƒä»¬......è€Œä½ ï¼":
+			"",
+		"æ”¶é›†å¹¶å¤„ç†æ‰€æœ‰çš„ç‰²ç•œ.":
+			"",
 
-		"Trigger Tutorial"£º
-			""£¬
-		"Ñ§Ï°ÈçºÎÊ¹ÓÃ´¥·¢Æ÷ºÍ·´Ó¦¶Ñ´´ÔìÄã×Ô¼ºµÄ³¡¾°¡£"£º
-			""£¬
-		"½Ó´¥´«ËÍÆ÷»Øµ½Ì«¿Õ¡£"£º
-			""£¬
+		"è§¦å‘å™¨æ•™å­¦æ¨¡å¼":
+			"",
+		"å­¦ä¹ å¦‚ä½•ä½¿ç”¨è§¦å‘å™¨å’Œååº”å †åˆ›é€ ä½ è‡ªå·±çš„åœºæ™¯.":
+			"",
+		"æŽ¥è§¦ä¼ é€å™¨å›žåˆ°å¤ªç©º.":
+			"",
 
-		"¿Õ°×µÄPlanetoid"£º¿Õ°×µÄPlanetoid"£º 
-			""£¬
-		"ÕâÊÇÒ»¸öÐ¡ÐÐÐÇÊ¾Àý¡£Ëü¿ÉÒÔ×÷Îª´´½¨³¡¾°µÄÆðµã¡£ËüÓÐ³¡¾°±ê¼Ç\"Mappable \"ËùÒÔËü³öÏÖÔÚÐ¡ÐÐÐÇ´ø¡£"£º
-			""£¬
-		"µ½´ï´«ËÍÆ÷£¬·µ»ØÌ«¿Õ¡£"£º
-			""£¬
+		"ç©ºç™½æ˜Ÿçƒæ¨¡å¼":
+			"",
+		"è¿™æ˜¯ä¸€ä¸ªå°è¡Œæ˜Ÿç¤ºä¾‹.å®ƒå¯ä»¥ä½œä¸ºåˆ›å»ºåœºæ™¯çš„èµ·ç‚¹.å®ƒæœ‰åœºæ™¯æ ‡è®°\"Mappable \"æ‰€ä»¥å®ƒå‡ºçŽ°åœ¨å°è¡Œæ˜Ÿå¸¦.":
+			"",
+		"åˆ°è¾¾ä¼ é€å™¨,è¿”å›žå¤ªç©º.":
+			"",
 
-		//Ä£Ì¬Ìî³ä
-		//£¨×ñÑ­Ã¿¸öÄ£Ì¬IDµÄ¸ñÊ½£ºID TITLE£¬ID YES£¬ID NO£©
+		//æ¨¡æ€å¡«å……
+		//ï¼ˆéµå¾ªæ¯ä¸ªæ¨¡æ€IDçš„æ ¼å¼:ID TITLE,ID YES,ID NOï¼‰
 
-		"{QUIT TITLE}"£º
-			"ÍË³ö"£¬
-		"{QUIT YES}"£º
-			"ÊÇµÄ£¬ÍË³ö"£¬
-		"{ÍË³öÃ»ÓÐ}"£º
-			"²»£¬²»ÒªÍË³ö£¡"£¬
-		"ÄãÈ·¶¨ÒªÍË³ö×ÀÃæÂð£¿"£º
-			""£¬
-		"±ðµ£ÐÄ£¬ÄãµÄÓÎÏ·»á±»±£´æ¡£"£º
-			""£¬
+		"{QUIT TITLE}":
+			"é€€å‡º",
+		"{QUIT YES}":
+			"æ˜¯çš„,é€€å‡º",
+		"{é€€å‡ºæ²¡æœ‰}":
+			"ä¸,ä¸è¦é€€å‡ºï¼",
+		"ä½ ç¡®å®šè¦é€€å‡ºæ¡Œé¢å—ï¼Ÿ":
+			"",
+		"åˆ«æ‹…å¿ƒ,ä½ çš„æ¸¸æˆä¼šè¢«ä¿å­˜.":
+			"",
 
-		"{FACTORY RESET TITLE}"£º
-			"»Ö¸´³ö³§ÉèÖÃ"£¬ 
-		"{FACTORY RESET YES}"£º
-			"ÊÇ£¬ÖØÖÃÎÒµÄÊý¾Ý"£¬ 
-		"{FACTORY RESET NO}"£º
-			"²»£¬²»ÒªÖØÖÃ£¡"£¬
-		"ÄúÈ·¶¨ÒªÍêÈ«É¾³ýËùÓÐÊý¾ÝÂð£¿"£º
-			""£¬
-		"ËùÓÐ±£´æºÍÄúµÄÕû¸öÓÃ»§ÅäÖÃ½«±»²Á³ý¡£"£º
-			""£¬
+		"{FACTORY RESET TITLE}":
+			"æ¢å¤å‡ºåŽ‚è®¾ç½®", 
+		"{FACTORY RESET YES}":
+			"æ˜¯,é‡ç½®æˆ‘çš„æ•°æ®", 
+		"{FACTORY RESET NO}":
+			"ä¸,ä¸è¦é‡ç½®ï¼",
+		"æ‚¨ç¡®å®šè¦å®Œå…¨åˆ é™¤æ‰€æœ‰æ•°æ®å—ï¼Ÿ":
+			"",
+		"æ‰€æœ‰ä¿å­˜å’Œæ‚¨çš„æ•´ä¸ªç”¨æˆ·é…ç½®å°†è¢«æ“¦é™¤.":
+			"",
 
-		"{RESTART TITLE}"£º
-			"ÖØÆô"£¬
-		"{RESTART YES}"£º
-			"ÊÇ£¬ÖØÆô"£¬
-		"{RESTART NO}"£º
-			"²»£¬²»ÒªÖØÆô£¡" £¬
-		"ÄúÈ·¶¨ÒªÖØÐÂÆô¶¯Âð£¿ÈÎºÎÒÑ±£´æµÄ½ø¶È¶¼½«±»É¾³ý£¡"£º
-			""£¬
+		"{RESTART TITLE}":
+			"é‡è¯•",
+		"{RESTART YES}":
+			"æ˜¯,é‡è¯•",
+		"{RESTART NO}":
+			"ä¸,ä¸è¦é‡è¯•ï¼" ,
+		"æ‚¨ç¡®å®šè¦é‡è¯•å—ï¼Ÿä»»ä½•å·²ä¿å­˜çš„è¿›åº¦éƒ½å°†è¢«åˆ é™¤ï¼":
+			"",
 
-		"{APPLY LOCALE TITLE}"£º
-			"Ó¦ÓÃÇøÓòÉèÖÃ"£¬
-		"{APPLY LOCALE YES}"£º
-			"ÊÇµÄ£¬ÉêÇë"£¬
-		"{APPLY LOCALE NO}"£º
-			"²»£¬²»ÉêÇë£¡"£¬ 
-		"ÄúÈ·¶¨ÒªÓ¦ÓÃ´ËÇøÓòÉèÖÃÂð£¿"£º
-			""£¬
-		"²Ëµ¥½«ÐèÒªÖØÖÃ¡£"£º
-			""£¬
+		"{APPLY LOCALE TITLE}":
+			"åº”ç”¨åŒºåŸŸè®¾ç½®",
+		"{APPLY LOCALE YES}":
+			"æ˜¯çš„,åº”ç”¨",
+		"{APPLY LOCALE NO}":
+			"ä¸,ä¸è¦åº”ç”¨ï¼", 
+		"æ‚¨ç¡®å®šè¦åº”ç”¨æ­¤åŒºåŸŸè®¾ç½®å—ï¼Ÿ":
+			"",
+		"èœå•ä¼šéœ€è¦é‡ç½®.":
+			"",
 
-		//ÕôÆûÏà¹Ø°´Å¥
-		"È¡Ïû¶©ÔÄ"£º
-			""£¬
-		"¶©ÔÄ"£º
-			""£¬
+		//è’¸æ±½ç›¸å…³æŒ‰é’®(æœºç¿»è’¸æ±½çœŸçš„å¥½å—
+		
+		"å–æ¶ˆè®¢é˜…":
+			"",
+		"è®¢é˜…":
+			"",
 
-		//Ð¡ÐÐÐÇ´ø
-		"°´ÏÂ°´Å¥¿ªÊ¼"£º
-			""£¬
-		"AB³¡¾°Íê³É"£º
-			"³¡¾°Íê³É"£¬
-		"¾«Ñ¡£¨{MONTH}£©{AUTHOR}"£º
-			""£¬
-		"É¾³ýµÄÐ¡ÐÐÐÇ"£º
-			""£¬
-		"´òÔìÐÂµÄÐ¡ÐÐÐÇ£¡"£º
-			""£¬
-		"Ð¡ÐÐÐÇ¸üÐÂ£¡"£º
-			"" £¬
-		"ÄãÔÚÕâÀï"£º
-			""£¬
-		"Ëø¶¨"£º
-			""£¬
-		"ABÒÑÍê³É"£º 
-			"Íê³É"£¬
-		"ÆÀ¼¶{ÆÀ·Ö}£¥ÕýÃæ"£º
-			""£¬
-		"µã»÷ÖØÐÂ¶©ÔÄ"£º
-			""£¬ 
-		"ÕýÔÚÏÂÔØ......"£º
-			""£¬
-		"{NAME}£¨¾«Ñ¡£©"£º//Õâ³öÏÖÔÚÒ»¸ö³¡¾°Ãû³ÆºóÃæ£¬¼´'Primoid£¨Featured£©' 
-			""£¬
-		" ???"£º//Î´·¢ÏÖµÄÐ¡ÐÐÐÇ
-			""£¬
-		"ABÊ§°Ü"£º
-			"Ê§°Ü"£¬
-		"ABÐ¡ÐÐÐÇ´ø{AB NUMBER}"£º
-			"Ð¡ÐÐÐÇ´ø{AB NUMBER}"£¬
-		"Íê³É{COUNT COMPLETED} {COUNT TOTAL}"£º
-			""£¬
+		//å°è¡Œæ˜Ÿå¸¦
+		"æŒ‰ä¸‹æŒ‰é’®å¼€å§‹":
+			"",
+		"ABåœºæ™¯å·²ç»å®Œæˆ":
+			"åœºæ™¯å·²ç»å®Œæˆ",
+		"ç²¾é€‰ï¼ˆ{MONTH}ï¼‰{AUTHOR}":
+			"",
+		"åˆ é™¤çš„å°è¡Œæ˜Ÿ":
+			"",
+		"æ‰“é€ æ–°çš„å°è¡Œæ˜Ÿï¼":
+			"",
+		"å°è¡Œæ˜Ÿæ›´æ–°ï¼":
+			"" ,
+		"ä½ åœ¨è¿™é‡Œ":
+			"",
+		"é”å®š":
+			"",
+		"ABå·²å®Œæˆ": 
+			"å®Œæˆ",
+		"è¯„çº§{è¯„åˆ†}ï¼…æ­£é¢":
+			"",
+		"ç‚¹å‡»é‡æ–°è®¢é˜…":
+			"", 
+		"æ­£åœ¨ä¸‹è½½......":
+			"",
+		"{NAME}ï¼ˆç²¾é€‰ï¼‰"://è¿™å‡ºçŽ°åœ¨ä¸€ä¸ªåœºæ™¯åç§°åŽé¢,å³'Primoidï¼ˆFeaturedï¼‰' 
+			"",
+		" ???"://æœªå‘çŽ°çš„å°è¡Œæ˜Ÿ
+			"",
+		"ABå¤±è´¥":
+			"å¤±è´¥",
+		"ABå°è¡Œæ˜Ÿå¸¦{AB NUMBER}":
+			"å°è¡Œæ˜Ÿå¸¦{AB NUMBER}",
+		"å®Œæˆ{COUNT COMPLETED} {COUNT TOTAL}":
+			"",
 
-		//ÔÂ
-		"1ÔÂ"£º
-			""£¬
-		"2ÔÂ"£º
-			""£¬
-		"3ÔÂ"£º
-			""£¬ 
-		"ËÄÔÂ"£º
-			""£¬
-		"ÎåÔÂ"£º
-			""£¬
-		"ÁùÔÂ"£º
-			""£¬
-		"ÆßÔÂ"£º
-			""£¬
-		"°ËÔÂ"£º 
-			""£¬ 
-			""£¬
-		"¾ÅÔÂ"£º
-			""£¬
-		"Ê®ÔÂ"£º
-			""£¬
-		"Ê®Ò»ÔÂ"£º
-			""£¬
-		"Ê®¶þÔÂ"£º
-			""£¬
+		//æœˆ
+		"1æœˆ":
+			"",
+		"2æœˆ":
+			"",
+		"3æœˆ":
+			"", 
+		"å››æœˆ":
+			"",
+		"äº”æœˆ":
+			"",
+		"å…­æœˆ":
+			"",
+		"ä¸ƒæœˆ":
+			"",
+		"å…«æœˆ": 
+			"", 
+			"",
+		"ä¹æœˆ":
+			"",
+		"åæœˆ":
+			"",
+		"åä¸€æœˆ":
+			"",
+		"åäºŒæœˆ":
+			"",
 
-		//×ÊÔ´À¸
-		"½ðÊô"£º
-			""£¬
-		"Ì¼"£º
-			""£¬
-		"Ë®"£º
-			""£¬
-		"¹è"£º
-			""£¬
-		"½ð"£º
-			""£¬
-		"³äµç"£º
-			""£¬
-		"Âú£¡"£º
-			""£¬
-		"¿Õ£¡"£º
-			""£¬
+		//èµ„æºæ 
+		"é‡‘å±ž":
+			"",
+		"ç¢³":
+			"",
+		"æ°´":
+			"",
+		"ç¡…":
+			"",
+		"é‡‘":
+			"",
+		"å……ç”µ":
+			"",
+		"æ»¡ï¼":
+			"",
+		"ç©ºï¼":
+			"",
 
 		//respawn player join info text
-		"PLAYER {PLAYER NUMBER}£º°´¼üÅÌ/¿ØÖÆÆ÷°´Å¥¼ÓÈë"£º 
-			""£¬
-		"PLAYER {PLAYER NUMBER}£º°´ÏÂ¼üÅÌ°´Å¥¼ÓÈë"£º
-			""£¬
-		"PLAYER {PLAYER NUMBER}£º°´ÏÂ¿ØÖÆÆ÷°´Å¥¼ÓÈë"£º
-			""£¬
-		"PLAYER {PLAYER NUMBER}£º²åÈë¿ØÖÆÆ÷¼ÓÈë"£º
-			""£¬
+		"çŽ©å®¶ {PLAYER NUMBER}:æŒ‰é”®ç›˜/æŽ§åˆ¶å™¨æŒ‰é’®åŠ å…¥": 
+			"",
+		"çŽ©å®¶ {PLAYER NUMBER}:æŒ‰ä¸‹é”®ç›˜æŒ‰é’®åŠ å…¥":
+			"",
+		"çŽ©å®¶ {PLAYER NUMBER}:æŒ‰ä¸‹æŽ§åˆ¶å™¨æŒ‰é’®åŠ å…¥":
+			"",
+		"çŽ©å®¶ {PLAYER NUMBER}:æ’å…¥æŽ§åˆ¶å™¨åŠ å…¥":
+			"",
 
-		//tips appearing over pioneer
-		"ÔÙ´Î°´ÏÂÈ·ÈÏÍÑÀë"£º
-			"" £¬
-		"Ã»ÓÐ±¸·Ý£¬ÖØÆô£¿"£º
-			""£¬
-		"Ã»ÓÐÎäÆ÷"£º
-			""£¬
-		"ÍÑÀë"£º
-			""£¬
-		"ÖØÆô³¡¾°"£º
-			""£¬
-		"½Ó¹Ü{BUTTON}"£º
-			""£¬
-		"ÈÓÇ¹" £¡"£º
-			""£¬
-		"³¡¾°Íê³É"£º
-			""£¬
-		"³¡¾°Íê³É(No Goal)"£º 
-			""£¬
+		//å°†å‡ºçŽ°åœ¨èˆªå‘˜ä¸Šçš„å°è´´å£«
+		"å†æŒ‰ä¸€éåºŸå¼ƒæ­¤èº«ä½“":
+			"" ,
+		"æ²¡æœ‰å¤‡ä»½,éœ€è¦é‡å¯å—ï¼Ÿ":
+			"",
+		"æ²¡æœ‰æ‰‹è‡‚äº†":
+			"",
+		"åºŸå¼ƒèº«ä½“":
+			"",
+		"é‡å¯åœºæ™¯":
+			"",
+		"æŽ¥ç®¡{BUTTON}":
+			"",
+		"æ‰”æŽ‰æžª" ï¼":
+			"",
+		"åœºæ™¯å®Œæˆ":
+			"",
+		"åœºæ™¯å®Œæˆ(No Goal)": 
+			"",
 
 		//buttons
-		"[X]"£º//ÕâÊÇ¼üÅÌÉÏµÄX°´Å¥
-			""£¬
-		"[E]"£º
-			""£¬  
-		"×ó¼üµ¥»÷"£º
-			""£¬
-		"£¨·µ»Ø£©"£º//ÕâÊÇ¿ØÖÆÆ÷ÉÏµÄºóÍË°´Å¥
-			""£¬
-		"ÓÒ´¥·¢Æ÷"£º
-			""£¬
+		"[X]"://è¿™æ˜¯é”®ç›˜ä¸Šçš„XæŒ‰é’®
+			"",
+		"[E]":
+			"",  
+		"å·¦é”®å•å‡»":
+			"",
+		"ï¼ˆè¿”å›žï¼‰"://è¿™æ˜¯æŽ§åˆ¶å™¨ä¸Šçš„åŽé€€æŒ‰é’®
+			"",
+		"å³è§¦å‘å™¨":
+			"",
 
 		//actions
-		"ÒÆ¶¯"£º
-			""£¬
-		"Ãé×¼"£º
-			""£¬
-		"×ó"£º
-			"" £¬
-		"ÓÒ"£º
-			""£¬
-		"ÎÔµ¹"£º
-			""£¬
-		"ÌøÔ¾"£º
-			""£¬
-		"ÅçÎí"£º
-			""£¬
-		"×é×°"£º
-			""£¬
-		"¿ª»ð"£º
-			""£¬
-		"½øÈë³µÁ¾"£º
-			" "£¬
-		"Àë¿ª³µÁ¾"£º
-			""£¬
-		"ÄÃÆð"£º
-			""£¬
-		"ÈÓµô"£º
-			""£¬
-		"´©ÉÏ"£º
-			""£¬
-		"ÄÃÈ¡":
+		"ç§»åŠ¨":
 			"",
-		"½»»»"£º
-			""£¬
-		"ÖØÉú"£º
-			""£¬
-		"ÖØÐÂÆô¶¯"£º
-			""£¬
-		"ÔÝÍ£"£º
-			""£¬
-		"²Ëµ¥"£º
-			""£¬
-		"Ñ¡Ôñ"£º
-			""£¬
-		"Ëõ·Å"£º
-			""£¬
-		"·Å´ó"£º
-			""£¬
-		"ËõÐ¡"£º
-			""£¬
-		"±£³Ö"£º
-			""£¬
-		"°´"£º
-			""£¬
-		"°´ÏÂÒÔÊ¹ÓÃÅÊÅÀÄ£Ê½"£º
-			""£¬
-		"´òÓ¡±¸·ÝÌå"£º
-			""£¬
-		"ÒÆ¶¯ºÍÃé×¼"£º
-			""£¬
+		"çž„å‡†":
+			"",
+		"å·¦":
+			"" ,
+		"å³":
+			"",
+		"å§å€’":
+			"",
+		"è·³è·ƒ":
+			"",
+		"å–·é›¾":
+			"",
+		"ç»„è£…":
+			"",
+		"å¼€ç«":
+			"",
+		"è¿›å…¥è½¦è¾†":
+			" ",
+		"ç¦»å¼€è½¦è¾†":
+			"",
+		"æ‹¿èµ·":
+			"",
+		"æ‰”æŽ‰":
+			"",
+		"ç©¿ä¸Š":
+			"",
+		"æ‹¿å–":
+			"",
+		"äº¤æ¢":
+			"",
+		"é‡ç”Ÿ":
+			"",
+		"é‡æ–°å¯åŠ¨":
+			"",
+		"æš‚åœ":
+			"",
+		"èœå•":
+			"",
+		"é€‰æ‹©":
+			"",
+		"ç¼©æ”¾":
+			"",
+		"æ”¾å¤§":
+			"",
+		"ç¼©å°":
+			"",
+		"ä¿æŒ":
+			"",
+		"æŒ‰":
+			"",
+		"æŒ‰ä¸‹ä»¥ä½¿ç”¨æ”€çˆ¬æ¨¡å¼":
+			"",
+		"å°åˆ·å¤‡ä»½ä½“":
+			"",
+		"ç§»åŠ¨å’Œçž„å‡†":
+			"",
 
 		//blank planetoid
-		"Ê¹ÓÃÓÎÏ·ÄÚ±à¼­Æ÷´´½¨×Ô¼ºµÄÐ¡ÐÐÐÇºÍÀ¶Í¼¡£"£º
-			""£¬ 
-		"°´F2½øÈë±à¼­Ä£Ê½¡£"£º
-			""£¬
-		"Ê¹ÓÃ´«ËÍÆ÷»Øµ½Ð¡ÐÐÐÇ´ø¡£"£º
-			""£¬
+		"ä½¿ç”¨æ¸¸æˆå†…ç¼–è¾‘å™¨åˆ›å»ºè‡ªå·±çš„å°è¡Œæ˜Ÿå’Œè“å›¾.":
+			"", 
+		"æŒ‰F2è¿›å…¥ç¼–è¾‘æ¨¡å¼.":
+			"",
+		"ä½¿ç”¨ä¼ é€å™¨å›žåˆ°å°è¡Œæ˜Ÿå¸¦.":
+			"",
 
 		//appearing on screen on game over
-		"°´{BUTTON}ÖØÐÂÆô¶¯"£º
-			""£¬
+		"æŒ‰{BUTTON}é‡æ–°å¯åŠ¨":
+			"",
 
 		//when selecting body on minimap
-		"½Ó¹Ü"£º
-			""£¬
+		"æŽ¥ç®¡":
+			"",
 
 		// respawn station 
-		"ÓÎÏ·ÒÑ´æµµ"£º
-			""£¬
-		"ÖØÉú"£º
-			""£¬
+		"æ¸¸æˆå·²å­˜æ¡£":
+			"",
+		"é‡ç”Ÿ":
+			"",
 
 		//game quit
-		"ÓÎÏ·ÒÑ´æµµ"£º
-			""£¬
-		"Ì«¿ÕÅ£×Ð»Ø¼û"£º
-			""£¬
-		"¹Ø±ÕËùÓÐÏñËØ"£º
-			""£¬
+		"æ¸¸æˆå·²å­˜æ¡£":
+			"",
+		"ä¸è§ä¸æ•£ï¼å¤ªç©ºç‰›ä»”":
+			"",
+		"æ­£åœ¨å…³é—­æ‰€æœ‰åƒç´ ":
+			"",
 
 		//engine messages
-		"ÖØÐÂÆô¶¯"£º 
-			""£¬
-		"ÕýÔÚ¼ÓÔØ{SCENE NAME}"£º
-			""£¬
+		"é‡æ–°å¯åŠ¨": 
+			"",
+		"æ­£åœ¨åŠ è½½{SCENE NAME}":
+			"",
 
 		//version
-		"°æ±¾{NUMBER}"£º 
-			""£¬
+		"ç‰ˆæœ¬{NUMBER}": 
+			"",
 
 		//drag and drop file types
-		"ÍÏ¶¯ÎÄ¼þ"£º
-			""£¬
-		"²»Ö§³ÖµÄÎÄ¼þÀàÐÍ"£º
-			""£¬
-		"À¶Í¼"£º
-			""£¬
-		"³¡¾°"£º
-			""£¬
-		"³¡¾°Æ¬¶Î" £º
-			""£¬
-		"Á£×ÓÏµÍ³"£º
-			""£¬
-		"ÎïÖÊÁ£×ÓÏµÍ³"£º
-			""£¬
-		"ÎÆÀí"£º
-			""£¬
-		"ÒôÆµ"£º
-			""£¬
-		"Î´Öª"£º
-			""£¬
+		"æ‹–åŠ¨æ–‡ä»¶":
+			"",
+		"ä¸æ”¯æŒçš„æ–‡ä»¶ç±»åž‹":
+			"",
+		"è“å›¾":
+			"",
+		"åœºæ™¯":
+			"",
+		"åœºæ™¯ç‰‡æ®µ" :
+			"",
+		"ç²’å­ç³»ç»Ÿ":
+			"",
+		"ç‰©è´¨ç²’å­ç³»ç»Ÿ":
+			"",
+		"çº¹ç†":
+			"",
+		"éŸ³é¢‘":
+			"",
+		"æœªçŸ¥":
+			"",
 
-		//drag and drop
-		"´Ë´¦Ã»ÓÐÄ¿±ê£¨ÎÄ¼þ½«±»´æÈë¿âÖÐ£©"£º 
-			""£¬
-		"Ìí¼Óµ½ÔËÓÃ"£º
-			""£¬
-		"ÔÚÕâÀï²úÉú"£º
-			""£¬
-		"¼ÓÔØ³¡¾°"£º
-			""£¬
-		"²åÈë³¡¾°Æ¬¶Î"£º 
-			""£¬
-		"´´½¨µØÐÎ¶ÔÏó"£º
-			""£¬
-		"¸´ÖÆµ½ÒôÆµ¿â"£º
-			""£¬
-		"¸´ÖÆµ½Á£×ÓÏµÍ³¿â"£º
-			""£¬
-		"¸´ÖÆµ½ËØ²ÄÁ£×ÓÏµÍ³¿â"£º
-			""£¬
-		"¸´ÖÆµ½À¶Í¼¿â"£º
-			""£¬
-		"¸´ÖÆµ½À¶Í¼¿â - µ±Ç°³¡¾°"£º
-			""£¬
-		"¸´ÖÆµ½³¡¾°¿â"£º
-			""£¬
-		"¸´ÖÆµ½³¡¾°Æ¬¶Î¿â"£º
-			""£¬
-		"¸´ÖÆµ½ÎÆÀí¿â"£º
-			" "£¬
-		"½«BLUEPRINTÌí¼Óµ½Í¼Êé¹Ý²¢ÔÚ±à¼­ÖÐ¼ÓÔØ"£º 
-			""£¬
-		"Ìí¼Óµ½BP±à¼­ - ´´½¨ÐÂMO"£º
-			""£¬
-		"Ìí¼Óµ½BP±à¼­ - ´´½¨ÐÂPS"£º
-			""£¬ 
-			""£¬
+		//drag
+ and drop
+		"æ­¤å¤„æ²¡æœ‰ç›®æ ‡ï¼ˆæ–‡ä»¶å°†è¢«å­˜å…¥åº“ä¸­ï¼‰": 
+			"",
+		"æ·»åŠ åˆ°è¿ç”¨":
+			"",
+		"åœ¨è¿™é‡Œäº§ç”Ÿ":
+			"",
+		"åŠ è½½åœºæ™¯":
+			"",
+		"æ’å…¥åœºæ™¯ç‰‡æ®µ": 
+			"",
+		"åˆ›å»ºåœ°å½¢å¯¹è±¡":
+			"",
+		"å¤åˆ¶åˆ°éŸ³é¢‘åº“":
+			"",
+		"å¤åˆ¶åˆ°ç²’å­ç³»ç»Ÿåº“":
+			"",
+		"å¤åˆ¶åˆ°ç´ æç²’å­ç³»ç»Ÿåº“":
+			"",
+		"å¤åˆ¶åˆ°è“å›¾åº“":
+			"",
+		"å¤åˆ¶åˆ°è“å›¾åº“ - å½“å‰åœºæ™¯":
+			"",
+		"å¤åˆ¶åˆ°åœºæ™¯åº“":
+			"",
+		"å¤åˆ¶åˆ°åœºæ™¯ç‰‡æ®µåº“":
+			"",
+		"å¤åˆ¶åˆ°çº¹ç†åº“":
+			" ",
+		"å°†è“å›¾æ·»åŠ åˆ°åº“å¹¶åœ¨ç¼–è¾‘ä¸­åŠ è½½": 
+			"",
+		"æ·»åŠ åˆ°BPç¼–è¾‘ - åˆ›å»ºæ–°MO":
+			"",
+		"æ·»åŠ åˆ°BPç¼–è¾‘ - åˆ›å»ºæ–°PS":
+			"", 
+			"",
  
 		//loading screen
-		"ÕýÔÚ½øÐÐÖÐ"£º
-			""£¬
-		"ALT + ENTER ÇÐ»»È«ÆÁ"£º
-			""£¬
-		"¼ÓÔØ"£º
-			""£¬
-		"¼ÓÔØÐ¡ÐÐÐÇ"£º
-			""£¬
-		"¼ÓÔØÉùÒô¹ÜÀíÆ÷"£º
-			""£¬
-		"¼ÓÔØPS¿â"£º
-			""£¬
-		"¼ÓÔØ²ÄÁÏPS¿â"£º
-			""£¬
-		"¼ÓÔØÀ¶Í¼¿â"£º
-			""£¬
-		"¼ÓÔØ¹¤×÷·»À¶Í¼¿â"£º
-			""£¬
-		"¼ÓÔØÏÂÔØµÄÀ¶Í¼¿â"£º
-			""£¬
-		"¼ÓÔØ³¡¾°¿â"£º
-			""£¬
-		"¼ÓÔØ¹¤×÷ÊÒ³¡¾°¿â"£º 
-			""£¬
-		"¼ì²é³¡¾°"£º
-			""£¬
-		"¼ÓÔØÏÂÔØµÄ³¡¾°¿â"£º
-			""£¬
-		"¼ÓÔØ³¡¾°Æ¬¶Î¿â"£º
-			""£¬
-		"¼ÓÔØSteam¹¤×÷Õ¾"£º
-			""£¬
-		"ÌáÈ¡ËùÓÐÀ¶Í¼ºÍPS"£º
-			""£¬
-		"ÌáÈ¡³¡¾°£ºÐ¡ÐÐÐÇ´ø"£º
-			""£¬
-		"ÌáÈ¡³¡¾°£ºPrimoid"£º
-			"" £¬
-		"Æô¶¯ÎÄ¼þ¸ü¸Ä¼ì²âÆ÷"£º
-			""£¬
-		"¼ÓÔØCrush2D±à¼­Æ÷"£º
-			""£¬
-		"³õÊ¼»¯Crush2D±à¼­Æ÷"£º
-			""£¬
-		"Ë¢ÐÂC2D±à¼­Æ÷"£º
-			""£¬
-		"¼ÓÔØÎïÀí²ÄÁÏ"£º
-			""£¬
-		"¼ÓÔØ²Ëµ¥³¡¾°"£º 
-			""£¬
-		"¼ÓÔØ³¡¾°£º{SCENE NAME}"£º
-			""£¬
-		"½«À¶Í¼¼ÓÔØµ½±à¼­Æ÷£º{NAME}"£º 
-			""£¬
-		"×¼±¸ÓÎÏ·³¡¾°"£º
-			""£¬
-		"¼ÓÔØ¸½¼ÓÊý¾Ý"£º
-			""£¬
-		"ÖØÐÂ¼ÓÔØÒÑ¸ü¸ÄµÄÎÄ¼þ"£º
-			""£¬
-		"Ô¤¼ÓÔØÎÆÀí"£º
-			""£¬
-		"¼ÓÔØ¿ØÖÆÆ÷²¼¾Ö"£º
-			""£¬
-		"ÕâÊÇµÚÒ»´ÎÓÎÏ·¼ÓÔØ£¬ËùÒÔÌáÈ¡ËùÓÐÊý¾ÝÐèÒª¸ü³¤µÄÊ±¼ä - Î´À´Æô¶¯»á¸ü¿ì£¡"£º
-			""£¬
-		"ÓÎÏ·¿ÉÄÜÔËÐÐËÙ¶È½ÏÂý£¬ÒòÎªÄãµÄÉè±¸ÓÐ8 GB»ò¸üÉÙµÄÄÚ´æ¡£"£º
-			" "£¬
-		"¸üÐÂ×ÊÁÏ¿â"£º
-			""£¬
-		"Ô¤¼ÓÔØÍ¼Æ¬"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - »î¶¯ºÍC2DUpdate¹¹½¨"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - Ô¤¼ÓÔØÍ¼Æ¬"£º 
-			""£¬
-		"³¡¾°ÖØÖÃ - Ô¤¼ÓÔØÉùÒô"£º
-			""£¬
-		"ÖØÖÃ³¡¾°"£º
-			""£¬
-		"Ô¤¼ÓÔØÎÆÀí... {PERCENT}£¥"£º
-			""£¬
-		"¼ÓÔØÊý¾Ý"£º
-			""£¬
-		"¼ÓÔØµØÐÎ"£º
-			""£¬
-		"¸üÐÂÎÆÀíºÍÉùÒô"£º
-			""£¬
-		"ÇåÀí"£º
-			""£¬
-		"ÌáÈ¡ÎÆÀíºÍÉùÒô"£º
-			""£¬
-		"¼ÓÔØ¶ÔÏó¿ªÊ¼"£º
-			""£¬
-		"¸üÐÂ±à¼­ID"£º
-			""£¬
-		"´´½¨µØÐÎ¶ÔÏó"£º
-			""£¬
-		"¼ÆËãÇøÓò"£º
-			""£¬
-		"¼ÆËãµØÐÎ"£º
-			""£¬
-		"¼ÆËãÖØÁ¦ºÍ¼ÓÈÈ"£º
-			""£¬
-		"¸üÐÂÍ¼²ã"£º
-			""£¬
-		"¸üÐÂWorldGridÏßÍø"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - ´´½¨×°Åä{NUMBER}"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - ´´½¨×°ÅäÍê³É"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - ÇåÀí"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - ¼ÆËãÍ¼²ã"£º
-			""£¬
-		"³¡¾°ÖØÖÃ - ´´½¨×°Åä"£º
-			""£¬
-		"¼ÓÔØÎÄ¼þÊ÷"£º
-			""£¬
-		"¼ì²éÎÄ¼þ"£º
-			""£¬
-		"¼ì²éÎÄ¼þ£¨{NUMBER }£©"£º
-			""£¬
-		"»ñÈ¡ÎÄ¼þÐÅÏ¢"£º
-			""£¬
+		"æ­£åœ¨è¿›è¡Œä¸­":
+			"",
+		"ALT + ENTER åˆ‡æ¢å…¨å±":
+			"",
+		"åŠ è½½":
+			"",
+		"åŠ è½½å°è¡Œæ˜Ÿ":
+			"",
+		"åŠ è½½å£°éŸ³ç®¡ç†å™¨":
+			"",
+		"åŠ è½½PSåº“":
+			"",
+		"åŠ è½½ææ–™PSåº“":
+			"",
+		"åŠ è½½è“å›¾åº“":
+			"",
+		"åŠ è½½å·¥ä½œåŠè“å›¾åº“":
+			"",
+		"åŠ è½½ä¸‹è½½çš„è“å›¾åº“":
+			"",
+		"åŠ è½½åœºæ™¯åº“":
+			"",
+		"åŠ è½½å·¥ä½œå®¤åœºæ™¯åº“": 
+			"",
+		"æ£€æŸ¥åœºæ™¯":
+			"",
+		"åŠ è½½ä¸‹è½½çš„åœºæ™¯åº“":
+			"",
+		"åŠ è½½åœºæ™¯ç‰‡æ®µåº“":
+			"",
+		"åŠ è½½Steamå·¥ä½œç«™":
+			"",
+		"æå–æ‰€æœ‰è“å›¾å’ŒPS":
+			"",
+		"æå–åœºæ™¯:å°è¡Œæ˜Ÿå¸¦":
+			"",
+		"æå–åœºæ™¯:Primoid":
+			"" ,
+		"å¯åŠ¨æ–‡ä»¶æ›´æ”¹æ£€æµ‹å™¨":
+			"",
+		"åŠ è½½Crush2Dç¼–è¾‘å™¨":
+			"",
+		"åˆå§‹åŒ–Crush2Dç¼–è¾‘å™¨":
+			"",
+		"åˆ·æ–°C2Dç¼–è¾‘å™¨":
+			"",
+		"åŠ è½½ç‰©ç†ææ–™":
+			"",
+		"åŠ è½½èœå•åœºæ™¯": 
+			"",
+		"åŠ è½½åœºæ™¯:{SCENE NAME}":
+			"",
+		"å°†è“å›¾åŠ è½½åˆ°ç¼–è¾‘å™¨:{NAME}": 
+			"",
+		"å‡†å¤‡æ¸¸æˆåœºæ™¯":
+			"",
+		"åŠ è½½é™„åŠ æ•°æ®":
+			"",
+		"é‡æ–°åŠ è½½å·²æ›´æ”¹çš„æ–‡ä»¶":
+			"",
+		"é¢„åŠ è½½çº¹ç†":
+			"",
+		"åŠ è½½æŽ§åˆ¶å™¨å¸ƒå±€":
+			"",
+		"è¿™æ˜¯ç¬¬ä¸€æ¬¡æ¸¸æˆåŠ è½½,æ‰€ä»¥æå–æ‰€æœ‰æ•°æ®éœ€è¦æ›´é•¿çš„æ—¶é—´ - æœªæ¥å¯åŠ¨ä¼šæ›´å¿«ï¼":
+			"",
+		"æ¸¸æˆå¯èƒ½è¿è¡Œé€Ÿåº¦è¾ƒæ…¢,å› ä¸ºä½ çš„è®¾å¤‡æœ‰8 GBæˆ–æ›´å°‘çš„å†…å­˜.":
+			" ",
+		"æ›´æ–°èµ„æ–™åº“":
+			"",
+		"é¢„åŠ è½½å›¾ç‰‡":
+			"",
+		"åœºæ™¯é‡ç½® - æ´»åŠ¨å’ŒC2DUpdateæž„å»º":
+			"",
+		"åœºæ™¯é‡ç½® - é¢„åŠ è½½å›¾ç‰‡": 
+			"",
+		"åœºæ™¯é‡ç½® - é¢„åŠ è½½å£°éŸ³":
+			"",
+		"é‡ç½®åœºæ™¯":
+			"",
+		"é¢„åŠ è½½çº¹ç†... {PERCENT}ï¼…":
+			"",
+		"åŠ è½½æ•°æ®":
+			"",
+		"åŠ è½½åœ°å½¢":
+			"",
+		"æ›´æ–°çº¹ç†å’Œå£°éŸ³":
+			"",
+		"æ¸…ç†":
+			"",
+		"æå–çº¹ç†å’Œå£°éŸ³":
+			"",
+		"åŠ è½½å¯¹è±¡å¼€å§‹":
+			"",
+		"æ›´æ–°ç¼–è¾‘ID":
+			"",
+		"åˆ›å»ºåœ°å½¢å¯¹è±¡":
+			"",
+		"è®¡ç®—åŒºåŸŸ":
+			"",
+		"è®¡ç®—åœ°å½¢":
+			"",
+		"è®¡ç®—é‡åŠ›å’ŒåŠ çƒ­":
+			"",
+		"æ›´æ–°å›¾å±‚":
+			"",
+		"æ›´æ–°WorldGridçº¿ç½‘":
+			"",
+		"åœºæ™¯é‡ç½® - åˆ›å»ºè£…é…{NUMBER}":
+			"",
+		"åœºæ™¯é‡ç½® - åˆ›å»ºè£…é…å®Œæˆ":
+			"",
+		"åœºæ™¯é‡ç½® - æ¸…ç†":
+			"",
+		"åœºæ™¯é‡ç½® - è®¡ç®—å›¾å±‚":
+			"",
+		"åœºæ™¯é‡ç½® - åˆ›å»ºè£…é…":
+			"",
+		"åŠ è½½æ–‡ä»¶æ ‘":
+			"",
+		"æ£€æŸ¥æ–‡ä»¶":
+			"",
+		"æ£€æŸ¥æ–‡ä»¶ï¼ˆ{NUMBER }ï¼‰":
+			"",
+		"èŽ·å–æ–‡ä»¶ä¿¡æ¯":
+			"",
 
 		//pause
-		"ÍÆ³öÔÝÍ£ ......"£º
-			""£¬
-		" -  ÔÝÍ£  - "£º
-			""£¬
-		"°´P»Ö¸´"£º 
-			""£¬
-		"»òO½øÒ»Ö¡"£º
-			""£¬
+		"æŽ¨å‡ºæš‚åœ ......":
+			"",
+		" -  æš‚åœ  - ":
+			"",
+		"æŒ‰Pæ¢å¤": 
+			"",
+		"æˆ–Oè¿›ä¸€å¸§":
+			"",
 
 		//debug print
-		"SHIFT + L½ûÓÃ/ÆôÓÃ´ËÊä³ö"£º
-			""£¬
-		"¼ì²âµ½LUA£¨Ctrl + F8ÏÔÊ¾±¨¸æ£©"£º
-			"" £¬
-		"ÔÚ{FILE NAME}ÖÐ¼ì²âµ½LUA´íÎó£¨°´Ctrl + F8ÏÔÊ¾±¨¸æ£©"£º
-			""£¬
+		"SHIFT + Lç¦ç”¨/å¯ç”¨æ­¤è¾“å‡º":
+			"",
+		"æ£€æµ‹åˆ°LUAï¼ˆCtrl + F8æ˜¾ç¤ºæŠ¥å‘Šï¼‰":
+			"" ,
+		"åœ¨{FILE NAME}ä¸­æ£€æµ‹åˆ°LUAé”™è¯¯ï¼ˆæŒ‰Ctrl + F8æ˜¾ç¤ºæŠ¥å‘Šï¼‰":
+			"",
 
 		//editor
-		"ÓÎÏ·Ä£Ê½/±à¼­Ä£Ê½"£º
-			""£¬
+		"æ¸¸æˆæ¨¡å¼/ç¼–è¾‘æ¨¡å¼":
+			"",
 
 		// primoid 
-		"°´F1¿ìËÙ»Ø´ðÒ»Ð©ÎÊÌâ¹ØÓÚÄã¸ÕÍæ¹ýµÄÇøÓòµÄÎÊÌâ¡££¨¼ÓÔØÖÐ£©"£º
-			""£¬
-		"ÐÂÇøÓò"£º
-			""£¬
-		"ÌÓÍÑµõ²Õ×¹»Ùµã"£º
-			""£¬
-		"»ð¼ýÍ²²ÖÎ»ÖÃ"£º 
-			""£¬
-		"»ð¼ýÁã¼þ"£º
-			""£¬
+		"æŒ‰F1å¿«é€Ÿå›žç­”ä¸€äº›é—®é¢˜å…³äºŽä½ åˆšçŽ©è¿‡çš„åŒºåŸŸçš„é—®é¢˜.ï¼ˆåŠ è½½ä¸­ï¼‰":
+			"",
+		"æ–°åŒºåŸŸ":
+			"",
+		"é€ƒè„±åŠèˆ±å æ¯ç‚¹":
+			"",
+		"ç«ç®­ç­’ä»“ä½ç½®": 
+			"",
+		"ç«ç®­é›¶ä»¶":
+			"",
 
 		//primoid areas 
-		"PrimoidÆ½Ãæ"£º
-			""£¬
-		"É½¶´"£º
-			""£¬
-		"·Ï¹øÂ¯"£º
-			""£¬
-		"±±Çø"£º
-			""£¬
-		"¶´Ñ¨ËíµÀ"£º
-			""£¬
-		"´ÔÁÖÉñµî"£º
-			" "£¬
-		"Î÷¿óÇø"£º
-			""£¬
-		"¶«¿óÇø"£º
-			""£¬
-		"²Ù×÷ÊÖÌ×"£º
-			""£¬
-		"Mu-Ilaak ÉñÃí"£º
-			""£¬
-		"Mu-Ilaak Ä¹µØ"£º
-			""£¬
-		"Ê¯¿ß"£º
-			""£¬
-		"PrimeÉ½"£º
-			""£¬
-		"»¬µÀ"£º
-			""£¬
-		"¹èÃÔ¹¬"£º
-			""£¬
-		"½ðÐ¾"£º
-			""£¬
+		"Primoidå¹³é¢":
+			"",
+		"å±±æ´ž":
+			"",
+		"åºŸé”…ç‚‰":
+			"",
+		"åŒ—åŒº":
+			"",
+		"æ´žç©´éš§é“":
+			"",
+		"ä¸›æž—ç¥žæ®¿":
+			" ",
+		"è¥¿çŸ¿åŒº":
+			"",
+		"ä¸œçŸ¿åŒº":
+			"",
+		"æ“ä½œæ‰‹å¥—":
+			"",
+		"Mu-Ilaak ç¥žåº™":
+			"",
+		"Mu-Ilaak å¢“åœ°":
+			"",
+		"çŸ³çªŸ":
+			"",
+		"Primeå±±":
+			"",
+		"æ»‘é“":
+			"",
+		"ç¡…è¿·å®«":
+			"",
+		"é‡‘èŠ¯":
+			"",
 
-		//last man standing£¨Carnageoid£©
-		" - °´ESC¼ü/Ñ¡Ôñ·µ»ØÐ¡ÐÐÐÇ´ø  - "£º
-			""£¬
-		" - °´ÏÂ°´Å¥¼ÓÈë - "£º
-			""£¬
-		"×î¶à4ÃûÍæ¼ÒPVP"£º
-			""£¬
-		"¸Ä±ä¾º¼¼³¡Óë´¥·¢Æ÷»òÊó±ê"£º
-			""£¬
-		"³ö·¢£¡"£º
-			""£¬
-		"Í»È»ËÀÍö{SECONDS}"£º
-			""£¬
-		"Ó®¼Ò£¡"£º
-			""£¬
-		"{ÌôÕ½Ö¸Áî}£¡"£º
-			""£¬
-		"Îèµ¸"£º
-			""£¬
-		"²»ÒªÒÆ¶¯"£º
-			"²»ÒªÒÆ¶¯"£¬
-		"Ç±Ë®"£º
-			""£¬
-		"°´ËùÓÐ°´Å¥"£º
-			""£¬
-		"{SCORE} / 10"£º
-			""£¬
+		//last man standingï¼ˆCarnageoidï¼‰
+		" - æŒ‰ESCé”®/é€‰æ‹©è¿”å›žå°è¡Œæ˜Ÿå¸¦  - ":
+			"",
+		" - æŒ‰ä¸‹æŒ‰é’®åŠ å…¥ - ":
+			"",
+		"æœ€å¤š4åçŽ©å®¶PVP":
+			"",
+		"æ”¹å˜ç«žæŠ€åœºä¸Žè§¦å‘å™¨æˆ–é¼ æ ‡":
+			"",
+		"å‡ºå‘ï¼":
+			"",
+		"çªç„¶æ­»äº¡{SECONDS}":
+			"",
+		"èµ¢å®¶ï¼":
+			"",
+		"{æŒ‘æˆ˜æŒ‡ä»¤}ï¼":
+			"",
+		"èˆžè¹ˆ":
+			"",
+		"ä¸è¦ç§»åŠ¨":
+			"ä¸è¦ç§»åŠ¨",
+		"æ½œæ°´":
+			"",
+		"æŒ‰æ‰€æœ‰æŒ‰é’®":
+			"",
+		"{SCORE} / 10":
+			"",
 
 		// racetoid 
-		" - °´ESC / SELECT·µ»ØÐ¡ÐÐÐÇ´ø  - "£º
-			""£¬
-		" - °´Å¥¼ÓÈë - "£º
-			""£¬
-		"{PLAYERS READY} / {TOTAL PLAYERS} Íæ¼Ò¾ÍÎ»"£º
-			""£¬
-		"³ö·¢"£º
-			""£¬
-		"×î¼ÑÊ±¼ä£º{TIME}"£º
-			"" £¬
-		"×î¼ÑÊ±¼ä£º{TIME} (Gold: {GOLD TIME})"£º
-			""£¬
-		"ÐÂ¸ß·Ö£¡"£º
-			""£¬
-		"¸ß·Ö£º{Ê±¼ä}"£º
-			""£¬
+		" - æŒ‰ESC / SELECTè¿”å›žå°è¡Œæ˜Ÿå¸¦  - ":
+			"",
+		" - æŒ‰é’®åŠ å…¥ - ":
+			"",
+		"{PLAYERS READY} / {TOTAL PLAYERS} çŽ©å®¶å°±ä½":
+			"",
+		"å‡ºå‘":
+			"",
+		"æœ€ä½³æ—¶é—´:{TIME}":
+			"" ,
+		"æœ€ä½³æ—¶é—´:{TIME} (Gold: {GOLD TIME})":
+			"",
+		"æ–°é«˜åˆ†ï¼":
+			"",
+		"é«˜åˆ†:{æ—¶é—´}":
+			"",
 
 		//wrangle
-		"´øµ½È¼ÉÕÆ÷£¡" £º
-			""£¬
-		"×¥×¡Ëü£¡"£º
-			""£¬
-		"×¥×¡Éü¿Ú£¡"£º
-			""£¬
-		"¸ÉµÃºÃ£¡"£º
-			""£¬
-		"ÄãÓ®ÁË£¡Ê±¼äµ½ÁË£¡"£º
-			""£¬ 
-			""£¬
+		"å¸¦åˆ°ç‡ƒçƒ§å™¨ï¼" :
+			"",
+		"æŠ“ä½å®ƒï¼":
+			"",
+		"æŠ“ä½ç‰²å£ï¼":
+			"",
+		"å¹²å¾—å¥½ï¼":
+			"",
+		"ä½ èµ¢äº†ï¼æ—¶é—´åˆ°äº†ï¼":
+			"", 
+			"",
  
 		//wrangloid UI
-		"Wrangled£º{WRANGLED_COUNT} Remaining£º{REMAINING_COUNT}"£º
+		"Wrangled:{WRANGLED_COUNT} Remaining:{REMAINING_COUNT}":
 
 		// defendoid 
-		"Ê¹ÓÃÖÕ¶ËÌø¹ýµÈ´ý£¡"£º
-			""£¬
-		"ºÚ³± {WAVE_NUMBER}"£º
-			""£¬
-		"ºÚ³± {WAVE_NUMBER}µ½´ï{TIME}Ãë" £º
-			""£¬
-		"ÇåÀí¹¥»÷Õß£¡"£º
-			""£¬
-		"ËÑË÷Õ½ÀûÆ·ºÍÉý¼¶£¡"£º
-			""£¬
-		"Îª¹¥»÷Õß×öºÃ×¼±¸£¡"£º
-			""£¬
+		"ä½¿ç”¨ç»ˆç«¯è·³è¿‡ç­‰å¾…ï¼":
+			"",
+		"æ³¢ {WAVE_NUMBER}":
+			"",
+		"æ³¢ {WAVE_NUMBER}åˆ°è¾¾{TIME}ç§’" :
+			"",
+		"æ¸…ç†æ”»å‡»è€…ï¼":
+			"",
+		"æœç´¢æˆ˜åˆ©å“å’Œå‡çº§ï¼":
+			"",
+		"ä¸ºæ”»å‡»è€…åšå¥½å‡†å¤‡ï¼":
+			"",
 
 		//coliseum
-		" - Ìí¼Ó×Ô¼ºµÄ¹¤×÷·»À¶Í¼£¬±êÇ©ËüÊÇ"½Ç¶·Ê¿" - "£º
-			""£¬
-		"ÔÚ¹¤×÷·»ÖÐ¶ÔËüÃÇ½øÐÐÆÀ·Ö - Ëü»áÓ°ÏìËüÃÇ³öÏÖµÄÆµÂÊ"£º
-			""£¬ 
-		"ÐÂÀ¶Í¼ÉÏ´«£º{NAME}£¡"£º
-			""£¬
-		"ÏÂÒ»¸ö£º"£º
-			""£¬
-		"¾ç³¡ {NAME} by {AUTHOR}":
+		" - æ·»åŠ è‡ªå·±çš„å·¥ä½œåŠè“å›¾,æ ‡ç­¾å®ƒæ˜¯â€œè§’æ–—å£«â€ - ":
+			"",
+		"åœ¨å·¥ä½œåŠä¸­å¯¹å®ƒä»¬è¿›è¡Œè¯„åˆ† - å®ƒä¼šå½±å“å®ƒä»¬å‡ºçŽ°çš„é¢‘çŽ‡":
+			"", 
+		"æ–°è“å›¾ä¸Šä¼ :{NAME}ï¼":
+			"",
+		"ä¸‹ä¸€ä¸ª:":
+			"",
+		"å‰§åœº {NAME} by {AUTHOR}":
 			"{NAME} by {AUTHOR}",
-		"{NAME}»ñÊ¤£¡"£º
-			""£¬
-		"Ê¹ÓÃ{NAME}"£º
-			""£¬
-		"ÌõÎÆ£º{STREAK COUNT}£¡"£º
-			""£¬
-		"{NAME}µÄ½áÎ²"£º
-			""£¬
-		"ÉçÇø´´×÷"£º
-			""£¬
-		"ÉçÇø´´½¨Õß£º{NAME}"£º
-			""£¬
-		"ÆÀ·Ö£º{RATING}£¥"£º
-			""£¬
-		"ÔÙÕ½"£º
-			""£¬
-		"Æ½¾Ö"£º
-			""£¬
+		"{NAME}èŽ·èƒœï¼":
+			"",
+		"ä½¿ç”¨{NAME}":
+			"",
+		"æ¡çº¹:{STREAK COUNT}ï¼":
+			"",
+		"{NAME}çš„ç»“å°¾":
+			"",
+		"ç¤¾åŒºåˆ›ä½œ":
+			"",
+		"ç¤¾åŒºåˆ›å»ºè€…:{NAME}":
+			"",
+		"è¯„åˆ†:{RATING}ï¼…":
+			"",
+		"å†æˆ˜":
+			"",
+		"å¹³å±€":
+			"",
 
 		//steam workshop info
-		"×°ÔØÃû³Æ"£º
-			""£¬
-		"WS By {AUTHOR}"£º
-			"By {AUTHOR}"£¬
-		"À¶Í¼Éè¼Æ By {AUTHOR}"£º
-			""£¬
-		"ÆÀ¼¶£º{RATING}£¥"£º
-			""£¬
+		"æ­£åœ¨è½½å…¥åç§°":
+			"",
+		"WS By {AUTHOR}":
+			"By {AUTHOR}",
+		"è“å›¾è®¾è®¡By {AUTHOR}":
+			"",
+		"è¯„åˆ†:{RATING}ï¼…":
+			"",
 
 		//structure steam altar
-		"¶©ÔÄÀ¶Í¼ÒÔ±ãÔÚ´Ë´¦½ÓÊÕ{BUTTON}"£º
-			""£¬
-		"¼¤»î¶©ÔÄµÄÀ¶Í¼¡£°´{BUTTON}´ò¿ª¹¤×÷ÊÒ"£º
-			""£¬
-		"ÕôÆû¼ÀÌ³ÄãÍÆ¼öÕâ¸öÂð£¿"£º
-			"ÄãÍÆ¼öÕâ¸öÂð£¿"£¬
-		"ÕôÆû¼ÀÌ³No"£º
-			"·ñ"£¬
-		"ÕôÆû¼ÀÌ³Yes" £º
-			"ÊÇ"£¬
+		"è®¢é˜…è“å›¾ä»¥ä¾¿åœ¨æ­¤å¤„æŽ¥æ”¶è“å›¾{BUTTON}":
+			"",
+		"æ¿€æ´»è®¢é˜…çš„è“å›¾.æŒ‰{BUTTON}æ‰“å¼€steamå·¥åŠ":
+			"",
+		"steam altarä½ æŽ¨èè¿™ä¸ªå—ï¼Ÿ":
+			"ä½ æŽ¨èè¿™ä¸ªå—ï¼Ÿ",
+		"steam altar No":
+			"å¦",
+		"steam altar Yes" :
+			"æ˜¯",
 
-		//structure shop manager (steam shop)
-		"Ãâ·ÑÑùÆ·"£º
-			""£¬
-		"{PRICE}£¨50£¥ÕÛ¿Û£©"£º
-			""£¬
-		"¹ºÂò"£º
-			""£¬
-		"Steam Shop By {AUTHOR} "£º
-			"By {AUTHOR}"£¬
-		"Steam Shop ÄãÍÆ¼öÕâ¸öÂð£¿"£º
-			"ÄãÍÆ¼öÕâ¸öÂð£¿"£¬
-		"ÏòÉÏ/ÏòÏÂÍ¶Æ±"£º 
-			""£¬
-		"Ã»ÓÐ×ã¹»µÄ½ð×Ó"£º 
-			""£¬
-		"¶¥"£º 
-			""£¬
-		"²ð"£º
-			""£¬
-		" -  Shop {SHOP TAG}  - "£º
-			""£¬
-		" -  {PRICE} ½ð×Ó"£º
-			""£¬
+		//ç»“æž„å•†åº—ç®¡ç†å™¨ (steam å•†åº—)
+		"å…è´¹æ ·å“":
+			"",
+		"{PRICE}ï¼ˆ50ï¼…æŠ˜æ‰£ï¼‰":
+			"",
+		"è´­ä¹°":
+			"",
+		"Steam å•†åº— By {AUTHOR} ":
+			"By {AUTHOR}",
+		"Steam å•†åº— ä½ æŽ¨èè¿™ä¸ªå—ï¼Ÿ":
+			"ä½ æŽ¨èè¿™ä¸ªå—ï¼Ÿ",
+		"é¡¶/è¸©": 
+			"",
+		"æ²¡æœ‰è¶³å¤Ÿçš„é‡‘å­": 
+			"",
+		"é¡¶": 
+			"",
+		"è¸©":
+			"",
+		" -  å•†åº—{SHOP TAG}  - ":
+			"",
+		" -  {PRICE} é‡‘å­":
+			"",
 
 		//tags (plural) used for SHOP TAG 
-		"ÎäÆ÷"£º
-			""£¬
-		"¹¤¾ß"£º
-			""£¬
-		"³µÁ¾"£º
-			""£¬
-		"ÏÈ·æ"£º
-			""£¬
-		"»úÆ÷ÈË"£º
-			""£¬
-		"Ù¸"£º
-			""£¬
-		"¶¯ÎïÈº"£º
-			"¶¯ÎïÈº"£¬
+		"æ­¦å™¨":
+			"",
+		"å·¥å…·":
+			"",
+		"è½¦è¾†":
+			"",
+		"å…ˆé”‹":
+			"",
+		"æœºå™¨äºº":
+			"",
+		"ä¿‘":
+			"",
+		"å…½ç¾¤":
+			"å…½ç¾¤",
 
 		//structure shop pioneers
-		"Pio ShopÃ»ÓÐ×ã¹»µÄ½ð×Ó"£º
-			"Ã»ÓÐ×ã¹»µÄ½ð×Ó"£¬
+		"å…ˆé”‹å®‡èˆªå‘˜å•†åº—æ²¡æœ‰è¶³å¤Ÿçš„é‡‘å­":
+			"æ²¡æœ‰è¶³å¤Ÿçš„é‡‘å­",
 
-		//»úÆ÷¿Õ¼ä´«ËÍÆ÷
-		" ¿Õ¼ä´«ËÍÆ÷³¡¾°Íê³É"£º
-			"³¡¾°Íê³É"£¬
-		"È·ÈÏÀë¿ª"£º
-			""£¬
-
-		//À¶Í¼²Ëµ¥
-		"Blueprint Ready"£º
-			""£¬
-		"²»ÍêÕûµÄÀ¶Í¼"£º
-			""£¬
-		"ÐÂÀ¶Í¼£¡"£º
-			""£¬
-		"×ÊÔ´²»×ã"£º
-			""£¬
-		//label above effect when player is scanning a blueprint
-    "É¨Ãè":
-		// label above effect when player finished scanning a blueprint
-		"Íê³É!":
+		//æœºå™¨ç©ºé—´ä¼ é€å™¨
+		" ç©ºé—´ä¼ é€å™¨åœºæ™¯å®Œæˆ":
+			"åœºæ™¯å®Œæˆ",
+		"ç¡®è®¤ç¦»å¼€":
 			"",
-		"½ðÊô£º{NUMBER} kg"£º
-			""£¬
-		"Ì¼£º{NUMBER} kg"£º
-			""£¬
-		"¹è£º{NUMBER} kg"£º
-			""£¬
-		"Ë®£º{NUMBER} kg"£º 
-			""£¬
-		"È¡Ïû"£º
-			""£¬
+
+		//è“å›¾èœå•
+		"è“å›¾å°±ç»ª":
+			"",
+		"ä¸å®Œæ•´çš„è“å›¾":
+			"",
+		"æ–°è“å›¾ï¼":
+			"",
+		"èµ„æºä¸è¶³":
+			"",
+		//label above effect when player is scanning a blueprint
+    "æ‰«æ":
+		// label above effect when player finished scanning a blueprint
+		"å®Œæˆ!":
+			"",
+		"é‡‘å±ž:{NUMBER} kg":
+			"",
+		"ç¢³:{NUMBER} kg":
+			"",
+		"ç¡…:{NUMBER} kg":
+			"",
+		"æ°´:{NUMBER} kg": 
+			"",
+		"å–æ¶ˆ":
+			"",
 
 		//blueprint menu categories (translate these to plural) 
-		"CATEGORY Partial"£º
-			""£¬
-		"CATEGORY Workshop"£º
-			""£¬
-		"CATTORY 1T"£º
-			"1T Blocks"£¬
-		"CATEGORY Aurium"£º
-			""£¬
-		"CATEGORY Bomb"£º
-			"Õ¨µ¯"£¬
-		"CATEGORY Bot"£º
-			"»úÆ÷ÈË"£¬
-		"CATEGORY Cloud"£º
-			"ÔÆ"£¬
-		"CATEGORY Coalition"£º
-			""£¬
-		"CATEGORY Component"£º
-			"×é¼þ"£¬
-		"CATEGORY Construction"£º
-			""£¬
-		"CATEGORY Fauna"£º
-			""£¬
-		"CATEGORY Flora"£º
-			""£¬
-		"CATEGORY Gear"£º
-			""£¬
-		"CATEGORY Golem"£º
-			"Ù¸"£¬
-		"CATEGORY Grenade"£º
-			"ÊÖÁñµ¯"£¬
-		"CATEGORY Junk"£º 
-			"µÆ"£¬ 
-			""£¬
-		"CATEGORY Lamp"£º 
-		"CATEGORY Trigger"£º
-		"CATEGORY Loot"£º
-			""£¬
-		"CATEGORY Lump"£º
-			"´ó¿é"£¬
-		"CATEGORY Machine"£º
-			"»úÆ÷"£¬
-		"CATEGORY Pioneer"£º
-			"ÏÈ·æ"£¬
-		"CATEGORY Prototype"£º
-			"Ô­ÐÍ"£¬
-		"CATEGORY Reactor"£º
-			" ·´Ó¦¶Ñ"£¬
-		"CATEGORY Rover"£º
-			"Á÷ÀËÕß"£¬
-		"CATEGORY Ship"£º
-			"´¬"£¬
-		"CATEGORY Sign"£º
-			"±êÊ¶"£¬
-		"CATEGORY Strucure"£º
-			"½á¹¹"£¬
-		"CATEGORY Tank"£º
-			"Ì¹¿Ë"£¬
-		"CATEGORY¹¤¾ß"£º
-			"¹¤¾ß"£¬
-		"CATEGORY Trap"£º
-			"ÏÝÚå"£¬ 
-		"CATEGORYÎäÆ÷"£º
-			"´¥·¢Æ÷"£¬
-			"ÎäÆ÷"£¬
+		"CATEGORY Partial":
+			"éƒ¨åˆ†æ ‡ç­¾",
+		"CATEGORY Workshop":
+			"æ ‡ç­¾å·¥åŠ",
+		"CATTORY 1T":
+			"1T ç –å—",
+		"CATEGORY Aurium":
+			"é‡‘çŸ¿",
+		"CATEGORY Bomb":
+			"ç‚¸å¼¹",
+		"CATEGORY Bot":
+			"æœºå™¨äºº",
+		"CATEGORY Cloud":
+			"äº‘",
+		"CATEGORY Coalition":
+			"è”åˆä½“",
+		"CATEGORY Component":
+			"ç»„ä»¶",
+		"CATEGORY Construction":
+			"å»ºè®¾",
+		"CATEGORY Fauna":
+			"é‡Žå…½",
+		"CATEGORY Flora":
+			"æ¤ç‰©ç±»",
+		"CATEGORY Gear":
+			"é½¿è½®",
+		"CATEGORY Golem":
+			"ä¿‘",
+		"CATEGORY Grenade":
+			"æ‰‹æ¦´å¼¹",
+		"CATEGORY Junk": 
+			"åºŸå“", 
+			
+		"CATEGORY Lamp": 
+		        "ç¯",
+		"CATEGORY Trigger":
+		        "è§¦å‘å™¨",
+		"CATEGORY Loot":
+			"æ ¹",
+		"CATEGORY Lump":
+			"å—çŠ¶",
+		"CATEGORY Machine":
+			"æœºå™¨",
+		"CATEGORY Pioneer":
+			"å…ˆé”‹",
+		"CATEGORY Prototype":
+			"åŽŸåž‹",
+		"CATEGORY Reactor":
+			" ååº”å †",
+		"CATEGORY Rover":
+			"â€œæµæµªè€…â€è½¦",
+		"CATEGORY Ship":
+			"èˆ¹",
+		"CATEGORY Sign":
+			"æ ‡è¯†",
+		"CATEGORY Strucure":
+			"ç»“æž„",
+		"CATEGORY Tank":
+			"å¦å…‹",
+		"CATEGORYå·¥å…·":
+			"å·¥å…·",
+		"CATEGORY Trap":
+			"é™·é˜±", 
+		"CATEGORYæ­¦å™¨":
+			
+			"æ­¦å™¨",
 
 		///blueprint names for blueprint menu and appearing over vehicles and tools
 		//category words should not stay in the translation, instead keep the names natural like you would call this thing
 		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle' 
-		"1T Graphite"£º
-			"Graphite Block"£¬
-		"1T Ice"£º
-			"Ice Block"£¬
-		"1T Metals"£º
-			"Metal Block"£¬
-		"1T Sandstone"£º
-			"Sandstone Block"£¬
-		" Aurium Crystal"£º
-			"½ð¾§Ìå"£¬
-		"Aurium Vase Brown"£º
-			"×ØÉ«½ð»¨Æ¿"£¬ 
-		"Aurium Vase Large 1"£º
-			"´ó½ð»¨Æ¿"£¬
-		"Aurium Vase Large 2"£º 
-			"´ó½ð»¨Æ¿ 2"£¬
-		"Aurium Vase Large 3"£º
-			"´ó½ð»¨Æ¿ 3"£¬
-		"Aurium Vase Small"£º
-			"Ð¡½ð»¨Æ¿"£¬
-		"Bomb Classic"£º
-			"¾­µäÕ¨µ¯"£¬
-		"Bomb Large"£º
-			"´óÕ¨µ¯"£¬
-		"Bomb"£º
-			"Õ¨µ¯"£¬
-		"Bot Acid"£º
-			"ËáÐÔ»úÆ÷ÈË"£¬
-		"Bot Drone Defense"£º
-			"·ÀÓùÎÞÈË»ú"£¬
-		"Bot Flip"£º
-			"·­×ª»úÆ÷ÈË"£¬
-		"Bot Flying Worm"£º
-			"·É³æ"£¬
-		"Bot Frosty" £º
-			"±ù¶³»úÆ÷ÈË"£¬
-		"Bot Guard Box"£º
-			"·ÀÓù»úÆ÷ÈË"£¬ 
-		"Bot Imperatus"£º
-			"Ö¸»Ó»úÆ÷ÈË"£¬
-		"Bot Jumper Box"£º 
-			"²ÝÉÏ·É»úÆ÷ÈË"£¬
-		"Bot Mecha"£º
-			"»ú¼×»úÆ÷ÈË"£¬
-		"Bot Phoenix"£º 
-			"·ï»Ë»úÆ÷ÈË"£¬
-		"Bot Sentry"£º
-			"ÉÚ±ø»úÆ÷ÈË"£¬
-		"Bot Spot"£º
-			"»úÆ÷ÈËÇø"£¬
-		"Bot Tank"£º
-			"»úÆ÷ÈËÌ¹¿Ë"£¬
-		"Bot Temperature Drone"£º
-			"ÎÂ¶ÈÎÞÈË»ú"£¬
-		"Bot Titan Golem"£º
-			"¾ÞÐÍÙ¸»úÆ÷ÈË"£¬
-		"Bot Vendor"£º
-			"¹©Ó¦ÉÌ»úÆ÷ÈË"£¬
-		"Bot Wandering"£º
-			"Á÷ÀËÕß»úÆ÷ÈË"£¬
-		"Bot Worm"£º
-			"»úÆ÷³æ"£¬
-		"Cloud Acid"£º
-			"ËáÔÆ" £¬
-		"Coalition Ship"£º
-			"ÁªÃË´¬"£¬
-		"Coalition Turret"£º
-			"ÁªÃËÅÚËþ"£¬
-		"Component Balancer"£º
-			"Æ½ºâÆ÷×é¼þ"£¬
-		"Component Balloon"£º
-			"ÆøÇò"£¬
-		"Component Battery 100A"£º
-			"100Aµç³Ø"£¬
-		"Component Battery 10A"£º
-			"10Aµç³Ø"£¬
-		"Component Capacitor"£º
-			"µçÈÝÆ÷"£¬
-		"Component Explosive Charge"£º
-			"±¬Õ¨×°Ò©"£¬
-		"Component Minigun" £º
-			"¿É°²×°µÄÎ¢³å"£¬
-		"Component Seat Boosted"£º
-			"ÌáÉý×ùÒÎ"£¬
-		"Component Seat"£º
-			"×ùÒÎ"£¬
-		"Component Thruster"£º
-			"ÍÆ½øÆ÷"£¬
-		"Component Wheel"£º
-			"ÂÖ×Ó"£¬
-		"Construction Concrete Support"£º
-			"»ìÄýÍÁÖ§³Å"£¬
-		"Construction Concrete Wall"£º
-			"»ìÄýÍÁÇ½"£¬
-		"Construction Concrete Window"£º 
-			"»ìÄýÍÁ´°"£¬
-		"Construction Elevator"£º 
-			"µçÌÝ"£¬
-		"Construction Plank Big"£º
-			"´ó°å"£¬
-		"Construction Plank Slim"£º
-			"±¡°å"£¬
-		"Construction Plank"£º
-			"°åÌõ"£¬
-		"Construction Trunk"£º
-			"Ê÷¸É"£¬
-		"Construction Wooden Triangle"£º
-			"Ä¾ÖÆÈý½Ç"£¬
-		"Fauna Animal Nest"£º
-			"¶¯Îï³²"£¬
-		"Fauna Bird Hostile"£º
-			"µÐ¶ÔÄñ"£¬
-		"Fauna Bird Neutral"£º
-			"ÖÐÁ¢Äñ"£¬
-		"Fauna Bomb Bug"£º
-			"Õ¨µ¯³æ"£¬
-		"Fauna Crab Acid"£º
-			"ËáÐ·"£¬
-		"Fauna Crab Aurium"£º
-			"½ðÐ·"£¬
-		"Fauna Crab Balloon"£º 
-			"ÆøÅÝÐ·"£¬
-		"Fauna Crab Fire"£º
-			"»ðÐ·"£¬
-		"Fauna Crab"£º
-			"ó¦Ð·"£¬
-		"Fauna Egg Bird"£º
-			"Äñµ°"£¬
-		"Fauna Egg"£º
-			"µ°"£¬
-		"Fauna Grazer"£º
-			"²ÝÊ³"£¬
-		"Fauna Ice Bird"£º
-			"±ùÄñ"£¬
-		"Fauna Ice Bug"£º
-			"±ù³æ"£¬
-		"Fauna Knuckles Boss"£º
-			"ÏìÖ¸"£¬
-		"Fauna Knuckles"£º
-			"Ö¸½Ú"£¬
-		"Fauna Mega Worm Long"£º
-			"³¤Õ×³æ"£¬
-		"Fauna Mega Worm"£º
-			"´ó³æ"£¬
-		"Fauna Roly Poly"£º
-			"Roly Poly"£¬
-		"Fauna Silverback"£º
-			"Òø±³´óÐÉÐÉ"£¬ 
+		"1T Graphite":
+			"1Tå›¾ç‰‡å—",
+		"1T Ice":
+			"1Tå†°å—",
+		"1T Metals":
+			"1Té‡‘å±žå—",
+		"1T Sandstone":
+			"1Tç ‚çŸ³å—",
+		" Aurium Crystal":
+			"é‡‘æ™¶ä½“",
+		"Aurium Vase Brown":
+			"æ£•è‰²é‡‘èŠ±ç“¶", 
+		"Aurium Vase Large 1":
+			"å¤§é‡‘èŠ±ç“¶",
+		"Aurium Vase Large 2": 
+			"å¤§é‡‘èŠ±ç“¶ 2",
+		"Aurium Vase Large 3":
+			"å¤§é‡‘èŠ±ç“¶ 3",
+		"Aurium Vase Small":
+			"å°é‡‘èŠ±ç“¶",
+		"Bomb Classic":
+			"ç»å…¸ç‚¸å¼¹",
+		"Bomb Large":
+			"å¤§ç‚¸å¼¹",
+		"Bomb":
+			"ç‚¸å¼¹",
+		"Bot Acid":
+			"é…¸æ€§æœºå™¨äºº",
+		"Bot Drone Defense":
+			"é˜²å¾¡æ— äººæœº",
+		"Bot Flip":
+			"ç¿»è½¬æœºå™¨äºº",
+		"Bot Flying Worm":
+			"é£žè™«",
+		"Bot Frosty" :
+			"å†°å†»æœºå™¨äºº",
+		"Bot Guard Box":
+			"é˜²å¾¡æœºå™¨äºº", 
+		"Bot Imperatus":
+			"æŒ‡æŒ¥æœºå™¨äºº",
+		"Bot Jumper Box": 
+			"è‰ä¸Šé£žæœºå™¨äºº",
+		"Bot Mecha":
+			"æœºç”²æœºå™¨äºº",
+		"Bot Phoenix": 
+			"å‡¤å‡°æœºå™¨äºº",
+		"Bot Sentry":
+			"å“¨å…µæœºå™¨äºº",
+		"Bot Spot":
+			"ç‚¹ç‚¹æœºå™¨äºº",
+		"Bot Tank":
+			"å¦å…‹æœºå™¨äºº",
+		"Bot Temperature Drone":
+			"æ¸©åº¦æ— äººæœº",
+		"Bot Titan Golem":
+			"æ³°å¦æœºå™¨äºº",
+		"Bot Vendor":
+			"ä¾›åº”å•†æœºå™¨äºº",
+		"Bot Wandering":
+			"æµæµªè€…æœºå™¨äºº",
+		"Bot Worm":
+			"æœºæ¢°è •è™«",
+		"Cloud Acid":
+			"é…¸äº‘" ,
+		"Coalition Ship":
+			"è”ç›Ÿèˆ¹",
+		"Coalition Turret":
+			"è”ç›Ÿç‚®å¡”",
+		"Component Balancer":
+			"å¹³è¡¡å™¨ç»„ä»¶",
+		"Component Balloon":
+			"æ°”çƒç»„ä»¶",
+		"Component Battery 100A":
+			"100Aç”µæ± ",
+		"Component Battery 10A":
+			"10Aç”µæ± ",
+		"Component Capacitor":
+			"ç”µå®¹å™¨",
+		"Component Explosive Charge":
+			"çˆ†ç‚¸è£…è¯",
+		"Component Minigun" :
+			"åŠ ç‰¹æž—",
+		"Component Seat Boosted":
+			"åŠ¨åŠ›åŠ©æŽ¨åº§æ¤…",
+		"Component Seat":
+			"åº§æ¤…",
+		"Component Thruster":
+			"æŽ¨è¿›å™¨",
+		"Component Wheel":
+			"è½®å­",
+		"Construction Concrete Support":
+			"æ··å‡åœŸæ”¯æ’‘ç»“æž„",
+		"Construction Concrete Wall":
+			"æ··å‡åœŸå¢™",
+		"Construction Concrete Window": 
+			"æ··å‡åœŸçª—",
+		"Construction Elevator": 
+			"ç”µæ¢¯",
+		"Construction Plank Big":
+			"å¤§æœ¨æ¿",
+		"Construction Plank Slim":
+			"è–„æœ¨æ¿",
+		"Construction Plank":
+			"æ¿æ¡",
+		"Construction Trunk":
+			"åœ†æœ¨",
+		"Construction Wooden Triangle":
+			"æœ¨ä¸‰è§’",
+		"Fauna Animal Nest":
+			"åŠ¨ç‰©å·¢",
+		"Fauna Bird Hostile":
+			"æ•Œå¯¹é¸Ÿ",
+		"Fauna Bird Neutral":
+			"ä¸­ç«‹é¸Ÿ",
+		"Fauna Bomb Bug":
+			"ç‚¸å¼¹è™«",
+		"Fauna Crab Acid":
+			"é…¸èŸ¹",
+		"Fauna Crab Aurium":
+			"é‡‘èŸ¹",
+		"Fauna Crab Balloon": 
+			"æ°”æ³¡èŸ¹",
+		"Fauna Crab Fire":
+			"ç«èŸ¹",
+		"Fauna Crab":
+			"èžƒèŸ¹",
+		"Fauna Egg Bird":
+			"é¸Ÿè›‹",
+		"Fauna Egg":
+			"è›‹",
+		"Fauna Grazer":
+			"è‰é£Ÿè€…",
+		"Fauna Ice Bird":
+			"å†°é¸Ÿ",
+		"Fauna Ice Bug":
+			"å†°è™«",
+		"Fauna Knuckles Boss":
+			"å“æŒ‡",
+		"Fauna Knuckles":
+			"æŒ‡èŠ‚",
+		"Fauna Mega Worm Long":
+			"é•¿å…†è™«",
+		"Fauna Mega Worm":
+			"å¤§è™«",
+		"Fauna Roly Poly":
+			"çƒçƒè™«",
+		"Fauna Silverback":
+			"é“¶èƒŒ", 
 		"Fauna Skeleton Armored":
-			"×°¼×÷¼÷Ã",
+			"è£…ç”²éª·é«…",
 		"Fauna Snapjaw":
-			"Ç¯×ì¹ê",
-		"Fauna Tentacle Eye"£º
-			"´¥ÊÖÑÛ"£¬
-		"Fauna Tentacle Launcher"£º
-			"´¥ÊÖ·¢ÉäÆ÷"£¬
-		"Fauna Tentacle Old"£º
-			"¾É´¥ÊÖ"£¬
-		"Fauna Tentacle"£º
-			"´¥ÊÖ"£¬
-		"Fauna Zombie" £º
-			"Zombie"£¬
-		"Flora Aloe Plant"£º
-			"Â«ÜöÖ²Îï"£¬
-		"Flora Broccoli Plant"£º
-			"Î÷À¼»¨Ö²Îï"£¬
-		"Flora Clone Plant"£º
-			"¿ËÂ¡Ö²Îï"£¬
-		"Flora Glow Plant"£º
-			"·¢¹âÖ²Îï"£¬
-		"Flora Liana End"£º
-			"ÌÙÂû¸ù"£¬ 
-		"Flora Liana"£º
-			"ÌÙÂû"£¬
+			"é’³å˜´é¾Ÿ",
+		"Fauna Tentacle Eye":
+			"è§¦æ‰‹çœ¼",
+		"Fauna Tentacle Launcher":
+			"è§¦æ‰‹å‘å°„å™¨",
+		"Fauna Tentacle Old":
+			"æ—§è§¦æ‰‹",
+		"Fauna Tentacle":
+			"è§¦æ‰‹",
+		"Fauna Zombie" :
+			"åƒµå°¸",
+		"Flora Aloe Plant":
+			"èŠ¦èŸæ¤ç‰©",
+		"Flora Broccoli Plant":
+			"è¥¿å…°èŠ±æ¤ç‰©",
+		"Flora Clone Plant":
+			"å…‹éš†æ¤ç‰©",
+		"Flora Glow Plant":
+			"å‘å…‰æ¤ç‰©",
+		"Flora Liana End":
+			"è—¤è”“æ ¹", 
+		"Flora Liana":
+			"è—¤è”“",
 		"Flora Pop Plant":
-			"ÅèÔÔÖ²Îï",
-		"Flora Vines"£º
-			"ÅÀÌÙ"£¬
-		"Gear Chest Plate"£º
-			"ÐØ°å"£¬
-		"Gear Crown"£º
-			"»Ê¹Ú"£¬
-		"Gear Helmet"£º
-			"Í·¿ø"£¬
-		"Gear Leg BG Armor"£º
-			"ºóÍÈ»¤¼×"£¬
-		"Gear Leg FG Armor"£º
-			"Ç°ÍÈ»¤¼×"£¬
-		"Gear Small Aurium Obj"£º
-			"Ð¡½ð³ÝÂÖÁã¼þ"£¬
-		"Gear Small Aurium"£º
-			"Ð¡½ð×Ó³ÝÂÖ"£¬
-		"Gear Space Helmet"£º
-			"Ì«¿ÕÍ·¿ø"£¬
-		"Golem Carbon"£º
-			"Ì¼Ù¸"£¬
-		"Golem Ice"£º
-			"±øÙ¸"£¬
-		"Golem Metal"£º 
-			"½ðÊôÙ¸"£¬
-		"Golem Silicon"£º
-			"¹èÙ¸"£¬ 
-		"Grenade Bounce"£º
-			"Ìøµ¯"£¬
-		"Grenade Cold"£º 
-			"Àäµ¯"£¬
-		"Grenade Spikes"£º
-			"Õðµ´µ¯"£¬
+			"ç›†æ ½æ¤ç‰©",
+		"Flora Vines":
+			"çˆ¬è—¤",
+		"Gear Chest Plate":
+			"èƒ¸æ¿",
+		"Gear Crown":
+			"çš‡å† ",
+		"Gear Helmet":
+			"å¤´ç›”",
+		"Gear Leg BG Armor":
+			"åŽè…¿æŠ¤ç”²",
+		"Gear Leg FG Armor":
+			"å‰è…¿æŠ¤ç”²",
+		"Gear Small Aurium Obj":
+			"å°é‡‘é½¿è½®é›¶ä»¶",
+		"Gear Small Aurium":
+			"å°é‡‘å­é½¿è½®",
+		"Gear Space Helmet":
+			"å¤ªç©ºå¤´ç›”",
+		"Golem Carbon":
+			"ç¢³ä¿‘",
+		"Golem Ice":
+			"å…µä¿‘",
+		"Golem Metal": 
+			"é‡‘å±žä¿‘",
+		"Golem Silicon":
+			"ç¡…ä¿‘", 
+		"Grenade Bounce":
+			"è·³å¼¹",
+		"Grenade Cold": 
+			"å†·å¼¹",
+		"Grenade Spikes":
+			"éœ‡è¡å¼¹",
                 "Junk Aurium Boulder 1":
-			"½ðÂÑÊ¯",
+			"é‡‘åµçŸ³",
 		"Junk Aurium Boulder 2":
-			"½ðÂÑÊ¯ 2",
+			"é‡‘åµçŸ³ 2",
 		"Junk Block Sandstone Long":
-			"³¤É°ÑÒ",
+			"é•¿ç ‚å²©",
 		"Junk Block Sandstone":
-			"É°ÑÒ¿é",
+			"ç ‚å²©å—",
 		"Junk Bones":
-			"¹ÇÍ·",
+			"éª¨å¤´",
 		"Junk Boulder Big":
-			"´óÂÑÊ¯",
+			"å¤§åµçŸ³",
 		"Junk Boulder Huge":
-			"¾Þ´óÂÑÊ¯",
+			"å·¨å¤§åµçŸ³",
 		"Junk Boulder Sandstone Huge":
-			"¾Þ´óÉ°ÑÒÂÑÊ¯",
+			"å·¨å¤§ç ‚å²©åµçŸ³",
 		"Junk Boulder Sandstone":
-			"É°ÑÒÂÑÊ¯",
+			"ç ‚å²©åµçŸ³",
 		"Junk Boulder Small":
-			"Ð¡ÂÑÊ¯",
+			"å°åµçŸ³",
 		"Junk Boulder":
-			"ÂÑÊ¯",
+			"åµçŸ³",
 		"Junk Brick":
-			"×©Í·",
+			"ç –å¤´",
 		"Junk Cage":
-			"Áý",
+			"ç¬¼",
 		"Junk Chain":
-			"ËøÁ´",
+			"é”é“¾",
 		"Junk Crate A":
-			"Ïä×Ó A",
+			"ç®±å­ A",
 		"Junk Crate Aurium Alloy Big":
-			"´ó½ðÏä",
+			"å¤§é‡‘ç®±",
 		"Junk Crate Aurium Alloy Small":
-			"Ð¡½ðÏä",
+			"å°é‡‘ç®±",
 		"Junk Crate Aurium Alloy":
-			"ÎÙ½ðÏä",
+			"é’¨é‡‘ç®±",
 		"Junk Crate B":
-			"Ïä B",
+			"ç®± B",
 		"Junk Crate Cardboard":
-			"Ö½°åÏä",
+			"çº¸æ¿ç®±",
 		"Junk Crate Ice 1":
-			"±ùÏä",
+			"å†°ç®±",
 		"Junk Crate Wooden 1":
-			"Ä¾Ïä",
+			"æœ¨ç®±",
 		"Junk Crate Wooden 2":
-			"Ä¾Ïä 2",
+			"æœ¨ç®± 2",
 		"Junk Crate Wooden Small 2":
-			"Ð¡Ä¾Ïä 2",
+			"å°æœ¨ç®± 2",
 		"Junk Crate Wooden Small":
-			"Ä¾Ïä",
+			"æœ¨ç®±",
 		"Junk Drill":
-			"×ê¾ß",
+			"é’»å…·",
 		"Junk Flight Recorder":
-			"·ÉÐÐ¼ÇÂ¼ÒÇ",
+			"é£žè¡Œè®°å½•ä»ª",
 		"Junk Fuel Tank Light":
-			"Ð¡ÓÍÏä",
+			"å°æ²¹ç®±",
 		"Junk Fuel Tank":
-			"ÓÍÏä",
+			"æ²¹ç®±",
 		"Junk Girder":
-			"Áº",
+			"æ¢",
 		"Junk Ice Block":
-			"±ù¿é",
+			"å†°å—",
 		"Junk Ice Rock":
-			"±ùÑÒ",
+			"å†°å²©",
 		"Junk Ice Stalactite":
-			"±ùÖÓÈéÊ¯",
+			"å†°é’Ÿä¹³çŸ³",
 		"Junk Ice Wall Small":
-			"Ð¡±ùÇ½",
+			"å°å†°å¢™",
 		"Junk Ice Wall":
-			"±ùÇ½",
+			"å†°å¢™",
 		"Junk Logo 2":
-			"±êÖ¾ 2",
+			"æ ‡å¿— 2",
 		"Junk Logo C":
-			"±êÖ¾ C",
+			"æ ‡å¿— C",
 		"Junk Logo D":
-			"±êÖ¾ D",
+			"æ ‡å¿— D",
 		"Junk Logo PP":
-			"±êÖ¾ PP",
+			"æ ‡å¿— PP",
 		"Junk Metal Plate":
-			"½ðÊô°å",
+			"é‡‘å±žæ¿",
 		"Junk Rock":
-			"ÑÒÊ¯",
+			"å²©çŸ³",
 		"Junk Rod 2":
-			"¸Í×Ó 2",
+			"ç«¿å­ 2",
 		"Junk Rod Metal":
-			"½ðÊô¸Ë",
+			"é‡‘å±žæ†",
 		"Junk Rod":
-			"¸Í×Ó",
+			"ç«¿å­",
 		"Junk Roly Poly Dung":
 			"Roly Poly Dung",
 		"Junk Ship Part A":
-			"´¬²°·Ö¼þ A",
+			"èˆ¹èˆ¶åˆ†ä»¶ A",
 		"Junk Ship Part B":
-			"´¬²°·Ö¼þ B",
+			"èˆ¹èˆ¶åˆ†ä»¶ B",
 		"Junk Ship Pieces":
-			"´¬²°×é¼þ",
+			"èˆ¹èˆ¶ç»„ä»¶",
 		"Junk Skeleton":
-			"¹Ç¸É",
+			"éª¨å¹²",
 		"Junk Snow Ball Big":
-			"´óÑ©Çò",
+			"å¤§é›ªçƒ",
 		"Junk Snow Ball Small":
-			"Ð¡Ñ©Çò",
+			"å°é›ªçƒ",
 		"Junk Snow Ball":
-			"Ñ©Çò",
+			"é›ªçƒ",
 		"Junk Tank Wreck Imperatus":
-			"Í³ÁìÌ¹¿Ë²Ðº¦",
+			"ç»Ÿé¢†å¦å…‹æ®‹å®³",
 		"Junk Vase Big":
-			"´ó»¨Æ¿",
+			"å¤§èŠ±ç“¶",
 		"Junk Vase Oil":
-			"ÓÍÆ¿",
+			"æ²¹ç“¶",
 		"Junk Vase":
-			"»¨Æ¿",
+			"èŠ±ç“¶",
 		"Lamp Chunky":
-			"´óµÆ",
+			"å¤§ç¯",
 		"Lamp Hanging Alien":
-			"ÍâÐÇÈËµõµÆ",
+			"å¤–æ˜ŸäººåŠç¯",
 		"Lamp Hanging":
-			"µõµÆ",
+			"åŠç¯",
 		"Lamp Mounted":
-			"±ÚµÆ",
+			"å£ç¯",
 		"Lamp Wall A":
-			"µÆ±Ú A",
+			"ç¯å£ A",
 		"Loot Blueprint Chest":
-			"À¶Í¼¹ñ",
+			"è“å›¾ç®±",
 		"Loot Blueprint":
-			"À¶Í¼",
+			"è“å›¾",
 		"Loot Chest":
-			"¹ñ×Ó",
+			"æŸœå­",
 		"Loot Dispenser":
-			"×Ô¶¯¹ñ",
+			"è‡ªåŠ¨æŸœ",
 		"Loot Orb Golden":
-			"½ðÆ÷",
+			"é‡‘å…‰çƒ",
 		"Loot Orb":
-			"Æ÷Îï",
+			"å…‰çƒ",
 		"Loot Weapon Container Tier 1":
-			"Tier 1 ÎäÆ÷Ïä",
+			"åˆçº§æ­¦å™¨ç®±",
 		"Loot Weapon Container Tier 2":
-			"Tier 2 ÎäÆ÷Ïä",
+			"äºŒçº§æ­¦å™¨ç®±",
 		"Loot Weapon Container Tier 3":
-			"Tier 3 ÎäÆ÷Ïä",
+			"ä¸‰çº§æ­¦å™¨ç®±",
 		"Loot Workshop Box":
-			"ÑµÁ·Ïä",
+			"workshopç®±",
 		"Lump Aurium A":
-			"",
+			"é‡‘å—a",
 		"Lump Aurium B":
-			"",
+			"é‡‘å—b",
 		"Lump Aurium C":
-			"",
+			"é‡‘å—c",
 		"Lump Carbon A":
-			"",
+			"ç¢³å—a",
 		"Lump Carbon B":
-			"",
+			"ç¢³å—b",
 		"Lump Carbon C":
-			"",
+			"ç¢³å—c",
 		"Lump Metals A":
-			"",
+			"é‡‘å±žå—a",
 		"Lump Metals B":
-			"",
+			"é‡‘å±žå—b",
 		"Lump Metals C":
-			"",
+			"é‡‘å±žå—c",
 		"Lump Metals D":
-			"",
+			"é‡‘å±žå—d",
 		"Lump Silicon A":
-			"",
+			"ç¡…å—a",
 		"Lump Silicon B":
-			"",
+			"ç¡…å—b",
 		"Lump Silicon C":
-			"",
+			"ç¡…å—c",
 		"Lump Silicon D":
-			"",
+			"ç¡…å—d",
 		"Lump Water A":
-			"",
+			"æ°´å—a",
 		"Lump Water B":
-			"",
+			"æ°´å—b",
 		"Machine Camera Aurium":
-			"",
+			"æœºæ¢°æ‘„åƒé‡‘",
 		"Machine Catapult":
-			"",
+			"æŠ•çŸ³å™¨",
 		"Machine Dropper":
-			"",
+			"ä¸‹è½å™¨",
 		"Machine Laser Emitter":
-			"",
+			"æ¿€å…‰æ”¾å°„å™¨",
 		"Machine Proximity Sensor":
-			"",
+			"è·ç¦»æ„Ÿæµ‹å™¨",
 		"Machine Sentry Camera":
-			"",
+			"å“¨åƒå¤´",
 		"Machine Sentry Gun":
-			"",
+			"å“¨å«æžª",
 		"Machine Space Teleporter":
-			"",
+			"ç©ºé—´ä¼ é€å™¨",
 		"Machine Switch":
-			"",
+			"å¼€å…³",
 		"Machine Terminal Info":
-			"",
+			"ç»ˆç«¯ä¿¡æ¯",
 		"Machine Terminal Sensor":
-			"",
+			"ç»ˆç«¯æ£€æµ‹å™¨",
 		"Pioneer Crazy Bob":
-			"·è¿ñµÄBob",
+			"ç–¯ç‹‚çš„é²å‹ƒ",
 		"Pioneer Imperatus":
-			"Ê×Áì",
+			"é¦–é¢†",
 		"Pioneer Lily Crusher":
-			"Lily Crusher",
+			"ç™¾åˆç²‰ç¢Žè€…",
 		"Pioneer Pink Horror":
-			"Pink Horror",
+			"ç²‰æƒ§äºº",
 		"Pioneer Red Devil":
-			"Red Devil",
+			"çº¢é¬¼",
 		"Pioneer Starman":
-			"Starman",
+			"æ˜Ÿæ˜Ÿäºº",
 		"Pioneer Test Dummy":
-			"Test Dummy",
+			"æµ‹éªŒå‡äºº",
 		"Pioneer Wyatt":
-			"Wyatt",
+			"å°ä¸«",
 		"Prototype Bot Mr Tentacles":
-			"",
+			"æœºæ¢°è§¦æ‰‹å…ˆç”Ÿ",
 		"Prototype Bot Walker Big":
-			"",
+			"å¤§åž‹æœºæ¢°æ­¥è¡Œè€…",
 		"Prototype Bot Walker":
-			"",
+			"æœºæ¢°æ­¥è¡Œè€…",
 		"Prototype Drone Defense":
-			"",
+			"æ— äººæœºé˜²å¾¡è€…",
 		"Prototype Elevator":
-			"",
+			"ç”µæ¢¯",
 		"Prototype Homing Missile":
-			"",
+			"è‡ªçž„å¯¼å¼¹",
 		"Prototype Mecha Flamer":
-			"",
+			"æœºæ¢°çºµç«è€…",
 		"Prototype Mecha MG":
-			"",
+			"æœºæ¢°MGå…µ",
 		"Prototype Mecha Rifle":
-			"",
+			"æœºæ¢°æ­¥æžªæ‰‹",
 		"Prototype Nest Bees":
-			"",
+			"å·¢èœ‚",
 		"Prototype Nest Bird Hostile":
-			"",
+			"æ•Œå¯¹å·¢é¸Ÿ",
 		"Prototype Nest Bird":
-			"",
+			"å·¢é¸Ÿ",
 		"Prototype Rifle Blast":
-			"",
+			"å†²å‡»æ­¥æžª",
 		"Prototype Rock Trap Rock":
-			"",
+			"çŸ³é™·é˜±",
 		"Prototype Rover Car":
-			"",
+			"â€œæµæµªè€…â€è½¦",
 		"Prototype SAM Site":
-			"",
+			"SAMç«ç®­",
 		"Prototype Satellite Discovery":
-			"",
+			"å«æ˜ŸæŽ¢ç´¢è€…",
 		"Prototype Snowboard Mk2":
-			"",
+			"æ»‘é›ªç‰ˆ2å·",
 		"Prototype Structure Door Trap Sm":
-			"",
+			"é—¨åž‹SMé™·é˜±",
 		"Prototype Structure Door Trap":
-			"",
+			"é—¨åž‹é™·é˜±",
 		"Prototype Tool Crossbow":
-			"åó",
+			"åå­—å¼©",
 		"Prototype Tool Gravity Gun":
-			"ÖØÁ¦Ç¹",
+			"é‡åŠ›æžª",
 		"Prototype Tool Teleport Device":
-			"´«ËÍ×°ÖÃ",
+			"ä¼ é€è£…ç½®",
 		"Rover Carbon":
-			"Ì¼Ä©",
+			"ç¢³è½¦",
 		"Rover Carrier Hover":
-			"·ÉÐÐÐüÍ£ÔØÌå",
+			"é£žè¡Œæ‚¬åœè½½å…·",
 		"Rover Carrier":
-			"ÐüÍ£ÔØÌå",
+			"æ‚¬åœè½½å…·",
 		"Rover Climber":
-			"É½µØ»ú",
+			"æ”€çˆ¬è€…",
 		"Rover Coalition Spider Climber":
-			"ÖëÐÍÅÊÅÀ»ú",
+			"è››åž‹æ”€çˆ¬è€…",
 		"Rover Minimal Aurium Example":
-			"»úÐµÄ£ÐÍ",
+			"å°é‡‘ä¾‹",
 		"Rover Minimal Jets":
-			"ÅçÆø»ú",
+			"å°å–·æ°”æœº",
 		"Rover Mining Cart":
-			"²É¿ó³µ",
+			"é‡‡çŸ¿è½¦",
 		"Rover Quad":
-			"ËÄÇý",
+			"å››é©±",
 		"Rover Scissor":
-			"¼ôµ¶»ú",
+			"å‰ªåˆ€æœº",
 		"Rover Shocks":
-			"Õðµ´²¨»ú",
+			"éœ‡è¡æ³¢æœº",
 		"Ship Big":
-			"´ó´¬",
+			"å¤§èˆ¹",
 		"Ship Drop Rocket":
-			"µôÂä»ð¼ý",
+			"æŽ‰è½ç«ç®­",
 		"Ship Landing Seat":
-			"µÇÂ½×ùÎ»",
+			"ç™»é™†åº§ä½",
 		"Ship Landing":
-			"µÇÂ½½¢",
+			"ç™»é™†èˆ°",
 		"Ship Mini":
-			"Mini½¢",
+			"è¿·ä½ èˆ°",
 		"Ship Rocket":
-			"»ð¼ý",
+			"ç«ç®­",
 		"Sign Not Throw":
-			"²»µÃ¶ªÆú",
+			"ç¦æ­¢ä¹±ä¸¢",
 		"Sign Shopping":
-			"ÉÌµê",
+			"å•†åº—",
 		"Sign Steam":
-			"Steam±ê¼Ç",
+			"Steamæ ‡è®°",
 		"Sign Wooden Compound Logo":
-			"Ä¾ÖÆ¸´ºÏ±êÖ¾",
+			"æœ¨åˆ¶å¤åˆæ ‡å¿—",
 		"Snowboard":
-			"",
+			"é›ªæ¿",
 		"Structure Assembly Lock":
-			"",
+			"ç»„é”",
 		"Structure Bridge Draw Long":
-			"",
+			"é•¿æ¡¥ç»˜",
 		"Structure Bridge Draw":
-			"",
+			"æ¡¥ç»˜",
 		"Structure Bridge Hanging Huge":
-			"¾Þ´óµÄÐü¼ÜÇÅ",
+			"å·¨å¤§æ‚¬ç´¢æ¡¥",
 		"Structure Bridge Hanging Long":
-			"³¤ÐüË÷ÇÅ",
+			"é•¿æ‚¬ç´¢æ¡¥",
 		"Structure Bridge Hanging":
-			"ÐüË÷ÇÅ",
+			"æ‚¬ç´¢æ¡¥",
 		"Structure Bridge Metal":
-			"½ðÊôÇÅ",
+			"é‡‘å±žæ¡¥",
 		"Structure Covered Door":
-			"",
+			"è¢«è¦†ç›–çš„é—¨",
 		"Structure Door Covered":
-			"",
+			"è¢«è¦†ç›–çš„",
 		"Structure Door Curved":
-			"",
+			"è¢«è¯…å’’çš„",
 		"Structure Door Dungeon":
-			"",
+			"åœ°ä¸‹åŸŽ",
 		"Structure Door Huge":
-			"",
+			"å¤§åž‹",
 		"Structure Door Sandstone Huge":
-			"",
+			"å¤§ç ‚çŸ³",
 		"Structure Door Sandstone":
-			"",
+			"ç ‚çŸ³",
 		"Structure Door Silo":
-			"",
+			"é‡ä»“",
 		"Structure Door":
-			"",
+			"é—¨",
 		"Structure Elevator Fast":
-			"",
+			"å¿«é€Ÿç”µæ¢¯",
 		"Structure Elevator Sandstone":
-			"",
+			"ç ‚çŸ³ç”µæ¢¯",
 		"Structure Elevator Small":
-			"",
+			"å°ç”µæ¢¯",
 		"Structure Eye Large":
-			"",
+			"å¤§çœ¼",
 		"Structure Eye Statue":
-			"",
+			"çœ¼é›•åƒ",
 		"Structure Garage":
-			"",
+			"åº“",
 		"Structure Gear Lock":
-			"",
+			"é½¿é”",
 		"Structure Grazer Vacuum":
-			"",
+			"å¸è‰å™¨",
 		"Structure Latch":
-			"",
+			"é—¨æ»‘é”",
 		"Structure LCD Countdown Timer":
-			"",
+			"æ¶²æ™¶è®¡æ—¶å™¨",
 		"Structure LCD Panel":
-			"",
+			"æ¶²æ™¶ç›˜",
 		"Structure Moving Platform MAZE":
-			"",
+			"ç§»åŠ¨è¿·å®«",
 		"Structure Moving Platform":
-			"",
+			"ç§»åŠ¨å¹³å°",
 		"Structure Pin World":
-			"",
+			"å¯†ç ä¸–ç•Œ",
 		"Structure Power Core":
-			"",
+			"åŠ¨åŠ›æ ¸å¿ƒ",
 		"Structure Resource Filler":
-			"",
+			"èµ„æºå†è£…å¡«ç»“æž„",
 		"Structure Respawn Station":
-			"",
+			"é‡ç”Ÿç‚¹",
 		"Structure Rope":
-			"",
+			"ç»³",
 		"Structure Shop Manager":
-			"",
+			"å•†åº—ç®¡ç†å™¨",
 		"Structure Shop Pioneers":
-			"",
+			"å•†äºº",
 		"Structure Steam Altar":
-			"",
+			"steamç¥­å›",
 		"Structure Switch Sandstone":
-			"",
+			"ç ‚çŸ³å¼€å…³",
 		"Structure Teleporter":
-			"",
+			"ä¼ é€å™¨",
 		"Structure Trap Door 10m":
-			"",
+			"é™·é˜±é—¨10m",
 		"Structure Trap Door Long":
-			"",
+			"é•¿é™·é˜±é—¨",
 		"Structure Trap Door Metal":
-			"",
+			"é‡‘å±žé™·é˜±é—¨",
 		"Structure Trap Door Sandstone":
-			"",
+			"ç ‚çŸ³é™·é˜±é—¨",
 		"Tank Coalition":
-			"×²»÷Ì¹¿Ë",
+			"è”ç›Ÿå¦å…‹",
 		"Tool Balloon Gun":
-			"ÆøÅÝÇ¹",
+			"æ°”çƒæžª",
 		"Tool Bomb Crab":
-			"Õ¨µ¯ó¦Ð·",
+			"ç‚¸å¼¹èžƒèŸ¹",
 		"Tool Glow Stick":
-			"·¢¹â°ô",
+			"è§å…‰æ£’",
 		"Tool Grappling Hook Basic":
-			"·É×¦",
+			"åŸºç¡€é£žçˆª",
 		"Tool Hack Gun":
-			"ÇÐ¸îÇ¹",
+			"é»‘å®¢æžª",
 		"Tool Jet Rocket":
-			"ÅçÆø»ð¼ý",
+			"å–·æ°”ç«ç®­",
 		"Tool Key":
-			"Ô¿³×",
+			"é’¥åŒ™",
 		"Tool Magnet":
-			"´ÅÌú",
+			"ç£é“",
 		"Tool Propeller":
-			"ÂÝÐý½°",
+			"èžºæ—‹æ¡¨",
 		"Tool Quantum Field Device":
-			"Á¿×Ó·¢ÉúÆ÷",
+			"é‡å­å‘ç”Ÿå™¨",
 		"Tool Rope Launcher":
-			"ÉþË÷·¢ÉäÆ÷",
+			"ç»³ç´¢å‘å°„å™¨",
 		"Tool Rope":
-			"ÉþË÷",
+			"ç»³ç´¢",
 		"Tool Shield Metal":
-			"½ðÊô¶ÜÅÆ",
+			"é‡‘å±žç›¾",
 		"Tool Spelunker Rope":
-			"Ì½¶´Éþ",
+			"æŽ¢æ´žç»³",
 		"Tool Tether":
-			"ÏµÉþ",
+			"ç³»ç»³æžª",
 		"Tool Welder":
-			"º¸¹¤",
+			"ç„Šå™¨",
 		"Trap Claw":
-			"×¦ÏÝÚå",
+			"çˆªé™·é˜±",
 		"Trap Dart":
-			"·ÉïÚÏÝÚå",
+			"é£žé•–é™·é˜±",
 		"Trap Flamethrower Aurium":
-			"Ç¿Á¦»ðÑæÅçÉäÆ÷ÏÝÚå",
+			"å¼ºåŠ›ç«ç„°å–·å°„å™¨é™·é˜±",
 		"Trap Flamethrower":
-			"»ðÑæÅçÉäÆ÷ÏÝÚå",
+			"ç«ç„°å–·å°„å™¨é™·é˜±",
 		"Trap Grinder Small":
-			"Ð¡¼Ð°åÏÝÚå",
+			"å°å¤¹æ¿é™·é˜±",
 		"Trap Grinder":
-			"¼Ð°åÏÝÚå",
+			"å¤¹æ¿é™·é˜±",
 		"Trap Ice":
-			"±ùÏÝÚå",
+			"å†°é™·é˜±",
 		"Trap Spring Mine":
-			"Èª¾®",
+			"å¼¹ç°§åœ°é›·é™·é˜±",
 		"Weapon Assault Rifle":
-			"Í»»÷²½Ç¹",
+			"çªå‡»æ­¥æžª",
 		"Weapon Aurium Staff":
-			"»Æ½ð×°±¸",
+			"é‡‘çŸ¿æ–",
 		"Weapon Blue Rifle":
-			"À¶É«²½Ç¹",
+			"è“è‰²èƒ½é‡æ­¥æžª",
 		"Weapon Bounding Mine Grenade":
-			"Éî¾®ÊÖÁñµ¯",
+			"è·³é›·æ‰‹æ¦´å¼¹",
 		"Weapon Cold Grenade Launcher":
-			"ÀäÁñµ¯·¢ÉäÆ÷",
+			"æ¿€å†»æ¦´å¼¹å‘å°„å™¨",
 		"Weapon Cold Grenade":
-			"Àäµ¯",
+			"æ¿€å†»å†·æ¦´å¼¹",
 		"Weapon Cold Shotgun":
-			"Àäö±µ¯Ç¹",
+			"æ¿€å†»éœ°å¼¹æžª",
 		"Weapon Flamethrower":
-			"»ðÑæÅçÉäÆ÷",
+			"ç«ç„°å–·å°„å™¨",
 		"Weapon Grandpas Rifle":
-			"Grandpas²½Ç¹",
+			"çˆ·çˆ·æ­¥æžª",
 		"Weapon Grenade Launcher":
-			"Áñµ¯·¢ÉäÆ÷",
+			"æ¦´å¼¹å‘å°„å™¨",
 		"Weapon Hand Grenade":
-			"ÊÖÁñµ¯",
+			"æ‰‹é›·",
 		"Weapon Heavy Machine Gun":
-			"ÖØ»úÇ¹",
+			"é‡æœºæžª",
 		"Weapon Laser Assault Rifle":
-			"¼¤¹âÍ»»÷²½Ç¹",
+			"æ¿€å…‰çªå‡»æ­¥æžª",
 		"Weapon Machine Pistol":
-			"»úÐµÊÖÇ¹",
+			"è¿žå°„æ‰‹å†²",
 		"Weapon Mine Launcher":
-			"Éî¾®·¢ÉäÆ÷",
+			"åœ°é›·å‘å°„å™¨",
 		"Weapon Minigun":
-			"Î¢³å",
+			"åŠ ç‰¹æž—",
 		"Weapon Nail Gun":
-			"Î¢ÐÍÊÖÇ¹",
+			"å°„é’‰æžª",
 		"Weapon Pistol":
-			"ÊÖÇ¹",
+			"æ‰‹æžª",
 		"Weapon Plasma Rifle":
-			"µÈÀë×Ó²½Ç¹",
+			"ç­‰ç¦»å­æ­¥æžª",
 		"Weapon Rifle Bolt Action":
-			"ÏßÌÅÇ¹",
+			"åšå°”ç‰¹çº¿è†›æžª",
 		"Weapon Scrap Launcher":
-			"É¢µ¯·¢ÉäÆ÷",
+			"åžƒåœ¾å‘å°„å™¨",
 		"Weapon Shockwave Gun":
-			"Õð±©Ç¹",
+			"éœ‡æ³¢æžª",
 		"Weapon Shotgun":
-			"¶ÌÇ¹",
+			"éœ°å¼¹æžª",
 		"Weapon Sticky Bomb Launcher":
-			"ËÜÐÔÕ¨µ¯·¢ÉäÆ÷"
+			"ç²˜ç²˜ç‚¸å¼¹æžª"
 
 		}
 }
