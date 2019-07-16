@@ -17,7 +17,7 @@
 			"Если вы купите версию Contributor Edition сегодня вы получите доступ к официальному серверу сообщества в Discord, где вы сможете делиться своими творениями напрямую с разработчиками и такими же увлеченными игроками как вы.",
 		//short description, it can not be longer than the english one
 		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
-			"",
+			"Исследуйте глубины округлых миров в этой физиквании с совместными боями, крафтом и безумием. Воплощайте идеи в игре при помощи встроенных инструментов для разработки. Каждый планетоид - это отдельный игровой режим, изменяйте их и делитесь с остальными.",
 		//game title description
 		"Now Includes All Editors":
 			"Теперь включает все редакторы",
@@ -593,19 +593,19 @@
 		"Press":
 			"Нажмите",
 		"Press down to use climbing mode":
-			"",
+			"Нажмите вниз для режима лазанья",
 		"Print backup body":
-			"",
+			"Напечатать запасное тело",
 		"Move and aim":
-			"",
+			"Передвижение и прицеливание",
 
 		//blank planetoid
 		"Make your own planetoids and blueprints using the in-game editor.":
-			"",
+			"Создайте собственный планетоид и чертежи используя встроенный редактор.",
 		"Press F2 to enter edit mode.":
-			"",
+			"Нажмите F2 для перехода в режим редактирования.",
 		"Use the teleporter to get back into the asteroid belt.":
-			"",
+			"Используйте телепорт чтобы вернуться обратно в пояс астероидов.",
 
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
@@ -640,61 +640,61 @@
 
 		//drag and drop file types
 		"DRAG FILE":
-			"",
+			"ПЕРЕТАЩИТЕ ФАЙЛ",
 		"Unsupported file type":
-			"",
+			"Неподдерживаемый тип файла",
 		"Blueprint":
-			"",
+			"Чертеж",
 		"Scene":
-			"",
+			"Сцена",
 		"Scene fragment":
-			"",
+			"Фрагмент сцены",
 		"Particle system":
-			"",
+			"Система частиц",
 		"Material particle system":
-			"",
+			"Система частиц с материалом",
 		"Texture":
-			"",
+			"Текстура",
 		"Audio":
-			"",
+			"Звук",
 		"Unknown":
-			"",
+			"Неизвестно",
 
 		//drag and drop
 		"NO TARGET HERE (file(s) will be put in library)":
-			"",
+			"НЕТ ПОЛУЧАТЕЛЯ (файл(ы) будут помещены в библиотеку)",
 		"Add to activity":
-			"",
+			"Добавить в активность",
 		"Spawn here":
-			"",
+			"Создать здесь",
 		"Load scene":
-			"",
+			"Загрузить сцену",
 		"Insert scene fragment":
-			"",
+			"Вставить фрагмент сцены",
 		"Create terrain object":
-			"",
+			"Создать элемент ландшафта",
 		"Copy to audio library":
-			"",
+			"Скопировать в библиотеку звуков",
 		"Copy to particle system library":
-			"",
+			"Скопировать в библиотеку систем частиц",
 		"Copy to material particle system library":
-			"",
+			"Скопировать в библиотеку частиц с материалом",
 		"Copy to blueprint library":
-			"",
+			"Скопировать в библиотеку чертежей",
 		"Copy to blueprint library - current scene":
-			"",
+			"Скопировать в библиотеку чертежей - текущая сцена",
 		"Copy to scene library":
-			"",
+			"Скопировать в библиотеку сцен",
 		"Copy to scene fragment library":
-			"",
+			"Скопировать в библиотеку фрагментов сцен",
 		"Copy to texture library":
-			"",
+			"Скопировать в библиотеку текстур",
 		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
-			"",
+			"ДОБАВИТЬ ЧЕРТЁЖ В БИБЛИОТЕКУ И ЗАГРУЗИТЬ В РЕДАКТОРЕ",
 		"ADD TO BP EDITOR - CREATE NEW MO":
-			"",
+			"ДОБАВИТЬ В РЕДАКТОР ЧЕРТЕЖЕЙ - СОЗДАТЬ НОВЫЙ ОБЪЕКТ",
 		"ADD TO BP EDITOR - CREATE NEW PS":
-			"",
+			"ДОБАВИТЬ В РЕДАКТОР ЧЕРТЕЖЕЙ - СОЗДАТЬ НОВУЮ СИСТЕМУ ЧАСТИЦ",
 
 		//loading screen
 		"WORK IN PROGRESS":
@@ -1093,7 +1093,7 @@
 		"Water: {NUMBER}kg":
 			"Вода: {NUMBER}кг",
 		"Cancel":
-			"",
+			"Отмена",
 
 		//blueprint menu categories (translate these to plural)
 		"CATEGORY Partial":
@@ -1744,7 +1744,7 @@
 		"Structure Power Core":
 			"Силовое ядро",
 		"Structure Resource Filler":
-			"",
+			"Погрузчик материалов",
 		"Structure Respawn Station":
 			"Станция возрождения",
 		"Structure Rope":

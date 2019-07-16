@@ -1695,7 +1695,7 @@
 		"Structure Bridge Hanging":
 			"Hängebrücke",
 		"Structure Bridge Metal":
-			"",
+			"Metallbrücke",
 		"Structure Covered Door":
 			"",
 		"Structure Door Covered":
@@ -1865,7 +1865,41 @@
 		"Weapon Shotgun":
 			"Schrotflinte",
 		"Weapon Sticky Bomb Launcher":
-			"Klebebombenwerfer"
+			"Klebebombenwerfer",
+
+		//skeleton names, only translate those if you think its necceassry, feel free to change them to any funny names you can come up with
+		"Frank":
+			"",
+		"John":
+			"",
+		"Erik":
+			"",
+		"Max":
+			"",
+		"J":
+			"",
+		"Dan":
+			"",
+		"Franz":
+			"",
+		"Anna":
+			"",
+		"Karl":
+			"",
+		"Theodora":
+			"",
+		"Marguerite":
+			"",
+		"Baxter":
+			"",
+		"Pascal":
+			"",
+		"Larson":
+			"",
+		"Griffith":
+			"",
+		"Cleo":
+			""
 
 		}
 }
