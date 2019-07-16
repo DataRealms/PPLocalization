@@ -1,0 +1,1874 @@
+{
+	//english translation file for planetoid pioneers
+	//(internal text is in english, so this is mostly a no-op -
+	// some strings use localisation IDs though, and their content
+	// is specified here.)
+	"info" : {
+		"id": "en",
+		"english_name": "English",
+		"localised_name": "English"
+	},
+	"store page": {
+		//game description
+		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
+			"",
+		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
+			"",
+		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
+			"",
+		//short description, it can not be longer than the english one
+		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
+			"",
+		//game title description
+		"Now Includes All Editors":
+			"",
+		//workshop description
+		"Built for user creation and sharing from the ground up, Planetoid Pioneers supports a Contributor Community whose work can be enjoyed here: Blueprints and entire self-contained Planetoids galore!":
+			"",
+		//contributor dlc (just translate 'Upgrade to')
+		"{PLANETOID PIONEERS} Upgrade to {CONTRIBUTOR EDITON}":
+			"",
+		//contributor dlc description
+		"Upgrade from the regular Planetoid Pioneers Game-Only Edition to the full Contributor Edition with ALL the commercial-grade editors that the official development team and the vibrant Contributor Community used to build everything you've seen in the game!":
+			""
+	},
+	"translations": {
+		//asteroid belt UI
+
+		//planetoid panel
+		//labels/description/etc
+		"FLAG Planetoid": //little planetoid flag in top right
+			"Planetoid",
+		"Goal":
+			"",
+		"Difficulty: {DIFFICULTY}":
+			"",
+		"Time: {TIME_ESTIMATE}":
+			"",
+		"ABUI By {AUTHOR}":
+			"By {AUTHOR}",
+
+		//settings
+		"FLAG Settings": //the little flag in the top left
+			"Settings",
+		"Settings":
+			"",
+		"Adjust Volume":
+			"",
+		"Sound":
+			"",
+		"Music":
+			"",
+		"Voice":
+			"",
+		"Video Settings":
+			"",
+		"Done":
+			"",
+		"Quit The Game":
+			"",
+		"Danger Zone!":
+			"",
+		"Factory Reset":
+			"",
+		"Steam Workshop":
+			"",
+		"Auto-Download Content":
+			"",
+		//buttons
+		"Start!":
+			"",
+		"Continue":
+			"",
+		"Restart":
+			"",
+
+		//video settings
+		"Video Settings":
+			"",
+		"Locale Settings":
+			"",
+		"Back":
+			"",
+		"Display Mode":
+			"",
+		"Fullscreen":
+			"",
+		"Borderless":
+			"",
+		"Windowed":
+			"",
+		"Resolution":
+			"",
+		"Which Display":
+			"",
+		"Apply":
+			"",
+
+		///////////////////////////////////////////////////////////////////////
+		//voiceovers
+
+		//crazy bob on primoid
+		"Can you believe this?!":
+			"",
+		"Let's try this gun!":
+			"",
+		"Oookay, that's ominous":
+			"",
+		"Damned birds!!":
+			"",
+		"Curse these birds!!":
+			"",
+		"It's a lot easier to climb with both my hands free...":
+			"",
+		"EATING MY WORDS!!":
+			"",
+		"EAT THAT!!":
+			"",
+		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
+			"",
+		"What are these structures?":
+			"",
+		"WHOAAAAAAAA!!":
+			"",
+		"BANG!":
+			"",
+		"Maybe they weren't trying to keep things out... but to keep something IN!?":
+			"",
+		"NOOOO - my vessel!!":
+			"",
+		"Rest in Pieces, my beloved vessel...":
+			"",
+		"Now I'm stuck on this rock!":
+			"",
+		"That was my space yacht...":
+			"",
+		"Well, that's not very secure...":
+			"",
+		"I don't like the look, smell, or feel of this place... it's all squishy.":
+			"",
+		"Ohh you UGLY, Cyclops!!":
+			"",
+		"It's all fun and games, until someone loses an eye.":
+			"",
+		"What's that racket??":
+			"",
+		"YIKES - a mobile meat grinder monstrosity!!":
+			"",
+		"TAKE THAT, you overgrown food processor!!":
+			"",
+		"Jumping Jellybeans!!":
+			"",
+		"I bet I'm past the worst monsters by now!":
+			"",
+		"Those jaws were snappin', and it's got me rappin'!":
+			"",
+		"Wish i had something to drive that would protect my noggin a bit...!":
+			"",
+		"I need some mad hops - or a ride with some mad JETS!":
+			"",
+		"I think they're trying to tell me something...":
+			"",
+		"For a moment I thought I would perish... Crazy Bob never perishes.":
+			"",
+		"It's not completely wild out here...":
+			"",
+		"Pinkle... Just like Lily":
+			"",
+		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
+			"",
+		"Keep them snaps away from me!":
+			"",
+		"Let's see what this baby can do!":
+			"",
+		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
+			"",
+		"One freaky bipedal toaster down!":
+			"",
+		"Pink... purple... pinkle?!":
+			"",
+		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
+			"",
+		"DING DING DING - The Ice Man prevails!!":
+			"",
+		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
+			"",
+		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
+			"",
+		"Were those skeletons... screaming?!":
+			"",
+		"What are those buildings...?":
+			"",
+		"What happened to these guys?!":
+			"",
+		"What weird beast has carved out these ice caves??":
+			"",
+		"Big lad, aren't ya!":
+			"",
+		"Yum, eat it up!!":
+			"",
+		"Dang - How am I supposed to jump this ring of fire?!":
+			"",
+		"Curse these feathered pests!!":
+			"",
+		"This would make for a good place to build and take off in a rocket!":
+			"",
+		"Guess I've got a treasure hunt on my hands!":
+			"",
+		"Got to find all those rocket parts to get off this rock!":
+			"",
+		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
+			"",
+		"GOT YA!":
+			"",
+		"I guess they were mining Aurium Alloy here...":
+			"",
+		"Here's a wholesome treat!":
+			"",
+		"Hey, did you get shot?!":
+			"",
+		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
+			"",
+		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
+			"",
+		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
+			"",
+		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
+			"",
+		"The Atomizer can't deal with Aurium Alloy, by its nature.":
+			"",
+		"The Atomizer won't work on anything it deems alive or autonomous...":
+			"",
+		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
+			"",
+		"I got to get off this rock...":
+			"",
+		"A have a bad feeling about what might be guarding the Core...":
+			"I have a bad feeling about what might be guarding the Core...",
+		"I'm going to make a BIG omelet!!":
+			"",
+		"Could it be... Aurium Alloy?!":
+			"",
+		"CHEW ON THIS!":
+			"",
+		"I made it!":
+			"",
+		"Now, how do I start this thing...":
+			"",
+		"Let's try this big red button!":
+			"",
+		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
+			"",
+		"We have lift off, baby!":
+			"",
+		"Whoo!":
+			"",
+		"Oh crap, what's that? No fuel?":
+			"",
+		"Oh no! Oh no, no, no!":
+			"",
+
+		//info terminals
+		//(got to collect the strings from each scene)
+		"__Spark Stations__ can always be \"sparked\" to, by _zooming out and clicking its spark  icon._\n\nBeware - you will _lose your current body_ when you do!":
+			"",
+		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
+			"",
+		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
+			"",
+
+		//scene descriptions and goals
+
+		//once these are here, it'd probably be better not to change them
+
+		//we may want to replace the in-scene-file string with some kind of STRAIGHTFORWARD_ID_STRING
+		//and "translate" the ID in all locales (ie include the base string here)
+		//that way there's only one point for updating it and they cant get out of sync
+
+		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
+
+		"Primoid":
+			"",
+		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
+			"",
+		"Build and fly away in a spaceworthy craft. ":
+			"",
+
+		"Defendoid":
+			"",
+		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
+			"",
+		"Survive 10 waves":
+			"",
+
+		"Bindleoid":
+			"",
+		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
+			"",
+		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
+			"",
+
+		"Carnageoid":
+			"",
+		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
+			"",
+		"Win a match in any arena. ":
+			"",
+
+		"Coliseumoid":
+			"",
+		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
+			"",
+		"Watch one round of gladiator combat. ":
+			"",
+
+		"Planium":
+			"",
+		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
+			"",
+		"Get off this hunk of rock!":
+			"",
+
+		"Plutas":
+			"",
+		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
+			"",
+		"Construct a suitable escape vessel and leave. ":
+			"",
+
+		"Racetoid":
+			"",
+		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
+			"",
+		"Complete a race in under a minute. ":
+			"",
+
+		//(these share a description and goal)
+		"Wrangloid Easy":
+			"",
+		"Wrangloid":
+			"",
+		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
+			"",
+		"Collect and cook all the Grazers. ":
+			"",
+
+		"Trigger Tutorial":
+			"",
+		"Learn how to use triggers and reactors to create your own scenes.":
+			"",
+		"Reach the teleporter to get back into space.":
+			"",
+
+		"Blank Planetoid":
+			"",
+		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
+			"",
+		"Reach the teleporter to get back into space.":
+			"",
+
+		//modal stuff
+		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
+
+		"{QUIT TITLE}":
+			"Quit",
+		"{QUIT YES}":
+			"Yes, Quit",
+		"{QUIT NO}":
+			"No, Don't Quit!",
+		"Are you sure you want to quit to desktop?":
+			"",
+		"Don't worry, your game will be saved.":
+			"",
+
+		"{FACTORY RESET TITLE}":
+			"Factory Reset",
+		"{FACTORY RESET YES}":
+			"Yes, Reset My Data",
+		"{FACTORY RESET NO}":
+			"No, Don't Reset!",
+		"Are you sure you want to totally delete all data?":
+			"",
+		"All saves and your entire user config will be wiped.":
+			"",
+
+		"{RESTART TITLE}":
+			"Restart",
+		"{RESTART YES}":
+			"Yes, Restart",
+		"{RESTART NO}":
+			"No, Don't Restart!",
+		"Are you sure you want to restart? Any saved progress will be deleted!":
+			"",
+
+		"{APPLY LOCALE TITLE}":
+			"Apply Locale",
+		"{APPLY LOCALE YES}":
+			"Yes, Apply",
+		"{APPLY LOCALE NO}":
+			"No, Don't Apply!",
+		"Are you sure you want to apply this locale?":
+			"",
+		"The menu will be need to be reset.":
+			"",
+
+		//steam related buttons
+		"Unsubscribe":
+			"",
+		"Subscribe":
+			"",
+
+		//asteroid belt
+		"Press Button To Start":
+			"",
+		"AB Scene Completed":
+			"Scene Completed",
+		"Featured ({MONTH}) by {AUTHOR}":
+			"",
+		"Planetoid Deleted":
+			"",
+		"New Planetoid!":
+			"",
+		"Planetoid Updated!":
+			"",
+		"You Are Here":
+			"",
+		"Locked":
+			"",
+		"AB Completed":
+			"Completed",
+		"Rating {RATING}% Positive":
+			"",
+		"Click to Resubscribe":
+			"",
+		"Downloading...":
+			"",
+		"{NAME} (Featured)": //this appears behind a scene name i.e 'Primoid (Featured)'
+			"",
+		"???": //undiscovered planetoid
+			"",
+		"AB Failed":
+			"Failed",
+		"AB Asteroid Belt {AB NUMBER}":
+			"Asteroid Belt {AB NUMBER}",
+		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
+			"",
+
+		//months
+		"January":
+			"",
+		"February":
+			"",
+		"March":
+			"",
+		"April":
+			"",
+		"May":
+			"",
+		"June":
+			"",
+		"July":
+			"",
+		"August":
+			"",
+		"September":
+			"",
+		"October":
+			"",
+		"November":
+			"",
+		"December":
+			"",
+
+		//resource bars
+		"METALS":
+			"",
+		"CARBON":
+			"",
+		"WATER":
+			"",
+		"SILICON":
+			"",
+		"AURIUM":
+			"",
+		"CHARGE":
+			"",
+		"FULL!":
+			"",
+		"EMPTY!":
+			"",
+
+		//respawn player join info text
+		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
+			"",
+		"PLAYER {PLAYER NUMBER}: Press Keyboard Button to Join":
+			"",
+		"PLAYER {PLAYER NUMBER}: Press Controller Button to Join":
+			"",
+		"PLAYER {PLAYER NUMBER}: Plug in Controller to Join":
+			"",
+
+		//tips appearing over pioneer
+		"Press again to Abandon Body":
+			"",
+		"No Backup, Restart?":
+			"",
+		"No Arm":
+			"",
+		"Abandon Body":
+			"",
+		"Restart Scene":
+			"",
+		"Take Over {BUTTON}":
+			"",
+		"Throw Gun!":
+			"",
+		"Scene Completed":
+			"",
+		"Scene Completed (No Goal)":
+			"",
+
+		//buttons
+		"[X]": //this is the X button on keyboard
+			"",
+		"[E]":
+			"",
+		"Left Click":
+			"",
+		"(Back)": //this is the back button on the controller
+			"",
+		"Right Trigger":
+			"",
+
+		//actions
+		"Move":
+			"",
+		"Aim":
+			"",
+		"Left":
+			"",
+		"Right":
+			"",
+		"Go Prone":
+			"",
+		"Jump":
+			"",
+		"Atomize":
+			"",
+		"Assemble":
+			"",
+		"Fire":
+			"",
+		"Enter Vehicle":
+			"",
+		"Leave Vehicle":
+			"",
+		"Pick up":
+			"",
+		"Drop":
+			"",
+		"Put on back":
+			"",
+		"Take from back":
+			"",
+		"Swap":
+			"",
+		"Respawn":
+			"",
+		"Restart":
+			"",
+		"Pause":
+			"",
+		"Menu":
+			"",
+		"Select":
+			"",
+		"Zoom":
+			"",
+		"Zoom in":
+			"",
+		"Zoom out":
+			"",
+		"Hold":
+			"",
+		"Press":
+			"",
+		"Press down to use climbing mode":
+			"",
+		"Print backup body":
+			"",
+		"Move and aim":
+			"",
+
+		//blank planetoid
+		"Make your own planetoids and blueprints using the in-game editor.":
+			"",
+		"Press F2 to enter edit mode.":
+			"",
+		"Use the teleporter to get back into the asteroid belt.":
+			"",
+
+		//appearing on screen on game over
+		"Press {BUTTON} to Restart":
+			"",
+
+		//when selecting body on minimap
+		"Take Over Body":
+			"",
+
+		//respawn station
+		"Game Saved":
+			"",
+		"Respawn Here":
+			"",
+
+		//game quit
+		"GAME SAVED":
+			"",
+		"SEE YOU LATER SPACE COWBOY":
+			"",
+		"CLOSING ALL THE PIXELS":
+			"",
+
+		//engine messages
+		"Restarting":
+			"",
+		"Loading {SCENE NAME}":
+			"",
+
+		//version
+		"RELEASE BUILD {NUMBER}":
+			"",
+
+		//drag and drop file types
+		"DRAG FILE":
+			"",
+		"Unsupported file type":
+			"",
+		"Blueprint":
+			"",
+		"Scene":
+			"",
+		"Scene fragment":
+			"",
+		"Particle system":
+			"",
+		"Material particle system":
+			"",
+		"Texture":
+			"",
+		"Audio":
+			"",
+		"Unknown":
+			"",
+
+		//drag and drop
+		"NO TARGET HERE (file(s) will be put in library)":
+			"",
+		"Add to activity":
+			"",
+		"Spawn here":
+			"",
+		"Load scene":
+			"",
+		"Insert scene fragment":
+			"",
+		"Create terrain object":
+			"",
+		"Copy to audio library":
+			"",
+		"Copy to particle system library":
+			"",
+		"Copy to material particle system library":
+			"",
+		"Copy to blueprint library":
+			"",
+		"Copy to blueprint library - current scene":
+			"",
+		"Copy to scene library":
+			"",
+		"Copy to scene fragment library":
+			"",
+		"Copy to texture library":
+			"",
+		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW MO":
+			"",
+		"ADD TO BP EDITOR - CREATE NEW PS":
+			"",
+
+		//loading screen
+		"WORK IN PROGRESS":
+			"",
+		"ALT + ENTER TOGGLES FULLSCREEN":
+			"",
+		"LOADING":
+			"",
+		"LOADING PLANETOID":
+			"",
+		"Loading Sound manager":
+			"",
+		"Loading PS library":
+			"",
+		"Loading Material PS library":
+			"",
+		"Loading Blueprint library":
+			"",
+		"Loading Workshop Blueprint library":
+			"",
+		"Loading Downloaded Blueprint library":
+			"",
+		"Loading Scene library":
+			"",
+		"Loading Workshop Scene library":
+			"",
+		"Checking Scenes":
+			"",
+		"Loading Downloaded Scene library":
+			"",
+		"Loading Scene Fragments library":
+			"",
+		"Loading Steam Workshop":
+			"",
+		"Extracting all Blueprints and PSs":
+			"",
+		"Extracting Scene: Asteroid Belt":
+			"",
+		"Extracting Scene: Primoid":
+			"",
+		"Starting files change detectors":
+			"",
+		"Loading Crush2D Editor":
+			"",
+		"Initializing Crush2D Editor":
+			"",
+		"Refreshing C2D Editor":
+			"",
+		"Loading Physics Materials":
+			"",
+		"Loading Menu Scene":
+			"",
+		"Loading Scene: {SCENE NAME}":
+			"",
+		"Loading Blueprint to editor: {NAME}":
+			"",
+		"Preparing Game Scene":
+			"",
+		"Loading additional data":
+			"",
+		"Reloading changed files":
+			"",
+		"Preloading Textures":
+			"",
+		"Loading Controller Layout":
+			"",
+		"This is the first time the game is loaded, so it will take a bit longer to extract all the data - future starts will be quicker!":
+			"",
+		"The game might be running slower because your device has 8 GB of memory or less.":
+			"",
+		"Updating libraries":
+			"",
+		"Preloading pictures":
+			"",
+		"Scene Reset - Activity and C2DUpdate Build":
+			"",
+		"Scene Reset - Preloading Pictures":
+			"",
+		"Scene Reset - Preloading Sounds":
+			"",
+		"Resetting Scene":
+			"",
+		"Preloading textures... {PERCENT}%":
+			"",
+		"Loading data":
+			"",
+		"Loading terrain":
+			"",
+		"Updating textures and sounds":
+			"",
+		"Clean up":
+			"",
+		"Extracting textures and sounds":
+			"",
+		"Load objects start":
+			"",
+		"Updating Edit-IDs":
+			"",
+		"Creating Terrain Objects":
+			"",
+		"Computing Zones":
+			"",
+		"Computing Terrain":
+			"",
+		"Computing Gravity and Heating":
+			"",
+		"Updating Layers":
+			"",
+		"Updating WorldGrid wire meshes":
+			"",
+		"Scene Reset - Create Assemblies {NUMBER}":
+			"",
+		"Scene Reset - Create Assemblies Done":
+			"",
+		"Scene Reset - Clean Up":
+			"",
+		"Scene Reset - Compute Layers":
+			"",
+		"Scene Reset - Create Assemblies":
+			"",
+		"Loading file tree":
+			"",
+		"Checking files":
+			"",
+		"Checking files ({NUMBER})":
+			"",
+		"Getting files info":
+			"",
+
+		//pause
+		"UNPAUSING...":
+			"",
+		"- PAUSED -":
+			"",
+		"Press P to resume":
+			"",
+		"or O to step one frame":
+			"",
+
+		//debug print
+		"SHIFT + L to disable / enable this output":
+			"",
+		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
+			"",
+		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
+			"",
+
+		//editor
+		"GAME MODE / EDIT MODE":
+			"",
+
+		//primoid
+		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
+			"",
+		"New Area":
+			"",
+		"Escape pod crash site":
+			"",
+		"Rocket Silo Location":
+			"",
+		"Rocket Parts":
+			"",
+
+		//primoid areas
+		"Primoid Plains":
+			"",
+		"Maw Cavern":
+			"",
+		"Crash Cauldron":
+			"",
+		"North Hub":
+			"",
+		"Cave Tunnels":
+			"",
+		"Jungle Temple":
+			"",
+		"West Metal Mine":
+			"",
+		"East Metal Mine":
+			"",
+		"Surface Gauntlet":
+			"",
+		"Mu-Ilaak Temple":
+			"",
+		"Mu-Ilaak Tomb":
+			"",
+		"Prime Grottos":
+			"",
+		"Mount Prime":
+			"",
+		"Flush Chute":
+			"",
+		"Silicon Maze":
+			"",
+		"Aurium Core":
+			"",
+
+		//last man standing (Carnageoid)
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"UP TO 4 PLAYER PVP":
+			"",
+		"Change Arena with Triggers or Mouse":
+			"",
+		"Go!":
+			"",
+		"Sudden Death In {SECONDS}":
+			"",
+		"Winner!":
+			"",
+		"{CHALLENGE INSTRUCTION}!":
+			"",
+		"Dance":
+			"",
+		"Dont Move":
+			"Don't Move",
+		"Dive":
+			"",
+		"Press All Buttons":
+			"",
+		"{SCORE}/10":
+			"",
+
+		//racetoid
+		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
+			"",
+		"- PRESS BUTTON TO JOIN -":
+			"",
+		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
+			"",
+		"Go":
+			"",
+		"Best Time: {TIME}":
+			"",
+		"Best Time: {TIME} (Gold: {GOLD TIME})":
+			"",
+		"New Highscore!":
+			"",
+		"Highscore: {TIME}":
+			"",
+
+		//wrangle
+		"Take to Burner!":
+			"",
+		"Catch It!":
+			"",
+		"Grab the Grazer!":
+			"",
+		"Good work!":
+			"",
+		"You win! Time to head off!":
+			"",
+
+		//wrangloid UI
+		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
+			"",
+
+		//defendoid
+		"Use Terminal to Skip Wait!":
+			"",
+		"Wave {WAVE_NUMBER}":
+			"",
+		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
+			"",
+		"Clear up attackers!":
+			"",
+		"Search for loot and upgrades!":
+			"",
+		"Get ready for attackers!":
+			"",
+
+		//coliseum
+		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
+			"",
+		"Rate them in the Workshop - it affects how often they appear":
+			"",
+		"New Blueprint Uploaded: {NAME}!":
+			"",
+		"Next Up:":
+			"",
+		"Coliseum {NAME} by {AUTHOR}":
+			"{NAME} by {AUTHOR}",
+		"{NAME} wins!":
+			"",
+		"Using {NAME}":
+			"",
+		"Streak: {STREAK COUNT}!":
+			"",
+		"Ended Streak of {NAME}":
+			"",
+		"A Community Creation":
+			"",
+		"A Community Creation By: {NAME}":
+			"",
+		"Rating: {RATING}%":
+			"",
+		"Rematch":
+			"",
+		"Draw":
+			"",
+
+		//steam workshop info
+		"Loading Name":
+			"",
+		"WS By {AUTHOR}":
+			"By {AUTHOR}",
+		"Workshop Blueprint By {AUTHOR}":
+			"",
+		"Rating: {RATING}%":
+			"",
+
+		//structure steam altar
+		"Subscribe to Blueprints to receive them here {BUTTON}":
+			"",
+		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
+			"",
+		"Steam Altar Do you recommend this?":
+			"Do you recommend this?",
+		"Steam Altar No":
+			"No",
+		"Steam Altar Yes":
+			"Yes",
+
+		//structure shop manager (steam shop)
+		"Free Sample":
+			"",
+		"{PRICE} (50% off)":
+			"",
+		"Buy":
+			"",
+		"Steam Shop By {AUTHOR}":
+			"By {AUTHOR}",
+		"Steam Shop Do you recommend this?":
+			"Do you recommend this?",
+		"Up/Down Vote":
+			"",
+		"Not enough Aurium":
+			"",
+		"Voted Up":
+			"",
+		"Voted Down":
+			"",
+		"- Shop {SHOP TAG} -":
+			"",
+		"-{PRICE} Aurium":
+			"",
+
+		//tags (plural) used for SHOP TAG
+		"Weapons":
+			"",
+		"Tools":
+			"",
+		"Vehicles":
+			"",
+		"Pioneers":
+			"",
+		"Robots":
+			"",
+		"Golems":
+			"",
+		"Faunas":
+			"Fauna",
+
+		//structure shop pioneers
+		"Pio Shop Not enough Aurium":
+			"Not enough Aurium",
+
+		//machine space teleporter
+		"Space Teleporter Scene Completed":
+			"Scene Completed",
+		"Confirm to leave":
+			"",
+
+		//blueprint menu
+		"Blueprint Ready":
+			"",
+		"Incomplete Blueprint":
+			"",
+		"New Blueprint!":
+			"",
+		"Not enough resources":
+			"",
+		// label above effect when player is scanning a blueprint
+    "Scanning":
+			"",
+		// label above effect when player finished scanning a blueprint
+		"Completed!":
+			"",
+		"Metals: {NUMBER}kg":
+			"",
+		"Carbon: {NUMBER}kg":
+			"",
+		"Silicon: {NUMBER}kg":
+			"",
+		"Water: {NUMBER}kg":
+			"",
+		"Cancel":
+			"",
+
+		//blueprint menu categories (translate these to plural)
+		"CATEGORY Partial":
+			"",
+		"CATEGORY Workshop":
+			"",
+		"CATEGORY 1T":
+			"1T Blocks",
+		"CATEGORY Aurium":
+			"",
+		"CATEGORY Bomb":
+			"Bombs",
+		"CATEGORY Bot":
+			"Robots",
+		"CATEGORY Cloud":
+			"Clouds",
+		"CATEGORY Coalition":
+			"",
+		"CATEGORY Component":
+			"Components",
+		"CATEGORY Construction":
+			"",
+		"CATEGORY Fauna":
+			"",
+		"CATEGORY Flora":
+			"",
+		"CATEGORY Gear":
+			"",
+		"CATEGORY Golem":
+			"Golems",
+		"CATEGORY Grenade":
+			"Grenades",
+		"CATEGORY Junk":
+			"",
+		"CATEGORY Lamp":
+			"Lamps",
+		"CATEGORY Loot":
+			"",
+		"CATEGORY Lump":
+			"Lumps",
+		"CATEGORY Machine":
+			"Machines",
+		"CATEGORY Pioneer":
+			"Pioneers",
+		"CATEGORY Prototype":
+			"Prototypes",
+		"CATEGORY Reactor":
+			"Reactors",
+		"CATEGORY Rover":
+			"Rovers",
+		"CATEGORY Ship":
+			"Ships",
+		"CATEGORY Sign":
+			"Signs",
+		"CATEGORY Strucure":
+			"Strucures",
+		"CATEGORY Tank":
+			"Tanks",
+		"CATEGORY Tool":
+			"Tools",
+		"CATEGORY Trap":
+			"Traps",
+		"CATEGORY Trigger":
+			"Triggers",
+		"CATEGORY Weapon":
+			"Weapons",
+
+		//blueprint names for blueprint menu and appearing over vehicles and tools
+		//category words should not stay in the translation, instead keep the names natural like you would call this thing
+		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
+		"1T Graphite":
+			"Graphite Block",
+		"1T Ice":
+			"Ice Block",
+		"1T Metals":
+			"Metal Block",
+		"1T Sandstone":
+			"Sandstone Block",
+		"Aurium Crystal":
+			"Aurium Crystal",
+		"Aurium Vase Brown":
+			"Brown Aurium Vase",
+		"Aurium Vase Large 1":
+			"Large Aurium Vase",
+		"Aurium Vase Large 2":
+			"Large Aurium Vase 2",
+		"Aurium Vase Large 3":
+			"Large Aurium Vase 3",
+		"Aurium Vase Small":
+			"Small Aurium Vase",
+		"Bomb Classic":
+			"Classic Bomb",
+		"Bomb Large":
+			"Large Bomb",
+		"Bomb":
+			"Bomb",
+		"Bot Acid":
+			"Acid Bot",
+		"Bot Drone Defense":
+			"Defense Drone",
+		"Bot Flip":
+			"Flip Bot",
+		"Bot Flying Worm":
+			"Flying Worm",
+		"Bot Frosty":
+			"Frosty",
+		"Bot Guard Box":
+			"Guard Box",
+		"Bot Imperatus":
+			"Imperatus Bot",
+		"Bot Jumper Box":
+			"Jumper Box",
+		"Bot Mecha":
+			"Mecha",
+		"Bot Phoenix":
+			"Phoenix Bot",
+		"Bot Sentry":
+			"Sentry",
+		"Bot Spot":
+			"Bot Spot",
+		"Bot Tank":
+			"Robot Tank",
+		"Bot Temperature Drone":
+			"Temperature Drone",
+		"Bot Titan Golem":
+			"Titan Golem",
+		"Bot Vendor":
+			"Vendor Bot",
+		"Bot Wandering":
+			"Wandering Bot",
+		"Bot Worm":
+			"Robot Worm",
+		"Cloud Acid":
+			"Acid Cloud",
+		"Coalition Ship":
+			"Coalition Ship",
+		"Coalition Turret":
+			"Coalition Turret",
+		"Component Balancer":
+			"Balancer Component",
+		"Component Balloon":
+			"Balloon",
+		"Component Battery 100A":
+			"100A Battery",
+		"Component Battery 10A":
+			"10A Battery",
+		"Component Capacitor":
+			"Capacitor",
+		"Component Explosive Charge":
+			"Explosive Charge",
+		"Component Minigun":
+			"Mountable Minigun",
+		"Component Seat Boosted":
+			"Boosted Seat",
+		"Component Seat":
+			"Seat",
+		"Component Thruster":
+			"Thruster",
+		"Component Wheel":
+			"Wheel",
+		"Construction Concrete Support":
+			"Concrete Support",
+		"Construction Concrete Wall":
+			"Concrete Wall",
+		"Construction Concrete Window":
+			"Concrete Window",
+		"Construction Elevator":
+			"Elevator",
+		"Construction Plank Big":
+			"Big Plank",
+		"Construction Plank Slim":
+			"Slim Plank",
+		"Construction Plank":
+			"Plank",
+		"Construction Trunk":
+			"Trunk",
+		"Construction Wooden Triangle":
+			"Wooden Triangle",
+		"Fauna Animal Nest":
+			"Animal Nest",
+		"Fauna Bird Hostile":
+			"Hostile Bird",
+		"Fauna Bird Neutral":
+			"Neutral Bird",
+		"Fauna Bomb Bug":
+			"Bomb Bug",
+		"Fauna Crab Acid":
+			"Acid Crab",
+		"Fauna Crab Aurium":
+			"Aurium Crab",
+		"Fauna Crab Balloon":
+			"Balloon Crab",
+		"Fauna Crab Fire":
+			"Fire Crab",
+		"Fauna Crab":
+			"Crab",
+		"Fauna Egg Bird":
+			"Bird Egg",
+		"Fauna Egg":
+			"Egg",
+		"Fauna Grazer":
+			"Grazer",
+		"Fauna Ice Bird":
+			"Ice Bird",
+		"Fauna Ice Bug":
+			"Ice Bug",
+		"Fauna Knuckles Boss":
+			"Boss Knuckles",
+		"Fauna Knuckles":
+			"Knuckles",
+		"Fauna Mega Worm Long":
+			"Long Mega Worm",
+		"Fauna Mega Worm":
+			"Mega Worm",
+		"Fauna Roly Poly":
+			"Roly Poly",
+		"Fauna Silverback":
+			"Silverback",
+		"Fauna Skeleton Armored":
+			"Armored Skeleton",
+		"Fauna Snapjaw":
+			"Snapjaw",
+		"Fauna Tentacle Eye":
+			"Tentacle Eye",
+		"Fauna Tentacle Launcher":
+			"Tentacle Launcher",
+		"Fauna Tentacle Old":
+			"Old Tentacle",
+		"Fauna Tentacle":
+			"Tentacle",
+		"Fauna Zombie":
+			"Zombie",
+		"Flora Aloe Plant":
+			"Aloe Plant",
+		"Flora Broccoli Plant":
+			"Broccoli Plant",
+		"Flora Clone Plant":
+			"Clone Plant",
+		"Flora Glow Plant":
+			"Glow Plant",
+		"Flora Liana End":
+			"Liana End",
+		"Flora Liana":
+			"Liana",
+		"Flora Pop Plant":
+			"Pop Plant",
+		"Flora Vines":
+			"Vines",
+		"Gear Chest Plate":
+			"Chest Plate",
+		"Gear Crown":
+			"Crown",
+		"Gear Helmet":
+			"Helmet",
+		"Gear Leg BG Armor":
+			"Back Leg Armor",
+		"Gear Leg FG Armor":
+			"Front Leg Armor",
+		"Gear Small Aurium Obj":
+			"Small Aurium Gear Obj",
+		"Gear Small Aurium":
+			"Small Aurium Gear",
+		"Gear Space Helmet":
+			"Space Helmet",
+		"Golem Carbon":
+			"Carbon Golem",
+		"Golem Ice":
+			"Ice Golem",
+		"Golem Metal":
+			"Metal Golem",
+		"Golem Silicon":
+			"Silicon Golem,",
+		"Grenade Bounce":
+			"Bounce Grenade",
+		"Grenade Cold":
+			"Cold Grenade",
+		"Grenade Impact":
+			"Impact Grenade",
+		"Grenade Mine":
+			"Mine",
+		"Grenade Rope":
+			"Rope Grenade",
+		"Grenade Simple":
+			"Simple Grenade",
+		"Grenade Spikes":
+			"Spikes Grenade",
+		"Junk Aurium Boulder 1":
+			"Aurium Boulder",
+		"Junk Aurium Boulder 2":
+			"Aurium Boulder 2",
+		"Junk Block Sandstone Long":
+			"Long Sandstone Block",
+		"Junk Block Sandstone":
+			"Sandstone Block",
+		"Junk Bones":
+			"Bones",
+		"Junk Boulder Big":
+			"Big Boulder",
+		"Junk Boulder Huge":
+			"Huge Boulder",
+		"Junk Boulder Sandstone Huge":
+			"Huge Sandstone Boulder",
+		"Junk Boulder Sandstone":
+			"Sandstone Boulder",
+		"Junk Boulder Small":
+			"Small Boulder",
+		"Junk Boulder":
+			"Boulder",
+		"Junk Brick":
+			"Brick",
+		"Junk Cage":
+			"Cage",
+		"Junk Chain":
+			"Chain",
+		"Junk Crate A":
+			"Crate A",
+		"Junk Crate Aurium Alloy Big":
+			"Big Crate Aurium Alloy",
+		"Junk Crate Aurium Alloy Small":
+			"Small Crate Aurium Alloy",
+		"Junk Crate Aurium Alloy":
+			"Crate Aurium Alloy",
+		"Junk Crate B":
+			"Crate B",
+		"Junk Crate Cardboard":
+			"Cardboard Box",
+		"Junk Crate Ice 1":
+			"Ice Crate",
+		"Junk Crate Wooden 1":
+			"Wooden Crate",
+		"Junk Crate Wooden 2":
+			"Wooden Crate 2",
+		"Junk Crate Wooden Small 2":
+			"Small Wooden Crate 2",
+		"Junk Crate Wooden Small":
+			"Small Wooden Crate",
+		"Junk Drill":
+			"Drill",
+		"Junk Flight Recorder":
+			"Flight Recorder",
+		"Junk Fuel Tank Light":
+			"Light Fuel Tank",
+		"Junk Fuel Tank":
+			"Fuel Tank",
+		"Junk Girder":
+			"Girder",
+		"Junk Ice Block":
+			"Ice Block",
+		"Junk Ice Rock":
+			"Ice Rock",
+		"Junk Ice Stalactite":
+			"Ice Stalactite",
+		"Junk Ice Wall Small":
+			"Small Ice Wall",
+		"Junk Ice Wall":
+			"Ice Wall",
+		"Junk Logo 2":
+			"Logo 2",
+		"Junk Logo C":
+			"Logo C",
+		"Junk Logo D":
+			"Logo D",
+		"Junk Logo PP":
+			"Logo PP",
+		"Junk Metal Plate":
+			"Metal Plate",
+		"Junk Rock":
+			"Rock",
+		"Junk Rod 2":
+			"Rod 2",
+		"Junk Rod Metal":
+			"Metal Rod",
+		"Junk Rod":
+			"Rod",
+		"Junk Roly Poly Dung":
+			"Roly Poly Dung",
+		"Junk Ship Part A":
+			"Ship Part A",
+		"Junk Ship Part B":
+			"Ship Part B",
+		"Junk Ship Pieces":
+			"Ship Pieces",
+		"Junk Skeleton":
+			"Skeleton",
+		"Junk Snow Ball Big":
+			"Big Snowball",
+		"Junk Snow Ball Small":
+			"Small Snowball",
+		"Junk Snow Ball":
+			"Snowball",
+		"Junk Tank Wreck Imperatus":
+			"Imperatus Tank Wreck",
+		"Junk Vase Big":
+			"Big Vase",
+		"Junk Vase Oil":
+			"Oil Vase",
+		"Junk Vase":
+			"Vase",
+		"Lamp Chunky":
+			"Chunky Lamp",
+		"Lamp Hanging Alien":
+			"Alien Hanging Lamp",
+		"Lamp Hanging":
+			"Hanging Lamp",
+		"Lamp Mounted":
+			"Mounted Lamp",
+		"Lamp Wall A":
+			"Wall Lamp A",
+		"Loot Blueprint Chest":
+			"Blueprint Chest",
+		"Loot Blueprint":
+			"Blueprint",
+		"Loot Chest":
+			"Chest",
+		"Loot Dispenser":
+			"Loot Dispenser",
+		"Loot Orb Golden":
+			"Golden Orb",
+		"Loot Orb":
+			"Orb",
+		"Loot Weapon Container Tier 1":
+			"Tier 1 Weapon Container",
+		"Loot Weapon Container Tier 2":
+			"Tier 2 Weapon Container",
+		"Loot Weapon Container Tier 3":
+			"Tier 3 Weapon Container",
+		"Loot Workshop Box":
+			"Workshop Box",
+		"Lump Aurium A":
+			"",
+		"Lump Aurium B":
+			"",
+		"Lump Aurium C":
+			"",
+		"Lump Carbon A":
+			"",
+		"Lump Carbon B":
+			"",
+		"Lump Carbon C":
+			"",
+		"Lump Metals A":
+			"",
+		"Lump Metals B":
+			"",
+		"Lump Metals C":
+			"",
+		"Lump Metals D":
+			"",
+		"Lump Silicon A":
+			"",
+		"Lump Silicon B":
+			"",
+		"Lump Silicon C":
+			"",
+		"Lump Silicon D":
+			"",
+		"Lump Water A":
+			"",
+		"Lump Water B":
+			"",
+		"Machine Camera Aurium":
+			"",
+		"Machine Catapult":
+			"",
+		"Machine Dropper":
+			"",
+		"Machine Laser Emitter":
+			"",
+		"Machine Proximity Sensor":
+			"",
+		"Machine Sentry Camera":
+			"",
+		"Machine Sentry Gun":
+			"",
+		"Machine Space Teleporter":
+			"",
+		"Machine Switch":
+			"",
+		"Machine Terminal Info":
+			"",
+		"Machine Terminal Sensor":
+			"",
+		"Pioneer Crazy Bob":
+			"Crazy Bob",
+		"Pioneer Imperatus":
+			"Imperatus Pioneer",
+		"Pioneer Lily Crusher":
+			"Lily Crusher",
+		"Pioneer Pink Horror":
+			"Pink Horror",
+		"Pioneer Red Devil":
+			"Red Devil",
+		"Pioneer Starman":
+			"Starman",
+		"Pioneer Test Dummy":
+			"Test Dummy",
+		"Pioneer Wyatt":
+			"Wyatt",
+		"Prototype Bot Mr Tentacles":
+			"",
+		"Prototype Bot Walker Big":
+			"",
+		"Prototype Bot Walker":
+			"",
+		"Prototype Drone Defense":
+			"",
+		"Prototype Elevator":
+			"",
+		"Prototype Homing Missile":
+			"",
+		"Prototype Mecha Flamer":
+			"",
+		"Prototype Mecha MG":
+			"",
+		"Prototype Mecha Rifle":
+			"",
+		"Prototype Nest Bees":
+			"",
+		"Prototype Nest Bird Hostile":
+			"",
+		"Prototype Nest Bird":
+			"",
+		"Prototype Rifle Blast":
+			"",
+		"Prototype Rock Trap Rock":
+			"",
+		"Prototype Rover Car":
+			"",
+		"Prototype SAM Site":
+			"",
+		"Prototype Satellite Discovery":
+			"",
+		"Prototype Snowboard Mk2":
+			"",
+		"Prototype Structure Door Trap Sm":
+			"",
+		"Prototype Structure Door Trap":
+			"",
+		"Prototype Tool Crossbow":
+			"Crossbow",
+		"Prototype Tool Gravity Gun":
+			"Gravity Gun",
+		"Prototype Tool Teleport Device":
+			"Teleport Device",
+		"Rover Carbon":
+			"Carbon Rover",
+		"Rover Carrier Hover":
+			"Flying Carrier Hover",
+		"Rover Carrier":
+			"Carrier Hover",
+		"Rover Climber":
+			"Climbing Rover",
+		"Rover Coalition Spider Climber":
+			"Coalition Spider Climber",
+		"Rover Minimal Aurium Example":
+			"Rover Aurium Example",
+		"Rover Minimal Jets":
+			"Jet Rover",
+		"Rover Mining Cart":
+			"Mining Cart",
+		"Rover Quad":
+			"Quad",
+		"Rover Scissor":
+			"Scissors Rover",
+		"Rover Shocks":
+			"Shocks Rover",
+		"Ship Big":
+			"Big Ship",
+		"Ship Drop Rocket":
+			"Drop Rocket",
+		"Ship Landing Seat":
+			"Landing Seat",
+		"Ship Landing":
+			"Landing Ship",
+		"Ship Mini":
+			"Mini Ship",
+		"Ship Rocket":
+			"Rocket",
+		"Sign Not Throw":
+			"Do Not Throw Sign",
+		"Sign Shopping":
+			"Shopping Sign",
+		"Sign Steam":
+			"Steam Sign",
+		"Sign Wooden Compound Logo":
+			"Wooden Compound Sign",
+		"Snowboard":
+			"",
+		"Structure Assembly Lock":
+			"",
+		"Structure Bridge Draw Long":
+			"",
+		"Structure Bridge Draw":
+			"",
+		"Structure Bridge Hanging Huge":
+			"Huge Suspension Bridge",
+		"Structure Bridge Hanging Long":
+			"Long Suspension Bridge",
+		"Structure Bridge Hanging":
+			"Suspension Bridge",
+		"Structure Bridge Metal":
+			"Metal Bridge",
+		"Structure Covered Door":
+			"",
+		"Structure Door Covered":
+			"",
+		"Structure Door Curved":
+			"",
+		"Structure Door Dungeon":
+			"",
+		"Structure Door Huge":
+			"",
+		"Structure Door Sandstone Huge":
+			"",
+		"Structure Door Sandstone":
+			"",
+		"Structure Door Silo":
+			"",
+		"Structure Door":
+			"",
+		"Structure Elevator Fast":
+			"",
+		"Structure Elevator Sandstone":
+			"",
+		"Structure Elevator Small":
+			"",
+		"Structure Eye Large":
+			"",
+		"Structure Eye Statue":
+			"",
+		"Structure Garage":
+			"",
+		"Structure Gear Lock":
+			"",
+		"Structure Grazer Vacuum":
+			"",
+		"Structure Latch":
+			"",
+		"Structure LCD Countdown Timer":
+			"",
+		"Structure LCD Panel":
+			"",
+		"Structure Moving Platform MAZE":
+			"",
+		"Structure Moving Platform":
+			"",
+		"Structure Pin World":
+			"",
+		"Structure Power Core":
+			"",
+		"Structure Resource Filler":
+			"",
+		"Structure Respawn Station":
+			"",
+		"Structure Rope":
+			"",
+		"Structure Shop Manager":
+			"",
+		"Structure Shop Pioneers":
+			"",
+		"Structure Steam Altar":
+			"",
+		"Structure Switch Sandstone":
+			"",
+		"Structure Teleporter":
+			"",
+		"Structure Trap Door 10m":
+			"",
+		"Structure Trap Door Long":
+			"",
+		"Structure Trap Door Metal":
+			"",
+		"Structure Trap Door Sandstone":
+			"",
+		"Tank Coalition":
+			"Coalition Tank",
+		"Tool Balloon Gun":
+			"Balloon Gun",
+		"Tool Bomb Crab":
+			"Bomb Crab",
+		"Tool Glow Stick":
+			"Glow Stick",
+		"Tool Grappling Hook Basic":
+			"Grappling Hook",
+		"Tool Hack Gun":
+			"Hack Gun",
+		"Tool Jet Rocket":
+			"Jet Rocket",
+		"Tool Key":
+			"Key",
+		"Tool Magnet":
+			"Magnet",
+		"Tool Propeller":
+			"Propeller",
+		"Tool Quantum Field Device":
+			"Quantum Field Device",
+		"Tool Rope Launcher":
+			"Rope Launcher",
+		"Tool Rope":
+			"Rope",
+		"Tool Shield Metal":
+			"Shield Metal",
+		"Tool Spelunker Rope":
+			"Spelunker Rope",
+		"Tool Tether":
+			"Tether",
+		"Tool Welder":
+			"Welder",
+		"Trap Claw":
+			"Claw Trap",
+		"Trap Dart":
+			"Dart Trap",
+		"Trap Flamethrower Aurium":
+			"Flamethrower Trap Aurium",
+		"Trap Flamethrower":
+			"Flamethrower Trap",
+		"Trap Grinder Small":
+			"Small Grinder Trap",
+		"Trap Grinder":
+			"Grinder Trap",
+		"Trap Ice":
+			"Ice Trap",
+		"Trap Spring Mine":
+			"Spring Mine",
+		"Weapon Assault Rifle":
+			"Assault Rifle",
+		"Weapon Aurium Staff":
+			"Aurium Staff",
+		"Weapon Blue Rifle":
+			"Blue Rifle",
+		"Weapon Bounding Mine Grenade":
+			"Bounding Mine Grenade",
+		"Weapon Cold Grenade Launcher":
+			"Cold Grenade Launcher",
+		"Weapon Cold Grenade":
+			"Cold Grenade",
+		"Weapon Cold Shotgun":
+			"Cold Shotgun",
+		"Weapon Flamethrower":
+			"Flamethrower",
+		"Weapon Grandpas Rifle":
+			"Grandpas Rifle",
+		"Weapon Grenade Launcher":
+			"Grenade Launcher",
+		"Weapon Hand Grenade":
+			"Hand Grenade",
+		"Weapon Heavy Machine Gun":
+			"Heavy Machine Gun",
+		"Weapon Laser Assault Rifle":
+			"Laser Assault Rifle",
+		"Weapon Machine Pistol":
+			"Machine Pistol",
+		"Weapon Mine Launcher":
+			"Mine Launcher",
+		"Weapon Minigun":
+			"Minigun",
+		"Weapon Nail Gun":
+			"Nail Gun",
+		"Weapon Pistol":
+			"Pistol",
+		"Weapon Plasma Rifle":
+			"Plasma Rifle",
+		"Weapon Rifle Bolt Action":
+			"Bolt Action Rifle",
+		"Weapon Scrap Launcher":
+			"Scrap Launcher",
+		"Weapon Shockwave Gun":
+			"Shockwave Gun",
+		"Weapon Shotgun":
+			"Shotgun",
+		"Weapon Sticky Bomb Launcher":
+			"Sticky Bomb Launcher"
+
+		}
+}
