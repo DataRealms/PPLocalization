@@ -1,6 +1,7 @@
 [
 	"en", //english
 	"ru", //russian
+	"zh", //chinese (simplified)
 	"de", //german
 	"ro", //romainian
 ]

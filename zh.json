@@ -1,36 +1,36 @@
 {
-	//english translation file for planetoid pioneers
+	//chinese translation file for planetoid pioneers
 	//(internal text is in english, so this is mostly a no-op -
 	// some strings use localisation IDs though, and their content
 	// is specified here.)
 	"info" : {
-		"id": "en",
-		"english_name": "English",
-		"localised_name": "English"
+		"id": "zh",
+		"english_name": "Simplified Chinese",
+		"localised_name": "简体中文"
 	},
 	"store page": {
 		//game description
 		"Welcome to Planetoid Pioneers, a cooperative sci-fi Physicsvania where kooky old astronauts fall over themselves with QWOP-like action to explore the Asteroid Belt beyond Mars. It’s been built on the unique Crush2D physics engine and can be played on your couch with or against your friends in seamless pick-up-and-play Co-Op and PvP action.":
-			"",
+			"欢迎来到小行星先锋,这是一款富合作性的科幻物理游戏.操纵怪怪的老宇航员(有点像QWOP游戏那样移动着的会自己摔倒的那位！)来探索火星以外的小行星带.此游戏建立在独特的Crush2D物理引擎之上,你可以在沙发上和朋友畅玩这具有丝滑操作,体验一种即捡即用型刺激战斗,同时能自由选择合作或是对战模式的佳作.",
 		"You’ll trip over rocks, lose limbs and get your stuff stolen while fleeing from terrifying enemies that make you forget you’re walking right into the next trap. Come up with alternate creative solutions to the challenges thrown at you, or get your hands dirty and build some of your own Planetoids in the editors that are now all included in the standard edition, too. Laugh while others attempt to survive your carefully constructed carnage!":
-			"",
+			"你需要躲避落石,应对损伤以及装备被顺手牵羊的情况,在逃离可怕的敌人的同时,让你忘记你其实正在不知不觉进入下一个陷阱！你可以用别具一格的思路应对前路的挑战,或者自己动手在编辑器中打造属于你的小行星带(这些编辑器现在都包含在标准版中). 笑看对手在你精心构建的鏖战乱世中苟活吧",
 		"If you choose to purchase the Contributor Edition today, you will also get access to the official Contributor Community Discord server, where you can collaborate and share content with creatively-minded people, and also chat directly with the developers.":
-			"",
+			"如果你现在购买核心贡献者版游戏,您还可以得到访问官方核心贡献论坛服务器的权限,在那里您可以与有创造力的人们一起协作和共享内容,还可以直接与开发人员聊天.",
 		//short description, it can not be longer than the english one
 		"Explore deep circular worlds in this Physicsvania with [b]couch Co-Op[/b] combat, crafting, and ridiculous physics fails! Also bring your own game ideas to life with the powerful engine and integrated game development tools. Each Planetoid is a whole separate game mode that you can fully edit and easily share!":
-			"",
+			"通过[b]合作[/b]对战,深入探索,亦制造些许滑稽玩物在这个无处不物理的球形世界！此外强大引擎和高度集成的开发编辑工具使你能高度定制此游戏.每个行星都是各自孤立,并且你能完全编辑与分享的游戏模式",
 		//game title description
 		"Now Includes All Editors":
-			"",
+			"现在内置全内容编辑器",
 		//workshop description
 		"Built for user creation and sharing from the ground up, Planetoid Pioneers supports a Contributor Community whose work can be enjoyed here: Blueprints and entire self-contained Planetoids galore!":
-			"",
+			"工坊专为用户的创造力和分享需求而设计,小行星先锋支持贡献者社区————他们的成果包括蓝图和整个小行星带",
 		//contributor dlc (just translate 'Upgrade to')
 		"{PLANETOID PIONEERS} Upgrade to {CONTRIBUTOR EDITON}":
-			"",
+			"{PLANETOID PIONEERS} 升级 {CONTRIBUTOR EDITON}",
 		//contributor dlc description
 		"Upgrade from the regular Planetoid Pioneers Game-Only Edition to the full Contributor Edition with ALL the commercial-grade editors that the official development team and the vibrant Contributor Community used to build everything you've seen in the game!":
-			""
+			"从普通版升级到完整的核心贡献版,来获得商业级的强大编辑器:被官方开发团队和充满活力的社区贡献者用来构建你在游戏中看到的所有元素的编辑器！"
 	},
 	"translations": {
 		//asteroid belt UI
@@ -38,235 +38,233 @@
 		//planetoid panel
 		//labels/description/etc
 		"FLAG Planetoid": //little planetoid flag in top right
-			"Planetoid",
+			"小行星",
 		"Goal":
-			"",
+			"目标",
 		"Difficulty: {DIFFICULTY}":
-			"",
+			"难度: {DIFFICULTY}",
 		"Time: {TIME_ESTIMATE}":
-			"",
+			"时间: {TIME_ESTIMATE}",
 		"ABUI By {AUTHOR}":
-			"By {AUTHOR}",
+			"来自于{AUTHOR}",
 
 		//settings
 		"FLAG Settings": //the little flag in the top left
-			"Settings",
+			"设置",
 		"Settings":
-			"",
+			"设置",
 		"Adjust Volume":
-			"",
+			"调整音量",
 		"Sound":
-			"",
+			"声音",
 		"Music":
-			"",
+			"背景音乐",
 		"Voice":
-			"",
-		"Video Settings":
-			"",
+			"语音音量",
 		"Done":
-			"",
+			"完成",
 		"Quit The Game":
-			"",
+			"退出游戏",
 		"Danger Zone!":
-			"",
+			"警告！",
 		"Factory Reset":
-			"",
+			"出厂重置",
 		"Steam Workshop":
-			"",
+			"Steam工作坊",
 		"Auto-Download Content":
-			"",
+			"自动下载更新的内容",
 		//buttons
 		"Start!":
-			"",
+			"开始！",
 		"Continue":
-			"",
+			"继续",
 		"Restart":
-			"",
+			"重试",
 
 		//video settings
 		"Video Settings":
-			"",
+			"画质设置",
 		"Locale Settings":
-			"",
+			"区域设置",
 		"Back":
-			"",
+			"返回",
 		"Display Mode":
-			"",
+			"显示模式",
 		"Fullscreen":
-			"",
+			"全屏",
 		"Borderless":
-			"",
+			"无边窗口化",
 		"Windowed":
-			"",
+			"窗口化",
 		"Resolution":
-			"",
+			"分辨率",
 		"Which Display":
-			"",
+			"哪个显示器",
 		"Apply":
-			"",
+			"应用",
 
 		///////////////////////////////////////////////////////////////////////
 		//voiceovers
 
 		//crazy bob on primoid
 		"Can you believe this?!":
-			"",
+			"这你敢信？！(我反正信了)",
 		"Let's try this gun!":
-			"",
+			"让我们试试这把枪吧！",
 		"Oookay, that's ominous":
-			"",
+			"我去,真晦气",
 		"Damned birds!!":
-			"",
+			"该死的鸟!!",
 		"Curse these birds!!":
-			"",
+			"愿这些鸟全下地狱被烧成渣!!",
 		"It's a lot easier to climb with both my hands free...":
-			"",
+			"两手空空,爬得轻松...",
 		"EATING MY WORDS!!":
-			"",
+			"我收回前言!!",
 		"EAT THAT!!":
-			"",
+			"尝尝这个!!",
 		"The Flight Recorder shows a Rocket Silo door, not far to the east from here. We better go see if we can score a ride off this rock there!":
-			"",
+			"飞行记录仪显示了一个在东边离此不远的火箭仓门.我们最好去看看是否用得着！",
 		"What are these structures?":
-			"",
+			"这些结构是啥？",
 		"WHOAAAAAAAA!!":
-			"",
+			"卧槽!!",
 		"BANG!":
-			"",
+			"砰！",
 		"Maybe they weren't trying to keep things out... but to keep something IN!?":
-			"",
+			"也许他们并没试图让一些东西出去......而是为了让一些东西进来！？",
 		"NOOOO - my vessel!!":
-			"",
+			"别啊！ - 我的船!!",
 		"Rest in Pieces, my beloved vessel...":
-			"",
+			"安息吧,我的宝船...",
 		"Now I'm stuck on this rock!":
-			"",
+			"现在我被困在这块岩石上了！",
 		"That was my space yacht...":
-			"",
+			"那是我的太空游艇...",
 		"Well, that's not very secure...":
-			"",
+			"嗯…那可不太安全...",
 		"I don't like the look, smell, or feel of this place... it's all squishy.":
-			"",
+			"我不喜欢这个地方的外观,气味或感觉......太黏糊.",
 		"Ohh you UGLY, Cyclops!!":
-			"",
+			"怪怪,独眼巨人！",
 		"It's all fun and games, until someone loses an eye.":
-			"",
+			"入坑太深,身不由己.",
 		"What's that racket??":
-			"",
+			"那是什么神器？",
 		"YIKES - a mobile meat grinder monstrosity!!":
-			"",
+			"吼吼,一个移动的绞肉机怪物！",
 		"TAKE THAT, you overgrown food processor!!":
-			"",
+			"尝尝这个,馋嘴的大家伙!!",
 		"Jumping Jellybeans!!":
-			"",
+			"就像跳在里根糖上面一样!!",
 		"I bet I'm past the worst monsters by now!":
-			"",
+			"我敢打赌,我现在已经试过最糟糕的怪物了！",
 		"Those jaws were snappin', and it's got me rappin'!":
-			"",
+			"那些动着下巴的东西让我颤栗 ！",
 		"Wish i had something to drive that would protect my noggin a bit...!":
-			"",
+			"希望我有些啥能保护脑袋......！",
 		"I need some mad hops - or a ride with some mad JETS!":
-			"",
+			"给我整点刺激的！就像骑最野的狗！",
 		"I think they're trying to tell me something...":
-			"",
+			"我认为他们正尝试告诉我什么......",
 		"For a moment I thought I would perish... Crazy Bob never perishes.":
-			"",
+			"有那么一刻我以为我会完蛋......切,怎么可能.",
 		"It's not completely wild out here...":
-			"",
+			"这里并不完全疯狂......",
 		"Pinkle... Just like Lily":
-			"",
+			"女汉子",
 		"I just need to find a few more rocket parts, and I'll have a complete Blueprint!":
-			"",
+			"我只需要找几个火箭部件,我就会有一个完整的蓝图！",
 		"Keep them snaps away from me!":
-			"",
+			"把它们赶跑！",
 		"Let's see what this baby can do!":
-			"",
+			"让我们看看这个熊孩子能做些什么！",
 		"My life just flashed before of my eyes! It was long, but I didn't get bored... would watch again.":
-			"",
+			"生命不息,战斗不止.",
 		"One freaky bipedal toaster down!":
-			"",
+			"解决了一个大家伙！",
 		"Pink... purple... pinkle?!":
-			"",
+			"粉红色...紫色......粉红色？！",
 		"Look at that cute lil fella - he looks like he might be good to carry some resources around!":
-			"",
+			"看看那个可爱的小家伙 - 看起来好像能携带一些资源！",
 		"DING DING DING - The Ice Man prevails!!":
-			"",
+			"丁丁丁 - 冰人占上风!!",
 		"These heaps of scraps are no match for me - they could have been so much worse! It's not like they have flamethrowers or anything...":
-			"",
+			"这些废料堆不适合我 - 他们本来可以更糟糕！这不像他们有火焰喷射器或任何东西......",
 		"These are the pieces of the Rocket. I know, because it looks like pieces of the Rocket!":
-			"",
+			"这些是火箭的碎片.我知道,因为它看起来像是火箭的碎片！",
 		"Were those skeletons... screaming?!":
-			"",
+			"那些骷髅......尖叫？！",
 		"What are those buildings...?":
-			"",
+			"这些建筑物是......？",
 		"What happened to these guys?!":
-			"",
+			"这些家伙发生了什么事？！",
 		"What weird beast has carved out these ice caves??":
-			"",
+			"奇怪的野兽雕刻出了这些冰洞？",
 		"Big lad, aren't ya!":
-			"",
+			"果然是个大家伙！",
 		"Yum, eat it up!!":
-			"",
+			"好吃!!",
 		"Dang - How am I supposed to jump this ring of fire?!":
-			"",
+			"靠,我怎么能跳这个火圈？！",
 		"Curse these feathered pests!!":
-			"",
+			"诅咒这些有羽毛的害虫！",
 		"This would make for a good place to build and take off in a rocket!":
-			"",
+			"这将是一个建造和起飞火箭的好地方！",
 		"Guess I've got a treasure hunt on my hands!":
-			"",
+			"猜我的手上有个寻宝仪！",
 		"Got to find all those rocket parts to get off this rock!":
-			"",
+			"得到所有那些火箭部件来离开这块岩石！",
 		"Gotta love this Assembler - never leave home without it! Only thing you need to bring, really.":
-			"",
+			"大爱这个装配器 - 居家旅行常备",
 		"GOT YA!":
-			"",
+			"搞定！",
 		"I guess they were mining Aurium Alloy here...":
-			"",
+			"我猜他们在这里淘金 ......",
 		"Here's a wholesome treat!":
-			"",
+			"这是一种有益健康的享受！",
 		"Hey, did you get shot?!":
-			"",
+			"嘿,你有没有被击中？！",
 		"Oh, you want a fist fight?! Let's see what you got... Ice man versus Ice Bug!":
-			"",
+			"哦,你想要一个拳头？！让我们看看你能得到什么......冰人对冰虫！",
 		"Wow, I actually doubted if I could even do that - how un-Bob like of me!":
-			"",
+			"哇,我真的怀疑我是否能做到这一点 - 真是杠杆的！",
 		"I thought this stuff on the ground was moss... or is it alien bat guano?! EW.":
-			"",
+			"我认为地上的东西是苔藓......或者是外星人蝙蝠鸟粪？！恶.",
 		"I better go check out where my Escape Pod crashed - maybe it'll have something useful in it!":
-			"",
+			"我最好去看看我的逃逸舱坠毁的地方 - 也许它会有一些有用的东西！",
 		"The Atomizer can't deal with Aurium Alloy, by its nature.":
-			"",
+			"喷雾器根本不能处理钨金.",
 		"The Atomizer won't work on anything it deems alive or autonomous...":
-			"",
+			"喷雾器不会对它认为活着或自主的任何东西起作用......",
 		"A Safety Feature, they call it. An annoying nanny nerf, I call it.":
-			"",
+			"一个安全特征,他们这么喊它.一个烦人的保姆,我的称呼.",
 		"I got to get off this rock...":
-			"",
+			"我得离开这块石头...",
 		"A have a bad feeling about what might be guarding the Core...":
-			"I have a bad feeling about what might be guarding the Core...",
+			"我对可能守护核心的东西有一种不好的感觉...",
 		"I'm going to make a BIG omelet!!":
-			"",
+			"我要作一个大煎蛋卷!!",
 		"Could it be... Aurium Alloy?!":
-			"",
+			"它会不会是...... 钨金？！",
 		"CHEW ON THIS!":
-			"",
+			"我嚓！",
 		"I made it!":
-			"",
+			"我做到了！",
 		"Now, how do I start this thing...":
-			"",
+			"现在,我怎么开始这个......",
 		"Let's try this big red button!":
-			"",
+			"让我们试试这个大红色按钮！",
 		"That's it! Blast off in T minus 5, 4, 3, 2, 1...":
-			"",
+			"就是这样！倒数5,4,3,2,1 ......爆炸！",
 		"We have lift off, baby!":
 			"",
 		"Whoo!":
-			"",
+			"哇！",
 		"Oh crap, what's that? No fuel?":
-			"",
+			"靠,那是什么？没有燃料？",
 		"Oh no! Oh no, no, no!":
-			"",
+			"哦不！哦不,不,不！",
 
 		//info terminals
 		//(got to collect the strings from each scene)
@@ -275,7 +273,7 @@
 		"These dummy worker units make excellent __Backup Bodies__.\n\nJust _Assemble_ one and leave it behind; you will _Spark_ to it automatically in the event of a work-related accident.":
 			"",
 		"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __Aurium Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"":
-			"",
+			"Log #43547: \"I have destroyed the last escape rocket, and _scattered its pieces_ across the Primoid, in an attempt to prevent the __金子 Affliction__ to spread beyond this world...\n\nThe locations are marked on this map, but they are well-guarded - _Do NOT even try!_\"",
 
 		//scene descriptions and goals
 
@@ -288,669 +286,670 @@
 		//a lot of them seem to have whitespace but it may just be the editor? we should consider trimming these
 
 		"Primoid":
-			"",
+			"Primoid",
 		"This is the story of Crazy Bob's ill-fated leisure cruise on his luxury space yacht, which landed him marooned on this huge Planetoid, known as the Primoid.  Bob has to explore its deepest secrets and dark, layered history in order to build a rocket and get off this very dangerous rock!":
-			"",
+			"这是疯狂鲍勃在他的豪华太空游艇上的冒险故事,它陷入了被称为Primoid(普莱莫伊德)的巨大的小行星 .鲍勃必须探索其最深的秘密和黑暗历史,重新打造一枚火箭脱离这个非常危险的地方！",
 		"Build and fly away in a spaceworthy craft. ":
-			"",
+			"建造与在能耐受太空环境的载具里逃吧.",
 
 		"Defendoid":
-			"",
+			"生存防御模式",
 		"Fend off waves of nasties coming after your wrinkled hide! Between each wave, collect resources from the carcasses of defeated enemies and build new defenses with them!":
-			"",
+			"你能在逐渐伤痕累累的藏身处中抵御邪恶难缠的敌人吗！在每波关卡间,从被击败的敌人那里收集资源并建立新的防御！",
 		"Survive 10 waves":
-			"",
+			"生存10波以上",
 
 		"Bindleoid":
 			"",
 		"A small but sear-ious planetoid full of fire-ocious hazards holds enough resources to build an escape ship with oven-tually. But several hot-stile creatures are ready to grill you. They don't think your fire puns are very cool. ":
-			"",
+			"在一个充满火灾危险的热浪重重的五脏俱全小行星上,还是能收集足够的资源来建造一个逃生船逃离的(或被烤熟).但是有那么些好斗的生物也准备烤了你.他们不认为你非常酷.",
 		"Cook up a spaceship blueprint and fry- I mean, fly away! ":
-			"",
+			"烹制一个宇宙飞船蓝图和沸……错了！我的意思是,飞！",
 
 		"Carnageoid":
-			"",
+			"屠戮竞技场模式",
 		"Local multiplayer arena battles - Player vs. Player and/or Player vs. AI. \n\nKill all other Pioneers to unlock the next weapon, and unlock all weapons to win the round! ":
-			"",
+			"本地多人竞技场战斗 - 玩家与玩家和/或玩家与人工智能.\n\n杀死所有其他先锋后会解锁下一个武器,解锁所有武器以赢得该轮！",
 		"Win a match in any arena. ":
-			"",
+			"在任何竞技场中赢得一场比赛.",
 
 		"Coliseumoid":
-			"",
+			"角斗场模式",
 		"Watch random gladiators from the game and steam workshop battle endlessly. Create your own creature and tag it \"Gladiator\" to let it participate.":
-			"",
+			"观察随机角斗,创建自己的生物并标记它“角斗士”让它参与.",
 		"Watch one round of gladiator combat. ":
-			"",
+			"目睹一轮角斗厮杀.",
 
 		"Planium":
 			"",
 		"Crash landing on this desolate planetoid, you will have to traverse the winding tunnels and jagged surface in search of a way to escape. But be wary - you may not be alone. Small desposits of crucial resources may be guarded! ":
-			"",
+			"在这荒凉的小行星上坠降的你,将不得不穿过蜿蜒的隧道和锯齿状的星球表面寻找逃生的方法.但要小心 - 你不是一个人.关键资源附近可能会有守护者！",
 		"Get off this hunk of rock!":
-			"",
+			"离开这块岩石！",
 
 		"Plutas":
-			"",
+			"Plutas(富之神)模式",
 		"A planetoid bustling with ferocious fauna and aggressive automatons lies in wait for the less fortunate fliers in the asteroid belt. Caution is advised while seeking out the means to rebuild a functional spacecraft. Try not to get eaten. ":
-			"",
+			"在一个小行星中，充满凶猛的兽群和侵略性自走机器坐等着小行星带中不太幸运的飞行员。在设法重建可用的多功能飞行器时，建议谨慎行事来避免被吃掉.",
 		"Construct a suitable escape vessel and leave. ":
-			"",
+			"建造合适的飞船并逃生",
 
 		"Racetoid":
-			"",
+			"赛车模式",
 		"Up to 4 player vehicular competition. Pick a ride (or design your own) and race around the whole planetoid to reach the goal first, or shave seconds off your personal lap records.\n\nWatch out for physical hazards and obstacles along the way - including terrain, bullets, bits of car, and possibly the occasional limb. ":
-			"",
+			"最多四名玩家. 选择载具或设计好载具来驰骋星球夺冠,或争分夺秒刷新你的个人记录.\n\n请注意路途中的阻碍！包括地形与子弹头……偶尔会有四肢.",
 		"Complete a race in under a minute. ":
-			"",
+			"在一分钟内完成比赛.",
 
 		//(these share a description and goal)
 		"Wrangloid Easy":
-			"",
+			"越野模式 简单",
 		"Wrangloid":
-			"",
+			"越野模式",
 		"Capture and collect the gentle Grazer creatures that are infesting several planetoids in this belt. Pop them in the burner for a bounty. Beware of the fearsome Silverback which also feeds on them... and you! ":
-			"",
+			"捕获并收集在此小行星带中的温和牲畜.将它们放入燃烧器中以获得赏金,谨防可怕的银背大猩猩,它们也依赖于它们......而你！",
 		"Collect and cook all the Grazers. ":
-			"",
+			"收集并处理所有的牲畜.",
 
 		"Trigger Tutorial":
-			"",
+			"触发器教学模式",
 		"Learn how to use triggers and reactors to create your own scenes.":
-			"",
+			"学习如何使用触发器和反应堆创造你自己的场景.",
 		"Reach the teleporter to get back into space.":
-			"",
+			"接触传送器回到太空.",
 
 		"Blank Planetoid":
-			"",
+			"空白星球模式",
 		"This is an example planetoid. It can be used as a starting point for creating a scene. It has the scene tag \"Mappable\" so it appears in the Asteroid Belt. ":
-			"",
+			"这是一个小行星示例.它可以作为创建场景的起点.它有场景标记\"Mappable \"所以它出现在小行星带.",
+		//duplicate key here
 		"Reach the teleporter to get back into space.":
-			"",
+			"到达传送器,返回太空.",
 
 		//modal stuff
 		//(follows the format for each modal ID: ID TITLE, ID YES, ID NO)
 
 		"{QUIT TITLE}":
-			"Quit",
+			"退出",
 		"{QUIT YES}":
-			"Yes, Quit",
+			"是的,退出",
 		"{QUIT NO}":
-			"No, Don't Quit!",
+			"不,不要退出！",
 		"Are you sure you want to quit to desktop?":
-			"",
+			"你确定要退出桌面吗？",
 		"Don't worry, your game will be saved.":
-			"",
+			"别担心,你的游戏会被保存.",
 
 		"{FACTORY RESET TITLE}":
-			"Factory Reset",
+			"恢复出厂设置",
 		"{FACTORY RESET YES}":
-			"Yes, Reset My Data",
+			"是,重置我的数据",
 		"{FACTORY RESET NO}":
-			"No, Don't Reset!",
+			"不,不要重置！",
 		"Are you sure you want to totally delete all data?":
-			"",
+			"您确定要完全删除所有数据吗？",
 		"All saves and your entire user config will be wiped.":
-			"",
+			"所有保存和您的整个用户配置将被擦除.",
 
 		"{RESTART TITLE}":
-			"Restart",
+			"重试",
 		"{RESTART YES}":
-			"Yes, Restart",
+			"是,重试",
 		"{RESTART NO}":
-			"No, Don't Restart!",
+			"不,不要重试！",
 		"Are you sure you want to restart? Any saved progress will be deleted!":
-			"",
+			"您确定要重试吗？任何已保存的进度都将被删除！",
 
 		"{APPLY LOCALE TITLE}":
-			"Apply Locale",
+			"应用区域设置",
 		"{APPLY LOCALE YES}":
-			"Yes, Apply",
+			"是的,应用",
 		"{APPLY LOCALE NO}":
-			"No, Don't Apply!",
+			"不,不要应用！",
 		"Are you sure you want to apply this locale?":
-			"",
+			"您确定要应用此区域设置吗？",
 		"The menu will be need to be reset.":
-			"",
+			"菜单会需要重置.",
 
 		//steam related buttons
 		"Unsubscribe":
-			"",
+			"取消订阅",
 		"Subscribe":
-			"",
+			"订阅",
 
 		//asteroid belt
 		"Press Button To Start":
-			"",
+			"按下按钮开始",
 		"AB Scene Completed":
-			"Scene Completed",
+			"场景已经完成",
 		"Featured ({MONTH}) by {AUTHOR}":
-			"",
+			"精选（{MONTH}）{AUTHOR}",
 		"Planetoid Deleted":
-			"",
+			"删除的小行星",
 		"New Planetoid!":
-			"",
+			"打造新的小行星！",
 		"Planetoid Updated!":
-			"",
+			"小行星更新！",
 		"You Are Here":
-			"",
+			"你在这里",
 		"Locked":
-			"",
+			"锁定",
 		"AB Completed":
-			"Completed",
+			"完成",
 		"Rating {RATING}% Positive":
-			"",
+			"评级{RATING}％正面",
 		"Click to Resubscribe":
-			"",
+			"点击重新订阅",
 		"Downloading...":
-			"",
+			"正在下载......",
 		"{NAME} (Featured)": //this appears behind a scene name i.e 'Primoid (Featured)'
-			"",
+			"{NAME}（精选）",
 		"???": //undiscovered planetoid
-			"",
+			"？？？",
 		"AB Failed":
-			"Failed",
+			"失败",
 		"AB Asteroid Belt {AB NUMBER}":
-			"Asteroid Belt {AB NUMBER}",
+			"小行星带{AB NUMBER}",
 		"Completed {COUNT COMPLETED} out of {COUNT TOTAL}":
-			"",
+			"完成{COUNT COMPLETED} {COUNT TOTAL}",
 
 		//months
 		"January":
-			"",
+			"1月",
 		"February":
-			"",
+			"2月",
 		"March":
-			"",
+			"3月",
 		"April":
-			"",
+			"四月",
 		"May":
-			"",
+			"五月",
 		"June":
-			"",
+			"六月",
 		"July":
-			"",
+			"七月",
 		"August":
-			"",
+			"八月",
 		"September":
-			"",
+			"九月",
 		"October":
-			"",
+			"十月",
 		"November":
-			"",
+			"十一月",
 		"December":
-			"",
+			"十二月",
 
 		//resource bars
 		"METALS":
-			"",
+			"金属",
 		"CARBON":
-			"",
+			"碳",
 		"WATER":
-			"",
+			"碳",
 		"SILICON":
-			"",
+			"硅",
 		"AURIUM":
-			"",
+			"金",
 		"CHARGE":
-			"",
+			"充电",
 		"FULL!":
-			"",
+			"满！",
 		"EMPTY!":
-			"",
+			"空！",
 
 		//respawn player join info text
 		"PLAYER {PLAYER NUMBER}: Press Keyboard/Controller Button to Join":
-			"",
+			"玩家 {PLAYER NUMBER}:按键盘/控制器按钮加入",
 		"PLAYER {PLAYER NUMBER}: Press Keyboard Button to Join":
-			"",
+			"玩家 {PLAYER NUMBER}:按下键盘按钮加入",
 		"PLAYER {PLAYER NUMBER}: Press Controller Button to Join":
-			"",
+			"玩家 {PLAYER NUMBER}:按下控制器按钮加入",
 		"PLAYER {PLAYER NUMBER}: Plug in Controller to Join":
-			"",
+			"玩家 {PLAYER NUMBER}:插入控制器加入",
 
 		//tips appearing over pioneer
 		"Press again to Abandon Body":
-			"",
+			"再按一遍废弃此身体",
 		"No Backup, Restart?":
-			"",
+			"没有备份,需要重启吗？",
 		"No Arm":
-			"",
+			"没有手臂了",
 		"Abandon Body":
-			"",
+			"废弃身体",
 		"Restart Scene":
-			"",
+			"重启场景",
 		"Take Over {BUTTON}":
-			"",
+			"接管{BUTTON}",
 		"Throw Gun!":
-			"",
+			"扔掉枪！",
 		"Scene Completed":
-			"",
+			"场景完成",
 		"Scene Completed (No Goal)":
-			"",
+			"场景完成(No Goal)",
 
 		//buttons
 		"[X]": //this is the X button on keyboard
-			"",
+			"[X]",
 		"[E]":
-			"",
+			"[E]",
 		"Left Click":
-			"",
+			"左键单击",
 		"(Back)": //this is the back button on the controller
-			"",
+			"（返回）",
 		"Right Trigger":
-			"",
+			"右触发器",
 
 		//actions
 		"Move":
-			"",
+			"移动",
 		"Aim":
-			"",
+			"瞄准",
 		"Left":
-			"",
+			"左",
 		"Right":
-			"",
+			"右",
 		"Go Prone":
-			"",
+			"卧倒",
 		"Jump":
-			"",
+			"跳跃",
 		"Atomize":
-			"",
+			"喷雾",
 		"Assemble":
-			"",
+			"组装",
 		"Fire":
-			"",
+			"开火",
 		"Enter Vehicle":
-			"",
+			"进入车辆",
 		"Leave Vehicle":
-			"",
+			"离开车辆",
 		"Pick up":
-			"",
+			"拿起",
 		"Drop":
-			"",
+			"扔掉",
 		"Put on back":
-			"",
+			"穿上",
 		"Take from back":
-			"",
+			"拿取",
 		"Swap":
-			"",
+			"交换",
 		"Respawn":
-			"",
+			"重生",
 		"Restart":
-			"",
+			"重新启动",
 		"Pause":
-			"",
+			"暂停",
 		"Menu":
-			"",
+			"菜单",
 		"Select":
-			"",
+			"选择",
 		"Zoom":
-			"",
+			"缩放",
 		"Zoom in":
-			"",
+			"放大",
 		"Zoom out":
-			"",
+			"缩小",
 		"Hold":
-			"",
+			"保持",
 		"Press":
-			"",
+			"按",
 		"Press down to use climbing mode":
-			"",
+			"按下以使用攀爬模式",
 		"Print backup body":
-			"",
+			"印刷备份体",
 		"Move and aim":
-			"",
+			"移动和瞄准",
 
 		//blank planetoid
 		"Make your own planetoids and blueprints using the in-game editor.":
-			"",
+			"使用游戏内编辑器创建自己的小行星和蓝图.",
 		"Press F2 to enter edit mode.":
-			"",
+			"按F2进入编辑模式.",
 		"Use the teleporter to get back into the asteroid belt.":
-			"",
+			"使用传送器回到小行星带.",
 
 		//appearing on screen on game over
 		"Press {BUTTON} to Restart":
-			"",
+			"按{BUTTON}重新启动",
 
 		//when selecting body on minimap
 		"Take Over Body":
-			"",
+			"接管",
 
 		//respawn station
 		"Game Saved":
-			"",
+			"游戏已存档",
 		"Respawn Here":
-			"",
+			"重生",
 
 		//game quit
 		"GAME SAVED":
-			"",
+			"游戏已存档",
 		"SEE YOU LATER SPACE COWBOY":
-			"",
+			"不见不散！太空牛仔",
 		"CLOSING ALL THE PIXELS":
-			"",
+			"正在关闭所有像素",
 
 		//engine messages
 		"Restarting":
-			"",
+			"重新启动",
 		"Loading {SCENE NAME}":
-			"",
+			"正在加载{SCENE NAME}",
 
 		//version
 		"RELEASE BUILD {NUMBER}":
-			"",
+			"版本{NUMBER}",
 
 		//drag and drop file types
 		"DRAG FILE":
-			"",
+			"拖动文件",
 		"Unsupported file type":
-			"",
+			"不支持的文件类型",
 		"Blueprint":
-			"",
+			"蓝图",
 		"Scene":
-			"",
+			"场景",
 		"Scene fragment":
-			"",
+			"场景片段",
 		"Particle system":
-			"",
+			"粒子系统",
 		"Material particle system":
-			"",
+			"物质粒子系统",
 		"Texture":
-			"",
+			"纹理",
 		"Audio":
-			"",
+			"音频",
 		"Unknown":
-			"",
+			"未知",
 
 		//drag and drop
 		"NO TARGET HERE (file(s) will be put in library)":
-			"",
+			"此处没有目标（文件将被存入库中）",
 		"Add to activity":
-			"",
+			"添加到运用",
 		"Spawn here":
-			"",
+			"在这里产生",
 		"Load scene":
-			"",
+			"加载场景",
 		"Insert scene fragment":
-			"",
+			"插入场景片段",
 		"Create terrain object":
-			"",
+			"创建地形对象",
 		"Copy to audio library":
-			"",
+			"复制到音频库",
 		"Copy to particle system library":
-			"",
+			"复制到粒子系统库",
 		"Copy to material particle system library":
-			"",
+			"复制到素材粒子系统库",
 		"Copy to blueprint library":
-			"",
+			"复制到蓝图库",
 		"Copy to blueprint library - current scene":
-			"",
+			"复制到蓝图库 - 当前场景",
 		"Copy to scene library":
-			"",
+			"复制到场景片段库",
 		"Copy to scene fragment library":
-			"",
+			"复制到纹理库",
 		"Copy to texture library":
-			"",
+			"将蓝图添加到库并在编辑中加载",
 		"ADD BLUEPRINT TO LIBRARY AND LOAD IN EDITOR":
-			"",
+			"将蓝图添加到库并在编辑中加载",
 		"ADD TO BP EDITOR - CREATE NEW MO":
-			"",
+			"添加到BP编辑 - 创建新MO",
 		"ADD TO BP EDITOR - CREATE NEW PS":
-			"",
+			"添加到BP编辑 - 创建新PS",
 
 		//loading screen
 		"WORK IN PROGRESS":
-			"",
+			"正在进行中",
 		"ALT + ENTER TOGGLES FULLSCREEN":
-			"",
+			"ALT + ENTER 切换全屏",
 		"LOADING":
-			"",
+			"加载",
 		"LOADING PLANETOID":
-			"",
+			"加载小行星",
 		"Loading Sound manager":
-			"",
+			"加载声音管理器",
 		"Loading PS library":
-			"",
+			"加载PS库",
 		"Loading Material PS library":
-			"",
+			"加载材料PS库",
 		"Loading Blueprint library":
-			"",
+			"加载蓝图库",
 		"Loading Workshop Blueprint library":
-			"",
+			"加载工作坊蓝图库",
 		"Loading Downloaded Blueprint library":
-			"",
+			"加载下载的蓝图库",
 		"Loading Scene library":
-			"",
+			"加载场景库",
 		"Loading Workshop Scene library":
-			"",
+			"加载工作室场景库",
 		"Checking Scenes":
-			"",
+			"检查场景",
 		"Loading Downloaded Scene library":
-			"",
+			"加载下载的场景库",
 		"Loading Scene Fragments library":
-			"",
+			"加载场景片段库",
 		"Loading Steam Workshop":
-			"",
+			"加载Steam工作站",
 		"Extracting all Blueprints and PSs":
-			"",
+			"提取所有蓝图和PS",
 		"Extracting Scene: Asteroid Belt":
-			"",
+			"提取场景:小行星带",
 		"Extracting Scene: Primoid":
-			"",
+			"提取场景:Primoid",
 		"Starting files change detectors":
-			"",
+			"启动文件更改检测器",
 		"Loading Crush2D Editor":
-			"",
+			"加载Crush2D编辑器",
 		"Initializing Crush2D Editor":
-			"",
+			"初始化Crush2D编辑器",
 		"Refreshing C2D Editor":
-			"",
+			"刷新C2D编辑器",
 		"Loading Physics Materials":
-			"",
+			"加载物理材料",
 		"Loading Menu Scene":
-			"",
+			"加载菜单场景",
 		"Loading Scene: {SCENE NAME}":
-			"",
+			"加载场景:{SCENE NAME}",
 		"Loading Blueprint to editor: {NAME}":
-			"",
+			"将蓝图加载到编辑器:{NAME}",
 		"Preparing Game Scene":
-			"",
+			"准备游戏场景",
 		"Loading additional data":
-			"",
+			"加载附加数据",
 		"Reloading changed files":
-			"",
+			"重新加载已更改的文件",
 		"Preloading Textures":
-			"",
+			"预加载纹理",
 		"Loading Controller Layout":
-			"",
+			"加载控制器布局",
 		"This is the first time the game is loaded, so it will take a bit longer to extract all the data - future starts will be quicker!":
-			"",
+			"这是第一次游戏加载,所以提取所有数据需要更长的时间 - 未来启动会更快！",
 		"The game might be running slower because your device has 8 GB of memory or less.":
-			"",
+			"游戏可能运行速度较慢,因为你的设备有8 GB或更少的内存.",
 		"Updating libraries":
-			"",
+			"更新资料库",
 		"Preloading pictures":
-			"",
+			"预加载图片",
 		"Scene Reset - Activity and C2DUpdate Build":
-			"",
+			"场景重置 - 活动和C2DUpdate构建",
 		"Scene Reset - Preloading Pictures":
-			"",
+			"场景重置 - 预加载图片",
 		"Scene Reset - Preloading Sounds":
-			"",
+			"场景重置 - 预加载声音",
 		"Resetting Scene":
-			"",
+			"重置场景",
 		"Preloading textures... {PERCENT}%":
-			"",
+			"预加载纹理... {PERCENT}％",
 		"Loading data":
-			"",
+			"加载数据",
 		"Loading terrain":
-			"",
+			"加载地形",
 		"Updating textures and sounds":
-			"",
+			"更新纹理和声音",
 		"Clean up":
-			"",
+			"清理",
 		"Extracting textures and sounds":
-			"",
+			"提取纹理和声音",
 		"Load objects start":
-			"",
+			"加载对象开始",
 		"Updating Edit-IDs":
-			"",
+			"更新编辑ID",
 		"Creating Terrain Objects":
-			"",
+			"创建地形对象",
 		"Computing Zones":
-			"",
+			"计算区域",
 		"Computing Terrain":
-			"",
+			"计算区域",
 		"Computing Gravity and Heating":
-			"",
+			"计算重力和加热",
 		"Updating Layers":
-			"",
+			"更新图层",
 		"Updating WorldGrid wire meshes":
-			"",
+			"更新WorldGrid线网",
 		"Scene Reset - Create Assemblies {NUMBER}":
-			"",
+			"场景重置 - 创建装配{NUMBER}",
 		"Scene Reset - Create Assemblies Done":
-			"",
+			"场景重置 - 创建装配完成",
 		"Scene Reset - Clean Up":
-			"",
+			"场景重置 - 清理",
 		"Scene Reset - Compute Layers":
-			"",
+			"场景重置 - 计算图层",
 		"Scene Reset - Create Assemblies":
-			"",
+			"场景重置 - 创建装配",
 		"Loading file tree":
-			"",
+			"加载文件树",
 		"Checking files":
-			"",
+			"检查文件",
 		"Checking files ({NUMBER})":
-			"",
+			"检查文件（{NUMBER }）",
 		"Getting files info":
-			"",
+			"获取文件信息",
 
 		//pause
 		"UNPAUSING...":
-			"",
+			"推出暂停 ...",
 		"- PAUSED -":
-			"",
+			"-  暂停  -",
 		"Press P to resume":
-			"",
+			"按P恢复",
 		"or O to step one frame":
-			"",
+			"或O进一帧",
 
 		//debug print
 		"SHIFT + L to disable / enable this output":
-			"",
+			"SHIFT + L禁用/启用此输出",
 		"LUA ERROR(S) DETECTED  (Ctrl + F8 to show report)":
-			"",
+			"检测到LUA（Ctrl + F8显示报告）",
 		"LUA ERROR(S) DETECTED IN {FILE NAME}  (Ctrl + F8 to show report)":
-			"",
+			"在{FILE NAME}中检测到LUA错误（按Ctrl + F8显示报告）",
 
 		//editor
 		"GAME MODE / EDIT MODE":
-			"",
+			"游戏模式/编辑模式",
 
 		//primoid
 		"Press F1 to answer some quick questions about the area you just played. (Give it a sec to load)":
-			"",
+			"按F1快速回答一些问题关于你刚玩过的区域的问题.（加载中）",
 		"New Area":
-			"",
+			"新区域",
 		"Escape pod crash site":
-			"",
+			"逃脱吊舱坠毁点",
 		"Rocket Silo Location":
-			"",
+			"火箭筒仓位置",
 		"Rocket Parts":
-			"",
+			"火箭零件",
 
 		//primoid areas
 		"Primoid Plains":
-			"",
+			"Primoid平面",
 		"Maw Cavern":
-			"",
+			"山洞",
 		"Crash Cauldron":
-			"",
+			"废锅炉",
 		"North Hub":
-			"",
+			"北区",
 		"Cave Tunnels":
-			"",
+			"洞穴隧道",
 		"Jungle Temple":
-			"",
+			"丛林神殿",
 		"West Metal Mine":
-			"",
+			"西矿区",
 		"East Metal Mine":
-			"",
+			"东矿区",
 		"Surface Gauntlet":
-			"",
+			"操作手套",
 		"Mu-Ilaak Temple":
-			"",
+			"Mu-Ilaak 神庙",
 		"Mu-Ilaak Tomb":
-			"",
+			"Mu-Ilaak 墓地",
 		"Prime Grottos":
-			"",
+			"石窟",
 		"Mount Prime":
-			"",
+			"Prime山",
 		"Flush Chute":
-			"",
+			"滑道",
 		"Silicon Maze":
-			"",
+			"硅迷宫",
 		"Aurium Core":
-			"",
+			"金芯",
 
 		//last man standing (Carnageoid)
 		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
-			"",
+			"- 按ESC键/选择返回小行星带  -",
 		"- PRESS BUTTON TO JOIN -":
-			"",
+			"- 按下按钮加入 -",
 		"UP TO 4 PLAYER PVP":
-			"",
+			"最多4名玩家PVP",
 		"Change Arena with Triggers or Mouse":
-			"",
+			"改变竞技场与触发器或鼠标",
 		"Go!":
-			"",
+			"出发！",
 		"Sudden Death In {SECONDS}":
-			"",
+			"突然死亡{SECONDS}",
 		"Winner!":
-			"",
+			"赢家！",
 		"{CHALLENGE INSTRUCTION}!":
-			"",
+			"{CHALLENGE INSTRUCTION}！",
 		"Dance":
-			"",
+			"舞蹈",
 		"Dont Move":
-			"Don't Move",
+			"不要移动",
 		"Dive":
-			"",
+			"潜水",
 		"Press All Buttons":
-			"",
+			"按所有按钮",
 		"{SCORE}/10":
-			"",
+			"{SCORE}/10",
 
 		//racetoid
 		"- PRESS ESC/SELECT TO RETURN TO ASTEROID BELT -":
-			"",
+			"- 按ESC / SELECT返回小行星带  -",
 		"- PRESS BUTTON TO JOIN -":
-			"",
+			"- 按钮加入 -",
 		"{PLAYERS READY}/{TOTAL PLAYERS} Players Ready":
-			"",
+			"{PLAYERS READY} / {TOTAL PLAYERS} 玩家就位",
 		"Go":
-			"",
+			"出发",
 		"Best Time: {TIME}":
-			"",
+			"最佳时间:{TIME}",
 		"Best Time: {TIME} (Gold: {GOLD TIME})":
-			"",
+			"最佳时间:{TIME} (Gold: {GOLD TIME})",
 		"New Highscore!":
-			"",
+			"新高分！",
 		"Highscore: {TIME}":
-			"",
+			"高分:{时间}",
 
 		//wrangle
 		"Take to Burner!":
-			"",
+			"带到燃烧器！",
 		"Catch It!":
-			"",
+			"抓住它！",
 		"Grab the Grazer!":
-			"",
+			"抓住牲口！",
 		"Good work!":
-			"",
+			"干得好！",
 		"You win! Time to head off!":
-			"",
+			"你赢了！时间到了！",
 
 		//wrangloid UI
 		"Wrangled: {WRANGLED_COUNT} Remaining: {REMAINING_COUNT}":
@@ -958,421 +957,423 @@
 
 		//defendoid
 		"Use Terminal to Skip Wait!":
-			"",
+			"使用终端跳过等待！",
 		"Wave {WAVE_NUMBER}":
-			"",
+			"波 {WAVE_NUMBER}",
 		"Wave {WAVE_NUMBER} arriving in {TIME} seconds":
-			"",
+			"波 {WAVE_NUMBER}到达{TIME}秒",
 		"Clear up attackers!":
-			"",
+			"清理攻击者！",
 		"Search for loot and upgrades!":
-			"",
+			"搜索战利品和升级！",
 		"Get ready for attackers!":
-			"",
+			"为攻击者做好准备！",
 
 		//coliseum
 		"- To add your own Workshop Blueprint, tag it \"Gladiator\" -":
-			"",
+			"- 添加自己的工作坊蓝图,标签它是“角斗士” -",
 		"Rate them in the Workshop - it affects how often they appear":
-			"",
+			"在工作坊中对它们进行评分 - 它会影响它们出现的频率",
 		"New Blueprint Uploaded: {NAME}!":
-			"",
+			"新蓝图上传:{NAME}！",
 		"Next Up:":
-			"",
+			"下一个:",
 		"Coliseum {NAME} by {AUTHOR}":
 			"{NAME} by {AUTHOR}",
 		"{NAME} wins!":
-			"",
+			"{NAME}获胜！",
 		"Using {NAME}":
-			"",
+			"使用{NAME}",
 		"Streak: {STREAK COUNT}!":
-			"",
+			"条纹:{STREAK COUNT}！",
 		"Ended Streak of {NAME}":
-			"",
+			"{NAME}的结尾",
 		"A Community Creation":
-			"",
+			"社区创作",
 		"A Community Creation By: {NAME}":
-			"",
+			"社区创建者:{NAME}",
 		"Rating: {RATING}%":
-			"",
+			"评分:{RATING}％",
 		"Rematch":
-			"",
+			"再战",
 		"Draw":
-			"",
+			"平局",
 
 		//steam workshop info
 		"Loading Name":
-			"",
+			"正在载入名称",
 		"WS By {AUTHOR}":
 			"By {AUTHOR}",
 		"Workshop Blueprint By {AUTHOR}":
-			"",
+			"蓝图设计By {AUTHOR}",
 		"Rating: {RATING}%":
-			"",
+			"评分:{RATING}％",
 
 		//structure steam altar
 		"Subscribe to Blueprints to receive them here {BUTTON}":
-			"",
+			"订阅蓝图以便在此处接收蓝图{BUTTON}",
 		"Activating Subscribed Blueprints. Press {BUTTON} to open workshop":
-			"",
+			"激活订阅的蓝图.按{BUTTON}打开steam工坊",
 		"Steam Altar Do you recommend this?":
-			"Do you recommend this?",
+			"你推荐这个吗？",
 		"Steam Altar No":
-			"No",
+			"否",
 		"Steam Altar Yes":
-			"Yes",
+			"是",
 
 		//structure shop manager (steam shop)
 		"Free Sample":
-			"",
+			"免费样品",
 		"{PRICE} (50% off)":
-			"",
+			"{PRICE}（50％折扣）",
 		"Buy":
-			"",
+			"购买",
 		"Steam Shop By {AUTHOR}":
 			"By {AUTHOR}",
 		"Steam Shop Do you recommend this?":
-			"Do you recommend this?",
+			"你推荐这个吗？",
 		"Up/Down Vote":
-			"",
+			"顶/踩",
 		"Not enough Aurium":
-			"",
+			"没有足够的金子",
 		"Voted Up":
-			"",
+			"顶",
 		"Voted Down":
-			"",
+			"踩",
 		"- Shop {SHOP TAG} -":
-			"",
+			"-  商店{SHOP TAG}  -",
 		"-{PRICE} Aurium":
-			"",
+			"-  {PRICE} 金子",
 
 		//tags (plural) used for SHOP TAG
 		"Weapons":
-			"",
+			"武器",
 		"Tools":
-			"",
+			"工具",
 		"Vehicles":
-			"",
+			"车辆",
 		"Pioneers":
-			"",
+			"先锋",
 		"Robots":
-			"",
+			"机器人",
 		"Golems":
-			"",
+			"俑",
 		"Faunas":
-			"Fauna",
+			"兽群",
 
 		//structure shop pioneers
 		"Pio Shop Not enough Aurium":
-			"Not enough Aurium",
+			"没有足够的金子",
 
 		//machine space teleporter
 		"Space Teleporter Scene Completed":
-			"Scene Completed",
+			"场景完成",
 		"Confirm to leave":
-			"",
+			"确认离开",
 
 		//blueprint menu
 		"Blueprint Ready":
-			"",
+			"蓝图就绪",
 		"Incomplete Blueprint":
-			"",
+			"不完整的蓝图",
 		"New Blueprint!":
-			"",
+			"新蓝图！",
 		"Not enough resources":
-			"",
+			"资源不足",
 		// label above effect when player is scanning a blueprint
     "Scanning":
-			"",
+			"扫描",
 		// label above effect when player finished scanning a blueprint
 		"Completed!":
-			"",
+			"完成!",
 		"Metals: {NUMBER}kg":
-			"",
+			"金属:{NUMBER} kg",
 		"Carbon: {NUMBER}kg":
-			"",
+			"碳:{NUMBER} kg",
 		"Silicon: {NUMBER}kg":
-			"",
+			"硅:{NUMBER} kg",
 		"Water: {NUMBER}kg":
-			"",
+			"水:{NUMBER} kg",
 		"Cancel":
-			"",
+			"取消",
 
 		//blueprint menu categories (translate these to plural)
 		"CATEGORY Partial":
-			"",
+			"部分标签",
 		"CATEGORY Workshop":
-			"",
-		"CATEGORY 1T":
-			"1T Blocks",
+			"标签工坊",
+		"CATTORY 1T":
+			"1T 砖块",
 		"CATEGORY Aurium":
-			"",
+			"金矿",
 		"CATEGORY Bomb":
-			"Bombs",
+			"炸弹",
 		"CATEGORY Bot":
-			"Robots",
+			"机器人",
 		"CATEGORY Cloud":
-			"Clouds",
+			"云",
 		"CATEGORY Coalition":
-			"",
+			"联合体",
 		"CATEGORY Component":
-			"Components",
+			"组件",
 		"CATEGORY Construction":
-			"",
+			"建设",
 		"CATEGORY Fauna":
-			"",
+			"野兽",
 		"CATEGORY Flora":
-			"",
+			"植物类",
 		"CATEGORY Gear":
-			"",
+			"齿轮",
 		"CATEGORY Golem":
-			"Golems",
+			"俑",
 		"CATEGORY Grenade":
-			"Grenades",
+			"手榴弹",
 		"CATEGORY Junk":
-			"",
+			"废品",
 		"CATEGORY Lamp":
-			"Lamps",
+		        "灯",
+		"CATEGORY Trigger":
+		        "触发器",
 		"CATEGORY Loot":
-			"",
+			"根",
 		"CATEGORY Lump":
-			"Lumps",
+			"块状",
 		"CATEGORY Machine":
-			"Machines",
+			"机器",
 		"CATEGORY Pioneer":
-			"Pioneers",
+			"先锋",
 		"CATEGORY Prototype":
-			"Prototypes",
+			"原型",
 		"CATEGORY Reactor":
-			"Reactors",
+			" 反应堆",
 		"CATEGORY Rover":
-			"Rovers",
+			"“流浪者”车",
 		"CATEGORY Ship":
-			"Ships",
+			"船",
 		"CATEGORY Sign":
-			"Signs",
+			"标识",
 		"CATEGORY Strucure":
-			"Strucures",
+			"结构",
 		"CATEGORY Tank":
-			"Tanks",
+			"坦克",
 		"CATEGORY Tool":
-			"Tools",
+			"工具",
 		"CATEGORY Trap":
-			"Traps",
+			"陷阱",
 		"CATEGORY Trigger":
 			"Triggers",
 		"CATEGORY Weapon":
-			"Weapons",
+			"武器",
 
 		//blueprint names for blueprint menu and appearing over vehicles and tools
 		//category words should not stay in the translation, instead keep the names natural like you would call this thing
 		//i.e 'Weapon Rifle Bolt Action' turns into 'Bolt Action Rifle'
 		"1T Graphite":
-			"Graphite Block",
+			"1T图片块",
 		"1T Ice":
-			"Ice Block",
+			"1T冰块",
 		"1T Metals":
-			"Metal Block",
+			"1T金属块",
 		"1T Sandstone":
-			"Sandstone Block",
-		"Aurium Crystal":
-			"Aurium Crystal",
+			"1T砂石块",
+		" Aurium Crystal":
+			"金晶体",
 		"Aurium Vase Brown":
-			"Brown Aurium Vase",
+			"棕色金花瓶",
 		"Aurium Vase Large 1":
-			"Large Aurium Vase",
+			"大金花瓶",
 		"Aurium Vase Large 2":
-			"Large Aurium Vase 2",
+			"大金花瓶 2",
 		"Aurium Vase Large 3":
-			"Large Aurium Vase 3",
+			"大金花瓶 3",
 		"Aurium Vase Small":
-			"Small Aurium Vase",
+			"小金花瓶",
 		"Bomb Classic":
-			"Classic Bomb",
+			"经典炸弹",
 		"Bomb Large":
-			"Large Bomb",
+			"大炸弹",
 		"Bomb":
-			"Bomb",
+			"炸弹",
 		"Bot Acid":
-			"Acid Bot",
+			"酸性机器人",
 		"Bot Drone Defense":
-			"Defense Drone",
+			"防御无人机",
 		"Bot Flip":
-			"Flip Bot",
+			"翻转机器人",
 		"Bot Flying Worm":
-			"Flying Worm",
-		"Bot Frosty":
-			"Frosty",
+			"飞虫",
+		"Bot Frosty" :
+			"冰冻机器人",
 		"Bot Guard Box":
-			"Guard Box",
+			"防御机器人",
 		"Bot Imperatus":
-			"Imperatus Bot",
+			"指挥机器人",
 		"Bot Jumper Box":
-			"Jumper Box",
+			"草上飞机器人",
 		"Bot Mecha":
-			"Mecha",
+			"机甲机器人",
 		"Bot Phoenix":
-			"Phoenix Bot",
+			"凤凰机器人",
 		"Bot Sentry":
-			"Sentry",
+			"哨兵机器人",
 		"Bot Spot":
-			"Bot Spot",
+			"点点机器人",
 		"Bot Tank":
-			"Robot Tank",
+			"坦克机器人",
 		"Bot Temperature Drone":
-			"Temperature Drone",
+			"温度无人机",
 		"Bot Titan Golem":
-			"Titan Golem",
+			"泰坦机器人",
 		"Bot Vendor":
-			"Vendor Bot",
+			"供应商机器人",
 		"Bot Wandering":
-			"Wandering Bot",
+			"流浪者机器人",
 		"Bot Worm":
-			"Robot Worm",
+			"机械蠕虫",
 		"Cloud Acid":
-			"Acid Cloud",
+			"酸云" ,
 		"Coalition Ship":
-			"Coalition Ship",
+			"联盟船",
 		"Coalition Turret":
-			"Coalition Turret",
+			"联盟炮塔",
 		"Component Balancer":
-			"Balancer Component",
+			"平衡器组件",
 		"Component Balloon":
-			"Balloon",
+			"气球组件",
 		"Component Battery 100A":
-			"100A Battery",
+			"100A电池",
 		"Component Battery 10A":
-			"10A Battery",
+			"10A电池",
 		"Component Capacitor":
-			"Capacitor",
+			"电容器",
 		"Component Explosive Charge":
-			"Explosive Charge",
-		"Component Minigun":
-			"Mountable Minigun",
+			"爆炸装药",
+		"Component Minigun" :
+			"加特林",
 		"Component Seat Boosted":
-			"Boosted Seat",
+			"动力助推座椅",
 		"Component Seat":
-			"Seat",
+			"座椅",
 		"Component Thruster":
-			"Thruster",
+			"推进器",
 		"Component Wheel":
-			"Wheel",
+			"轮子",
 		"Construction Concrete Support":
-			"Concrete Support",
+			"混凝土支撑结构",
 		"Construction Concrete Wall":
-			"Concrete Wall",
+			"混凝土墙",
 		"Construction Concrete Window":
-			"Concrete Window",
+			"混凝土窗",
 		"Construction Elevator":
-			"Elevator",
+			"电梯",
 		"Construction Plank Big":
-			"Big Plank",
+			"大木板",
 		"Construction Plank Slim":
-			"Slim Plank",
+			"薄木板",
 		"Construction Plank":
-			"Plank",
+			"板条",
 		"Construction Trunk":
-			"Trunk",
+			"圆木",
 		"Construction Wooden Triangle":
-			"Wooden Triangle",
+			"木三角",
 		"Fauna Animal Nest":
-			"Animal Nest",
+			"动物巢",
 		"Fauna Bird Hostile":
-			"Hostile Bird",
+			"敌对鸟",
 		"Fauna Bird Neutral":
-			"Neutral Bird",
+			"中立鸟",
 		"Fauna Bomb Bug":
-			"Bomb Bug",
+			"炸弹虫",
 		"Fauna Crab Acid":
-			"Acid Crab",
+			"酸蟹",
 		"Fauna Crab Aurium":
-			"Aurium Crab",
+			"金蟹",
 		"Fauna Crab Balloon":
-			"Balloon Crab",
+			"气泡蟹",
 		"Fauna Crab Fire":
-			"Fire Crab",
+			"火蟹",
 		"Fauna Crab":
-			"Crab",
+			"螃蟹",
 		"Fauna Egg Bird":
-			"Bird Egg",
+			"鸟蛋",
 		"Fauna Egg":
-			"Egg",
+			"蛋",
 		"Fauna Grazer":
-			"Grazer",
+			"草食者",
 		"Fauna Ice Bird":
-			"Ice Bird",
+			"冰鸟",
 		"Fauna Ice Bug":
-			"Ice Bug",
+			"冰虫",
 		"Fauna Knuckles Boss":
-			"Boss Knuckles",
+			"响指",
 		"Fauna Knuckles":
-			"Knuckles",
+			"指节",
 		"Fauna Mega Worm Long":
-			"Long Mega Worm",
+			"长兆虫",
 		"Fauna Mega Worm":
-			"Mega Worm",
+			"大虫",
 		"Fauna Roly Poly":
-			"Roly Poly",
+			"球球虫",
 		"Fauna Silverback":
-			"Silverback",
+			"银背",
 		"Fauna Skeleton Armored":
-			"Armored Skeleton",
+			"装甲骷髅",
 		"Fauna Snapjaw":
-			"Snapjaw",
+			"钳嘴龟",
 		"Fauna Tentacle Eye":
-			"Tentacle Eye",
+			"触手眼",
 		"Fauna Tentacle Launcher":
-			"Tentacle Launcher",
+			"触手发射器",
 		"Fauna Tentacle Old":
-			"Old Tentacle",
+			"旧触手",
 		"Fauna Tentacle":
-			"Tentacle",
-		"Fauna Zombie":
-			"Zombie",
+			"触手",
+		"Fauna Zombie" :
+			"僵尸",
 		"Flora Aloe Plant":
-			"Aloe Plant",
+			"芦荟植物",
 		"Flora Broccoli Plant":
-			"Broccoli Plant",
+			"西兰花植物",
 		"Flora Clone Plant":
-			"Clone Plant",
+			"克隆植物",
 		"Flora Glow Plant":
-			"Glow Plant",
+			"发光植物",
 		"Flora Liana End":
-			"Liana End",
+			"藤蔓根",
 		"Flora Liana":
-			"Liana",
+			"藤蔓",
 		"Flora Pop Plant":
-			"Pop Plant",
+			"盆栽植物",
 		"Flora Vines":
-			"Vines",
+			"爬藤",
 		"Gear Chest Plate":
-			"Chest Plate",
+			"胸板",
 		"Gear Crown":
-			"Crown",
+			"皇冠",
 		"Gear Helmet":
-			"Helmet",
+			"头盔",
 		"Gear Leg BG Armor":
-			"Back Leg Armor",
+			"后腿护甲",
 		"Gear Leg FG Armor":
-			"Front Leg Armor",
+			"前腿护甲",
 		"Gear Small Aurium Obj":
-			"Small Aurium Gear Obj",
+			"小金齿轮零件",
 		"Gear Small Aurium":
-			"Small Aurium Gear",
+			"小金子齿轮",
 		"Gear Space Helmet":
-			"Space Helmet",
+			"太空头盔",
 		"Golem Carbon":
-			"Carbon Golem",
+			"碳俑",
 		"Golem Ice":
-			"Ice Golem",
+			"兵俑",
 		"Golem Metal":
-			"Metal Golem",
+			"金属俑",
 		"Golem Silicon":
-			"Silicon Golem,",
+			"硅俑",
 		"Grenade Bounce":
-			"Bounce Grenade",
+			"跳弹",
 		"Grenade Cold":
-			"Cold Grenade",
+			"冷弹",
 		"Grenade Impact":
 			"Impact Grenade",
 		"Grenade Mine":
@@ -1382,493 +1383,527 @@
 		"Grenade Simple":
 			"Simple Grenade",
 		"Grenade Spikes":
-			"Spikes Grenade",
-		"Junk Aurium Boulder 1":
-			"Aurium Boulder",
+			"震荡弹",
+                "Junk Aurium Boulder 1":
+			"金卵石",
 		"Junk Aurium Boulder 2":
-			"Aurium Boulder 2",
+			"金卵石 2",
 		"Junk Block Sandstone Long":
-			"Long Sandstone Block",
+			"长砂岩",
 		"Junk Block Sandstone":
-			"Sandstone Block",
+			"砂岩块",
 		"Junk Bones":
-			"Bones",
+			"骨头",
 		"Junk Boulder Big":
-			"Big Boulder",
+			"大卵石",
 		"Junk Boulder Huge":
-			"Huge Boulder",
+			"巨大卵石",
 		"Junk Boulder Sandstone Huge":
-			"Huge Sandstone Boulder",
+			"巨大砂岩卵石",
 		"Junk Boulder Sandstone":
-			"Sandstone Boulder",
+			"砂岩卵石",
 		"Junk Boulder Small":
-			"Small Boulder",
+			"小卵石",
 		"Junk Boulder":
-			"Boulder",
+			"卵石",
 		"Junk Brick":
-			"Brick",
+			"砖头",
 		"Junk Cage":
-			"Cage",
+			"笼",
 		"Junk Chain":
-			"Chain",
+			"锁链",
 		"Junk Crate A":
-			"Crate A",
+			"箱子 A",
 		"Junk Crate Aurium Alloy Big":
-			"Big Crate Aurium Alloy",
+			"大金箱",
 		"Junk Crate Aurium Alloy Small":
-			"Small Crate Aurium Alloy",
+			"小金箱",
 		"Junk Crate Aurium Alloy":
-			"Crate Aurium Alloy",
+			"钨金箱",
 		"Junk Crate B":
-			"Crate B",
+			"箱 B",
 		"Junk Crate Cardboard":
-			"Cardboard Box",
+			"纸板箱",
 		"Junk Crate Ice 1":
-			"Ice Crate",
+			"冰箱",
 		"Junk Crate Wooden 1":
-			"Wooden Crate",
+			"木箱",
 		"Junk Crate Wooden 2":
-			"Wooden Crate 2",
+			"木箱 2",
 		"Junk Crate Wooden Small 2":
-			"Small Wooden Crate 2",
+			"小木箱 2",
 		"Junk Crate Wooden Small":
-			"Small Wooden Crate",
+			"木箱",
 		"Junk Drill":
-			"Drill",
+			"钻具",
 		"Junk Flight Recorder":
-			"Flight Recorder",
+			"飞行记录仪",
 		"Junk Fuel Tank Light":
-			"Light Fuel Tank",
+			"小油箱",
 		"Junk Fuel Tank":
-			"Fuel Tank",
+			"油箱",
 		"Junk Girder":
-			"Girder",
+			"梁",
 		"Junk Ice Block":
-			"Ice Block",
+			"冰块",
 		"Junk Ice Rock":
-			"Ice Rock",
+			"冰岩",
 		"Junk Ice Stalactite":
-			"Ice Stalactite",
+			"冰钟乳石",
 		"Junk Ice Wall Small":
-			"Small Ice Wall",
+			"小冰墙",
 		"Junk Ice Wall":
-			"Ice Wall",
+			"冰墙",
 		"Junk Logo 2":
-			"Logo 2",
+			"标志 2",
 		"Junk Logo C":
-			"Logo C",
+			"标志 C",
 		"Junk Logo D":
-			"Logo D",
+			"标志 D",
 		"Junk Logo PP":
-			"Logo PP",
+			"标志 PP",
 		"Junk Metal Plate":
-			"Metal Plate",
+			"金属板",
 		"Junk Rock":
-			"Rock",
+			"岩石",
 		"Junk Rod 2":
-			"Rod 2",
+			"竿子 2",
 		"Junk Rod Metal":
-			"Metal Rod",
+			"金属杆",
 		"Junk Rod":
-			"Rod",
+			"竿子",
 		"Junk Roly Poly Dung":
 			"Roly Poly Dung",
 		"Junk Ship Part A":
-			"Ship Part A",
+			"船舶分件 A",
 		"Junk Ship Part B":
-			"Ship Part B",
+			"船舶分件 B",
 		"Junk Ship Pieces":
-			"Ship Pieces",
+			"船舶组件",
 		"Junk Skeleton":
-			"Skeleton",
+			"骨干",
 		"Junk Snow Ball Big":
-			"Big Snowball",
+			"大雪球",
 		"Junk Snow Ball Small":
-			"Small Snowball",
+			"小雪球",
 		"Junk Snow Ball":
-			"Snowball",
+			"雪球",
 		"Junk Tank Wreck Imperatus":
-			"Imperatus Tank Wreck",
+			"统领坦克残害",
 		"Junk Vase Big":
-			"Big Vase",
+			"大花瓶",
 		"Junk Vase Oil":
-			"Oil Vase",
+			"油瓶",
 		"Junk Vase":
-			"Vase",
+			"花瓶",
 		"Lamp Chunky":
-			"Chunky Lamp",
+			"大灯",
 		"Lamp Hanging Alien":
-			"Alien Hanging Lamp",
+			"外星人吊灯",
 		"Lamp Hanging":
-			"Hanging Lamp",
+			"吊灯",
 		"Lamp Mounted":
-			"Mounted Lamp",
+			"壁灯",
 		"Lamp Wall A":
-			"Wall Lamp A",
+			"灯壁 A",
 		"Loot Blueprint Chest":
-			"Blueprint Chest",
+			"蓝图箱",
 		"Loot Blueprint":
-			"Blueprint",
+			"蓝图",
 		"Loot Chest":
-			"Chest",
+			"柜子",
 		"Loot Dispenser":
-			"Loot Dispenser",
+			"自动柜",
 		"Loot Orb Golden":
-			"Golden Orb",
+			"金光球",
 		"Loot Orb":
-			"Orb",
+			"光球",
 		"Loot Weapon Container Tier 1":
-			"Tier 1 Weapon Container",
+			"初级武器箱",
 		"Loot Weapon Container Tier 2":
-			"Tier 2 Weapon Container",
+			"二级武器箱",
 		"Loot Weapon Container Tier 3":
-			"Tier 3 Weapon Container",
+			"三级武器箱",
 		"Loot Workshop Box":
-			"Workshop Box",
+			"workshop箱",
 		"Lump Aurium A":
-			"",
+			"金块a",
 		"Lump Aurium B":
-			"",
+			"金块b",
 		"Lump Aurium C":
-			"",
+			"金块c",
 		"Lump Carbon A":
-			"",
+			"碳块a",
 		"Lump Carbon B":
-			"",
+			"碳块b",
 		"Lump Carbon C":
-			"",
+			"碳块c",
 		"Lump Metals A":
-			"",
+			"金属块a",
 		"Lump Metals B":
-			"",
+			"金属块b",
 		"Lump Metals C":
-			"",
+			"金属块c",
 		"Lump Metals D":
-			"",
+			"金属块d",
 		"Lump Silicon A":
-			"",
+			"硅块a",
 		"Lump Silicon B":
-			"",
+			"硅块b",
 		"Lump Silicon C":
-			"",
+			"硅块c",
 		"Lump Silicon D":
-			"",
+			"硅块d",
 		"Lump Water A":
-			"",
+			"水块a",
 		"Lump Water B":
-			"",
+			"水块b",
 		"Machine Camera Aurium":
-			"",
+			"机械摄像金",
 		"Machine Catapult":
-			"",
+			"投石器",
 		"Machine Dropper":
-			"",
+			"下落器",
 		"Machine Laser Emitter":
-			"",
+			"激光放射器",
 		"Machine Proximity Sensor":
-			"",
+			"距离感测器",
 		"Machine Sentry Camera":
-			"",
+			"哨像头",
 		"Machine Sentry Gun":
-			"",
+			"哨卫枪",
 		"Machine Space Teleporter":
-			"",
+			"空间传送器",
 		"Machine Switch":
-			"",
+			"开关",
 		"Machine Terminal Info":
-			"",
+			"终端信息",
 		"Machine Terminal Sensor":
-			"",
+			"终端检测器",
 		"Pioneer Crazy Bob":
-			"Crazy Bob",
+			"疯狂的鲍勃",
 		"Pioneer Imperatus":
-			"Imperatus Pioneer",
+			"首领",
 		"Pioneer Lily Crusher":
-			"Lily Crusher",
+			"百合粉碎者",
 		"Pioneer Pink Horror":
-			"Pink Horror",
+			"粉惧人",
 		"Pioneer Red Devil":
-			"Red Devil",
+			"红鬼",
 		"Pioneer Starman":
-			"Starman",
+			"星星人",
 		"Pioneer Test Dummy":
-			"Test Dummy",
+			"测验假人",
 		"Pioneer Wyatt":
-			"Wyatt",
+			"小丫",
 		"Prototype Bot Mr Tentacles":
-			"",
+			"机械触手先生",
 		"Prototype Bot Walker Big":
-			"",
+			"大型机械步行者",
 		"Prototype Bot Walker":
-			"",
+			"机械步行者",
 		"Prototype Drone Defense":
-			"",
+			"无人机防御者",
 		"Prototype Elevator":
-			"",
+			"电梯",
 		"Prototype Homing Missile":
-			"",
+			"自瞄导弹",
 		"Prototype Mecha Flamer":
-			"",
+			"机械纵火者",
 		"Prototype Mecha MG":
-			"",
+			"机械MG兵",
 		"Prototype Mecha Rifle":
-			"",
+			"机械步枪手",
 		"Prototype Nest Bees":
-			"",
+			"巢蜂",
 		"Prototype Nest Bird Hostile":
-			"",
+			"敌对巢鸟",
 		"Prototype Nest Bird":
-			"",
+			"巢鸟",
 		"Prototype Rifle Blast":
-			"",
+			"冲击步枪",
 		"Prototype Rock Trap Rock":
-			"",
+			"石陷阱",
 		"Prototype Rover Car":
-			"",
+			"“流浪者”车",
 		"Prototype SAM Site":
-			"",
+			"SAM火箭",
 		"Prototype Satellite Discovery":
-			"",
+			"卫星探索者",
 		"Prototype Snowboard Mk2":
-			"",
+			"滑雪版2号",
 		"Prototype Structure Door Trap Sm":
-			"",
+			"门型SM陷阱",
 		"Prototype Structure Door Trap":
-			"",
+			"门型陷阱",
 		"Prototype Tool Crossbow":
-			"Crossbow",
+			"十字弩",
 		"Prototype Tool Gravity Gun":
-			"Gravity Gun",
+			"重力枪",
 		"Prototype Tool Teleport Device":
-			"Teleport Device",
+			"传送装置",
 		"Rover Carbon":
-			"Carbon Rover",
+			"碳车",
 		"Rover Carrier Hover":
-			"Flying Carrier Hover",
+			"飞行悬停载具",
 		"Rover Carrier":
-			"Carrier Hover",
+			"悬停载具",
 		"Rover Climber":
-			"Climbing Rover",
+			"攀爬者",
 		"Rover Coalition Spider Climber":
-			"Coalition Spider Climber",
+			"蛛型攀爬者",
 		"Rover Minimal Aurium Example":
-			"Rover Aurium Example",
+			"小金例",
 		"Rover Minimal Jets":
-			"Jet Rover",
+			"小喷气机",
 		"Rover Mining Cart":
-			"Mining Cart",
+			"采矿车",
 		"Rover Quad":
-			"Quad",
+			"四驱",
 		"Rover Scissor":
-			"Scissors Rover",
+			"剪刀机",
 		"Rover Shocks":
-			"Shocks Rover",
+			"震荡波机",
 		"Ship Big":
-			"Big Ship",
+			"大船",
 		"Ship Drop Rocket":
-			"Drop Rocket",
+			"掉落火箭",
 		"Ship Landing Seat":
-			"Landing Seat",
+			"登陆座位",
 		"Ship Landing":
-			"Landing Ship",
+			"登陆舰",
 		"Ship Mini":
-			"Mini Ship",
+			"迷你舰",
 		"Ship Rocket":
-			"Rocket",
+			"火箭",
 		"Sign Not Throw":
-			"Do Not Throw Sign",
+			"禁止乱丢",
 		"Sign Shopping":
-			"Shopping Sign",
+			"商店",
 		"Sign Steam":
-			"Steam Sign",
+			"Steam标记",
 		"Sign Wooden Compound Logo":
-			"Wooden Compound Sign",
+			"木制复合标志",
 		"Snowboard":
-			"",
+			"雪板",
 		"Structure Assembly Lock":
-			"",
+			"组锁",
 		"Structure Bridge Draw Long":
-			"",
+			"长桥绘",
 		"Structure Bridge Draw":
-			"",
+			"桥绘",
 		"Structure Bridge Hanging Huge":
-			"Huge Suspension Bridge",
+			"巨大悬索桥",
 		"Structure Bridge Hanging Long":
-			"Long Suspension Bridge",
+			"长悬索桥",
 		"Structure Bridge Hanging":
-			"Suspension Bridge",
+			"悬索桥",
 		"Structure Bridge Metal":
-			"Metal Bridge",
+			"金属桥",
 		"Structure Covered Door":
-			"",
+			"被覆盖的门",
 		"Structure Door Covered":
-			"",
+			"被覆盖的",
 		"Structure Door Curved":
-			"",
+			"被诅咒的",
 		"Structure Door Dungeon":
-			"",
+			"地下城",
 		"Structure Door Huge":
-			"",
+			"大型",
 		"Structure Door Sandstone Huge":
-			"",
+			"大砂石",
 		"Structure Door Sandstone":
-			"",
+			"砂石",
 		"Structure Door Silo":
-			"",
+			"重仓",
 		"Structure Door":
-			"",
+			"门",
 		"Structure Elevator Fast":
-			"",
+			"快速电梯",
 		"Structure Elevator Sandstone":
-			"",
+			"砂石电梯",
 		"Structure Elevator Small":
-			"",
+			"小电梯",
 		"Structure Eye Large":
-			"",
+			"大眼",
 		"Structure Eye Statue":
-			"",
+			"眼雕像",
 		"Structure Garage":
-			"",
+			"库",
 		"Structure Gear Lock":
-			"",
+			"齿锁",
 		"Structure Grazer Vacuum":
-			"",
+			"吸草器",
 		"Structure Latch":
-			"",
+			"门滑锁",
 		"Structure LCD Countdown Timer":
-			"",
+			"液晶计时器",
 		"Structure LCD Panel":
-			"",
+			"液晶盘",
 		"Structure Moving Platform MAZE":
-			"",
+			"移动迷宫",
 		"Structure Moving Platform":
-			"",
+			"移动平台",
 		"Structure Pin World":
-			"",
+			"密码世界",
 		"Structure Power Core":
-			"",
+			"动力核心",
 		"Structure Resource Filler":
-			"",
+			"资源再装填结构",
 		"Structure Respawn Station":
-			"",
+			"重生点",
 		"Structure Rope":
-			"",
+			"绳",
 		"Structure Shop Manager":
-			"",
+			"商店管理器",
 		"Structure Shop Pioneers":
-			"",
+			"商人",
 		"Structure Steam Altar":
-			"",
+			"steam祭坛",
 		"Structure Switch Sandstone":
-			"",
+			"砂石开关",
 		"Structure Teleporter":
-			"",
+			"传送器",
 		"Structure Trap Door 10m":
-			"",
+			"陷阱门10m",
 		"Structure Trap Door Long":
-			"",
+			"长陷阱门",
 		"Structure Trap Door Metal":
-			"",
+			"金属陷阱门",
 		"Structure Trap Door Sandstone":
-			"",
+			"砂石陷阱门",
 		"Tank Coalition":
-			"Coalition Tank",
+			"联盟坦克",
 		"Tool Balloon Gun":
-			"Balloon Gun",
+			"气球枪",
 		"Tool Bomb Crab":
-			"Bomb Crab",
+			"炸弹螃蟹",
 		"Tool Glow Stick":
-			"Glow Stick",
+			"荧光棒",
 		"Tool Grappling Hook Basic":
-			"Grappling Hook",
+			"基础飞爪",
 		"Tool Hack Gun":
-			"Hack Gun",
+			"黑客枪",
 		"Tool Jet Rocket":
-			"Jet Rocket",
+			"喷气火箭",
 		"Tool Key":
-			"Key",
+			"钥匙",
 		"Tool Magnet":
-			"Magnet",
+			"磁铁",
 		"Tool Propeller":
-			"Propeller",
+			"螺旋桨",
 		"Tool Quantum Field Device":
-			"Quantum Field Device",
+			"量子发生器",
 		"Tool Rope Launcher":
-			"Rope Launcher",
+			"绳索发射器",
 		"Tool Rope":
-			"Rope",
+			"绳索",
 		"Tool Shield Metal":
-			"Shield Metal",
+			"金属盾",
 		"Tool Spelunker Rope":
-			"Spelunker Rope",
+			"探洞绳",
 		"Tool Tether":
-			"Tether",
+			"系绳枪",
 		"Tool Welder":
-			"Welder",
+			"焊器",
 		"Trap Claw":
-			"Claw Trap",
+			"爪陷阱",
 		"Trap Dart":
-			"Dart Trap",
+			"飞镖陷阱",
 		"Trap Flamethrower Aurium":
-			"Flamethrower Trap Aurium",
+			"强力火焰喷射器陷阱",
 		"Trap Flamethrower":
-			"Flamethrower Trap",
+			"火焰喷射器陷阱",
 		"Trap Grinder Small":
-			"Small Grinder Trap",
+			"小夹板陷阱",
 		"Trap Grinder":
-			"Grinder Trap",
+			"夹板陷阱",
 		"Trap Ice":
-			"Ice Trap",
+			"冰陷阱",
 		"Trap Spring Mine":
-			"Spring Mine",
+			"弹簧地雷陷阱",
 		"Weapon Assault Rifle":
-			"Assault Rifle",
+			"突击步枪",
 		"Weapon Aurium Staff":
-			"Aurium Staff",
+			"金矿杖",
 		"Weapon Blue Rifle":
-			"Blue Rifle",
+			"蓝色能量步枪",
 		"Weapon Bounding Mine Grenade":
-			"Bounding Mine Grenade",
+			"跳雷手榴弹",
 		"Weapon Cold Grenade Launcher":
-			"Cold Grenade Launcher",
+			"激冻榴弹发射器",
 		"Weapon Cold Grenade":
-			"Cold Grenade",
+			"激冻冷榴弹",
 		"Weapon Cold Shotgun":
-			"Cold Shotgun",
+			"激冻霰弹枪",
 		"Weapon Flamethrower":
-			"Flamethrower",
+			"火焰喷射器",
 		"Weapon Grandpas Rifle":
-			"Grandpas Rifle",
+			"爷爷步枪",
 		"Weapon Grenade Launcher":
-			"Grenade Launcher",
+			"榴弹发射器",
 		"Weapon Hand Grenade":
-			"Hand Grenade",
+			"手雷",
 		"Weapon Heavy Machine Gun":
-			"Heavy Machine Gun",
+			"重机枪",
 		"Weapon Laser Assault Rifle":
-			"Laser Assault Rifle",
+			"激光突击步枪",
 		"Weapon Machine Pistol":
-			"Machine Pistol",
+			"连射手冲",
 		"Weapon Mine Launcher":
-			"Mine Launcher",
+			"地雷发射器",
 		"Weapon Minigun":
-			"Minigun",
+			"加特林",
 		"Weapon Nail Gun":
-			"Nail Gun",
+			"射钉枪",
 		"Weapon Pistol":
-			"Pistol",
+			"手枪",
 		"Weapon Plasma Rifle":
-			"Plasma Rifle",
+			"等离子步枪",
 		"Weapon Rifle Bolt Action":
-			"Bolt Action Rifle",
+			"博尔特线膛枪",
 		"Weapon Scrap Launcher":
-			"Scrap Launcher",
+			"垃圾发射器",
 		"Weapon Shockwave Gun":
-			"Shockwave Gun",
+			"震波枪",
 		"Weapon Shotgun":
-			"Shotgun",
+			"霰弹枪",
 		"Weapon Sticky Bomb Launcher":
-			"Sticky Bomb Launcher"
+			"粘粘炸弹枪",
+
+		//skeleton names, only translate those if you think its necceassry, feel free to change them to any funny names you can come up with or credit yourself here
+		"Frank":
+			"",
+		"John":
+			"",
+		"Erik":
+			"",
+		"Max":
+			"",
+		"J":
+			"",
+		"Dan":
+			"",
+		"Franz":
+			"",
+		"Anna":
+			"",
+		"Karl":
+			"",
+		"Theodora":
+			"",
+		"Marguerite":
+			"",
+		"Baxter":
+			"",
+		"Pascal":
+			"",
+		"Larson":
+			"",
+		"Griffith":
+			"",
+		"Cleo":
+			""
 
 		}
 }
